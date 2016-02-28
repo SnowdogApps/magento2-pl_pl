@@ -10263,7 +10263,7 @@ Action,Operacja,module,Magento_Sitemap
 "Indexation Mode","Tryb indeksowania",module,Magento_Solr
 "Partial commit mode affects time of indexation, but allows indexed products to be visible on Storefront before indexation is completed.","Uwaga: Tryb przyrostowego zatwierdzania wpływa na czas indeksowania, ale pozwala indeksować produkty, które mają być widoczne w widoku sklepu przed zakończeniem indeksacji.",module,Magento_Solr
 "Test Connection","Przetestuj połączenie",module,Magento_Solr
-Cancel,Cancel,module,Magento_Staging
+Cancel,Anuluj,module,Magento_Staging
 Preview,Podgląd,module,Magento_Staging
 Done,Done,module,Magento_Staging
 "Remove from Update","Remove from Update",module,Magento_Staging
@@ -11642,7 +11642,7 @@ Yes,Tak,module,Magento_Variable
 "Variable ID","ID zmiennej",module,Magento_Variable
 Name,Nazwa,module,Magento_Variable
 "No token found.","No token found.",module,Magento_Vault
-"Wrong request.","Wrong request.",module,Magento_Vault
+"Wrong request.","Nieprawidłowe żądanie.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Credit Card was successfully removed","Credit Card was successfully removed",module,Magento_Vault
 "My Credit Cards","My Credit Cards",module,Magento_Vault
