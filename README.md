@@ -9,12 +9,10 @@ Tłumaczenia są automatycznie synchronizowane ze zmianami dokonanymi w serwisie
 ### Przez composera
 * jeżeli chcemy trzymać się tylko oficjalnych wydań pakietu (do użycia w działającym sklepie)
 ```
-$ composer config repositories.magento2-pl vcs https://github.com/SnowdogApps/magento2-pl_pl.git
 $ composer require snowdog/language-pl_pl
 ```
 * jeżeli zależy nam na wszystkich aktualnych zmianach (dla tłumaczy)
 ```
-$ composer config repositories.magento2-pl vcs https://github.com/SnowdogApps/magento2-pl_pl.git
 $ composer require snowdog/language-pl_pl dev-develop
 ```
 
