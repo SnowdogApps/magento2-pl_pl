@@ -10,12 +10,12 @@ Tłumaczenia są automatycznie synchronizowane ze zmianami dokonanymi w serwisie
 * jeżeli chcemy trzymać się tylko oficjalnych wydań pakietu (do użycia w działającym sklepie)
 ```
 $ composer config repositories.magento2-pl vcs https://github.com/SnowdogApps/magento2-pl_pl.git
-$ composer require SnowdogApps/magento2-pl_pl
+$ composer require snowdog/language-pl_pl
 ```
 * jeżeli zależy nam na wszystkich aktualnych zmianach (dla tłumaczy)
 ```
 $ composer config repositories.magento2-pl vcs https://github.com/SnowdogApps/magento2-pl_pl.git
-$ composer require SnowdogApps/magento2-pl_pl dev-develop
+$ composer require snowdog/language-pl_pl dev-develop
 ```
 
 Na koniec instalujemy treści statyczne z pobranym przed chwilą pakietem i czyścimy pamięci podręczne sklepu:
@@ -25,11 +25,11 @@ $ php bin/magento cache:flush
 ```
 
 ### Manualna
-Pobieramy zawartość repozytorium i umieszczamy jego zawartość w lokalizacji `app/i18n/SnowdogApps/pl_pl/`.
+Pobieramy zawartość repozytorium i umieszczamy jego zawartość w lokalizacji `app/i18n/snowdog/pl_pl/`.
 Ostatecznie powinniśmy otrzymać następującą strukturę:
 ```
 app/i18n/
-└── SnowdogApps
+└── snowdog
     └── pl_pl
         ├── composer.json
         ├── language.xml
