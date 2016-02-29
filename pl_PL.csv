@@ -50,7 +50,7 @@ notice,informacja,module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1"">strony zarządzania pamięciami podręcznymi</a> i odśwież je.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Ukończono synchronizację przechowalni multimediów.",module,Magento_AdminNotification
-"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Twój serwer nie jest poprawnie skonfigurowany i pozwala na nieautoryzowany dostęp do wrażliwych plików. Skontaktuj się z dostawcą usług hostingowych.",module,Magento_AdminNotification
 "Close popup","Zamknij okno",module,Magento_AdminNotification
 Close,Zamknij,module,Magento_AdminNotification
 "System Messages:","Komunikaty systemowe:",module,Magento_AdminNotification
@@ -104,9 +104,9 @@ Configure,Konfiguruj,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","Minimalna liczba sztuk to %1.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Określ opcje produktu.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Powiadom mnie, gdy ta pozycja będzie dostępna.",module,Magento_AdvancedCheckout
-"We can\'t find this customer.","We can\'t find this customer.",module,Magento_AdvancedCheckout
+"We can\'t find this customer.","Nie możemy znaleźć tego klienta.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Zarządzanie koszykiem jest wyłączone dla tego klienta.",module,Magento_AdvancedCheckout
-"We can\'t find this store.","We can\'t find this store.",module,Magento_AdvancedCheckout
+"We can\'t find this store.","Nie można znaleźć tego sklepu.",module,Magento_AdvancedCheckout
 Customers,Klienci,module,Magento_AdvancedCheckout
 "Shopping Cart",Koszyk,module,Magento_AdvancedCheckout
 "Sorry, something went wrong. You can find out more in the error log.","Wystąpił błąd. Sprawdź dziennik błędów po więcej informacji.",module,Magento_AdvancedCheckout
@@ -3957,7 +3957,7 @@ ID,ID,module,Magento_CustomerSegment
 Segment,Segment,module,Magento_CustomerSegment
 Website,Witryna,module,Magento_CustomerSegment
 "Customer Segment Report","Raport o segmencie klienckim",module,Magento_CustomerSegment
-"Customer Segment Report \'%1\'","Customer Segment Report \'%1\'",module,Magento_CustomerSegment
+"Customer Segment Report \'%1\'","Raport segmentu klienta '%1'",module,Magento_CustomerSegment
 "Customer Segments Report","Raport o segmentach klienckich",module,Magento_CustomerSegment
 Back,Powrót,module,Magento_CustomerSegment
 From,Od,module,Magento_CustomerSegment
@@ -3969,7 +3969,7 @@ To,Do,module,Magento_CustomerSegment
 "Edit Segment","Edytuj Segment",module,Magento_CustomerSegment
 "Segment Customers matching error","Błąd dopasowania klientów segmentu",module,Magento_CustomerSegment
 "You saved the segment.","Zapisałeś segment.",module,Magento_CustomerSegment
-"We can\'t save the segment right now.","We can\'t save the segment right now.",module,Magento_CustomerSegment
+"We can\'t save the segment right now.","Nie możemy teraz zapisać tego segmentu.",module,Magento_CustomerSegment
 Reports,Raporty,module,Magento_CustomerSegment
 Customers,Klienci,module,Magento_CustomerSegment
 "Viewing combined ""%1"" report from segments: %2.","Wyświetlanie łącznego ""%1"" raportu z segmentów: %2.",module,Magento_CustomerSegment
