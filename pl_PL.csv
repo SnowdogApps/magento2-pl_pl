@@ -3927,7 +3927,7 @@ Back,Powrót,module,Magento_CustomerCustomAttributes
 "This email is found more than once in the import file.","Ten e-mail znajduje się więcej niż jeden raz w pliku importu.",module,Magento_CustomerImportExport
 "Orphan rows that will be skipped due default row errors","Osierocone wiersze, które zostaną pominięte z powodu domyślnych błędów wiersza",module,Magento_CustomerImportExport
 "Invalid value in Store column (store does not exists?)","Nieprawidłowa wartość w kolumnie Sklep (sklep nie istnieje?)",module,Magento_CustomerImportExport
-"We can\'t find that email and website combination.","We can\'t find that email and website combination.",module,Magento_CustomerImportExport
+"We can\'t find that email and website combination.","Nie możemy znaleźć połączenia tego e-maila i strony internetowej.",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Proszę wprowadzić hasło o prawidłowej długość.",module,Magento_CustomerImportExport
 CSV,CSV,module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
@@ -9653,22 +9653,22 @@ Apply,Zastosuj,module,Magento_SalesRule
 "Required parameters are missing.","Required parameters are missing.",module,Magento_SalesRuleStaging
 "You saved this %1 update.","You saved this %1 update.",module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
-Rule,Rule,module,Magento_SalesRuleStaging
-"Coupon Code","Coupon Code",module,Magento_SalesRuleStaging
-Priority,Priority,module,Magento_SalesRuleStaging
+Rule,Reguła,module,Magento_SalesRuleStaging
+"Coupon Code","Kod kuponu",module,Magento_SalesRuleStaging
+Priority,Priorytet,module,Magento_SalesRuleStaging
 Status,Status,module,Magento_SalesRuleStaging
-Active,Active,module,Magento_SalesRuleStaging
-Inactive,Inactive,module,Magento_SalesRuleStaging
+Active,Aktywny,module,Magento_SalesRuleStaging
+Inactive,Nieaktywny,module,Magento_SalesRuleStaging
 "Web Site","Web Site",module,Magento_SalesRuleStaging
 Action,Action,module,Magento_SalesRuleStaging
-Edit,Edit,module,Magento_SalesRuleStaging
+Edit,Edytuj,module,Magento_SalesRuleStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_SalesRuleStaging
-"Start Date","Start Date",module,Magento_SalesRuleStaging
-"Start Time","Start Time",module,Magento_SalesRuleStaging
-Name,Name,module,Magento_SalesRuleStaging
-Description,Description,module,Magento_SalesRuleStaging
-"End Date","End Date",module,Magento_SalesRuleStaging
-"End Time","End Time",module,Magento_SalesRuleStaging
+"Start Date","Data rozpoczęcia",module,Magento_SalesRuleStaging
+"Start Time","Czas rozpoczęcia",module,Magento_SalesRuleStaging
+Name,Nazwa,module,Magento_SalesRuleStaging
+Description,Opis,module,Magento_SalesRuleStaging
+"End Date","Data zakończenia",module,Magento_SalesRuleStaging
+"End Time","Czas zakończenia",module,Magento_SalesRuleStaging
 "Update Information","Update Information",module,Magento_SalesRuleStaging
 "Remove Sales Rule from Update","Remove Sales Rule from Update",module,Magento_SalesRuleStaging
 "Save as a new update","Save as a new update",module,Magento_SalesRuleStaging
@@ -9688,7 +9688,7 @@ Apply,Apply,module,Magento_SalesRuleStaging
 "Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRuleStaging
 "Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
-Labels,Labels,module,Magento_SalesRuleStaging
+Labels,Etykiety,module,Magento_SalesRuleStaging
 "Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRuleStaging
 "Move to another scheduled change","Move to another scheduled change",module,Magento_SalesRuleStaging
 "Delete the scheduled change","Delete the scheduled change",module,Magento_SalesRuleStaging
