@@ -5485,7 +5485,7 @@ Creative,Kreatywne,module,Magento_GoogleTagManager
 Cancel,Zamknij,module,Magento_GroupedProduct
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_GroupedProduct
 "A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.",module,Magento_GroupedProduct
-Remove,Remove,module,Magento_GroupedProduct
+Remove,Usuń,module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
 Thumbnail,Miniaturka,module,Magento_GroupedProduct
 "Default Quantity","Domyślna ilość",module,Magento_GroupedProduct
