@@ -5219,9 +5219,9 @@ New,Nowy,module,Magento_GiftRegistry
 "Please enter the first name.","Wpisz imię.",module,Magento_GiftRegistry
 "Please enter the last name.","Wpisz nazwisko.",module,Magento_GiftRegistry
 "Please enter a valid email address(for example, daniel@x.com).","Proszę podać poprawny adres e-mail (np., daniel@x.com).",module,Magento_GiftRegistry
-"Ship to the recipient's address.","Ship to the recipient's address.",module,Magento_GiftRegistry
+"Ship to the recipient's address.","wysyłka na adres odbiorcy.",module,Magento_GiftRegistry
 "-- All --",--Wszystkie--,module,Magento_GiftRegistry
-"Unknown gift registry identifier","Unknown gift registry identifier",module,Magento_GiftRegistry
+"Unknown gift registry identifier","Nieznany identyfikator rejestru prezentów.",module,Magento_GiftRegistry
 "All Forms","Wszystkie formularze",module,Magento_GiftRegistry
 "Registrant Name Search","Registrant Name Search",module,Magento_GiftRegistry
 "Registrant Email Search","Registrant Email Search",module,Magento_GiftRegistry
