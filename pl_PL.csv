@@ -9651,7 +9651,7 @@ Apply,Zastosuj,module,Magento_SalesRule
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_SalesRuleStaging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_SalesRuleStaging
 "Required parameters are missing.","Required parameters are missing.",module,Magento_SalesRuleStaging
-"You saved this %1 update.","Ta %1aktualizacja została zapisana",module,Magento_SalesRuleStaging
+"You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
 Rule,Reguła,module,Magento_SalesRuleStaging
 "Coupon Code","Kod kuponu",module,Magento_SalesRuleStaging
@@ -9690,7 +9690,7 @@ Apply,Zastosuj,module,Magento_SalesRuleStaging
 "Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
 Labels,Etykiety,module,Magento_SalesRuleStaging
 "Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRuleStaging
-"Move to another scheduled change","Move to another scheduled change",module,Magento_SalesRuleStaging
+"Move to another scheduled change","Przenieść do innych zaplanowanych zmian",module,Magento_SalesRuleStaging
 "Delete the scheduled change","Delete the scheduled change",module,Magento_SalesRuleStaging
 "Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.","Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.",module,Magento_SalesRuleStaging
 20,20,module,Magento_SalesRuleStaging
@@ -10265,13 +10265,13 @@ Action,Operacja,module,Magento_Sitemap
 "Test Connection","Przetestuj połączenie",module,Magento_Solr
 Cancel,Anuluj,module,Magento_Staging
 Preview,Podgląd,module,Magento_Staging
-Done,Done,module,Magento_Staging
-"Remove from Update","Remove from Update",module,Magento_Staging
+Done,Zrobione,module,Magento_Staging
+"Remove from Update","Usunąć z aktualizacji",module,Magento_Staging
 Save,Zapisz,module,Magento_Staging
 "Schedule New Update","Schedule New Update",module,Magento_Staging
 "View Specific Date","Zobacz określoną datę",module,Magento_Staging
 "Date & Time","Data i czas",module,Magento_Staging
-"Something went wrong while removing the %1.","Something went wrong while removing the %1.",module,Magento_Staging
+"Something went wrong while removing the %1.","Coś się zepsuło podczas usuwania %1.",module,Magento_Staging
 "The 'mode' value is unexpected.","The 'mode' value is unexpected.",module,Magento_Staging
 "Required parameters are missing.","Required parameters are missing.",module,Magento_Staging
 "You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_Staging
@@ -10295,10 +10295,10 @@ Upcoming,Upcoming,module,Magento_Staging
 "Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time.",module,Magento_Staging
 "Update with id ""%1"" does not exist.","Update with id ""%1"" does not exist.",module,Magento_Staging
 "Unable to save Future Update.","Unable to save Future Update.",module,Magento_Staging
-View/Edit,View/Edit,module,Magento_Staging
+View/Edit,Wyświetl/Edytuj,module,Magento_Staging
 "Scheduled Changes","Scheduled Changes",module,Magento_Staging
 Start,Start,module,Magento_Staging
-End,End,module,Magento_Staging
+End,Koniec,module,Magento_Staging
 "Load More","Load More",module,Magento_Staging
 "Belongs to ","Belongs to ",module,Magento_Staging
 "Allow everything","Allow everything",module,Magento_Staging
@@ -10306,8 +10306,8 @@ End,End,module,Magento_Staging
 Back,Powrót,module,Magento_Staging
 General,Ogólne,module,Magento_Staging
 Status,Status,module,Magento_Staging
-"Campaign/Promo Name","Campaign/Promo Name",module,Magento_Staging
-Includes,Includes,module,Magento_Staging
+"Campaign/Promo Name","Nazwa kampanii/promocji",module,Magento_Staging
+Includes,Zawiera,module,Magento_Staging
 "Start Time","Czas rozpoczęcia",module,Magento_Staging
 "End Time","Czas zakończenia",module,Magento_Staging
 Description,Opis,module,Magento_Staging
