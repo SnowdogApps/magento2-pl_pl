@@ -7423,10 +7423,10 @@ Basic Settings - PayPal Payments Pro Hosted Solution""",module,Magento_Paypal
                          Definiuje domyślną cenę produktu                    ",module,Magento_PricePermissions
 "You saved the alert subscription.","Zapisałeś alert subskrypcji.",module,Magento_ProductAlert
 "There are not enough parameters.","Nie ma wystarczającej ilości parametrów.",module,Magento_ProductAlert
-"We can\'t update the alert subscription right now.","We can\'t update the alert subscription right now.",module,Magento_ProductAlert
+"We can\'t update the alert subscription right now.","Nie można teraz zaktualizować alertu subskrypcji.",module,Magento_ProductAlert
 "Alert subscription has been saved.","Subskrypcja alertu została zapisana.",module,Magento_ProductAlert
 "You deleted the alert subscription.","Usunąłeś subskrypcję powiadomienia.",module,Magento_ProductAlert
-"We can\'t find the product.","We can\'t find the product.",module,Magento_ProductAlert
+"We can\'t find the product.","Nie można znaleźć produktu",module,Magento_ProductAlert
 "You will no longer receive price alerts for this product.","Nie otrzymasz już więcej powiadomień o cenie tego produktu",module,Magento_ProductAlert
 "Unable to update the alert subscription.","Nie udało się zaktualizować subskrypcji alertu.",module,Magento_ProductAlert
 "You will no longer receive stock alerts for this product.","Nie otrzymasz już więcej powiadomień o cenie tego produktu",module,Magento_ProductAlert
@@ -7464,7 +7464,7 @@ Description,Opis,module,Magento_ProductVideo
 "Hide from Product Page","Ukryj na stronie produktu",module,Magento_ProductVideo
 Role,Rola,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","YouTube i Vimeo są obsługiwane.",module,Magento_ProductVideo
-"Vimeo supported.<br />To add YouTube video, please <a href=\"%1\">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=\"%1\">enter YouTube API Key</a> first.",module,Magento_ProductVideo
+"Vimeo supported.<br />To add YouTube video, please <a href=\"%1\">enter YouTube API Key</a> first.","Vimeo jest obsługiwany. <br />By dodać obsługę filmów z YouTube, proszę wprowadź <a href=""%1"">wprowadzić Kod API YouTube </a>.",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Nie można porać podglądu informacji o filmie. Proszę sprawdzić połączenie z internetem.",module,Magento_ProductVideo
 "Click here to add videos.","Kliknij tutaj, aby dodać wideo.",module,Magento_ProductVideo
 "New Video","Nowe wideo",module,Magento_ProductVideo
