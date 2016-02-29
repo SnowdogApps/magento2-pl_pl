@@ -2433,7 +2433,7 @@ State/Province,Województwo,module,Magento_Checkout
 "Customer is already registered","Klient został właśnie zarejestrowany",module,Magento_Checkout
 "Your session has expired","Twoja sesja wygasła",module,Magento_Checkout
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Checkout
-"We can\'t add this item to your shopping cart right now.","We can\'t add this item to your shopping cart right now.",module,Magento_Checkout
+"We can\'t add this item to your shopping cart right now.","Teraz nie ma możliwości dodania tego produktu do Twojego koszyka.",module,Magento_Checkout
 "Out of stock","Brak w magazynie",module,Magento_Checkout
 "We can't find the quote item.","Nie można znaleźć produktu oferty.",module,Magento_Checkout
 "We cannot configure the product.","Nie możemy skonfigurować produktu.",module,Magento_Checkout
@@ -2571,10 +2571,10 @@ Next,Następne,module,Magento_Checkout
 "Item in Cart","Produkty w koszyku",module,Magento_Checkout
 "Items in Cart","Produkty w koszyku",module,Magento_Checkout
 "View Details","Zobacz szczegóły",module,Magento_Checkout
-"Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
-" Example: "," Example: ",module,Magento_Checkout
-"If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
-"Review & Payments","Review & Payments",module,Magento_Checkout
+"Provided Zip/Postal Code seems to be invalid.","Wprowadzony kod pocztowy jest nieprawidłowy.",module,Magento_Checkout
+" Example: "," Przykład: ",module,Magento_Checkout
+"If you believe it is the right one you can ignore this notice.","Jeżeli uważasz że to prawda możesz zignorować to powiadomienie.",module,Magento_Checkout
+"Review & Payments","Recenzje i płatności",module,Magento_Checkout
 Shipping,Dostawa,module,Magento_Checkout
 "Save Address","Zapisz adres",module,Magento_Checkout
 "Checkout Options","Opcje zamówienia",module,Magento_Checkout
@@ -2690,9 +2690,9 @@ Blocks,Bloki,module,Magento_Cms
 "Please correct the data sent.","Proszę poprawić przesyłane dane.",module,Magento_Cms
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Cms
 "You saved the block.","Blok zapisany.",module,Magento_Cms
-"Something went wrong while saving the block.","Something went wrong while saving the block.",module,Magento_Cms
+"Something went wrong while saving the block.","Coś poszło nie tak podczas zapisywania tego bloku",module,Magento_Cms
 "The page has been deleted.","Strona została usunięta.",module,Magento_Cms
-"We can\'t find a page to delete.","We can\'t find a page to delete.",module,Magento_Cms
+"We can\'t find a page to delete.","Nie możemy odnaleźć strony do usunięcia.",module,Magento_Cms
 "This page no longer exists.","Ta strona już nie istnieje",module,Magento_Cms
 "Edit Page","Edytuj stronę",module,Magento_Cms
 "New Page","Nowa strona",module,Magento_Cms
@@ -3159,7 +3159,7 @@ Import,Import,module,Magento_CurrencySymbol
 System,System,module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","Zastosowano niestandardowe symbole walut.",module,Magento_CurrencySymbol
 "Old rate:","Stara stawka:",module,Magento_CurrencySymbol
-Currency,Currency,module,Magento_CurrencySymbol
+Currency,Waluta,module,Magento_CurrencySymbol
 [GLOBAL],[GLOBALNY],module,Magento_CustomAttributeManagement
 [WEBSITE],[WITRYNA],module,Magento_CustomAttributeManagement
 "[STORE VIEW]","[WIDOK SKLPEU]",module,Magento_CustomAttributeManagement
@@ -3192,7 +3192,7 @@ Email,E-mail,module,Magento_CustomAttributeManagement
 "Sign Out","Wyloguj się",module,Magento_Customer
 "Sign In","Zaloguj się",module,Magento_Customer
 "You subscribe to our newsletter.","Zapisałeś się do naszego newslettera.",module,Magento_Customer
-"You don\'t subscribe to our newsletter.","You don\'t subscribe to our newsletter.",module,Magento_Customer
+"You don\'t subscribe to our newsletter.","Nie zapisałeś się do naszego newslettera.",module,Magento_Customer
 "You have not set a default shipping address.","Nie ustawiłeś domyślnego adresu wysyłki.",module,Magento_Customer
 "You have not set a default billing address.","Nie ustawiłeś domyślnego adresu płatności.",module,Magento_Customer
 "Address Book","Książka adresowa",module,Magento_Customer
@@ -3203,7 +3203,7 @@ region,region,module,Magento_Customer
 "Save Customer","Zapisz klienta",module,Magento_Customer
 "Delete Customer","Usuń klienta",module,Magento_Customer
 "Reset Password","Resetuj hasło",module,Magento_Customer
-"Are you sure you want to revoke the customer\'s tokens?","Are you sure you want to revoke the customer\'s tokens?",module,Magento_Customer
+"Are you sure you want to revoke the customer\'s tokens?","Czy na pewno chcesz cofnąć token/y użytkownika/ów?",module,Magento_Customer
 "Force Sign-In","Wymuś logowanie",module,Magento_Customer
 "New Customer","Nowy klient",module,Magento_Customer
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Customer
@@ -3245,7 +3245,7 @@ Purchased,Zakupiono,module,Magento_Customer
 "Order Total","Suma zamówienia",module,Magento_Customer
 "Purchase Point","Punkt zakupu",module,Magento_Customer
 "Customer View","Widok klienta",module,Magento_Customer
-"There are no items in customer\'s shopping cart.","There are no items in customer\'s shopping cart.",module,Magento_Customer
+"There are no items in customer\'s shopping cart.","Nie ma żadnych produktów w koszyku klienta\ów",module,Magento_Customer
 Qty,Ilość,module,Magento_Customer
 Confirmed,Potwierdzony,module,Magento_Customer
 "Confirmation Required","Potwierdzenie jest wymagane",module,Magento_Customer
@@ -3305,20 +3305,20 @@ Download,Pobierz,module,Magento_Customer
 "Your password reset link has expired.","Link resetowania hasła utracił ważność.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Musisz potwierdzić swoje konto. Proszę sprawdzić pocztę czy przyszedł link potwierdzający lub <a href=""%1""> kliknij tutaj,</a> aby wysłać nowy link.",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Istnieje już konto z takim adresem e-mail. Jeśli masz pewność, że to twój adres, <a href=""%1"">kliknij tutaj</a>, zresetuj hasło aby odzyskać dostęp do konta.",module,Magento_Customer
-"We can\'t save the customer.","We can\'t save the customer.",module,Magento_Customer
+"We can\'t save the customer.","Nie można zapisać Klienta.",module,Magento_Customer
 "Please make sure your passwords match.","Prosimy upewnić się, że podane hasła są identyczne.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Jeśli jesteś zarejestrowanym płatnikiem VAT, proszę <a href=""%1""> kliknij tutaj,</a> aby wprowadzić swój adres do właściwego obliczenia podatku VAT.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Jeśli jesteś zarejestrowanym płatnikiem VAT, proszę <a href=""%1""> kliknij tutaj,</a> aby wprowadzić swój adres do właściwego obliczenia podatku VAT.",module,Magento_Customer
 "Account Information","Dane konta",module,Magento_Customer
 "You saved the account information.","Dane konta zostały zapisane.",module,Magento_Customer
-"Password confirmation doesn\'t match entered password.","Password confirmation doesn\'t match entered password.",module,Magento_Customer
+"Password confirmation doesn\'t match entered password.","Potwierdzone hasło nie jest identyczne z hasłem wprowadzonym.",module,Magento_Customer
 "Please correct the email address.","Proszę poprawić adres e-mail.",module,Magento_Customer
-"We\'re unable to send the password reset email.","We\'re unable to send the password reset email.",module,Magento_Customer
+"We\'re unable to send the password reset email.","Nie możemy wysłać hasła resetującego.",module,Magento_Customer
 "Please enter your email.","Prosimy wpisać adres e-mail",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Jeśli istnieje konto powiązane z %1 otrzymasz e-mail z linkiem do resetowania hasła.",module,Magento_Customer
 "My Account","Moje konto",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","To konto nie jest potwierdzone. "" ""<a href=""%1""> kliknij tutaj,</a> aby wysłać e-mail z potwierdzeniem.",module,Magento_Customer
-"The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1.",module,Magento_Customer
+"The account is locked. Please wait and try again or contact %1.","Konto zostało zablokowane. Proszę czekać i spróbować ponownie lub skontaktować się z %1.",module,Magento_Customer
 "Invalid login or password.","Nieprawidłowa nazwa użytkownika lub hasło.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","Wystąpił nieokreślony błąd. Skontaktuj się z nami o pomoc.",module,Magento_Customer
 "A login and a password are required.","Login i hasło jest wymagane.",module,Magento_Customer
@@ -3327,9 +3327,9 @@ Download,Pobierz,module,Magento_Customer
 "You updated your password.","Zaktualizowałeś swoje hasło.",module,Magento_Customer
 "Something went wrong while saving the new password.","Coś poszło nie tak podczas zapisywania nowego hasła.",module,Magento_Customer
 "You deleted the address.","Usunąłeś adres.",module,Magento_Customer
-"We can\'t delete the address right now.","We can\'t delete the address right now.",module,Magento_Customer
+"We can\'t delete the address right now.","Nie można usunąć teraz adresu.",module,Magento_Customer
 "You saved the address.","Adres został zapisany.",module,Magento_Customer
-"We can\'t save the address.","We can\'t save the address.",module,Magento_Customer
+"We can\'t save the address.","Nie można zapisać adresu.",module,Magento_Customer
 "No customer ID defined.","Nie zdefiniowano ID klienta.",module,Magento_Customer
 "Please correct the quote items and try again.","Proszę poprawić wymienione elementy i spróbować ponownie.",module,Magento_Customer
 "You have revoked the customer\'s tokens.","You have revoked the customer\'s tokens.",module,Magento_Customer
@@ -3355,7 +3355,7 @@ Customers,Klienci,module,Magento_Customer
 "You saved the customer.","Użytkownik zapisany.",module,Magento_Customer
 "Something went wrong while saving the customer.","Coś poszło nie tak podczas edycji klienta.",module,Magento_Customer
 "Page not found.","Nie znaleziono strony.",module,Magento_Customer
-"Customer has been unlocked successfully.","Customer has been unlocked successfully.",module,Magento_Customer
+"Customer has been unlocked successfully.","Klient został pomyślnie odblokowany.",module,Magento_Customer
 "Online Customers","Klienci online",module,Magento_Customer
 "Customers Now Online","Klienci Online",module,Magento_Customer
 "Please define Wish List item ID.","Proszę określić identyfikator elementu listy życzeń.",module,Magento_Customer
@@ -3363,14 +3363,14 @@ Customers,Klienci,module,Magento_Customer
 "Login successful.","Logowanie udane.",module,Magento_Customer
 """%1"" section source is not supported","""%1"" sekcja źródła nie jest obsługiwana",module,Magento_Customer
 "%1 doesn\'t extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn\'t extend \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
-"The password doesn\'t match this account.","The password doesn\'t match this account.",module,Magento_Customer
+"The password doesn\'t match this account.","Hasło jest niepoprawne dla tego konta.",module,Magento_Customer
 "No confirmation needed.","Nie potrzeba potwierdzenia.",module,Magento_Customer
 "Account already active","Konto już aktywne",module,Magento_Customer
 "Invalid confirmation token","Nieprawidłowy token potwierdzenia",module,Magento_Customer
 "This account is not confirmed.","To konto nie zostało potwierdzone.",module,Magento_Customer
 "Please enter a password with at least %1 characters.","Proszę wprowadzić hasło z co najmniej %1 znaków.",module,Magento_Customer
-"The password can\'t begin or end with a space.","The password can\'t begin or end with a space.",module,Magento_Customer
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
+"The password can\'t begin or end with a space.","Hasło nie można rozpoczynać się lub kończyć spacją.",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimalna różność klas w haśle to %1. Klasy postaci: małe znaki, wielkie znaki, cyfry, znaki specjalne.",module,Magento_Customer
 "This customer already exists in this store.","Klient już istnieje w tym sklepie.",module,Magento_Customer
 "A customer with the same email already exists in an associated website.","Klient, z tym adresem e-mail już istnieje w serwisie.",module,Magento_Customer
 "Reset password token mismatch.","Token resetowania hasła jest niepoprawny.",module,Magento_Customer
@@ -3387,7 +3387,7 @@ Customers,Klienci,module,Magento_Customer
 """%1"" is a required value.","""%1"" jest polem wymaganym.",module,Magento_Customer
 Global,Globalny,module,Magento_Customer
 "Per Website","Na witrynę",module,Magento_Customer
-"We can\'t share customer accounts globally when the accounts share identical email addresses on more than one website.","We can\'t share customer accounts globally when the accounts share identical email addresses on more than one website.",module,Magento_Customer
+"We can\'t share customer accounts globally when the accounts share identical email addresses on more than one website.","Nie można dzielić globalnie konta jeżeli konto dzieli identyczny adres mailowy na więcej niż jednej stronie.",module,Magento_Customer
 "Billing Address","Adres rozliczeniowy",module,Magento_Customer
 "Shipping Address","Adres wysyłki",module,Magento_Customer
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_Customer
@@ -3435,7 +3435,7 @@ label,etykieta,module,Magento_Customer
 "Please enter a customer email.","Proszę podać e-mail klienta.",module,Magento_Customer
 "A customer website ID must be specified when using the website scope.","ID witryny klienta musi być podane, kiedy używany jest zakres witryny.",module,Magento_Customer
 "Customer Group","Grupa klienta",module,Magento_Customer
-"You can\'t delete group \\%1\\.""""""","You can\'t delete group \\%1\\.""""""",module,Magento_Customer
+"You can\'t delete group \\%1\\.""""""","nie można usunąć grupy \\%1\\.""""""",module,Magento_Customer
 "Customer Group already exists.","Grupa klientów już istnieje.",module,Magento_Customer
 "Cannot delete group.","Nie można usunąć grupy.",module,Magento_Customer
 "Error during VAT Number verification.","Błąd podczas weryfikacji numeru VAT.",module,Magento_Customer
@@ -3464,7 +3464,7 @@ InputException,InputException,module,Magento_Customer
 "Exception message","Komunikat wyjątku",module,Magento_Customer
 "Validator Exception","Walidator wyjątku",module,Magento_Customer
 "Localized Exception","Zlokalizowanie wyjątku",module,Magento_Customer
-"some error","some error",module,Magento_Customer
+"some error",błąd,module,Magento_Customer
 "Minimum different classes of characters in password are %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum different classes of characters in password are %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
 Label,Etykieta,module,Magento_Customer
 Select...,Wybierz...,module,Magento_Customer
@@ -3476,7 +3476,7 @@ Customer,Klient,module,Magento_Customer
 "Personal Information","Dane osobiste",module,Magento_Customer
 "Last Logged In:","Ostatnio zalogowano:",module,Magento_Customer
 "Last Logged In (%1):","Ostatnio zalogowano w (%1):",module,Magento_Customer
-"Account Lock:","Account Lock:",module,Magento_Customer
+"Account Lock:","Blokada konta:",module,Magento_Customer
 "Confirmed email:","Potwierdzony e-mail:",module,Magento_Customer
 "Account Created:","Konto założone:",module,Magento_Customer
 "Account Created on (%1):","Konto utworzono (%1):",module,Magento_Customer
@@ -3529,8 +3529,8 @@ Country,Kraj,module,Magento_Customer
 Email,E-mail,module,Magento_Customer
 "Send confirmation link","Wyślij link potwierdzający",module,Magento_Customer
 "Back to Sign In","Powrót do logowania",module,Magento_Customer
-"Change Email","Change Email",module,Magento_Customer
-"Change Email and Password","Change Email and Password",module,Magento_Customer
+"Change Email","Zmień adres email",module,Magento_Customer
+"Change Email and Password","Zmień adres E-mail i hasło",module,Magento_Customer
 "Current Password","Bieżące hasło",module,Magento_Customer
 "New Password","Nowe hasło",module,Magento_Customer
 "Confirm New Password","Potwierdź nowe hasło",module,Magento_Customer
@@ -3571,16 +3571,16 @@ Password:,Hasło:,module,Magento_Customer
 "Confirm Your Account","Potwierdź konto",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Dziękuję za potwierdzenie konta na %store_name.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Zaloguj się na naszej stronie i ustaw hasło, kliknij na ten <a href=""%create_password_url""> link</a>:",module,Magento_Customer
-"Hello,","Hello,",module,Magento_Customer
+"Hello,","Witamy,",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email.",module,Magento_Customer
-"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
-"Thanks,<br>%store_name","Thanks,<br>%store_name",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","We have received a request to change the following information associated with your account at %store_name: email, password.",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Jeżeli nie możesz wykonać tej akcji, proszę skontaktuj się natychmiastowo z nami na <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","lub zadzwoń do nas  pod numer <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
+"Thanks,<br>%store_name","dziękujemy, <br>%store_name",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Otrzymaliśmy informację z prośbą o zmiane następujących informacji na Twoim koncie %store_name: email, hasło.",module,Magento_Customer
 "There was recently a request to change the password for your account.","Otrzymaliśmy żądanie zmiany hasła dla Twojego konta.",module,Magento_Customer
 "If you requested this change, set a new password here:","Jeśli chcesz zmienić, wpisz tu nowe hasło:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie takie samo.",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: password.","We have received a request to change the following information associated with your account at %store_name: password.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: password.","Otrzymaliśmy informację z prośbą o zmianę następujących informacji na Twoim koncie %store_name: hasło.",module,Magento_Customer
 "Checkout out as a new customer","Kontynuuj jako nowy klient",module,Magento_Customer
 "Creating an account has many benefits:","Stworzenie konta ma wiele korzyści:",module,Magento_Customer
 "See order and shipping status","Zobacz zamówienie i stan wysyłki",module,Magento_Customer
@@ -3591,7 +3591,7 @@ Password:,Hasło:,module,Magento_Customer
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Customer
 "Are you sure you want to delete this address?","Czy na pewno chcesz usunąć ten adres?",module,Magento_Customer
 "Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
-"All Customers","All Customers",module,Magento_Customer
+"All Customers","Wszyscy klienci",module,Magento_Customer
 "Now Online","Now Online",module,Magento_Customer
 "Customers Section","Customers Section",module,Magento_Customer
 "Customer Configuration","Konfiguracja klienta",module,Magento_Customer
@@ -3637,12 +3637,12 @@ Ten email zostanie wysłany zamiast Domyślnego Emaila Przywitalnego, po potwier
 "Remind Email Template","Szablon e-maila przypominającego",module,Magento_Customer
 "Reset Password Template","Resetowanie hasła szablon",module,Magento_Customer
 "Password Template Email Sender","Szablon email wysyłki hasła",module,Magento_Customer
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Customer
+"Recovery Link Expiration Period (hours)","Okres ważności linka odzyskującego (godziny)",module,Magento_Customer
 "Please enter a number 1 or greater in this field.","Prosimy o podanie cyfry 1 lub większej w tym polu.",module,Magento_Customer
 "Number of Required Character Classes","Number of Required Character Classes",module,Magento_Customer
 "Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.",module,Magento_Customer
-"Minimum Password Length","Minimum Password Length",module,Magento_Customer
-"Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account",module,Magento_Customer
+"Minimum Password Length","minimalna długość hasła",module,Magento_Customer
+"Maximum Login Failures to Lockout Account","Maxymalna liczba nieudanych prób logowania do blokady konta",module,Magento_Customer
 "Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
 "Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_Customer
 "Name and Address Options","Opcje nazwy i adresu",module,Magento_Customer
@@ -3691,14 +3691,14 @@ ZIP,"Kod pocztowy",module,Magento_Customer
 "Tax VAT Number","Numer NIP",module,Magento_Customer
 "Billing Firstname","Imię (do dostawy)",module,Magento_Customer
 "Billing Lastname","Nazwisko (do dostawy)",module,Magento_Customer
-"Account Lock","Account Lock",module,Magento_Customer
+"Account Lock","blokada konta",module,Magento_Customer
 "First Name",Imię,module,Magento_Customer
 "Last Name",Nazwisko,module,Magento_Customer
 "Last Activity","Ostatnia aktywność",module,Magento_Customer
 Type,Typ,module,Magento_Customer
 "Customer Information","Informacje o kliencie",module,Magento_Customer
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakresu do zastosowania dla określonego widoku.",module,Magento_Customer
-"Disable Automatic Group Change Based on VAT ID","Disable Automatic Group Change Based on VAT ID",module,Magento_Customer
+"Disable Automatic Group Change Based on VAT ID","Wyłącz automatyczne zmiany grup w oparciu o VAT ID",module,Magento_Customer
 "Send Welcome Email From","Wyślij wiadomość powitalną z tego emaila",module,Magento_Customer
 Addresses,Adresy,module,Magento_Customer
 "Are you sure you want to delete this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Customer
@@ -3839,12 +3839,12 @@ Customer,Klient,module,Magento_CustomerCustomAttributes
 "Manage Customer Address Attributes","Zarządzanie cechami adresu klienta",module,Magento_CustomerCustomAttributes
 "You cannot delete this attribute.","Nie można usunąć tego atrybutu.",module,Magento_CustomerCustomAttributes
 "You deleted the customer address attribute.","Usunięto cechę adresu.",module,Magento_CustomerCustomAttributes
-"We can\'t delete the customer address attribute right now.","We can\'t delete the customer address attribute right now.",module,Magento_CustomerCustomAttributes
+"We can\'t delete the customer address attribute right now.","W tym momencie nie można usunąć cechy adresu.",module,Magento_CustomerCustomAttributes
 "This attribute no longer exists.","Taki atrybut nie istnieje.",module,Magento_CustomerCustomAttributes
 "You cannot edit this attribute.","Nie można edytować tego atrybutu.",module,Magento_CustomerCustomAttributes
 "Edit Customer Address Attribute","Edytuj atrybut adres klienta",module,Magento_CustomerCustomAttributes
 "You saved the customer address attribute.","Zapisano cechę adresu klienta.",module,Magento_CustomerCustomAttributes
-"We can\'t save the customer address attribute right now.","We can\'t save the customer address attribute right now.",module,Magento_CustomerCustomAttributes
+"We can\'t save the customer address attribute right now.","W tym momencie nie można zapisać cechy adresu klienta.",module,Magento_CustomerCustomAttributes
 "An attribute with this code already exists.","Atrybut z tym kodem już istnieje.",module,Magento_CustomerCustomAttributes
 "Manage Customer Attributes","Zarządzanie atrybutami klienta",module,Magento_CustomerCustomAttributes
 "You deleted the customer attribute.","Usunięto cechę klienta.",module,Magento_CustomerCustomAttributes
@@ -3869,7 +3869,7 @@ Customer,Klient,module,Magento_CustomerCustomAttributes
 "A fieldset with the same code alredy exists.","Zestaw pól z podanym kodem już istnieje.",module,Magento_CustomerCustomAttributes
 "This fieldset is not empty!","Ten zestaw pól nie jest pusty!",module,Magento_CustomerCustomAttributes
 "Choose Website:","Wybierz stronę:",module,Magento_CustomerCustomAttributes
-"Please confirm site switching. All data that hasn\'t been saved will be lost.","Please confirm site switching. All data that hasn\'t been saved will be lost.",module,Magento_CustomerCustomAttributes
+"Please confirm site switching. All data that hasn\'t been saved will be lost.","Potwierdź proszę przełączenie strony. Wszystkie niezapisane dane zostaną utracone.",module,Magento_CustomerCustomAttributes
 "* Required Fields","* wymagane pola",module,Magento_CustomerCustomAttributes
 "Contact Information","Informacje kontaktowe",module,Magento_CustomerCustomAttributes
 Company,Firma,module,Magento_CustomerCustomAttributes
@@ -3891,9 +3891,9 @@ Country,Kraj,module,Magento_CustomerCustomAttributes
 "Save Address","Zapisz adres",module,Magento_CustomerCustomAttributes
 "Go back",Powrót,module,Magento_CustomerCustomAttributes
 "Account Information","Dane konta",module,Magento_CustomerCustomAttributes
-"Change Email","Change Email",module,Magento_CustomerCustomAttributes
+"Change Email","Zmień adres email",module,Magento_CustomerCustomAttributes
 "Change Password","Zmień hasło",module,Magento_CustomerCustomAttributes
-"Change Email and Password","Change Email and Password",module,Magento_CustomerCustomAttributes
+"Change Email and Password","Zmień adres E-mail i hasło",module,Magento_CustomerCustomAttributes
 "Current Password","Bieżące hasło",module,Magento_CustomerCustomAttributes
 Email,E-mail,module,Magento_CustomerCustomAttributes
 "New Password","Nowe hasło",module,Magento_CustomerCustomAttributes
@@ -3906,7 +3906,7 @@ Password,Hasło,module,Magento_CustomerCustomAttributes
 "Confirm Password","Potwierdź hasło",module,Magento_CustomerCustomAttributes
 "Create an Account","Utwórz konto",module,Magento_CustomerCustomAttributes
 Back,Powrót,module,Magento_CustomerCustomAttributes
-"Customer Address","Customer Address",module,Magento_CustomerCustomAttributes
+"Customer Address","Adres klienta",module,Magento_CustomerCustomAttributes
 "Default Values","Wartości domyślne",module,Magento_CustomerCustomAttributes
 "Please specify a finance information website.","Proszę określić stronę informacji finansowej.",module,Magento_CustomerFinance
 "Please specify a valid finance information website.","Proszę określić prawidłową stronę informacji finansowej.",module,Magento_CustomerFinance
@@ -3919,9 +3919,9 @@ Back,Powrót,module,Magento_CustomerCustomAttributes
 "We found an invalid value in a website column.","Znaleźliśmy nieprawidłową wartość w kolumnie strony.",module,Magento_CustomerImportExport
 "Please enter a valid email.","Prosimy wpisać poprawny adres e-mail.",module,Magento_CustomerImportExport
 "Please make sure attribute ""%s"" is not empty.","Proszę upewnić się, że atrybut ""%s"" nie jest pusty.",module,Magento_CustomerImportExport
-"We can\'t find a customer who matches this email and website code.","We can\'t find a customer who matches this email and website code.",module,Magento_CustomerImportExport
+"We can\'t find a customer who matches this email and website code.","Nie można znaleźć klienta, który pasuje do emaila i kodu strony.",module,Magento_CustomerImportExport
 "Customer address id column is not specified","Identyfikator kolumny adresu klienta nie jest określony",module,Magento_CustomerImportExport
-"We can\'t find that customer address.","We can\'t find that customer address.",module,Magento_CustomerImportExport
+"We can\'t find that customer address.","Nie można znaleźć tego adresu klienta.",module,Magento_CustomerImportExport
 "Please enter a valid region.","Podaj poprawny region.",module,Magento_CustomerImportExport
 "We found another row with this email, website and address ID combination.","Znaleźliśmy inny wiersz z taką kombinacją e-maila, strony internetowej i identyfikatora adresu.",module,Magento_CustomerImportExport
 "This email is found more than once in the import file.","Ten e-mail znajduje się więcej niż jeden raz w pliku importu.",module,Magento_CustomerImportExport
@@ -4190,7 +4190,7 @@ Jetline,Jetline,module,Magento_Dhl
 "DHL service is not available at %s date","Usługa DHL jest niedostepna dnia %s",module,Magento_Dhl
 "The response is in wrong format.","Odpowiedź ma niepoprawny format.",module,Magento_Dhl
 "Error #%1 : %2","Błąd #%1: %2",module,Magento_Dhl
-"We had to skip DHL method %1 because we couldn\'t find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn\'t find exchange rate %2 (Base Currency).",module,Magento_Dhl
+"We had to skip DHL method %1 because we couldn\'t find exchange rate %2 (Base Currency).","Musieliśmy pominąć metodę DHL %1, ponieważ nie można znaleźć kurs wymiany %2 (podstawowa waluta)",module,Magento_Dhl
 "Zero shipping charge for '%1'","Zerowe opłaty dostawy dla '%1'",module,Magento_Dhl
 DHL,DHL,module,Magento_Dhl
 "Cannot identify measure unit for %1","Nie można zidentyfikować jednostki miary dla %1",module,Magento_Dhl
@@ -4207,8 +4207,8 @@ Documents,Dokumenty,module,Magento_Dhl
 "Unable to retrieve shipping label","Nie można pobrać etykiety wysyłki",module,Magento_Dhl
 "Non documents","Inne niż dokumenty",module,Magento_Dhl
 None,Brak,module,Magento_Dhl
-"Field ","Field ",module,Magento_Dhl
-" is required."," is required.",module,Magento_Dhl
+"Field ","Pole ",module,Magento_Dhl
+" is required."," jest wymagane.",module,Magento_Dhl
 "Enabled for Checkout","Włącz dla zamówienia",module,Magento_Dhl
 "Enabled for RMA","Włączone dla RMA",module,Magento_Dhl
 "Gateway URL","URL bramki",module,Magento_Dhl
@@ -4228,7 +4228,7 @@ Size,Rozmiar,module,Magento_Dhl
 "Allowed Methods","Dozwolone metody",module,Magento_Dhl
 "Displayed Error Message","Wyświetlony błąd",module,Magento_Dhl
 "Free Method","Darmowa metoda",module,Magento_Dhl
-"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Dhl
+"Enable Free Shipping Threshold","Włącz próg darmowej wysyłki",module,Magento_Dhl
 "Free Shipping Amount Threshold","Próg darmowej wysyłki",module,Magento_Dhl
 "Ship to Applicable Countries","Dostawa do stosownych krajów",module,Magento_Dhl
 "Ship to Specific Countries","Dostawa do wybranych krajów",module,Magento_Dhl
@@ -4328,7 +4328,7 @@ Unlimited,Nielimitowany,module,Magento_Downloadable
 Yes,Tak,module,Magento_Downloadable
 No,Nie,module,Magento_Downloadable
 "Use config","Użyj konfiguracji",module,Magento_Downloadable
-"Upload File","Upload File",module,Magento_Downloadable
+"Upload File","Załaduj plik",module,Magento_Downloadable
 URL,URL,module,Magento_Downloadable
 attachment,załącznik,module,Magento_Downloadable
 inline,liniowy,module,Magento_Downloadable
@@ -4339,8 +4339,8 @@ Invoiced,Zafakturowano,module,Magento_Downloadable
 Links,Linki,module,Magento_Downloadable
 Title,Tytuł,module,Magento_Downloadable
 "Links can be purchased separately","Linki mogą zostać kupione osobno",module,Magento_Downloadable
-"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.","Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.",module,Magento_Downloadable
-"Add Link","Add Link",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with \'_\'.","Litery alfabetu, kreski i podkreślenia są polecane dla nazw plików. Nieprawidłowe znaki zostaną zastąpione przez '_'.",module,Magento_Downloadable
+"Add Link","Dodaj link",module,Magento_Downloadable
 Price,Cena,module,Magento_Downloadable
 File,Plik,module,Magento_Downloadable
 Sample,próbka,module,Magento_Downloadable
@@ -4391,8 +4391,8 @@ Shipped,Wysłane,module,Magento_Downloadable
 Canceled,Anulowane,module,Magento_Downloadable
 Refunded,Zwrócono,module,Magento_Downloadable
 "We could not detect a size.","Nie można wykryć rozmiaru.",module,Magento_Downloadable
-"Downloadable Product Section","Downloadable Product Section",module,Magento_Downloadable
-Downloads,Downloads,module,Magento_Downloadable
+"Downloadable Product Section","Sekcja Produktów do pobrania",module,Magento_Downloadable
+Downloads,Pobrania,module,Magento_Downloadable
 "Downloadable Product Options","Opcje produktów do pobrania",module,Magento_Downloadable
 "Order Item Status to Enable Downloads","Status elementu zamówienia umożliwiający pobranie",module,Magento_Downloadable
 "Default Maximum Number of Downloads","Domyślna maksymalna ilość ściągnięć",module,Magento_Downloadable
@@ -4402,8 +4402,8 @@ Downloads,Downloads,module,Magento_Downloadable
 "Use Content-Disposition","Użyj rozmieszczenia treści",module,Magento_Downloadable
 "Disable Guest Checkout if Cart Contains Downloadable Items","Wyłącz zakupy dla niezalogowanych jeśli koszyk zawiera produkty do pobrania",module,Magento_Downloadable
 "Guest checkout will only work with shareable.","Zakupy dla niezalogowanych będą działały tylko ze współdzielonymi",module,Magento_Downloadable
-"File directory \'%1\' is not readable.","File directory \'%1\' is not readable.",module,Magento_DownloadableImportExport
-"File directory \'%1\' is not writable.","File directory \'%1\' is not writable.",module,Magento_DownloadableImportExport
+"File directory \'%1\' is not readable.","Katalog  %1 nie jest do odczytu",module,Magento_DownloadableImportExport
+"File directory \'%1\' is not writable.","katalog %1nie jest do edytowania.",module,Magento_DownloadableImportExport
 Error,Błąd,module,Magento_DownloadableImportExport
 "Attribute Properties","Właściwości cechy",module,Magento_Eav
 "Default Label","Domyślna etykieta",module,Magento_Eav
@@ -4489,7 +4489,7 @@ Dropdown,"Lista rozwijana",module,Magento_Eav
 "Invalid entity_type specified: %1","Określono nieprawidłowy typ jednostki: %1",module,Magento_Eav
 "Entity is not initialized","Jednostka nie została zainicjowana",module,Magento_Eav
 "Unknown parameter","Nieznany parametr",module,Magento_Eav
-"The attribute code \'%1\' is reserved by system. Please try another attribute code","The attribute code \'%1\' is reserved by system. Please try another attribute code",module,Magento_Eav
+"The attribute code \'%1\' is reserved by system. Please try another attribute code","Kod cechy '%s' jest zarezerwowany przez system. Spróbuj ponownie z innym kodem",module,Magento_Eav
 "An attribute code must not be more than %1 characters.","Kod atrybutu nie może mieć więcej niż %1 znaków.",module,Magento_Eav
 "Invalid default decimal value","Nieprawidłowa domyślna wartość dziesiętna",module,Magento_Eav
 "Invalid default date","Nieprawidłowa domyślna data",module,Magento_Eav
@@ -4500,12 +4500,12 @@ Dropdown,"Lista rozwijana",module,Magento_Eav
 "The value of attribute ""%1"" must be unique","Wartość cechy ""%1"" musi być unikatowa",module,Magento_Eav
 "Invalid date","Nieprawidłowa data",module,Magento_Eav
 "Empty attribute code","Pusty kod cechy",module,Magento_Eav
-"Attribute %1 doesn\'t work with options","Attribute %1 doesn\'t work with options",module,Magento_Eav
+"Attribute %1 doesn\'t work with options","Cecha %1 nie działa z opcjami",module,Magento_Eav
 "Cannot save attribute %1","Nie można zapisać atrybutu %1",module,Magento_Eav
-"Attribute %1 doesn\'t have any option","Attribute %1 doesn\'t have any option",module,Magento_Eav
+"Attribute %1 doesn\'t have any option","Cecha %1 nie ma żadnych opcji",module,Magento_Eav
 "Attribute %1 does not contain option with Id %2","Atrybut %1 nie zawiera opcji z Id %2",module,Magento_Eav
 "Cannot load options for attribute %1","Nie można załadować opcji dla atrybutu %1",module,Magento_Eav
-"Entity attribute with id ""%1"" not found","Entity attribute with id ""%1"" not found",module,Magento_Eav
+"Entity attribute with id ""%1"" not found","Nie znaleziono jednostki cechy id ""%1""",module,Magento_Eav
 "Attribute set name is empty.","Nazwa cechy jest pusta.",module,Magento_Eav
 "An attribute set named ""%1"" already exists.","Zestaw cech o nazwie '%1' już istnieje.",module,Magento_Eav
 "No options found.","Żadne opcje nie znalezione.",module,Magento_Eav
@@ -4782,7 +4782,7 @@ Dropoff,Dostawa,module,Magento_Fedex
 "The field is applicable if the Smart Post method is selected.","To pole ma zastosowanie jeśli wybrano metodę Smart Post.",module,Magento_Fedex
 "Free Method","Darmowa metoda",module,Magento_Fedex
 "Free Shipping Amount Threshold","Próg darmowej wysyłki",module,Magento_Fedex
-"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Fedex
+"Enable Free Shipping Threshold","Włącz próg darmowej wysyłki",module,Magento_Fedex
 "Displayed Error Message","Wyświetlony błąd",module,Magento_Fedex
 "Ship to Applicable Countries","Dostawa do stosownych krajów",module,Magento_Fedex
 "Ship to Specific Countries","Dostawa do wybranych krajów",module,Magento_Fedex
@@ -4820,16 +4820,16 @@ Ordered,Zamówiony,module,Magento_GiftCard
 Invoiced,Zafakturowano,module,Magento_GiftCard
 "Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Część kart podarunkowych nie została utworzona poprawnie. Możesz utworzyć je ręcznie <a href=""%1"">tutaj</a>.",module,Magento_GiftCard
 Amount,Kwota,module,Magento_GiftCard
-To,To,module,Magento_GiftCard
+To,Do,module,Magento_GiftCard
 "Treat Balance as Store Credit","Traktowanie bilansu jako kredyt sklepu",module,Magento_GiftCard
-[GLOBAL],[GLOBAL],module,Magento_GiftCard
+[GLOBAL],[GLOBALNY],module,Magento_GiftCard
 "Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_GiftCard
 "Lifetime (days)","Okres ważności (dni)",module,Magento_GiftCard
 "Allow Message","Pozwól na wysłanie wiadomości",module,Magento_GiftCard
-"[STORE VIEW]","[STORE VIEW]",module,Magento_GiftCard
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_GiftCard
 "Email Template","Szablon e-mail",module,Magento_GiftCard
-"All Websites [%1]","All Websites [%1]",module,Magento_GiftCard
-"%1 [%2]","%1 [%2]",module,Magento_GiftCard
+"All Websites [%1]","Wszystkie strony %1",module,Magento_GiftCard
+"%1 [%2]",%1[%2],module,Magento_GiftCard
 Availability:,Dostępność:,module,Magento_GiftCard
 "Out of stock","Brak w magazynie",module,Magento_GiftCard
 "Choose an Amount...","Wybierz kwotę...",module,Magento_GiftCard
@@ -4862,7 +4862,7 @@ Availability,Dostępność,module,Magento_GiftCard
 "The card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","Karta ma środki w wysokości %balance które mogą być użyte w <a href=""%store_url""> %store_name</a>.",module,Magento_GiftCard
 "Click on the code(s) above to redeem them into Store Credit.","Kliknij na kod(y) powyżej, aby zamienić je na kredyt w sklepie.",module,Magento_GiftCard
 "Message from %sender_name:","Wiadomość od %sender_name:",module,Magento_GiftCard
-"Gift Cards","Gift Cards",module,Magento_GiftCard
+"Gift Cards","Karty podarunkowe",module,Magento_GiftCard
 "Gift Card Email Settings","Ustawienia e-mail konta Gift Card",module,Magento_GiftCard
 "Gift Card Notification Email Sender","Nadawca wiadomości e-mail o karcie podarunkowej",module,Magento_GiftCard
 "Gift Card Notification Email Template","Szablon wiadomości e-mail informującej o karcie podarunkowej",module,Magento_GiftCard
@@ -4919,8 +4919,8 @@ History,Historia,module,Magento_GiftCardAccount
 "Gift Card ""%1"" was added.","Karta prezentowa ""%1"" została dodana.",module,Magento_GiftCardAccount
 "We cannot apply this gift card.","Nie stosujemy tej karty prezentowej.",module,Magento_GiftCardAccount
 "Gift Card ""%1"" was removed.","Karta podarunkowa ""%1"" została usunięta.",module,Magento_GiftCardAccount
-"You can\'t remove this gift card.","You can\'t remove this gift card.",module,Magento_GiftCardAccount
-"You can\'t redeem a gift card now.","You can\'t redeem a gift card now.",module,Magento_GiftCardAccount
+"You can\'t remove this gift card.","Nie można usunąć karty podarunkowej.",module,Magento_GiftCardAccount
+"You can\'t redeem a gift card now.","Nie można teraz wykorzystać karty prezentowej.",module,Magento_GiftCardAccount
 "Gift Card ""%1"" was redeemed.","Karta prezentowa ""%1"" została wykorzystana.",module,Magento_GiftCardAccount
 "We cannot redeem this gift card.","Nie można wykupić tej karty prezentowej.",module,Magento_GiftCardAccount
 "Gift Card","Karta podarunkowa",module,Magento_GiftCardAccount
@@ -4952,7 +4952,7 @@ Sent,Wysłano,module,Magento_GiftCardAccount
 "Unknown history action.","Nieznana historia działań.",module,Magento_GiftCardAccount
 "We were unable to create full code pool size. Please check settings and try again.","Nie udało nam się stworzyć pełny rozmiar puli kodu. Proszę sprawdzić ustawienia i spróbuj ponownie.",module,Magento_GiftCardAccount
 "No codes left in the pool.","No codes left in the pool.",module,Magento_GiftCardAccount
-"Cart %1 doesn\'t contain products","Cart %1 doesn\'t contain products",module,Magento_GiftCardAccount
+"Cart %1 doesn\'t contain products","Karta %1 nie zawiera produktów.",module,Magento_GiftCardAccount
 "Could not delete gift card from quote","Nie można usunąć karty podarunkowej z koszyka",module,Magento_GiftCardAccount
 "Could not add gift card code","Nie można dodać kod karty prezentowej",module,Magento_GiftCardAccount
 "Please correct the wrong or expired Gift Card Code.","Proszę poprawić źle lub wygasły kod karty prezentowej.",module,Magento_GiftCardAccount
@@ -5023,14 +5023,14 @@ End,Koniec,module,Magento_GiftCardAccount
 "There is no product with provided  itemId: %1 in the cart","There is no product with provided  itemId: %1 in the cart",module,Magento_GiftMessage
 "There is no item with provided id in the order","There is no item with provided id in the order",module,Magento_GiftMessage
 "There is no item with provided id in the order or gift message isn\'t allowed","There is no item with provided id in the order or gift message isn\'t allowed",module,Magento_GiftMessage
-"Could not add gift message to order: ""%1""","Could not add gift message to order: ""%1""",module,Magento_GiftMessage
-"There is no order with provided id or gift message isn\'t allowed","There is no order with provided id or gift message isn\'t allowed",module,Magento_GiftMessage
-"There is no order with provided id","There is no order with provided id",module,Magento_GiftMessage
-"Gift Messages are not applicable for empty order","Gift Messages are not applicable for empty order",module,Magento_GiftMessage
-"Could not add gift message to order\'s item: \\%1\\""",Could not add gift message to order\'s item: \\%1\\"""""""",module,Magento_GiftMessage
+"Could not add gift message to order: ""%1""","Nie można było dodać wiadomości podarunkowej do zamówienia: %1",module,Magento_GiftMessage
+"There is no order with provided id or gift message isn\'t allowed","Nie ma zamówień z podanym ID lub wiadomość podarunkowa nie jest dozwolona.",module,Magento_GiftMessage
+"There is no order with provided id","Nie ma zamówień z podanym ID",module,Magento_GiftMessage
+"Gift Messages are not applicable for empty order","Wiadomości podarunkowe nie mają zastosowania do pustego zamówienia.",module,Magento_GiftMessage
+"Could not add gift message to order\'s item: \\%1\\""",Nie można dodać wiadomości podarunkowej to zamówionych produktów: %1""",module,Magento_GiftMessage
 "Unknown entity type","Nieznany typ jednostki",module,Magento_GiftMessage
-"Test label","Test label",module,Magento_GiftMessage
-"Use Config Settings","Use Config Settings",module,Magento_GiftMessage
+"Test label","Etykieta testowa",module,Magento_GiftMessage
+"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_GiftMessage
 From,Od,module,Magento_GiftMessage
 To,Do,module,Magento_GiftMessage
 Message,Wiadomość,module,Magento_GiftMessage
@@ -5041,20 +5041,20 @@ OK,OK,module,Magento_GiftMessage
 "Do you have any gift items in your order?","Czy twoje zamówienie zawiera prezenty?",module,Magento_GiftMessage
 "Add gift options","Dodaj opcje prezentowe",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
-"Leave this box blank if you don\'t want to leave a gift message for the entire order.","Leave this box blank if you don\'t want to leave a gift message for the entire order.",module,Magento_GiftMessage
+"Leave this box blank if you don\'t want to leave a gift message for the entire order.","Pozostaw to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej do całego zamówienia .",module,Magento_GiftMessage
 "Gift Options for Individual Items","Opcje prezentowe dla pojedyńczych produktów",module,Magento_GiftMessage
 "<span>Item %1</span> of %2","<span>Produkt %1</span> %2",module,Magento_GiftMessage
-"Leave a box blank if you don\'t want to add a gift message for that item.","Leave a box blank if you don\'t want to add a gift message for that item.",module,Magento_GiftMessage
+"Leave a box blank if you don\'t want to add a gift message for that item.","Możesz pozostawić to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej dla produktu.",module,Magento_GiftMessage
 "Add Gift Options for the Entire Order","Dodaj opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
-"You can leave this box blank if you don\'t want to add a gift message for this address.","You can leave this box blank if you don\'t want to add a gift message for this address.",module,Magento_GiftMessage
+"You can leave this box blank if you don\'t want to add a gift message for this address.","Możesz pozostawić to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej dla tego adresu.",module,Magento_GiftMessage
 "Add gift options for Individual Items","Dodaj opcje prezentowe dla pojedyńczych produktów",module,Magento_GiftMessage
-"You can leave this box blank if you don\'t want to add a gift message for the item.","You can leave this box blank if you don\'t want to add a gift message for the item.",module,Magento_GiftMessage
-"Gift Message (optional)","Gift Message (optional)",module,Magento_GiftMessage
+"You can leave this box blank if you don\'t want to add a gift message for the item.","Możesz pozostawić to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej dla produktu.",module,Magento_GiftMessage
+"Gift Message (optional)","wiadomość podarunkowa (opcjonalnie)",module,Magento_GiftMessage
 To:,Do:,module,Magento_GiftMessage
 From:,Z:,module,Magento_GiftMessage
 Message:,Wiadomość:,module,Magento_GiftMessage
 Update,Aktualizuj,module,Magento_GiftMessage
-"Gift options","Gift options",module,Magento_GiftMessage
+"Gift options","opcje podarunkowe",module,Magento_GiftMessage
 Edit,Edytuj,module,Magento_GiftMessage
 Delete,Usuń,module,Magento_GiftMessage
 "Allow Gift Messages on Order Level","Zezwól na wiadomość prezentową na poziomie zamówienia",module,Magento_GiftMessage
@@ -11641,21 +11641,21 @@ Yes,Tak,module,Magento_Variable
 "Insert Variable...","Wstaw zmienną...",module,Magento_Variable
 "Variable ID","ID zmiennej",module,Magento_Variable
 Name,Nazwa,module,Magento_Variable
-"No token found.","No token found.",module,Magento_Vault
+"No token found.","Nie znaleziono tokenu.",module,Magento_Vault
 "Wrong request.","Nieprawidłowe żądanie.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Credit Card was successfully removed","Credit Card was successfully removed",module,Magento_Vault
-"My Credit Cards","My Credit Cards",module,Magento_Vault
+"My Credit Cards","Moje karty kredytowe",module,Magento_Vault
 "Select vault provider","Wybierz dostawcę vault",module,Magento_Vault
 vault_payment1,vault_payment1,module,Magento_Vault
 vault_payment2,vault_payment2,module,Magento_Vault
 "Card Number","Card Number",module,Magento_Vault
-"Expiration Date","Expiration Date",module,Magento_Vault
+"Expiration Date","Data ważności",module,Magento_Vault
 Type,Type,module,Magento_Vault
 "You have no credit cards.","You have no credit cards.",module,Magento_Vault
-Actions,Actions,module,Magento_Vault
-Delete,Delete,module,Magento_Vault
-Cancel,Cancel,module,Magento_Vault
+Actions,Operacje,module,Magento_Vault
+Delete,Usuń,module,Magento_Vault
+Cancel,Anuluj,module,Magento_Vault
 "Vault Provider","Dostawca Vault",module,Magento_Vault
 "Specified provider should be enabled.","Wybrany dostawca powinien być włączony.",module,Magento_Vault
 "Delete Current Hierarchy","Usuń bieżącą hierarchię",module,Magento_VersionsCms
