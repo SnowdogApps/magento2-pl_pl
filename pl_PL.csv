@@ -2,9 +2,9 @@ All,Wszystko,module,Magento_AdminGws
 None,Brak,module,Magento_AdminGws
 "Allowed Scopes","Dopuszczalne zakresy",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","Potrzebujesz więcej uprawnień, aby delegować te elementy: %1.",module,Magento_AdminGws
-"You need more permissions to apply some of the rule updates.","You need more permissions to apply some of the rule updates.",module,Magento_AdminGws
+"You need more permissions to apply some of the rule updates.","Potrzebujesz więcej uprawnień do stosowania niektórych reguł aktualizacji.",module,Magento_AdminGws
 "Please assign this entity to a store view.","Przypisz obiekt do widoku sklepu.",module,Magento_AdminGws
-"You can create orders only in an active store.","You can create orders only in an active store.",module,Magento_AdminGws
+"You can create orders only in an active store.","Możesz tworzyć zamówienia tylko w aktywnym sklepie.",module,Magento_AdminGws
 "Please assign this item to a store view.","Należy przypisać tę pozycję do widoku sklepu.",module,Magento_AdminGws
 "You need more permissions to save this item.","Potrzebujesz więcej uprawnień do zapisania tego elementu.",module,Magento_AdminGws
 "You need more permissions to delete this item.","Potrzebujesz więcej uprawnień do usunięcia tego elementu.",module,Magento_AdminGws
@@ -44,7 +44,7 @@ major,ważne,module,Magento_AdminNotification
 minor,drobne,module,Magento_AdminNotification
 notice,informacja,module,Magento_AdminNotification
 "Wrong message type","Nieprawidłowy typ wiadomości",module,Magento_AdminNotification
-"Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
+"Wrong notification ID specified.","Niepoprawny ID powiadomienia.",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=\"%1\">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=\"%1\">configuration</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","Istnieją nieaktualne pamięci podręczne: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1"">strony zarządzania pamięciami podręcznymi</a> i odśwież je.",module,Magento_AdminNotification
@@ -53,14 +53,14 @@ notice,informacja,module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
 "Close popup","Zamknij okno",module,Magento_AdminNotification
 Close,Zamknij,module,Magento_AdminNotification
-"System Messages:","System Messages:",module,Magento_AdminNotification
+"System Messages:","Komunikaty systemowe:",module,Magento_AdminNotification
 "Critical System Messages","Krytyczny komunikat systemowy",module,Magento_AdminNotification
 "Major System Messages","Ważny komunikat systemowy",module,Magento_AdminNotification
 "System messages","Komunikaty systemowe",module,Magento_AdminNotification
-"See All (","See All (",module,Magento_AdminNotification
-" unread)"," unread)",module,Magento_AdminNotification
-"Show Toolbar","Show Toolbar",module,Magento_AdminNotification
-"Show List","Show List",module,Magento_AdminNotification
+"See All (","Zobacz wszystkie (",module,Magento_AdminNotification
+" unread)"," nieprzeczytane)",module,Magento_AdminNotification
+"Show Toolbar","Pokaż pasek narzędzi",module,Magento_AdminNotification
+"Show List","Pokaż listę",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Używaj HTTPS do pobierania kanałów",module,Magento_AdminNotification
 "Update Frequency","Częstotliwość aktualizacji",module,Magento_AdminNotification
 "Last Update","Ostatnia aktualizacja",module,Magento_AdminNotification
@@ -2357,37 +2357,37 @@ Action,Operacja,module,Magento_CatalogStaging
 "End Date","Data zakończenia",module,Magento_CatalogStaging
 "Update Information","Aktualizacja informacji",module,Magento_CatalogStaging
 "Remove Category from Update","Remove Category from Update",module,Magento_CatalogStaging
-"Update Name","Update Name",module,Magento_CatalogStaging
+"Update Name","Zaktualizowana nazwa",module,Magento_CatalogStaging
 "Start date","Data rozpoczęcia",module,Magento_CatalogStaging
 "End date","Data zakończenia",module,Magento_CatalogStaging
 "Enable Category","Enable Category",module,Magento_CatalogStaging
-"Include in Menu","Include in Menu",module,Magento_CatalogStaging
+"Include in Menu","Uwzględnij w menu",module,Magento_CatalogStaging
 "Category Name","Nazwa kategorii",module,Magento_CatalogStaging
-Content,Content,module,Magento_CatalogStaging
-"Category Image","Category Image",module,Magento_CatalogStaging
-"Delete Image","Delete Image",module,Magento_CatalogStaging
-"Add CMS Block","Add CMS Block",module,Magento_CatalogStaging
-"Display Settings","Display Settings",module,Magento_CatalogStaging
+Content,Zawartość,module,Magento_CatalogStaging
+"Category Image","Obraz kategorii",module,Magento_CatalogStaging
+"Delete Image","Usuń obraz",module,Magento_CatalogStaging
+"Add CMS Block","Dodaj blok CMS",module,Magento_CatalogStaging
+"Display Settings","Ustawienia wyświetlania",module,Magento_CatalogStaging
 Anchor,Anchor,module,Magento_CatalogStaging
-"Sort Products By","Sort Products By",module,Magento_CatalogStaging
-"Use All","Use All",module,Magento_CatalogStaging
-"Default Product Sorting","Default Product Sorting",module,Magento_CatalogStaging
-"Use Config Settings","Use Config Settings",module,Magento_CatalogStaging
+"Sort Products By","Sortuj produkty wg",module,Magento_CatalogStaging
+"Use All","Użyj wszystkie",module,Magento_CatalogStaging
+"Default Product Sorting","Domyślnie sortowanie produktów",module,Magento_CatalogStaging
+"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_CatalogStaging
 "Layered Navigation Price Step","Layered Navigation Price Step",module,Magento_CatalogStaging
-"Search Engine Optimization","Search Engine Optimization",module,Magento_CatalogStaging
-"Meta Title","Meta Title",module,Magento_CatalogStaging
+"Search Engine Optimization","Optymalizacja dla wyszukiwarek",module,Magento_CatalogStaging
+"Meta Title","Meta tytuł",module,Magento_CatalogStaging
 "Meta Keywords","Meta Keywords",module,Magento_CatalogStaging
-"Meta Description","Meta Description",module,Magento_CatalogStaging
+"Meta Description","Meta opis",module,Magento_CatalogStaging
 Design,Design,module,Magento_CatalogStaging
-"Use Parent Category Settings","Use Parent Category Settings",module,Magento_CatalogStaging
-"New Theme","New Theme",module,Magento_CatalogStaging
-Layout,Layout,module,Magento_CatalogStaging
-"Layout Update XML","Layout Update XML",module,Magento_CatalogStaging
-"Apply Design to Products","Apply Design to Products",module,Magento_CatalogStaging
-"Save as a new update","Save as a new update",module,Magento_CatalogStaging
-"Move to another scheduled change","Move to another scheduled change",module,Magento_CatalogStaging
-"Delete the scheduled change","Delete the scheduled change",module,Magento_CatalogStaging
-"Deleting the change will remove the page from this update and all scheduled changes will be lost.","Deleting the change will remove the page from this update and all scheduled changes will be lost.",module,Magento_CatalogStaging
+"Use Parent Category Settings","Użyj ustawień kategorii nadrzędnej",module,Magento_CatalogStaging
+"New Theme","Nowy temat",module,Magento_CatalogStaging
+Layout,Układ,module,Magento_CatalogStaging
+"Layout Update XML","XML aktualizacji układu",module,Magento_CatalogStaging
+"Apply Design to Products","Zastosuj projekt do produktów",module,Magento_CatalogStaging
+"Save as a new update","Zapisz jako nową aktualizację",module,Magento_CatalogStaging
+"Move to another scheduled change","Przenieść do innych zaplanowanych zmian",module,Magento_CatalogStaging
+"Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_CatalogStaging
+"Deleting the change will remove the page from this update and all scheduled changes will be lost.","Usunięcie zmiany spowoduje usunięcie strony tej aktualizacji i wszystkie zaplanowane zmiany zostaną utracone.",module,Magento_CatalogStaging
 20,20,module,Magento_CatalogStaging
 30,30,module,Magento_CatalogStaging
 50,50,module,Magento_CatalogStaging
