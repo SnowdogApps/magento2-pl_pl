@@ -2344,25 +2344,25 @@ Description,Opis,module,Magento_CatalogStaging
 "Start Time","Czas rozpoczęcia",module,Magento_CatalogStaging
 "End Time","Czas zakończenia",module,Magento_CatalogStaging
 "Create Future Update","Tworzenia przyszłych aktualizacji",module,Magento_CatalogStaging
-"Something went wrong while saving the category.","Something went wrong while saving the category.",module,Magento_CatalogStaging
-"Attribute ""%1"" is required.","Attribute ""%1"" is required.",module,Magento_CatalogStaging
+"Something went wrong while saving the category.","Coś poszło nie tak podczas zapisywania kategorii",module,Magento_CatalogStaging
+"Attribute ""%1"" is required.","Cecha %1 jest wymagana",module,Magento_CatalogStaging
 "This product no longer exists.","Ten produkt już nie istnieje.",module,Magento_CatalogStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
 Delete,Usuń,module,Magento_CatalogStaging
 Preview,Podgląd,module,Magento_CatalogStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CatalogStaging
-"Start Date","Start Date",module,Magento_CatalogStaging
+"Start Date","Data rozpoczęcia",module,Magento_CatalogStaging
 Action,Operacja,module,Magento_CatalogStaging
-"End Date","End Date",module,Magento_CatalogStaging
-"Update Information","Update Information",module,Magento_CatalogStaging
+"End Date","Data zakończenia",module,Magento_CatalogStaging
+"Update Information","Aktualizacja informacji",module,Magento_CatalogStaging
 "Remove Category from Update","Remove Category from Update",module,Magento_CatalogStaging
 "Update Name","Update Name",module,Magento_CatalogStaging
-"Start date","Start date",module,Magento_CatalogStaging
-"End date","End date",module,Magento_CatalogStaging
+"Start date","Data rozpoczęcia",module,Magento_CatalogStaging
+"End date","Data zakończenia",module,Magento_CatalogStaging
 "Enable Category","Enable Category",module,Magento_CatalogStaging
 "Include in Menu","Include in Menu",module,Magento_CatalogStaging
-"Category Name","Category Name",module,Magento_CatalogStaging
+"Category Name","Nazwa kategorii",module,Magento_CatalogStaging
 Content,Content,module,Magento_CatalogStaging
 "Category Image","Category Image",module,Magento_CatalogStaging
 "Delete Image","Delete Image",module,Magento_CatalogStaging
@@ -7474,7 +7474,7 @@ Role,Rola,module,Magento_ProductVideo
 "Delete image","Usuń obraz",module,Magento_ProductVideo
 Hidden,ukryty,module,Magento_ProductVideo
 "Alt Text","Tekst alternatywny",module,Magento_ProductVideo
-"Image Size","Image Size",module,Magento_ProductVideo
+"Image Size","Rozmiar obrazu",module,Magento_ProductVideo
 {size},{size},module,Magento_ProductVideo
 "Image Resolution","Image Resolution",module,Magento_ProductVideo
 "{width}^{height} px","{width}^{height} px",module,Magento_ProductVideo
@@ -7498,7 +7498,7 @@ Delete,Usuń,module,Magento_ProductVideo
 "Autostart base video","Automatyczne odtwarzanie podstawowego filmu",module,Magento_ProductVideo
 "Show related video","Pokaż podobne filmy",module,Magento_ProductVideo
 "Auto restart video","Powtarzanie filmu",module,Magento_ProductVideo
-"Images And Videos","Images And Videos",module,Magento_ProductVideo
+"Images And Videos","Zdjęcia i filmy",module,Magento_ProductVideo
 "Edit Catalog Price Rules","Edytuj reguły cenowe katalogu",module,Magento_PromotionPermissions
 "Edit Cart Price Rules","Edit Cart Price Rules",module,Magento_PromotionPermissions
 "Edit Automated Email Reminder Rules","Edytuj zasady automatycznego przypominania",module,Magento_PromotionPermissions
