@@ -9651,7 +9651,7 @@ Apply,Zastosuj,module,Magento_SalesRule
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_SalesRuleStaging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_SalesRuleStaging
 "Required parameters are missing.","Required parameters are missing.",module,Magento_SalesRuleStaging
-"You saved this %1 update.","You saved this %1 update.",module,Magento_SalesRuleStaging
+"You saved this %1 update.","Ta %1aktualizacja została zapisana",module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
 Rule,Reguła,module,Magento_SalesRuleStaging
 "Coupon Code","Kod kuponu",module,Magento_SalesRuleStaging
@@ -9662,31 +9662,31 @@ Inactive,Nieaktywny,module,Magento_SalesRuleStaging
 "Web Site","Web Site",module,Magento_SalesRuleStaging
 Action,Action,module,Magento_SalesRuleStaging
 Edit,Edytuj,module,Magento_SalesRuleStaging
-"Scheduled Changes","Scheduled Changes",module,Magento_SalesRuleStaging
+"Scheduled Changes","Planowane zmiany",module,Magento_SalesRuleStaging
 "Start Date","Data rozpoczęcia",module,Magento_SalesRuleStaging
 "Start Time","Czas rozpoczęcia",module,Magento_SalesRuleStaging
 Name,Nazwa,module,Magento_SalesRuleStaging
 Description,Opis,module,Magento_SalesRuleStaging
 "End Date","Data zakończenia",module,Magento_SalesRuleStaging
 "End Time","Czas zakończenia",module,Magento_SalesRuleStaging
-"Update Information","Update Information",module,Magento_SalesRuleStaging
-"Remove Sales Rule from Update","Remove Sales Rule from Update",module,Magento_SalesRuleStaging
-"Save as a new update","Save as a new update",module,Magento_SalesRuleStaging
-"Update Name","Update Name",module,Magento_SalesRuleStaging
-"Start date","Start date",module,Magento_SalesRuleStaging
-"End date","End date",module,Magento_SalesRuleStaging
-"Select from existing Scheduled Update","Select from existing Scheduled Update",module,Magento_SalesRuleStaging
-"Rule Information","Rule Information",module,Magento_SalesRuleStaging
+"Update Information","Aktualizacja informacji",module,Magento_SalesRuleStaging
+"Remove Sales Rule from Update","Usunąć regułę sprzedaży z aktualizacji",module,Magento_SalesRuleStaging
+"Save as a new update","Zapisz jako nową aktulaizację",module,Magento_SalesRuleStaging
+"Update Name","Zaktualizowana nazwa",module,Magento_SalesRuleStaging
+"Start date","Data rozpoczęcia",module,Magento_SalesRuleStaging
+"End date","Data zakończenia",module,Magento_SalesRuleStaging
+"Select from existing Scheduled Update","Wybierz z istniejących zaplanowanych aktualizacji",module,Magento_SalesRuleStaging
+"Rule Information","Informacje o regule",module,Magento_SalesRuleStaging
 Websites,Websites,module,Magento_SalesRuleStaging
-"Customer Groups","Customer Groups",module,Magento_SalesRuleStaging
-"Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRuleStaging
-Conditions,Conditions,module,Magento_SalesRuleStaging
+"Customer Groups","Grupy klienta",module,Magento_SalesRuleStaging
+"Public In RSS Feed","Publiczne w kanale RSS",module,Magento_SalesRuleStaging
+Conditions,Warunki,module,Magento_SalesRuleStaging
 Actions,Actions,module,Magento_SalesRuleStaging
-Apply,Apply,module,Magento_SalesRuleStaging
-"Discount Amount","Discount Amount",module,Magento_SalesRuleStaging
+Apply,Zastosuj,module,Magento_SalesRuleStaging
+"Discount Amount","Wielkość zniżki",module,Magento_SalesRuleStaging
 "Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRuleStaging
 "Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
-"Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRuleStaging
+"Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRuleStaging
 "Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
 Labels,Etykiety,module,Magento_SalesRuleStaging
 "Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRuleStaging
