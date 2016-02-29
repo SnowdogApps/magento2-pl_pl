@@ -5326,7 +5326,7 @@ View,Zobacz,module,Magento_GiftRegistry
 "You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.",module,Magento_GiftRegistry
 "Gift Registry:","Rejestr prezentów:",module,Magento_GiftRegistry
 "Created For:","Stworzony dla:",module,Magento_GiftRegistry
-"You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.",module,Magento_GiftRegistry
+"You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Możesz utworzyć własny rejestr prezentów <a href='%account_url'>%store_name</a>  i udostępnić go dla przyjaciół i rodziny",module,Magento_GiftRegistry
 "The following items have been purchased from your gift registry \"%registry_name\":","The following items have been purchased from your gift registry \"%registry_name\":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","Możesz zalogować się na swoje konto, aby wyświetlić więcej szczegółów o tej liście prezentowej.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Ship to Recipient Address",module,Magento_GiftRegistry
@@ -5335,14 +5335,14 @@ View,Zobacz,module,Magento_GiftRegistry
 "Use gift registry shipping address","Użyj adresu dostawy z rejestru prezentów",module,Magento_GiftRegistry
 "The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","Jedynym miejscem, aby zmienić numer rejestru upominków jest strona informacji rejestru prezentów lub bezpośrednio w Twoim koszyku.",module,Magento_GiftRegistry
 Text,Tekst,module,Magento_GiftRegistry
-"Gift Registry Details","Gift Registry Details",module,Magento_GiftRegistry
+"Gift Registry Details","Szczegóły rejestru prezentów",module,Magento_GiftRegistry
 Role,Rola,module,Magento_GiftRegistry
 "Event Data","Data wydarzenia",module,Magento_GiftRegistry
 "Event Information","Informacje o wydarzeniu",module,Magento_GiftRegistry
 "Event Country","Kraj wydarzenia",module,Magento_GiftRegistry
-"My event special","My event special",module,Magento_GiftRegistry
-"My special attribute","My special attribute",module,Magento_GiftRegistry
-"Gift Registry Section","Gift Registry Section",module,Magento_GiftRegistry
+"My event special","Moje specjalne zdarzenie",module,Magento_GiftRegistry
+"My special attribute","moje specjalne cechy",module,Magento_GiftRegistry
+"Gift Registry Section","Sekcja rejestru prezentów",module,Magento_GiftRegistry
 "General Options","Opcje ogólne",module,Magento_GiftRegistry
 "Enable Gift Registry","Włącz rejestr prezentów",module,Magento_GiftRegistry
 "Maximum Registrants","Maximum Registrants",module,Magento_GiftRegistry
@@ -5350,7 +5350,7 @@ Role,Rola,module,Magento_GiftRegistry
 "Email Template","Szablon e-mail",module,Magento_GiftRegistry
 "Email Sender",Nadawca,module,Magento_GiftRegistry
 "Gift Registry Sharing","Udostępnienie rejestru prezentów",module,Magento_GiftRegistry
-"Maximum Sent Emails Threshold","Maximum Sent Emails Threshold",module,Magento_GiftRegistry
+"Maximum Sent Emails Threshold","Maksymalny próg wysyłania emaili",module,Magento_GiftRegistry
 "Gift Registry Update","Aktualizacja rejestru prezentów",module,Magento_GiftRegistry
 Select,Wybierz,module,Magento_GiftRegistry
 Date,Data,module,Magento_GiftRegistry
@@ -5482,13 +5482,13 @@ Creative,Kreatywne,module,Magento_GoogleTagManager
 "Please specify the quantity of product(s).","Prosimy sprecyzowac ilość produktu.",module,Magento_GroupedProduct
 "Cannot process the item.","Nie można przetworzyć elementu.",module,Magento_GroupedProduct
 "Add Products to Group","Dodawanie produktów do grupy",module,Magento_GroupedProduct
-Cancel,Cancel,module,Magento_GroupedProduct
+Cancel,Zamknij,module,Magento_GroupedProduct
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_GroupedProduct
 "A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.",module,Magento_GroupedProduct
 Remove,Remove,module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
-Thumbnail,Thumbnail,module,Magento_GroupedProduct
-"Default Quantity","Default Quantity",module,Magento_GroupedProduct
+Thumbnail,Miniaturka,module,Magento_GroupedProduct
+"Default Quantity","Domyślna ilość",module,Magento_GroupedProduct
 Actions,Actions,module,Magento_GroupedProduct
 "Associated Products","Produkty składowe konfiguracji",module,Magento_GroupedProduct
 Availability:,Dostępność:,module,Magento_GroupedProduct
@@ -5506,11 +5506,11 @@ Availability,Dostępność,module,Magento_GroupedProduct
 "In stock","W magazynie",module,Magento_GroupedProduct
 "Grouped product items","Elementy produktów grupowanych",module,Magento_GroupedProduct
 "Grouped Product Image","Obrazek grupowanego produktu",module,Magento_GroupedProduct
-Select...,Select...,module,Magento_GroupedProduct
+Select...,Wybierz...,module,Magento_GroupedProduct
 Status,Status,module,Magento_GroupedProduct
-Type,Type,module,Magento_GroupedProduct
-Quantity,Quantity,module,Magento_GroupedProduct
-"Attribute Set","Attribute Set",module,Magento_GroupedProduct
+Type,Typ,module,Magento_GroupedProduct
+Quantity,Ilość,module,Magento_GroupedProduct
+"Attribute Set","Zestaw cech",module,Magento_GroupedProduct
 AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
 StatusText,StatusText,module,Magento_GroupedProduct
 Export,Eksport,module,Magento_ImportExport
