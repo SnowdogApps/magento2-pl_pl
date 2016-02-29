@@ -5260,12 +5260,12 @@ Qty,Ilość,module,Magento_GiftRegistry
 "Qty Fulfilled","Spełnione ilości",module,Magento_GiftRegistry
 "Update Gift Registry","Aktualizuj rejestr prezentów",module,Magento_GiftRegistry
 Back,Powrót,module,Magento_GiftRegistry
-"This gift registry has no items.","This gift registry has no items.",module,Magento_GiftRegistry
+"This gift registry has no items.","Ten rejsetr prezentów nie ma produktów.",module,Magento_GiftRegistry
 "Created On",Utworzono,module,Magento_GiftRegistry
 "Manage Items","Zarządzaj produktami",module,Magento_GiftRegistry
 Share,Udostępnij,module,Magento_GiftRegistry
 Edit,Edytuj,module,Magento_GiftRegistry
-"You haven\'t created a gift registry yet.","You haven\'t created a gift registry yet.",module,Magento_GiftRegistry
+"You haven\'t created a gift registry yet.","Nie stworzyłeś rejestru produktów.",module,Magento_GiftRegistry
 "Add New","Dodaj nowe",module,Magento_GiftRegistry
 Remove,Usuń,module,Magento_GiftRegistry
 "First Name",Imię,module,Magento_GiftRegistry
@@ -5273,8 +5273,8 @@ Name,Nazwa,module,Magento_GiftRegistry
 Email,E-mail,module,Magento_GiftRegistry
 "* Required Fields","* wymagane pola",module,Magento_GiftRegistry
 Sender,Nadawca,module,Magento_GiftRegistry
-Invitee,Invitee,module,Magento_GiftRegistry
-"Maximum %1 email addresses.","Maximum %1 email addresses.",module,Magento_GiftRegistry
+Invitee,Zaproszony,module,Magento_GiftRegistry
+"Maximum %1 email addresses.","Maksymalnie %1 adresów e-mail.",module,Magento_GiftRegistry
 "Add Invitee","Add Invitee",module,Magento_GiftRegistry
 "Gift Registry Type","Typ rejestru prezentów",module,Magento_GiftRegistry
 "Please select a gift registry type.","Wybierz typ rejestru prezentów.",module,Magento_GiftRegistry
@@ -5298,7 +5298,7 @@ Quantity:,Ilość:,module,Magento_GiftRegistry
 "This won\'t take long . . .","This won\'t take long . . .",module,Magento_GiftRegistry
 "Required Fields","Wymagane pola",module,Magento_GiftRegistry
 "Search Options","Opcje wyszukiwania",module,Magento_GiftRegistry
-"For better search results, first choose a gift registry type. By default, we search all registry types.","For better search results, first choose a gift registry type. By default, we search all registry types.",module,Magento_GiftRegistry
+"For better search results, first choose a gift registry type. By default, we search all registry types.","Dla lepszego wyszukiwania, wybierz typ rejestru prezentów. Domyślnie wyszukiwane są wszystkie typy rejestru.",module,Magento_GiftRegistry
 "Type Specific Options","Specyficzne opcje typu",module,Magento_GiftRegistry
 Search,Szukaj,module,Magento_GiftRegistry
 "Registrant Email","Registrant Email",module,Magento_GiftRegistry
@@ -5314,8 +5314,8 @@ View,Zobacz,module,Magento_GiftRegistry
 "Unit Price","Cena jednostkowa",module,Magento_GiftRegistry
 "Add to Cart","Dodaj do koszyka",module,Magento_GiftRegistry
 "%name,","%name,",module,Magento_GiftRegistry
-"You have successfully created the new gift registry \"%registry_name\".","You have successfully created the new gift registry \"%registry_name\".",module,Magento_GiftRegistry
-"Your Gift Registry Message","Your Gift Registry Message",module,Magento_GiftRegistry
+"You have successfully created the new gift registry \"%registry_name\".","Pomyślnie utworzono nowy rejestr prezentów \"%registry_name\".",module,Magento_GiftRegistry
+"Your Gift Registry Message","Twoje wiadomości rejestru prezentów.",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","Teraz można dodać produkty do swojej listy prezentowej.",module,Magento_GiftRegistry
 "Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Po prostu przejdź do <a href=""%store_url""> %store_name</a> i dodaj produkty, które chcesz w twoim koszyku lub liście życzeń.",module,Magento_GiftRegistry
 "You can then add the products to your registry from your shopping cart or wish list page.","Możesz potem dodać produkty do listy prezentowej z koszyka lub schowka.",module,Magento_GiftRegistry
@@ -5388,8 +5388,8 @@ Image,Obrazek,module,Magento_GiftWrapping
 "You deleted a total of %1 records.","Usunięto w sumie %1 rekord(ów).",module,Magento_GiftWrapping
 "You have not uploaded the image.","Obraz nie został wgrany.",module,Magento_GiftWrapping
 "You saved the gift wrapping.","Opakowanie produktu zostało zapisane.",module,Magento_GiftWrapping
-"We can\'t save the gift wrapping right now.","We can\'t save the gift wrapping right now.",module,Magento_GiftWrapping
-"We can\'t update the image right now.","We can\'t update the image right now.",module,Magento_GiftWrapping
+"We can\'t save the gift wrapping right now.","Nie można zapisać teraz opakowania prezentu. ",module,Magento_GiftWrapping
+"We can\'t update the image right now.","Nie można uaktualnić teraz obrazu.",module,Magento_GiftWrapping
 "Please select","Proszę wybrać",module,Magento_GiftWrapping
 "Excluding Tax","Bez podatku",module,Magento_GiftWrapping
 "Including Tax","Z podatkiem",module,Magento_GiftWrapping
@@ -5403,9 +5403,9 @@ None,Brak,module,Magento_GiftWrapping
 "Please enter valid currency code: %1","Podaj prawidłowy kod waluty: %1",module,Magento_GiftWrapping
 "Unable to remove gift wrapping %1","Nie można usunąć pakowania %1",module,Magento_GiftWrapping
 "Printed Card","Karty drukowane",module,Magento_GiftWrapping
-"Use Config Settings","Use Config Settings",module,Magento_GiftWrapping
+"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_GiftWrapping
 "Use Default Value","Użyj wartości domyślnej",module,Magento_GiftWrapping
-"Leave a box blank if you don\'t want to add gift wrapping for whole order.","Leave a box blank if you don\'t want to add gift wrapping for whole order.",module,Magento_GiftWrapping
+"Leave a box blank if you don\'t want to add gift wrapping for whole order.","Pozostaw pole puste jeżeli nie chcesz dodawać pakowania prezentu dla całego zamówienia.",module,Magento_GiftWrapping
 "Price Excl. Tax","Cena bez podatku",module,Magento_GiftWrapping
 "Price Incl. Tax","Cena z podatkiem",module,Magento_GiftWrapping
 "Send Gift Receipt","Wyślij pokwitowanie za prezent",module,Magento_GiftWrapping
@@ -5416,7 +5416,7 @@ None,Brak,module,Magento_GiftWrapping
 "Incl. Tax","Z podatkiem",module,Magento_GiftWrapping
 "Custom Price","Niestandardowa cena",module,Magento_GiftWrapping
 Preview,Podgląd,module,Magento_GiftWrapping
-"Gift wrapping","Gift wrapping",module,Magento_GiftWrapping
+"Gift wrapping","Opakowanie prezentu",module,Magento_GiftWrapping
 "Printed card","Karty drukowane",module,Magento_GiftWrapping
 "Gift receipt","Otrzymanie prezentu",module,Magento_GiftWrapping
 "Pick a paper of your choice (optional)","Wybierz zapakowanie w papier (opcjonalne)",module,Magento_GiftWrapping
