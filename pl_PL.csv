@@ -2385,7 +2385,7 @@ Layout,Układ,module,Magento_CatalogStaging
 "Layout Update XML","XML aktualizacji układu",module,Magento_CatalogStaging
 "Apply Design to Products","Zastosuj projekt do produktów",module,Magento_CatalogStaging
 "Save as a new update","Zapisz jako nową aktualizację",module,Magento_CatalogStaging
-"Move to another scheduled change","Przenieść do innych zaplanowanych zmian",module,Magento_CatalogStaging
+"Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_CatalogStaging
 "Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_CatalogStaging
 "Deleting the change will remove the page from this update and all scheduled changes will be lost.","Usunięcie zmiany spowoduje usunięcie strony tej aktualizacji i wszystkie zaplanowane zmiany zostaną utracone.",module,Magento_CatalogStaging
 20,20,module,Magento_CatalogStaging
@@ -9670,7 +9670,7 @@ Description,Opis,module,Magento_SalesRuleStaging
 "End Date","Data zakończenia",module,Magento_SalesRuleStaging
 "End Time","Czas zakończenia",module,Magento_SalesRuleStaging
 "Update Information","Aktualizacja informacji",module,Magento_SalesRuleStaging
-"Remove Sales Rule from Update","Usunąć regułę sprzedaży z aktualizacji",module,Magento_SalesRuleStaging
+"Remove Sales Rule from Update","Usuń regułę sprzedaży z aktualizacji",module,Magento_SalesRuleStaging
 "Save as a new update","Zapisz jako nową aktulaizację",module,Magento_SalesRuleStaging
 "Update Name","Zaktualizowana nazwa",module,Magento_SalesRuleStaging
 "Start date","Data rozpoczęcia",module,Magento_SalesRuleStaging
@@ -9690,7 +9690,7 @@ Apply,Zastosuj,module,Magento_SalesRuleStaging
 "Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
 Labels,Etykiety,module,Magento_SalesRuleStaging
 "Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRuleStaging
-"Move to another scheduled change","Przenieść do innych zaplanowanych zmian",module,Magento_SalesRuleStaging
+"Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_SalesRuleStaging
 "Delete the scheduled change","Delete the scheduled change",module,Magento_SalesRuleStaging
 "Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.","Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.",module,Magento_SalesRuleStaging
 20,20,module,Magento_SalesRuleStaging
@@ -10266,7 +10266,7 @@ Action,Operacja,module,Magento_Sitemap
 Cancel,Anuluj,module,Magento_Staging
 Preview,Podgląd,module,Magento_Staging
 Done,Zrobione,module,Magento_Staging
-"Remove from Update","Usunąć z aktualizacji",module,Magento_Staging
+"Remove from Update","Usuń z aktualizacji",module,Magento_Staging
 Save,Zapisz,module,Magento_Staging
 "Schedule New Update","Schedule New Update",module,Magento_Staging
 "View Specific Date","Zobacz określoną datę",module,Magento_Staging
