@@ -6,7 +6,7 @@ Tłumaczenia są automatycznie synchronizowane ze zmianami dokonanymi w serwisie
 
 ## Instalacja
 
-## Przez composera
+### Przez composera
 * jeżeli chcemy trzymać się tylko oficjalnych wydań pakietu (do użycia w działającym sklepie)
 ```
 $ composer config repositories.magento2-pl vcs https://github.com/SnowdogApps/magento2-pl_pl.git
