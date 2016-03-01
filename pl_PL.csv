@@ -1631,7 +1631,7 @@ px.,px.,module,Magento_Catalog
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","Plik '%1' jest większy niż %2 megabajtów dozwolone przez nasz serwer.",module,Magento_Catalog
 "The file '%1' is empty. Please choose another one","Plik '%1' jest pusty. Proszę wybrać inny",module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","Plik '%1' jest nieprawidłowy. Proszę wybrać inny",module,Magento_Catalog
-"File \'%1\' is not an image.","File \'%1\' is not an image.",module,Magento_Catalog
+"File \'%1\' is not an image.","Plik \'%1\' nie jest zdjęciem.",module,Magento_Catalog
 "Validation failed. Required options were not filled or the file was not uploaded.","Nie można sprawdzić poprawności. Wymagane opcje nie zostały wypełnione lub plik nie został przesłany.",module,Magento_Catalog
 "The file you uploaded is larger than %1 Megabytes allowed by server","Załądowany plik jest większy niż %1 Mb dozwolonych na serwerze",module,Magento_Catalog
 "Option required.","Opcja wymagana.",module,Magento_Catalog
@@ -1644,7 +1644,7 @@ px.,px.,module,Magento_Catalog
 "Please provide valid data","Podaj poprawne dane",module,Magento_Catalog
 "Values of following attributes are invalid: %1","Wartości następujących atrybutów są nieprawidłowe: %1",module,Magento_Catalog
 "Could not save group price","Nie można zapisać ceny grupowej",module,Magento_Catalog
-"We can\'t create writeable directory \\%1\\.""""""","We can\'t create writeable directory \\%1\\.""""""",module,Magento_Catalog
+"We can\'t create writeable directory \\%1\\.""""""","Nie możemy stworzyć zapisywalnego katalogu \\%1\\.""""""",module,Magento_Catalog
 "The file upload failed.","Wysłanie pliku nie powiodło się.",module,Magento_Catalog
 "The product has required options.","Produkt ma wymagane opcje.",module,Magento_Catalog
 "Something went wrong while processing the request.","Coś się zepsuło podczas przetwarzania żądania.",module,Magento_Catalog
