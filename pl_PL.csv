@@ -2213,8 +2213,8 @@ Promotions,Promocje,module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Znaleźliśmy zaktualizowane reguły, które nie zostały zastosowane. Kliknij ""Zastosuj reguły"", aby zaktualizować katalog.",module,Magento_CatalogRule
 "We can\'t apply the rules.","Nie możemy zastosować podanych reguł.",module,Magento_CatalogRule
 "You deleted the rule.","Możesz usunąć regułę.",module,Magento_CatalogRule
-"We can\'t delete this rule right now. Please review the log and try again.","We can\'t delete this rule right now. Please review the log and try again.",module,Magento_CatalogRule
-"We can\'t find a rule to delete.","We can\'t find a rule to delete.",module,Magento_CatalogRule
+"We can\'t delete this rule right now. Please review the log and try again.","W tej chwili nie możemy usunąć danej reguły. Proszę przejrzeć logi i spróbować ponownie.",module,Magento_CatalogRule
+"We can\'t find a rule to delete.","Nie możemy znaleźć reguły do usunięcia.",module,Magento_CatalogRule
 "This rule no longer exists.","Ta reguła już nie istnieje.",module,Magento_CatalogRule
 "New Catalog Price Rule","Nowa reguła cen w katalogu",module,Magento_CatalogRule
 "Edit Rule","Edytuj regułę",module,Magento_CatalogRule
@@ -2268,7 +2268,7 @@ Actions,Operacje,module,Magento_CatalogRule
 "You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_CatalogRuleStaging
-"Required parameters are missing.","Required parameters are missing.",module,Magento_CatalogRuleStaging
+"Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_CatalogRuleStaging
 "You saved this %1 update.","You saved this %1 update.",module,Magento_CatalogRuleStaging
 ID,ID,module,Magento_CatalogRuleStaging
 Rule,Reguła,module,Magento_CatalogRuleStaging
@@ -2328,7 +2328,7 @@ Search,Szukaj,module,Magento_CatalogSearch
 "Advanced Search","Wyszukiwanie zaawansowane",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 produktów</strong> zostało znalezionych przy pomocy następujących kryteriów",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 produktów</strong> zostało znalezionych przy pomocy następujących kryteriów",module,Magento_CatalogSearch
-"We can\'t find any items matching these search criteria.","We can\'t find any items matching these search criteria.",module,Magento_CatalogSearch
+"We can\'t find any items matching these search criteria.","Nie możemy znaleźć żadnych elementów spełniających kryteria tego wyszukiwania.",module,Magento_CatalogSearch
 "Modify your search.","Zmodyfikuj swoje zapytanie.",module,Magento_CatalogSearch
 name,nazwa,module,Magento_CatalogSearch
 "Don't see what you're looking for?","Nie możesz znaleźć tego czego szukasz?",module,Magento_CatalogSearch
@@ -2441,18 +2441,18 @@ State/Province,Województwo,module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Kod kuponu ""%1"" nie jest prawidłowy.",module,Magento_Checkout
 "You canceled the coupon code.","Anulowałeś kod kuponu.",module,Magento_Checkout
 "We cannot apply the coupon code.","Nie jest możliwe zastosowanie tego kodu kuponu.",module,Magento_Checkout
-"We can\'t remove the item.","We can\'t remove the item.",module,Magento_Checkout
+"We can\'t remove the item.","Nie możemy usunąć tego produktu.",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 został zaktualizowany w Twoim koszyku.",module,Magento_Checkout
-"We can\'t update the item right now.","We can\'t update the item right now.",module,Magento_Checkout
-"We can\'t update the shopping cart.","We can\'t update the shopping cart.",module,Magento_Checkout
+"We can\'t update the item right now.","W tej chwili nie możemy zaktualizować tego produktu.",module,Magento_Checkout
+"We can\'t update the shopping cart.","Nie możemy zaktualizować zawartości koszyka.",module,Magento_Checkout
 "One-page checkout is turned off.","Jednostronny proces zakupowy jest wyłączony.",module,Magento_Checkout
 "Guest checkout is disabled.","Możliwość składania zamówień przez użytkowników niezalogowanych jest wyłączona.",module,Magento_Checkout
 Checkout,Zamówienie,module,Magento_Checkout
 "Page not found.","Nie znaleziono strony.",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Coś się poszło nie tak jak powinno podczas przetwarzania Twojego zamówienia. Prosimy spróbować ponownie później.",module,Magento_Checkout
-"%1 doesn\'t extend \Magento\Checkout\CustomerData\ItemInterface","%1 doesn\'t extend \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
-"We can\'t find the product.","We can\'t find the product.",module,Magento_Checkout
+"%1 doesn\'t extend \Magento\Checkout\CustomerData\ItemInterface","%1 nie rozszerza \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
+"We can\'t find the product.","Nie możemy znaleźć produktu.",module,Magento_Checkout
 "The product does not exist.","Produkt nie istnieje.",module,Magento_Checkout
 "We don't have some of the products you want.","Nie posiadamy kilku produktów, których potrzebujesz.",module,Magento_Checkout
 "We don't have as many of some products as you want.","Nie posiadamy tak dużej ilości produktów jakiej oczekujesz.",module,Magento_Checkout
@@ -2483,7 +2483,7 @@ Error!,Błąd!,module,Magento_Checkout
 "DB exception","Błąd bazy danych",module,Magento_Checkout
 "Wrong minimum amount.","Niepoprawna minimalna ilość.",module,Magento_Checkout
 Message,Wiadomość,module,Magento_Checkout
-"<a href=\\%1\\ onclick=\\"this.target=\'_blank\'\\" class=\\"print\\">Print receipt</a>""""""","<a href=\\%1\\ onclick=\\"this.target=\'_blank\'\\" class=\\"print\\">Print receipt</a>""""""",module,Magento_Checkout
+"<a href=\\%1\\ onclick=\\"this.target=\'_blank\'\\" class=\\"print\\">Print receipt</a>""""""","<a href=\\%1\\ onclick=\\"this.target=\'_blank\'\\" class=\\"print\\">Wydrukuj pokwitowanie</a>""""""",module,Magento_Checkout
 "Apply Discount Code","Zastosuj kod rabatowy",module,Magento_Checkout
 "Enter discount code","Wprowadź kod rabatowy",module,Magento_Checkout
 "Apply Discount","Zastosuj zniżkę",module,Magento_Checkout
@@ -2702,7 +2702,7 @@ Pages,Strony,module,Magento_Cms
 "A total of %1 record(s) have been enabled.","W sumie %1 rekordy zostały wyłączone.",module,Magento_Cms
 "Page Title","Tytuł strony",module,Magento_Cms
 "To apply changes you should fill in hidden required ""%1"" field","Aby zastosować zmiany należy wypełnić ukryte wymagane pole ""%1""",module,Magento_Cms
-"You saved the page.","You saved the page.",module,Magento_Cms
+"You saved the page.","Strona została zapisana.",module,Magento_Cms
 "The directory %1 is not writable by server.","Katalog %1 nie ma praw do zapisu przez serwer.",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Upewnij się, że zawartość bloków statycznych nie odwołuje się do bloku.",module,Magento_Cms
 "CMS Block with id ""%1"" does not exist.","Blok CMS z id ""%1"" nie istnieje.",module,Magento_Cms
@@ -2938,9 +2938,9 @@ Stores,Sklepy,module,Magento_Config
 "Group Label","Etykieta Grupy",module,Magento_Config
 "Some Label","Niektóre etykiety",module,Magento_Config
 "Tab Label","Etykieta karty",module,Magento_Config
-"Allow everything","Allow everything",module,Magento_Config
-"Magento Admin","Magento Admin",module,Magento_Config
-Dashboard,Dashboard,module,Magento_Config
+"Allow everything","Zezwól na wszystko",module,Magento_Config
+"Magento Admin","Administrator Magento",module,Magento_Config
+Dashboard,Panel,module,Magento_Config
 "Manage Stores","Manage Stores",module,Magento_Config
 "Field 2","Pole 2",module,Magento_Config
 "Field 3","Pole 3",module,Magento_Config
@@ -2972,8 +2972,8 @@ Summary,Podsumowanie,module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Ta cecha jest używana w konfigurowalnych produktach.",module,Magento_ConfigurableProduct
 "Product has been already attached","Produkty zostały już dołączone",module,Magento_ConfigurableProduct
 "Product with specified sku: %1 is not a configurable product","Produkt o sku: %1 nie jest produktem konfigurowalnym",module,Magento_ConfigurableProduct
-"Requested option doesn\'t exist","Requested option doesn\'t exist",module,Magento_ConfigurableProduct
-"Requested option doesn\'t exist: %1","Requested option doesn\'t exist: %1",module,Magento_ConfigurableProduct
+"Requested option doesn\'t exist","Żądana opcja nie istnieje",module,Magento_ConfigurableProduct
+"Requested option doesn\'t exist: %1","Żądana opcja nie istnieje: %1",module,Magento_ConfigurableProduct
 "Cannot delete variations from product: %1","Nie można usunąć kombinacji z produktu: %1",module,Magento_ConfigurableProduct
 "Cannot delete option with id: %1","Nie można usunąć opcji z id %1",module,Magento_ConfigurableProduct
 "Option with id ""%1"" not found","Nie znaleziono opcji o id ""%1""",module,Magento_ConfigurableProduct
@@ -2985,7 +2985,7 @@ Summary,Podsumowanie,module,Magento_ConfigurableProduct
 "Value index is not specified for an option.","Wartość indeksu nie jest określona dla opcji.",module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","Produkt z id ""%1"" nie zawiera wymaganego atrybutu ""%2"".",module,Magento_ConfigurableProduct
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Products ""%1"" and ""%2"" have the same set of attribute values.",module,Magento_ConfigurableProduct
-"You can\'t add the item to shopping cart.","You can\'t add the item to shopping cart.",module,Magento_ConfigurableProduct
+"You can\'t add the item to shopping cart.","Nie możesz dodać produktu do koszyka.",module,Magento_ConfigurableProduct
 "You need to choose options for your item.","Musisz wybrać opcje produktu.",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Niektóre pola kombinacji produktu nie są prawidłowe.",module,Magento_ConfigurableProduct
 "Configuration must have specified attributes","Konfiguracja musi mieć określone atrybuty",module,Magento_ConfigurableProduct
@@ -3071,7 +3071,7 @@ Done,Zrobione,module,Magento_ConfigurableProduct
 "Please select image(s) for your attribute.","Proszę wybierz obraz(y) dla tego atrybutu.",module,Magento_ConfigurableProduct
 "Please choose image(s).","Proszę wybrać obrazy.",module,Magento_ConfigurableProduct
 "We could not detect a size.","Nie można wykryć rozmiaru.",module,Magento_ConfigurableProduct
-"We don\'t recognize or support this file extension type.","We don\'t recognize or support this file extension type.",module,Magento_ConfigurableProduct
+"We don\'t recognize or support this file extension type.","Nie rozpoznajemy ani nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_ConfigurableProduct
 "Please select attribute(s).","Proszę wybrać atrybuty.",module,Magento_ConfigurableProduct
 "Generate Products","Generuj produkty",module,Magento_ConfigurableProduct
 "Configurable Product Image","Obrazek konfigurowalnego produktu",module,Magento_ConfigurableProduct
