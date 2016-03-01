@@ -1525,10 +1525,10 @@ All,Wszystko,module,Magento_Catalog
 "Bad controller interface for showing product","Zły sterownik interfejsu dla produktu",module,Magento_Catalog
 "Product is not loaded","Produkt nie jest załadowany.",module,Magento_Catalog
 "Make sure the To Date is later than or the same as the From Date.","Upewnij się, że data zakończenia jest późniejsza lub ta sama co data rozpoczęcia.",module,Magento_Catalog
-"Sorry, but we can\'t find the new parent category you selected.","Sorry, but we can\'t find the new parent category you selected.",module,Magento_Catalog
-"Sorry, but we can\'t find the new category you selected.","Sorry, but we can\'t find the new category you selected.",module,Magento_Catalog
-"We can\'t move the category because the parent category name matches the child category name.","We can\'t move the category because the parent category name matches the child category name.",module,Magento_Catalog
-"Can\'t delete root category.","Can\'t delete root category.",module,Magento_Catalog
+"Sorry, but we can\'t find the new parent category you selected.","Przepraszamy, ale nie możemy znaleźć nowej kategorii nadrzędnej, którą wybrałeś.",module,Magento_Catalog
+"Sorry, but we can\'t find the new category you selected.","Przepraszamy, ale nie możemy znaleźć nowej kategorii, którą wybrałeś.",module,Magento_Catalog
+"We can\'t move the category because the parent category name matches the child category name.","Nie możemy przenieść kategorii, ponieważ nazwa kategorii nadrzędnej jest taka sama, co nazwa kategorii podrzędnej.",module,Magento_Catalog
+"Can\'t delete root category.","Nie można usunąć kategorii głównej.",module,Magento_Catalog
 "The value of attribute ""%1"" must be unique.","Wartość cechy ""%1"" musi być unikatowa.",module,Magento_Catalog
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Domyślne sortowanie nie istnieje w dostepnych opcjach sortowania.",module,Magento_Catalog
 "No layout updates","Brak aktualizacji układu",module,Magento_Catalog
@@ -1566,7 +1566,7 @@ Top/Right,Góra/prawo,module,Magento_Catalog
 Bottom/Left,Dół/lewo,module,Magento_Catalog
 Bottom/Right,Dół/prawo,module,Magento_Catalog
 Center,Środek,module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 doesn\'t extends \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 nie dziedziczy po \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Nieznany typ indeksu EAV ""%1"".",module,Magento_Catalog
 "We can\'t rebuild the index for an undefined product.","We can\'t rebuild the index for an undefined product.",module,Magento_Catalog
 "Bad value was supplied.","Podano błędną wartość.",module,Magento_Catalog
@@ -1578,8 +1578,8 @@ Center,Środek,module,Magento_Catalog
 Category,Kategoria,module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
 "%1 was not found in algorithms","%1 nie został znaleziony w algorytmach",module,Magento_Catalog
-"%1 doesn\'t extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 doesn\'t extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
+"%1 doesn\'t extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 nie dziedziczy po \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 nie dziedziczy po \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","Filtr musi być obiektem. Proszę ustawić poprawny filtr.",module,Magento_Catalog
 "Clear Price","Wyczyść cenę",module,Magento_Catalog
 "%1 and above","%1 i więcej",module,Magento_Catalog
@@ -1605,11 +1605,11 @@ Disabled,Wyłączone,module,Magento_Catalog
 "Cannot save product.","Nie można zapisać produktu.",module,Magento_Catalog
 "Failed to save new media gallery entry.","Nie udało się zapisać nowej wartości do galerii.",module,Magento_Catalog
 "There is no image with provided ID.","Zdjęcie o podanym ID nie istnieje.",module,Magento_Catalog
-"Such product doesn\'t exist","Such product doesn\'t exist",module,Magento_Catalog
-"Such image doesn\'t exist","Such image doesn\'t exist",module,Magento_Catalog
+"Such product doesn\'t exist","Podany produkt nie istnieje",module,Magento_Catalog
+"Such image doesn\'t exist","Podane zdjęcie nie istnieje",module,Magento_Catalog
 "The image does not exist.","Obraz nie istnieje.",module,Magento_Catalog
 "Please correct the image file type.","Proszę poprawić typ pliku ze zdjęciem.",module,Magento_Catalog
-"We couldn\'t move this file: %1.","We couldn\'t move this file: %1.",module,Magento_Catalog
+"We couldn\'t move this file: %1.","Nie możemy przenieść tego pliku: %1.",module,Magento_Catalog
 "We can\'t find the image file.","We can\'t find the image file.",module,Magento_Catalog
 "The option type to get group instance is incorrect.","Typ opcji aby uzyskać instancję grupę jest nieprawidłowy.",module,Magento_Catalog
 "Select type options required values rows.","Proszę wybrać typ opcji z wymaganymi wartościami.",module,Magento_Catalog
