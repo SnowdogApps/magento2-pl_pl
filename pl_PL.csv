@@ -48,7 +48,7 @@ notice,informacja,module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=\"%1\">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=\"%1\">configuration</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","Istnieją nieaktualne pamięci podręczne: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1"">strony zarządzania pamięciami podręcznymi</a> i odśwież je.",module,Magento_AdminNotification
-"We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Nie byliśmy wstanie zsynchronizować jednego lub więcej plików multimedialnych. Zajrzyj do pliku z logami po więcej szczegółów.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Ukończono synchronizację przechowalni multimediów.",module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Twój serwer nie jest poprawnie skonfigurowany i pozwala na nieautoryzowany dostęp do wrażliwych plików. Skontaktuj się z dostawcą usług hostingowych.",module,Magento_AdminNotification
 "Close popup","Zamknij okno",module,Magento_AdminNotification
@@ -126,8 +126,8 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "Order by SKU","Sortuj po SKU",module,Magento_AdvancedCheckout
 "SKU not found in catalog.","Brak SKU w katalogu.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Dostępność: brak.",module,Magento_AdvancedCheckout
-"We don\'t have as many of these as you want.","We don\'t have as many of these as you want.",module,Magento_AdvancedCheckout
-"You can\'t add this many to your cart.","You can\'t add this many to your cart.",module,Magento_AdvancedCheckout
+"We don\'t have as many of these as you want.","Wymagana ilość nie jest dostępna.",module,Magento_AdvancedCheckout
+"You can\'t add this many to your cart.","Nie można dodać takiej ilości do koszyka.",module,Magento_AdvancedCheckout
 "You need to choose options for your item.","Musisz wybrać opcje produktu.",module,Magento_AdvancedCheckout
 "We can\'t add the item to your cart.","We can\'t add the item to your cart.",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","Wpisz liczbę w pole „Ilość”.",module,Magento_AdvancedCheckout
