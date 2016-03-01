@@ -5580,7 +5580,7 @@ Status,Status,module,Magento_ImportExport
 "Please provide filter data.","Please provide filter data.",module,Magento_ImportExport
 "We can\'t determine the attribute filter type.","We can\'t determine the attribute filter type.",module,Magento_ImportExport
 "Entity is unknown","Jednostka jest nieznana",module,Magento_ImportExport
-"We can\'t identify this file format.","We can\'t identify this file format.",module,Magento_ImportExport
+"We can\'t identify this file format.","Nie możemy rozpoznać formatu tego pliku.",module,Magento_ImportExport
 "Please correct the value for ""%1"" column.","Please correct the value for ""%1"" column.",module,Magento_ImportExport
 "Please specify the writer.","Please specify the writer.",module,Magento_ImportExport
 "The destination file path must be a string.","The destination file path must be a string.",module,Magento_ImportExport
