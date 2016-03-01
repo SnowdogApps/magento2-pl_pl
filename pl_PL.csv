@@ -3088,7 +3088,7 @@ Scope,Zakres,module,Magento_ConfigurableProduct
 Searchable,"Widoczny w wynikach wyszukiwania",module,Magento_ConfigurableProduct
 Comparable,Porównywalne,module,Magento_ConfigurableProduct
 "Page not found.","Nie znaleziono strony.",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Dziękujemy za skontaktowanie się z nami. Odpowiemy najszybciej jak to będzie możliwe.",module,Magento_Contact
 "We can\'t process your request right now. Sorry, that\'s all we know.","We can\'t process your request right now. Sorry, that\'s all we know.",module,Magento_Contact
 "* Required Fields","* wymagane pola",module,Magento_Contact
 "Write Us","Napisz do nas",module,Magento_Contact
@@ -3255,13 +3255,13 @@ Indeterminate,Nieokreślone,module,Magento_Customer
 Offline,Offline,module,Magento_Customer
 Online,Online,module,Magento_Customer
 Never,Nigdy,module,Magento_Customer
-Unlocked,Unlocked,module,Magento_Customer
-Locked,Locked,module,Magento_Customer
+Unlocked,Odblokowane,module,Magento_Customer
+Locked,Zablokowane,module,Magento_Customer
 "Deleted Stores","Usunięte sklepy",module,Magento_Customer
 "Add Locale","Dodawanie ustawień regionalnych",module,Magento_Customer
 "Add Date","Dodaj datę",module,Magento_Customer
 "Days in Wish List","Dni w liście życzeń",module,Magento_Customer
-Unlock,Unlock,module,Magento_Customer
+Unlock,Odblokuj,module,Magento_Customer
 No,Nie,module,Magento_Customer
 Yes,Tak,module,Magento_Customer
 "Delete File","Usuń plik",module,Magento_Customer
@@ -3332,8 +3332,8 @@ Download,Pobierz,module,Magento_Customer
 "We can\'t save the address.","Nie można zapisać adresu.",module,Magento_Customer
 "No customer ID defined.","Nie zdefiniowano ID klienta.",module,Magento_Customer
 "Please correct the quote items and try again.","Proszę poprawić wymienione elementy i spróbować ponownie.",module,Magento_Customer
-"You have revoked the customer\'s tokens.","You have revoked the customer\'s tokens.",module,Magento_Customer
-"We can\'t find a customer to revoke.","We can\'t find a customer to revoke.",module,Magento_Customer
+"You have revoked the customer\'s tokens.","Unieważniłeś token klienta.",module,Magento_Customer
+"We can\'t find a customer to revoke.","Nie możemy znaleźć klienta do odwołania.",module,Magento_Customer
 "You deleted the customer group.","Usunięto grupę klientów.",module,Magento_Customer
 "The customer group no longer exists.","Grupa klientów już nie istnieje.",module,Magento_Customer
 Customers,Klienci,module,Magento_Customer
@@ -3362,7 +3362,7 @@ Customers,Klienci,module,Magento_Customer
 "Please load Wish List item.","Proszę załadować elementy listy życzeń.",module,Magento_Customer
 "Login successful.","Logowanie udane.",module,Magento_Customer
 """%1"" section source is not supported","""%1"" sekcja źródła nie jest obsługiwana",module,Magento_Customer
-"%1 doesn\'t extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn\'t extend \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
+"%1 doesn\'t extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 nie rozszerza \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
 "The password doesn\'t match this account.","Hasło jest niepoprawne dla tego konta.",module,Magento_Customer
 "No confirmation needed.","Nie potrzeba potwierdzenia.",module,Magento_Customer
 "Account already active","Konto już aktywne",module,Magento_Customer
@@ -3572,7 +3572,7 @@ Password:,Hasło:,module,Magento_Customer
 "Thank you for confirming your %store_name account.","Dziękuję za potwierdzenie konta na %store_name.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Zaloguj się na naszej stronie i ustaw hasło, kliknij na ten <a href=""%create_password_url""> link</a>:",module,Magento_Customer
 "Hello,","Witamy,",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email.","Otrzymaliśmy prośbę o zmianę następujących informacji na Twoim koncie %store_name: email.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Jeżeli nie możesz wykonać tej akcji, proszę skontaktuj się natychmiastowo z nami na <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","lub zadzwoń do nas  pod numer <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","dziękujemy, <br>%store_name",module,Magento_Customer
@@ -4582,7 +4582,7 @@ Unknown,Nieznany,module,Magento_Email
 "You deleted the email template.","Usunąłeś szablon wiadomości email.",module,Magento_Email
 "The email template is currently being used.","Szablon wiadomości e-mail jest aktualnie używany.",module,Magento_Email
 "We can\'t delete email template data right now. Please review log and try again.","We can\'t delete email template data right now. Please review log and try again.",module,Magento_Email
-"We can\'t find an email template to delete.","We can\'t find an email template to delete.",module,Magento_Email
+"We can\'t find an email template to delete.","Nie możemy znaleźć szablonu wiadomości e-mail do usunięcia.",module,Magento_Email
 "Edit Template","Edycja szablonu",module,Magento_Email
 "Edit System Template","Edycja szablonu systemowego",module,Magento_Email
 "New Template","Nowy szablon",module,Magento_Email
@@ -4666,7 +4666,7 @@ Yes,Tak,module,Magento_EncryptionKey
 "Deployment configuration file is not writable.","Plik konfiguracji wdrażania nie jest możliwy do zapisu.",module,Magento_EncryptionKey
 "Please enter an encryption key.","Wprowadź klucz szyfrowania.",module,Magento_EncryptionKey
 "The encryption key has been changed.","Klucz szyfrowania został zmieniony.",module,Magento_EncryptionKey
-"This is your new encryption key: <span style=\"font-family:monospace;\">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=\"font-family:monospace;\">%1</span>. Be sure to write it down and take good care of it!",module,Magento_EncryptionKey
+"This is your new encryption key: <span style=\"font-family:monospace;\">%1</span>. Be sure to write it down and take good care of it!","To jest twój nowy klucz szyfrowania: <span style=\"font-family:monospace;\">%1</span>. Pamiętaj by go zapisać i dobrze o niego dbać!",module,Magento_EncryptionKey
 "Manage Encryption Key","Manage Encryption Key",module,Magento_EncryptionKey
 "Private Sales","Private Sales",module,Magento_Enterprise
 "Payment Type","Typ płatności",module,Magento_Eway
@@ -5554,13 +5554,13 @@ Status,Status,module,Magento_ImportExport
 "This file is empty. Please try another one.","Ten plik jest pusty. Proszę spróbować z innym.",module,Magento_ImportExport
 "Data validation is failed. Please fix errors and re-upload the file..","Data validation is failed. Please fix errors and re-upload the file..",module,Magento_ImportExport
 "File is valid! To start import process press ""Import"" button","Plik jest poprawny! Naciśnij przycisk Import"" aby rozpocząć proces importu """,module,Magento_ImportExport
-"The file is valid, but we can\'t import it for some reason.","The file is valid, but we can\'t import it for some reason.",module,Magento_ImportExport
+"The file is valid, but we can\'t import it for some reason.","Plik jest poprawny, ale z jakiegoś powodu nie możemy go zaimportować.",module,Magento_ImportExport
 "Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Zaznaczone rzędy: %1, zaznaczone elementy %2, nieprawidłowe rzędy: %3, łącznie błędów: %4",module,Magento_ImportExport
 "The file was not uploaded.","Plik nie został przesłany.",module,Magento_ImportExport
 "Sorry, but the data is invalid or the file is not uploaded.","Sorry, but the data is invalid or the file is not uploaded.",module,Magento_ImportExport
 "Show more","Pokaż więcej",module,Magento_ImportExport
 "Additional data","Dodatkowe dane",module,Magento_ImportExport
-"Following Error(s) has been occurred during importing process:","Following Error(s) has been occurred during importing process:",module,Magento_ImportExport
+"Following Error(s) has been occurred during importing process:","Podczas importowania wystąpiły następujące problemy:",module,Magento_ImportExport
 "Only first 100 errors are displayed here. ","Tutaj wyświetlane są tylko pierwsze 100 błędy. ",module,Magento_ImportExport
 "Download full report","Pobierz pełny raport",module,Magento_ImportExport
 "in rows:","w rzędach:",module,Magento_ImportExport
@@ -5584,7 +5584,7 @@ Status,Status,module,Magento_ImportExport
 "Please correct the value for ""%1"" column.","Please correct the value for ""%1"" column.",module,Magento_ImportExport
 "Please specify the writer.","Please specify the writer.",module,Magento_ImportExport
 "The destination file path must be a string.","The destination file path must be a string.",module,Magento_ImportExport
-"The destination directory is not writable.","The destination directory is not writable.",module,Magento_ImportExport
+"The destination directory is not writable.","Katalog docelowy nie jest zapisywalny.",module,Magento_ImportExport
 "Destination file is not writable","Plik docelowy nie ma praw do zapisu",module,Magento_ImportExport
 "The header column names are already set.","The header column names are already set.",module,Magento_ImportExport
 "Data validation is failed. Please fix errors and re-upload the file.","Data validation is failed. Please fix errors and re-upload the file.",module,Magento_ImportExport
