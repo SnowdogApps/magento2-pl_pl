@@ -1756,8 +1756,8 @@ Groups,Grupy,module,Magento_Catalog
 "Maximum image height","Maksymalna wysokość obrazka",module,Magento_Catalog
 "Maximum number of characters:","Maksymalna ilość znaków:",module,Magento_Catalog
 "start typing to search template","rozpocznij wpisywanie, aby wyszukać szablon",module,Magento_Catalog
-"Product online","Produkt online",module,Magento_Catalog
-"Product offline","Produkt offline",module,Magento_Catalog
+"Product online","Produkt włączony",module,Magento_Catalog
+"Product offline","Produkt wyłączony",module,Magento_Catalog
 "Product online status","Status online produktu",module,Magento_Catalog
 "Manage Stock","Zarządzaj stanami",module,Magento_Catalog
 Qty,Ilość,module,Magento_Catalog
