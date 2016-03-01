@@ -443,7 +443,7 @@ Export,Eksport,module,Magento_Backend
 "Please select items.","Prosimy wybrać produkty.",module,Magento_Backend
 Submit,Prześlij,module,Magento_Backend
 "Unknown block type","Nieznany typ bloku",module,Magento_Backend
-"Please correct the tab configuration and try again. Tab Id should be not empty","Proszę poprawić konfigurację karty i spróbować ponownie. Id karty nie może być puste",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","Proszę poprawić konfigurację karty i spróbować ponownie. Identyfikator karty nie może być pusty",module,Magento_Backend
 "Please correct the tab configuration and try again.","Popraw konfigurację karty i spróbuj ponownie.",module,Magento_Backend
 "You have logged out.","Wylogowanie zakończone.",module,Magento_Backend
 "Specified cache type(s) don\'t exist: %1","Nieistniejące pamięci podręczne: %1",module,Magento_Backend
@@ -770,20 +770,20 @@ Tags,Tagi,module,Magento_Backend
 "Something went wrong while putting your store into maintenance mode.","Coś się zepsuło podczas przechodzenia sklepu w tryb konserwacji.",module,Magento_Backup
 "You need more free space to create a backup.","Potrzebujesz więcej wolnego miejsca, aby utworzyć kopię zapasową.",module,Magento_Backup
 "You need more permissions to create a backup.","Potrzebujesz więcej uprawnień, aby utworzyć kopię zapasową.",module,Magento_Backup
-"We can\'t create the backup right now.","We can\'t create the backup right now.",module,Magento_Backup
+"We can\'t create the backup right now.","W tej chwili nie możemy utworzyć kopii zapasowej.",module,Magento_Backup
 Backups,"Kopie zapasowe",module,Magento_Backup
 System,System,module,Magento_Backup
 Tools,Narzędzia,module,Magento_Backup
 Backup,"Kopia zapasowa",module,Magento_Backup
-"We can\'t delete one or more backups.","We can\'t delete one or more backups.",module,Magento_Backup
+"We can\'t delete one or more backups.","Nie możemy usunąć jednej lub więcej kopii zapasowych.",module,Magento_Backup
 failed,nieudane,module,Magento_Backup
 successful,"zakończona pomyślnie",module,Magento_Backup
 "You deleted the selected backup(s).","Zaznaczone kopie zostały usunięte.",module,Magento_Backup
 "Can\'t load snapshot archive","Can\'t load snapshot archive",module,Magento_Backup
 "Please correct the password.","Proszę poprawić hasło.",module,Magento_Backup
 "To complete the rollback, please deselect \"Put store into maintenance mode\" or update your permissions.","To complete the rollback, please deselect \"Put store into maintenance mode\" or update your permissions.",module,Magento_Backup
-"We can\'t find the backup file.","We can\'t find the backup file.",module,Magento_Backup
-"We can\'t connect to the FTP right now.","We can\'t connect to the FTP right now.",module,Magento_Backup
+"We can\'t find the backup file.","Nie możemy odnaleźć pliku z kopią zapasową.",module,Magento_Backup
+"We can\'t connect to the FTP right now.","W tej chili nie możemy połączyć się z FTP.",module,Magento_Backup
 "Failed to validate FTP.","Nie udało się potwierdzić FTP.",module,Magento_Backup
 "You need more permissions to perform a rollback.","Potrzebujesz wyższych uprawnień do wykonania przywrócenia.",module,Magento_Backup
 "Failed to rollback.","Nie udało się przywrócić kopii.",module,Magento_Backup
@@ -1253,7 +1253,7 @@ Always,Zawsze,module,Magento_Captcha
 "Provided form does not exist","Podany formularz nie istnieje",module,Magento_Captcha
 "Incorrect CAPTCHA","Niepoprawna CAPTCHA",module,Magento_Captcha
 "Incorrect CAPTCHA.","Niepoprawna CAPTCHA",module,Magento_Captcha
-"The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1.",module,Magento_Captcha
+"The account is locked. Please wait and try again or contact %1.","Konto zostało zablokowane. Proszę poczekać i spróbować ponownie lub skontaktować się z %1.",module,Magento_Captcha
 "Please enter the letters from the image","Wprowadź litery z obrazka",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Uwaga</strong>: Captcha bierze pod uwagę wielkie i małe litery.",module,Magento_Captcha
 "Reload captcha","Przeładuj captcha",module,Magento_Captcha
@@ -1388,7 +1388,7 @@ Websites,Witryny,module,Magento_Catalog
 "Create Category","Stwórz Kategorię",module,Magento_Catalog
 "Category Name","Nazwa kategorii",module,Magento_Catalog
 "Parent Category","Kategoria nadrzędna",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products > Categories</a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products > Categories</a>.","Jeśli nie ma zdefiniowanej kategorii nadrzędnej, proszę użyć kategorii domyślnej. W każdej chwili można zmienić przypisaną kategorię w <a href=\"%1\" target=\"_blank\">Produkty > Kategorie</a>.",module,Magento_Catalog
 "Price Alert Subscriptions","Subskrypcja alertów cen",module,Magento_Catalog
 "Stock Alert Subscriptions","Subskrypcja alertów stanu magazynu",module,Magento_Catalog
 "There are no customers for this alert.","Nie ma klientów dla tego alertu.",module,Magento_Catalog
@@ -1475,19 +1475,19 @@ Categories,Kategorie,module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","Upewnij się że zdefiniowano wartość SKU dla wszystkich produktów przetworzonych.",module,Magento_Catalog
 "A total of %1 record(s) were updated.","Zaktualizowano %1 rekordów.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Atrybuty produktów nie zostały zaktualizowane z powodu błędów.",module,Magento_Catalog
-"Please, specify attributes","Please, specify attributes",module,Magento_Catalog
+"Please, specify attributes","Proszę określić cechy",module,Magento_Catalog
 Catalog,Katalog,module,Magento_Catalog
 "Manage Product Attributes","Zarządzaj cechami produktu",module,Magento_Catalog
-"We can\'t delete the attribute.","We can\'t delete the attribute.",module,Magento_Catalog
+"We can\'t delete the attribute.","Nie możemy usunąć tej cechy.",module,Magento_Catalog
 "You deleted the product attribute.","Atrybut produktu został usunięty.",module,Magento_Catalog
-"We can\'t find an attribute to delete.","We can\'t find an attribute to delete.",module,Magento_Catalog
+"We can\'t find an attribute to delete.","Nie możemy znaleźć cechy do usunięcia.",module,Magento_Catalog
 "This attribute no longer exists.","Taki atrybut nie istnieje.",module,Magento_Catalog
 "This attribute cannot be edited.","Ta cecha nie może być edytowana.",module,Magento_Catalog
 "Edit Product Attribute","Edytuj cechę produktu",module,Magento_Catalog
 "An attribute set named \'%1\' already exists.","An attribute set named \'%1\' already exists.",module,Magento_Catalog
 "Something went wrong while saving the attribute.","Coś się zepsuło podczas zapisywania cechy.",module,Magento_Catalog
 "Attribute code \"%1\" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code \"%1\" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
-"We can\'t update the attribute.","We can\'t update the attribute.",module,Magento_Catalog
+"We can\'t update the attribute.","Nie możemy zaktualizować cechy.",module,Magento_Catalog
 "You saved the product attribute.","Atrybut produktu zapisany.",module,Magento_Catalog
 "An attribute with this code already exists.","Atrybut z tym kodem już istnieje.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Cecha o podanym kodzie (%1) już istnieje.",module,Magento_Catalog
