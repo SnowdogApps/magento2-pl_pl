@@ -1566,7 +1566,7 @@ Top/Right,Góra/prawo,module,Magento_Catalog
 Bottom/Left,Dół/lewo,module,Magento_Catalog
 Bottom/Right,Dół/prawo,module,Magento_Catalog
 Center,Środek,module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 nie dziedziczy po \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 nie rozszerza \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Nieznany typ indeksu EAV ""%1"".",module,Magento_Catalog
 "We can\'t rebuild the index for an undefined product.","We can\'t rebuild the index for an undefined product.",module,Magento_Catalog
 "Bad value was supplied.","Podano błędną wartość.",module,Magento_Catalog
@@ -1578,8 +1578,8 @@ Center,Środek,module,Magento_Catalog
 Category,Kategoria,module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
 "%1 was not found in algorithms","%1 nie został znaleziony w algorytmach",module,Magento_Catalog
-"%1 doesn\'t extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 nie dziedziczy po \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 nie dziedziczy po \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
+"%1 doesn\'t extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 nie rozszerza \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 nie rozszerza \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","Filtr musi być obiektem. Proszę ustawić poprawny filtr.",module,Magento_Catalog
 "Clear Price","Wyczyść cenę",module,Magento_Catalog
 "%1 and above","%1 i więcej",module,Magento_Catalog
@@ -1648,8 +1648,8 @@ px.,px.,module,Magento_Catalog
 "The file upload failed.","Wysłanie pliku nie powiodło się.",module,Magento_Catalog
 "The product has required options.","Produkt ma wymagane opcje.",module,Magento_Catalog
 "Something went wrong while processing the request.","Coś się zepsuło podczas przetwarzania żądania.",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 nie rozszerza \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\Price","%1 nie rozszerza \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
 "Not Visible Individually","Niewidoczne pojedyńczo",module,Magento_Catalog
 Search,Szukaj,module,Magento_Catalog
 "Catalog, Search","Katalog, wyszukiwanie",module,Magento_Catalog
@@ -1663,7 +1663,7 @@ Search,Szukaj,module,Magento_Catalog
 "Invalid data provided for linked products","Nieprawidłowe dane podane dla powiązanych produktów",module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","Produkt z SKU %1 nie jest związany z produktem z SKU %2",module,Magento_Catalog
 "Product %1 doesn\'t have linked %2 as %3","Product %1 doesn\'t have linked %2 as %3",module,Magento_Catalog
-"Requested product doesn\'t exist","Requested product doesn\'t exist",module,Magento_Catalog
+"Requested product doesn\'t exist","Żądany produkt nie istnieje",module,Magento_Catalog
 "Requested product does not support images.","Podany produkt nie obsługuje obrazków.",module,Magento_Catalog
 "Product with SKU ""%1"" does not exist","Produkt z SKU ""%1"" nie istnieje",module,Magento_Catalog
 "Invalid product data: %1","Nieprawidłowe dane produktu: %1",module,Magento_Catalog
@@ -1675,15 +1675,15 @@ Search,Szukaj,module,Magento_Catalog
 "Attribute \'%1\' is locked. %2","Attribute \'%1\' is locked. %2",module,Magento_Catalog
 "Do not change the scope. %1","Nie zmieniaj zakresu. %1",module,Magento_Catalog
 "A product type is not defined for the indexer.","Typ produktu nie jest zdefiniowany dla indeksowania.",module,Magento_Catalog
-"%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
+"%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 nie rozszerza \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
 "Multiple Select","Wiielokrotny wybór",module,Magento_Catalog
 Dropdown,"Lista rozwijana",module,Magento_Catalog
-"%1 doesn\'t extend \Magento\Framework\Filter\Template","%1 doesn\'t extend \Magento\Framework\Filter\Template",module,Magento_Catalog
+"%1 doesn\'t extend \Magento\Framework\Filter\Template","%1 nie rozszerza \Magento\Framework\Filter\Template",module,Magento_Catalog
 "As low as","Już od",module,Magento_Catalog
 message,wiadomość,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
-Images,Images,module,Magento_Catalog
+Images,Zdjęcia,module,Magento_Catalog
 Select...,Wybierz...,module,Magento_Catalog
 "Advanced Pricing","Advanced Pricing",module,Magento_Catalog
 "Tier Price","Tier Price",module,Magento_Catalog
@@ -1691,15 +1691,15 @@ Select...,Wybierz...,module,Magento_Catalog
 "Special Price From","Special Price From",module,Magento_Catalog
 To,Do,module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
-Done,Done,module,Magento_Catalog
-"Add Selected","Add Selected",module,Magento_Catalog
+Done,Zrobione,module,Magento_Catalog
+"Add Selected","Dodaj wybrane",module,Magento_Catalog
 "Customizable Options","Customizable Options",module,Magento_Catalog
 "Custom options let shoppers choose the product variations they want.","Custom options let shoppers choose the product variations they want.",module,Magento_Catalog
 "Add Option","Dodaj opcję",module,Magento_Catalog
 "New Option","Nowa opcja",module,Magento_Catalog
 "Select Product","Wybierz produkt",module,Magento_Catalog
 "Option Title","Tytuł opcji",module,Magento_Catalog
-"Add Value","Add Value",module,Magento_Catalog
+"Add Value","Dodaj wartość",module,Magento_Catalog
 Title,Tytuł,module,Magento_Catalog
 "Option Type","Option Type",module,Magento_Catalog
 Required,Wymagane,module,Magento_Catalog
@@ -1708,8 +1708,8 @@ Required,Wymagane,module,Magento_Catalog
 "Compatible File Extensions","Zgodne rozszerzenia pliku",module,Magento_Catalog
 "Maximum Image Size","Maksymalny rozmiar obrazka",module,Magento_Catalog
 "Please leave blank if it is not an image.","Proszę zostawić puste, jeśli nie jest to obraz.",module,Magento_Catalog
-"This item has weight","This item has weight",module,Magento_Catalog
-"This item has no weight","This item has no weight",module,Magento_Catalog
+"This item has weight","Ten przedmiot ma wagę",module,Magento_Catalog
+"This item has no weight","Ten przedmiot nie ma wagi",module,Magento_Catalog
 "Set Product as New From","Set Product as New From",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells",module,Magento_Catalog
 "Related products are shown to shoppers in addition to the item the shopper is looking at.","Related products are shown to shoppers in addition to the item the shopper is looking at.",module,Magento_Catalog
@@ -1721,7 +1721,7 @@ Required,Wymagane,module,Magento_Catalog
 "Add Cross-Sell Products","Add Cross-Sell Products",module,Magento_Catalog
 "Cross-Sell Products","Cross-Sell Products",module,Magento_Catalog
 "Add Selected Products","Add Selected Products",module,Magento_Catalog
-Remove,Remove,module,Magento_Catalog
+Remove,Usuń,module,Magento_Catalog
 Thumbnail,Miniaturka,module,Magento_Catalog
 Actions,Operacje,module,Magento_Catalog
 "Schedule Update From","Ustaw aktualizację od",module,Magento_Catalog
@@ -1858,7 +1858,7 @@ OK,OK,module,Magento_Catalog
 "Choose existing category.","Wybierz istniejącej kategorii.",module,Magento_Catalog
 "Image Detail","Szczegóły obrazu",module,Magento_Catalog
 Adding...,Adding...,module,Magento_Catalog
-Added,Added,module,Magento_Catalog
+Added,Dodane,module,Magento_Catalog
 "unselect all","odznacz wszystko",module,Magento_Catalog
 Inventory,Inventory,module,Magento_Catalog
 "Catalog Section","Catalog Section",module,Magento_Catalog
@@ -2067,9 +2067,9 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Obiekt typu modelu musi występować w \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Brak typów produktów dostępnych do eksportu.",module,Magento_CatalogImportExport
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Typ obiektu modelu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
-"Category ""%1"" has not been created.","Category ""%1"" has not been created.",module,Magento_CatalogImportExport
-"File directory \'%1\' is not readable.","File directory \'%1\' is not readable.",module,Magento_CatalogImportExport
-"File directory \'%1\' is not writable.","File directory \'%1\' is not writable.",module,Magento_CatalogImportExport
+"Category ""%1"" has not been created.","Kategoria ""%1"" nie została utworzona.",module,Magento_CatalogImportExport
+"File directory \'%1\' is not readable.","Katalog \'%1\' nie jest do odczytu.",module,Magento_CatalogImportExport
+"File directory \'%1\' is not writable.","Katalog \'%1\' nie jest zapisywalny.",module,Magento_CatalogImportExport
 "Value for \'price\' sub attribute in \'store\' attribute contains incorrect value","Value for \'price\' sub attribute in \'store\' attribute contains incorrect value",module,Magento_CatalogImportExport
 "Value for \'type\' sub attribute in \'custom_options\' attribute contains incorrect value, acceptable values are: \'dropdown\', \'checkbox\'","Value for \'type\' sub attribute in \'custom_options\' attribute contains incorrect value, acceptable values are: \'dropdown\', \'checkbox\'",module,Magento_CatalogImportExport
 "Please enter a value for title.","Wprowadź wartości dla tytułu.",module,Magento_CatalogImportExport
@@ -2081,7 +2081,7 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Custom options have different types.","Niestandardowe opcje mają różne typy.",module,Magento_CatalogImportExport
 "Every option entity must have a parent product entity.","Każda opcja musi mieć obiekt produktu nadrzędnego.",module,Magento_CatalogImportExport
 "Please correct the parameters.","Proszę poprawić parametry.",module,Magento_CatalogImportExport
-"File \'%1\' was not found or has read restriction.","File \'%1\' was not found or has read restriction.",module,Magento_CatalogImportExport
+"File \'%1\' was not found or has read restriction.","Plik \'%1\' nie został odnaleziony lub posiada ograniczenia odczytu.",module,Magento_CatalogImportExport
 "ALL GROUPS","WSZYSTKIE GRUPY",module,Magento_CatalogInventory
 "Customer Group","Grupa klienta",module,Magento_CatalogInventory
 "Minimum Qty","Minimalna ilość",module,Magento_CatalogInventory
@@ -2203,7 +2203,7 @@ Save,Zapisz,module,Magento_CatalogRule
 "Add New Rule","Dodaj nową regułę",module,Magento_CatalogRule
 "Apply Rules","Zastosuj reguły",module,Magento_CatalogRule
 Conditions,Warunki,module,Magento_CatalogRule
-"Conditions (don\'t add conditions if rule is applied to all products)","Conditions (don\'t add conditions if rule is applied to all products)",module,Magento_CatalogRule
+"Conditions (don\'t add conditions if rule is applied to all products)","Warunki (nie dodawaj warunków, jeśli reguła obejmuje wszystkie produkty)",module,Magento_CatalogRule
 ID,ID,module,Magento_CatalogRule
 Type,Typ,module,Magento_CatalogRule
 "Attribute Set","Zestaw cech",module,Magento_CatalogRule
@@ -2211,7 +2211,7 @@ SKU,SKU,module,Magento_CatalogRule
 Product,Produkt,module,Magento_CatalogRule
 Promotions,Promocje,module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Znaleźliśmy zaktualizowane reguły, które nie zostały zastosowane. Kliknij ""Zastosuj reguły"", aby zaktualizować katalog.",module,Magento_CatalogRule
-"We can\'t apply the rules.","We can\'t apply the rules.",module,Magento_CatalogRule
+"We can\'t apply the rules.","Nie możemy zastosować podanych reguł.",module,Magento_CatalogRule
 "You deleted the rule.","Możesz usunąć regułę.",module,Magento_CatalogRule
 "We can\'t delete this rule right now. Please review the log and try again.","We can\'t delete this rule right now. Please review the log and try again.",module,Magento_CatalogRule
 "We can\'t find a rule to delete.","We can\'t find a rule to delete.",module,Magento_CatalogRule
