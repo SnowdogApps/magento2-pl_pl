@@ -416,7 +416,7 @@ Enabled,Włączone,module,Magento_Backend
 "Web Site Information","Informacje o witrynie",module,Magento_Backend
 "Default Store","Domyślny sklep",module,Magento_Backend
 "Set as Default","Ustaw jako domyślne",module,Magento_Backend
-Stores,Sklepy,module,Magento_Backend
+Stores,Sklep,module,Magento_Backend
 "Create Website","Utwórz witrynę",module,Magento_Backend
 "Create Store","Utwórz sklep",module,Magento_Backend
 "Create Store View","Utwórz widok sklepu",module,Magento_Backend
@@ -596,10 +596,10 @@ Loading...,Ładuję...,module,Magento_Backend
 "Magento Admin","Magento Admin",module,Magento_Backend
 "Global Search","Global Search",module,Magento_Backend
 Marketing,Marketing,module,Magento_Backend
-"SEO & Search","SEO & Search",module,Magento_Backend
-"User Content","User Content",module,Magento_Backend
-Content,Content,module,Magento_Backend
-Elements,Elements,module,Magento_Backend
+"SEO & Search","SEO i wyszukiwanie",module,Magento_Backend
+"User Content","Treści użytkowników",module,Magento_Backend
+Content,Zawartość,module,Magento_Backend
+Elements,Elementy,module,Magento_Backend
 Design,Wygląd,module,Magento_Backend
 Schedule,Schedule,module,Magento_Backend
 Settings,Settings,module,Magento_Backend
@@ -613,7 +613,7 @@ Attributes,Attributes,module,Magento_Backend
 Tools,Tools,module,Magento_Backend
 "Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
 Currency,Currency,module,Magento_Backend
-Communications,Communications,module,Magento_Backend
+Communications,Komunikacja,module,Magento_Backend
 Services,Usługi,module,Magento_Backend
 Advanced,Zaawansowane,module,Magento_Backend
 "Disable Modules Output","Zablokuj wyjście modułów",module,Magento_Backend
@@ -690,7 +690,7 @@ City,Miasto,module,Magento_Backend
 "Enable Single-Store Mode","Włącz tryb pojedynczego sklepu",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","To ustawienie nie jest brane pod uwagę, jeśli system ma więcej niż jeden widok sklepu.",module,Magento_Backend
 "Mail Sending Settings","Ustawienia wysyłania maili",module,Magento_Backend
-"Disable Email Communications","Zablokuj komunikacje poprzez e-mail",module,Magento_Backend
+"Disable Email Communications","Zablokuj komunikację przez e-mail",module,Magento_Backend
 Host,Host,module,Magento_Backend
 "Port (25)","Port (25)",module,Magento_Backend
 "Set Return-Path","Ustaw odpowiedź do",module,Magento_Backend
@@ -2624,7 +2624,7 @@ Content,Zawartość,module,Magento_CheckoutAgreements
 "Content Height","Wysokość zawartości",module,Magento_CheckoutAgreements
 ID,ID,module,Magento_CheckoutAgreements
 Condition,"Stan produktu",module,Magento_CheckoutAgreements
-Sales,Sprzedaże,module,Magento_CheckoutAgreements
+Sales,Sprzedaż,module,Magento_CheckoutAgreements
 "Checkout Conditions","Warunki zamówienia",module,Magento_CheckoutAgreements
 "Checkout Terms and Conditions","Warunki składania zamówienia",module,Magento_CheckoutAgreements
 "This condition no longer exists.","Ten warunek już nie istnieje.",module,Magento_CheckoutAgreements
@@ -2830,8 +2830,8 @@ Identifier,Identifier,module,Magento_CmsStaging
 "Remove CMS page from Update","Remove CMS page from Update",module,Magento_CmsStaging
 "Enable Page","Enable Page",module,Magento_CmsStaging
 "Page Title","Page Title",module,Magento_CmsStaging
-Content,Content,module,Magento_CmsStaging
-"Content Heading","Content Heading",module,Magento_CmsStaging
+Content,Zawartość,module,Magento_CmsStaging
+"Content Heading","Nagłówek treści",module,Magento_CmsStaging
 "Search Engine Optimisation","Search Engine Optimisation",module,Magento_CmsStaging
 "URL Key","URL Key",module,Magento_CmsStaging
 "Meta Keywords","Meta Keywords",module,Magento_CmsStaging
@@ -2847,7 +2847,7 @@ To,To,module,Magento_CmsStaging
 "-- Please Select --","-- Please Select --",module,Magento_CmsStaging
 "New Layout","New Layout",module,Magento_CmsStaging
 "Deleting the change will remove the page from this update and all scheduled changes will be lost.","Deleting the change will remove the page from this update and all scheduled changes will be lost.",module,Magento_CmsStaging
-"CMS Pages","CMS Pages",module,Magento_CmsStaging
+"CMS Pages","Strony CMS",module,Magento_CmsStaging
 "CMS Blocks","CMS Blocks",module,Magento_CmsStaging
 ID,ID,module,Magento_CmsStaging
 Title,Title,module,Magento_CmsStaging
@@ -3136,7 +3136,7 @@ Monthly,"Co miesiąc",module,Magento_Cron
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Dla prawidłowo generowanych adresów URL podczas działania cron proszę upewnić się, że Sieć > Bezpieczne i Niezabezpieczone Bazowe URLs są zapisane. Wszystkie czasy są podane w minutach.",module,Magento_Cron
 "Cron configuration options for group: ","Opcje konfiguracja cron dla grupy: ",module,Magento_Cron
 "Generate Schedules Every","Generuj plan zadań co",module,Magento_Cron
-"Schedule Ahead for","Zaplanuj na przyszłość dla",module,Magento_Cron
+"Schedule Ahead for","Harmonogram dla",module,Magento_Cron
 "Missed if Not Run Within","Opuść jeśli nie zostanie uruchomione w ciągu",module,Magento_Cron
 "History Cleanup Every","Czyść historię co",module,Magento_Cron
 "Success History Lifetime","Cała historia sukcesów",module,Magento_Cron
@@ -3592,7 +3592,7 @@ Password:,Hasło:,module,Magento_Customer
 "Are you sure you want to delete this address?","Czy na pewno chcesz usunąć ten adres?",module,Magento_Customer
 "Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
 "All Customers","Wszyscy klienci",module,Magento_Customer
-"Now Online","Now Online",module,Magento_Customer
+"Now Online","Teraz zalogowani",module,Magento_Customer
 "Customers Section","Customers Section",module,Magento_Customer
 "Customer Configuration","Konfiguracja klienta",module,Magento_Customer
 "Account Sharing Options","Opcje udostępniania konta",module,Magento_Customer
@@ -4040,7 +4040,7 @@ found,znaleziono,module,Magento_CustomerSegment
 "Sales Amount","Kwota sprzedaży",module,Magento_CustomerSegment
 "Number of Orders","Liczba zamówień",module,Magento_CustomerSegment
 "Purchased Quantity","Ilość zakupionych",module,Magento_CustomerSegment
-Sales,Sprzedaże,module,Magento_CustomerSegment
+Sales,Sprzedaż,module,Magento_CustomerSegment
 "%1 %2 %3 %4 while %5 of these Conditions match:","%1 %2 %3 %4 podczas kiedy %5 z tych warunków pasują:",module,Magento_CustomerSegment
 Total,Łącznie,module,Magento_CustomerSegment
 Average,Średnia,module,Magento_CustomerSegment
@@ -4636,7 +4636,7 @@ Template,Szablon,module,Magento_Email
 "Are you sure you want to delete this template?","Czy na pewno chcesz usunąć ten szablon?",module,Magento_Email
 "The template did not load. Please review the log for details.","Szablon nie został załadowany. Przejrzyj dziennik, aby uzyskać szczegóły.",module,Magento_Email
 "Thank you, %store_name","Dziękuję, %store_name",module,Magento_Email
-Communications,Communications,module,Magento_Email
+Communications,Komunikacja,module,Magento_Email
 Emails,E-maile,module,Magento_Email
 "Logo Image","Obrazek logo",module,Magento_Email
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Dozwolone typy plików: jpg, jpeg, gif, png. Aby zoptymalizować logo dla wyświetlaczy o wysokiej rozdzielczości, prześlij obraz, który jest 3x normalny rozmiar i następnie określić 1 x Wymiary szerokość/wysokość pola poniżej.",module,Magento_Email
@@ -6510,7 +6510,7 @@ Subscribe,Subskrybuj,module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Aby rozpocząć odbieranie newsletter, musi najpierw potwierdzić subskrypcję klikając na poniższy link:",module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Twój adres został pomyślnie dodany do naszej listy subskrypcyjnej newslettera.",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Twój adres został usunięty z naszej listy subskrypcyjnej newslettera.",module,Magento_Newsletter
-"Newsletter Template","Newsletter Template",module,Magento_Newsletter
+"Newsletter Template","Szablony newslettera",module,Magento_Newsletter
 "Newsletter Section","Newsletter Section",module,Magento_Newsletter
 "Subscription Options","Opcje subskrypcji",module,Magento_Newsletter
 "Allow Guest Subscription","Zezwól na subskrybowanie przez niezalogowanych",module,Magento_Newsletter
@@ -6755,7 +6755,7 @@ Close,Zamknij,module,Magento_Paypal
 "You deleted the billing agreement.","Usunąłeś umowę rozliczeniową.",module,Magento_Paypal
 "We can\'t delete the billing agreement.","We can\'t delete the billing agreement.",module,Magento_Paypal
 Reports,Raporty,module,Magento_Paypal
-Sales,Sprzedaże,module,Magento_Paypal
+Sales,Sprzedaż,module,Magento_Paypal
 "View Transaction","Zobacz transakcję",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Nie znaleźliśmy nic do pobrania ze względu na pustą konfigurację.",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","Pobrane wiersze raportu %1 z ""%2@%3.""",module,Magento_Paypal
@@ -7257,7 +7257,7 @@ Password,Hasło,module,Magento_Paypal
 "Custom Path","Niestandardowa ścieżka",module,Magento_Paypal
 "Scheduled Fetching","Zaplanowane pobieranie",module,Magento_Paypal
 "Enable Automatic Fetching","Włącz automatyczne pobierania",module,Magento_Paypal
-Schedule,Zaplanuj,module,Magento_Paypal
+Schedule,Harmonogram,module,Magento_Paypal
 "PayPal retains reports for 45 days.","PayPal retains reports for 45 days.",module,Magento_Paypal
 "Time of Day","Czas dnia",module,Magento_Paypal
 "Frontend Experience Settings","Ustawienia wyglądu",module,Magento_Paypal
@@ -7839,7 +7839,7 @@ Reviews,Recenzje,module,Magento_Reports
 "Product Reviews Report","Product Reviews Report",module,Magento_Reports
 "Product Reviews","Recenzje produktu",module,Magento_Reports
 Details,Szczegóły,module,Magento_Reports
-Sales,Sprzedaże,module,Magento_Reports
+Sales,Sprzedaż,module,Magento_Reports
 "Bestsellers Report","Bestsellers Report",module,Magento_Reports
 Coupons,Kupony,module,Magento_Reports
 "Coupons Report","Raport kuponów",module,Magento_Reports
@@ -8816,7 +8816,7 @@ Value,Wartość,module,Magento_Sales
 Unassign,Odepnij,module,Magento_Sales
 "We can\'t add this item to your shopping cart right now.","We can\'t add this item to your shopping cart right now.",module,Magento_Sales
 "You sent the message.","You sent the message.",module,Magento_Sales
-Sales,Sprzedaże,module,Magento_Sales
+Sales,Sprzedaż,module,Magento_Sales
 "This order no longer exists.","Takie zamówienie już nie istnieje.",module,Magento_Sales
 "Please enter a comment.","Wpisz treść komentarza.",module,Magento_Sales
 "We cannot add order history.","We cannot add order history.",module,Magento_Sales
@@ -9275,7 +9275,7 @@ Search,Szukaj,module,Magento_Sales
 "Add Products","Dodaj produkty",module,Magento_Sales
 "You have item changes","You have item changes",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
-Operations,Operations,module,Magento_Sales
+Operations,Operacje,module,Magento_Sales
 Create,Create,module,Magento_Sales
 "Send Order Email","Send Order Email",module,Magento_Sales
 "Accept or Deny Payment","Accept or Deny Payment",module,Magento_Sales
@@ -9842,7 +9842,7 @@ Run,Uruchom,module,Magento_ScheduledImportExport
 "Search Term","Szukana fraza",module,Magento_Search
 Results,Rezultaty,module,Magento_Search
 Uses,Użyć,module,Magento_Search
-"Search Terms","Szukane frazy",module,Magento_Search
+"Search Terms","Wyszukiwane frazy",module,Magento_Search
 "Search Synonyms","Szukaj synonimów",module,Magento_Search
 "New Synonym Group","Nowa grupa synonimów",module,Magento_Search
 Back,Powrót,module,Magento_Search
@@ -10761,7 +10761,7 @@ Priority,Priorytet,module,Magento_Tax
 "Shipping & Handling (Incl.Tax)","Dostawa i obsługa (z podatkiem)",module,Magento_Tax
 "Grand Total (Excl.Tax)","Suma łączna (bez podatku)",module,Magento_Tax
 "Grand Total (Incl.Tax)","Suma łączna (z podatkiem)",module,Magento_Tax
-Sales,Sprzedaże,module,Magento_Tax
+Sales,Sprzedaż,module,Magento_Tax
 Tax,Podatek,module,Magento_Tax
 "Manage Tax Rates","Zarządzaj stawkami podatków",module,Magento_Tax
 "New Tax Rate","Nowa stawka podatku",module,Magento_Tax
@@ -11771,7 +11771,7 @@ Previous,Poprzedni,module,Magento_VersionsCms
 Next,Następne,module,Magento_VersionsCms
 "Delete Revision and Version","Delete Revision and Version",module,Magento_VersionsCms
 "Publish Revision","Publish Revision",module,Magento_VersionsCms
-Pages,Pages,module,Magento_VersionsCms
+Pages,Strony,module,Magento_VersionsCms
 "CMS Page Hierarchy","Hierarchia strony CMS",module,Magento_VersionsCms
 "Enable Hierarchy Functionality","Włącz funkcję hierarchii",module,Magento_VersionsCms
 "Enable Hierarchy Metadata","Włącz metadanych hierarchii",module,Magento_VersionsCms
