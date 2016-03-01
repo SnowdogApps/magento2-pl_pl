@@ -207,7 +207,7 @@ File,Plik,module,Magento_AdvancedCheckout
 "Entity type model \'%1\' is not found","Entity type model \'%1\' is not found",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Obiekt typu modelu musi występować w \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Brak typów produktów dostępnych do eksportu",module,Magento_AdvancedPricingImportExport
-"%1 class doesn\'t implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 class doesn\'t implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
+"%1 class doesn\'t implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","Klasa %1 nie implementuje \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
 "Sales Rule","Reguły sprzedaży",module,Magento_AdvancedSalesRule
 "Index sales rule","Indeks reguł sprzedaży",module,Magento_AdvancedSalesRule
 "Related Search Terms","Podobne zapytania",module,Magento_AdvancedSearch
@@ -443,10 +443,10 @@ Export,Eksport,module,Magento_Backend
 "Please select items.","Prosimy wybrać produkty.",module,Magento_Backend
 Submit,Prześlij,module,Magento_Backend
 "Unknown block type","Nieznany typ bloku",module,Magento_Backend
-"Please correct the tab configuration and try again. Tab Id should be not empty","Please correct the tab configuration and try again. Tab Id should be not empty",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","Proszę poprawić konfigurację karty i spróbować ponownie. Id karty nie może być puste",module,Magento_Backend
 "Please correct the tab configuration and try again.","Popraw konfigurację karty i spróbuj ponownie.",module,Magento_Backend
 "You have logged out.","Wylogowanie zakończone.",module,Magento_Backend
-"Specified cache type(s) don\'t exist: %1","Specified cache type(s) don\'t exist: %1",module,Magento_Backend
+"Specified cache type(s) don\'t exist: %1","Nieistniejące pamięci podręczne: %1",module,Magento_Backend
 "The image cache was cleaned.","Cache obrazków został wyczyszczony.",module,Magento_Backend
 "An error occurred while clearing the image cache.","Wystąpił błąd podczas czyszczenia pamięci cache obrazków.",module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","Cache JavaScript/CSS został wyczyszczony.",module,Magento_Backend
@@ -482,7 +482,7 @@ Error,Błąd,module,Magento_Backend
 System,System,module,Magento_Backend
 "Manage Stores","Zarządzaj sklepami",module,Magento_Backend
 "The database was backed up.","Kopia zapasowa bazy danych została utworzona.",module,Magento_Backend
-"We can\'t create a backup right now. Please try again later.","We can\'t create a backup right now. Please try again later.",module,Magento_Backend
+"We can\'t create a backup right now. Please try again later.","W tej chwili nie możemy utworzyć kopii zapasowej. Proszę spróbować później.",module,Magento_Backend
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Usunięcie %1 nie spowoduje usunięcia informacji powiązanych z %1 (np. kategorii, produktów itp.), ale %1 nie będzie mógł być odtworzony. Zalecane jest utworzenie kopii zapasowej bazy danych przed usunięciem %1.",module,Magento_Backend
 "Something went wrong. Please try again.","Coś poszło nie tak. Proszę spróbować ponownie.",module,Magento_Backend
 "This store cannot be deleted.","Ten sklep nie może być usunięty.",module,Magento_Backend
@@ -591,10 +591,10 @@ Actions,Operacje,module,Magento_Backend
 "The information in this tab has been changed.","Informacje w tej zakładce zostały zmienione.",module,Magento_Backend
 Loading...,Ładuję...,module,Magento_Backend
 "We could not detect a size.","Nie można wykryć rozmiaru.",module,Magento_Backend
-"We don\'t recognize or support this file extension type.","We don\'t recognize or support this file extension type.",module,Magento_Backend
-"Allow everything","Allow everything",module,Magento_Backend
-"Magento Admin","Magento Admin",module,Magento_Backend
-"Global Search","Global Search",module,Magento_Backend
+"We don\'t recognize or support this file extension type.","Nie rozpoznajemy ani nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_Backend
+"Allow everything","Zezwól na wszystko",module,Magento_Backend
+"Magento Admin","Administrator Magento",module,Magento_Backend
+"Global Search","Globalne wyszukiwanie",module,Magento_Backend
 Marketing,Marketing,module,Magento_Backend
 "SEO & Search","SEO i wyszukiwanie",module,Magento_Backend
 "User Content","Treści użytkowników",module,Magento_Backend
@@ -602,17 +602,17 @@ Content,Zawartość,module,Magento_Backend
 Elements,Elementy,module,Magento_Backend
 Design,Wygląd,module,Magento_Backend
 Schedule,Schedule,module,Magento_Backend
-Settings,Settings,module,Magento_Backend
-"All Stores","All Stores",module,Magento_Backend
-Attributes,Attributes,module,Magento_Backend
-"Other Settings","Other Settings",module,Magento_Backend
-"Data Transfer","Data Transfer",module,Magento_Backend
+Settings,Ustawienia,module,Magento_Backend
+"All Stores","Wszystkie sklepy",module,Magento_Backend
+Attributes,Cechy,module,Magento_Backend
+"Other Settings","Inne ustawienia",module,Magento_Backend
+"Data Transfer","Transfer danych",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
 "Connect Manager","Connect Manager",module,Magento_Backend
 "Package Extensions","Package Extensions",module,Magento_Backend
-Tools,Tools,module,Magento_Backend
+Tools,Narzędzia,module,Magento_Backend
 "Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
-Currency,Currency,module,Magento_Backend
+Currency,Waluta,module,Magento_Backend
 Communications,Komunikacja,module,Magento_Backend
 Services,Usługi,module,Magento_Backend
 Advanced,Zaawansowane,module,Magento_Backend
@@ -709,7 +709,7 @@ Admin,Administrator,module,Magento_Backend
 "Custom Admin Path","Indywidualny adres URL admina",module,Magento_Backend
 "You will have to sign in after you save your custom admin path.","Musisz się zalogować po tym jak zapiszesz swoją niestandardową ściezkę admina.",module,Magento_Backend
 Security,Bezpieczeństwo,module,Magento_Backend
-"Recovery Link Expiration Period (hours)","Recovery Link Expiration Period (hours)",module,Magento_Backend
+"Recovery Link Expiration Period (hours)","Czas ważności linku odzyskującego (godziny)",module,Magento_Backend
 "Please enter a number 1 or greater in this field.","Prosimy o podanie cyfry 1 lub większej w tym polu.",module,Magento_Backend
 "Add Secret Key to URLs","Dodaj sekretny klucz do URL",module,Magento_Backend
 "Login is Case Sensitive","Logowanie rozpoznaje wielkość liter",module,Magento_Backend
