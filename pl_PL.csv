@@ -1051,7 +1051,7 @@ Authorize,Autoryzujautoryzuj,module,Magento_BraintreeTwo
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_BraintreeTwo
 "--Please Select--","-- Prosimy wybrać --",module,Magento_BraintreeTwo
 "Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_BraintreeTwo
-"Paypal account","Paypal account",module,Magento_BraintreeTwo
+"Paypal account","Konto Paypal",module,Magento_BraintreeTwo
 "Coinbase account","Coinbase account",module,Magento_BraintreeTwo
 "Europe bank account","Europe bank account",module,Magento_BraintreeTwo
 "Credit card","Credit card",module,Magento_BraintreeTwo
@@ -2277,7 +2277,7 @@ Priority,Priorytet,module,Magento_CatalogRuleStaging
 Action,Operacja,module,Magento_CatalogRuleStaging
 Edit,Edytuj,module,Magento_CatalogRuleStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CatalogRuleStaging
-"Start Date","Start Date",module,Magento_CatalogRuleStaging
+"Start Date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
 "Start Time","Start Time",module,Magento_CatalogRuleStaging
 Name,Name,module,Magento_CatalogRuleStaging
 Description,Description,module,Magento_CatalogRuleStaging
@@ -2802,12 +2802,12 @@ Enable,Włącz,module,Magento_Cms
 "Something went wrong","Something went wrong",module,Magento_CmsStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CmsStaging
 "Start Date","Start Date",module,Magento_CmsStaging
-"Start Time","Start Time",module,Magento_CmsStaging
-Name,Name,module,Magento_CmsStaging
-Description,Description,module,Magento_CmsStaging
-Action,Action,module,Magento_CmsStaging
-"End Date","End Date",module,Magento_CmsStaging
-"End Time","End Time",module,Magento_CmsStaging
+"Start Time","Czas rozpoczęcia",module,Magento_CmsStaging
+Name,Nazwa,module,Magento_CmsStaging
+Description,Opis,module,Magento_CmsStaging
+Action,Operacja,module,Magento_CmsStaging
+"End Date","Data zakończenia",module,Magento_CmsStaging
+"End Time","Czas zakończenia",module,Magento_CmsStaging
 "Update Information","Update Information",module,Magento_CmsStaging
 "Remove CMS block from Update","Remove CMS block from Update",module,Magento_CmsStaging
 "Save as a new update","Save as a new update",module,Magento_CmsStaging
@@ -9660,7 +9660,7 @@ Status,Status,module,Magento_SalesRuleStaging
 Active,Aktywny,module,Magento_SalesRuleStaging
 Inactive,Nieaktywny,module,Magento_SalesRuleStaging
 "Web Site","Web Site",module,Magento_SalesRuleStaging
-Action,Action,module,Magento_SalesRuleStaging
+Action,Operacja,module,Magento_SalesRuleStaging
 Edit,Edytuj,module,Magento_SalesRuleStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_SalesRuleStaging
 "Start Date","Data rozpoczęcia",module,Magento_SalesRuleStaging
@@ -11085,7 +11085,7 @@ Next,Następne,module,Magento_Ui
 Assign,Przyporządkuj,module,Magento_Ui
 Options,Opcje,module,Magento_Ui
 Filters,Filtry,module,Magento_Ui
-Add,Add,module,Magento_Ui
+Add,Dodaj,module,Magento_Ui
 "Something went wrong.","Something went wrong.",module,Magento_Ui
 Yes,Yes,module,Magento_Ui
 No,No,module,Magento_Ui
@@ -11885,11 +11885,11 @@ Stock,Zapasy,module,Magento_VisualMerchandiser
 "Invalid XML: Detected use of illegal DOCTYPE","Nieprawidłowy kod XML: Wykryto stosowanie nielegalnych DOCTYPE",module,Magento_Webapi
 message,wiadomość,module,Magento_Webapi
 Message,Wiadomość,module,Magento_Webapi
-"Soap fault reason.","Soap fault reason.",module,Magento_Webapi
-"Manage Customers","Manage Customers",module,Magento_Webapi
-"Create Customer","Create Customer",module,Magento_Webapi
+"Soap fault reason.","Powód niepowodzenia komunikacji SOAP.",module,Magento_Webapi
+"Manage Customers","Zarządzaj klientami",module,Magento_Webapi
+"Create Customer","Utwórz klienta",module,Magento_Webapi
 "Edit Customer","Edit Customer",module,Magento_Webapi
-"Get Customer","Get Customer",module,Magento_Webapi
+"Get Customer","Pobierz klienta",module,Magento_Webapi
 "Delete Customer","Delete Customer",module,Magento_Webapi
 "Magento Web API","Magento Web API",module,Magento_Webapi
 "SOAP Settings","Ustawienia protokołu SOAP",module,Magento_Webapi
