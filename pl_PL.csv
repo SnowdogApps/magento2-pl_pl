@@ -1388,7 +1388,7 @@ Websites,Witryny,module,Magento_Catalog
 "Create Category","Stwórz Kategorię",module,Magento_Catalog
 "Category Name","Nazwa kategorii",module,Magento_Catalog
 "Parent Category","Kategoria nadrzędna",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products > Categories</a>.","Jeśli nie ma zdefiniowanej kategorii nadrzędnej, proszę użyć kategorii domyślnej. W każdej chwili można zmienić przypisaną kategorię w <a href=\"%1\" target=\"_blank\">Produkty > Kategorie</a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products > Categories</a>.","Jeśli nie ma zdefiniowanych kategorii nadrzędnych, proszę użyć kategorii domyślnej. W każdej chwili można zmienić przypisaną kategorię w <a href=\"%1\" target=\"_blank\">Produkty > Kategorie</a>.",module,Magento_Catalog
 "Price Alert Subscriptions","Subskrypcja alertów cen",module,Magento_Catalog
 "Stock Alert Subscriptions","Subskrypcja alertów stanu magazynu",module,Magento_Catalog
 "There are no customers for this alert.","Nie ma klientów dla tego alertu.",module,Magento_Catalog
@@ -1729,7 +1729,7 @@ Actions,Operacje,module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view.",module,Magento_Catalog
 name,name,module,Magento_Catalog
 "Copy Data from","Copy Data from",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products &gt; Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products &gt; Categories</a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products &gt; Categories</a>.","Jeśli nie ma zdefiniowanych kategorii nadrzędnych, proszę użyć kategorii domyślnej. W każdej chwili można zmienić przypisaną kategorię w <a href=\"%1\" target=\"_blank\">Produkty &gt; Kategorie</a>.",module,Magento_Catalog
 "This operation can take a long time","Ta operacja może zająć dużo czasu",module,Magento_Catalog
 "Collapse All","Zwiń wszystko",module,Magento_Catalog
 "Expand All","Rozwiń wszystko",module,Magento_Catalog
@@ -1747,7 +1747,7 @@ Groups,Grupy,module,Magento_Catalog
 "Please enter a new group name.","Wprowadź nazwę nowej grupy.",module,Magento_Catalog
 "An attribute group named ""/name/"" already exists"".","An attribute group named ""/name/"" already exists"".",module,Magento_Catalog
 "Sorry, we\'re unable to complete this request.","Sorry, we\'re unable to complete this request.",module,Magento_Catalog
-"You can\'t remove attributes from this attribute set.","You can\'t remove attributes from this attribute set.",module,Magento_Catalog
+"You can\'t remove attributes from this attribute set.","Nie możesz usuwać cech z tego zestawu cech.",module,Magento_Catalog
 "Custom Options","Indywidualne opcje",module,Magento_Catalog
 "This is a required option.","Ta opcja jest wymagana.",module,Magento_Catalog
 "The field isn\'t complete.","The field isn\'t complete.",module,Magento_Catalog
@@ -4971,7 +4971,7 @@ Generate,Wygeneruj,module,Magento_GiftCardAccount
 "Add Gift Card","Dodaj kartę upominkową",module,Magento_GiftCardAccount
 Remove,Usuń,module,Magento_GiftCardAccount
 "Gift Card (%1)","Karta Podarunkowa (%1)",module,Magento_GiftCardAccount
-"This won\'t take long . . .","This won\'t take long . . .",module,Magento_GiftCardAccount
+"This won\'t take long . . .","To nie potrwa długo . . .",module,Magento_GiftCardAccount
 "Enter gift card code","Wprowadź kod Karty Podarunkowej",module,Magento_GiftCardAccount
 "Redeem Gift Card","Realizacja karty upominkowej",module,Magento_GiftCardAccount
 "Check status and balance","Sprawdź status i saldo",module,Magento_GiftCardAccount
