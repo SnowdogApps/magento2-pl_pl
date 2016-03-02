@@ -1132,14 +1132,14 @@ Status,Status,module,Magento_BraintreeTwo
 "Transaction ID","Transaction ID",module,Magento_BraintreeTwo
 "Order ID","Order ID",module,Magento_BraintreeTwo
 "Payment Type","Payment Type",module,Magento_BraintreeTwo
-Type,Type,module,Magento_BraintreeTwo
+Type,Typ,module,Magento_BraintreeTwo
 "Created At",Utworzono,module,Magento_BraintreeTwo
 Amount,Amount,module,Magento_BraintreeTwo
 "Settlement Code","Settlement Code",module,Magento_BraintreeTwo
 "Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
 "Refund Ids","Refund Ids",module,Magento_BraintreeTwo
 "Settlement Batch ID","Settlement Batch ID",module,Magento_BraintreeTwo
-Currency,Currency,module,Magento_BraintreeTwo
+Currency,Waluta,module,Magento_BraintreeTwo
 "Percent Discount","Zniżka procentowa",module,Magento_Bundle
 "-- Select --",--Wybierz--,module,Magento_Bundle
 Dynamic,Dynamiczny,module,Magento_Bundle
@@ -1484,9 +1484,9 @@ Catalog,Katalog,module,Magento_Catalog
 "This attribute no longer exists.","Taki atrybut nie istnieje.",module,Magento_Catalog
 "This attribute cannot be edited.","Ta cecha nie może być edytowana.",module,Magento_Catalog
 "Edit Product Attribute","Edytuj cechę produktu",module,Magento_Catalog
-"An attribute set named \'%1\' already exists.","An attribute set named \'%1\' already exists.",module,Magento_Catalog
+"An attribute set named \'%1\' already exists.","Zestaw cech o nazwie \'%1\' już istnieje.",module,Magento_Catalog
 "Something went wrong while saving the attribute.","Coś się zepsuło podczas zapisywania cechy.",module,Magento_Catalog
-"Attribute code \"%1\" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code \"%1\" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
+"Attribute code \"%1\" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Kod cechy \"%1\" jest niepoprawny. Prosimy o używanie jedynie liter (a-z), cyfr (0-9) lub podkreślnika (_) w tym polu, pierwszy znak powinien być literą.",module,Magento_Catalog
 "We can\'t update the attribute.","Nie możemy zaktualizować cechy.",module,Magento_Catalog
 "You saved the product attribute.","Atrybut produktu zapisany.",module,Magento_Catalog
 "An attribute with this code already exists.","Atrybut z tym kodem już istnieje.",module,Magento_Catalog
@@ -1505,7 +1505,7 @@ Products,Produkty,module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role","Obraz nie może zostać usunięty, ponieważ został przypisany do roli innego obrazu",module,Magento_Catalog
 "New Attribute Set","Nowy zestaw atrybutów",module,Magento_Catalog
 "The attribute set has been removed.","Zesaw cech został usunięty.",module,Magento_Catalog
-"We can\'t delete this set right now.","We can\'t delete this set right now.",module,Magento_Catalog
+"We can\'t delete this set right now.","W tej chwili nie możemy usunąć tego zestawu.",module,Magento_Catalog
 "New Set","Nowy zestaw",module,Magento_Catalog
 "Manage Product Sets","Zarządzaj zestawami produktu",module,Magento_Catalog
 "Manage Attribute Sets","Zarządzaj zestawami cech",module,Magento_Catalog
@@ -1672,7 +1672,7 @@ Search,Szukaj,module,Magento_Catalog
 "Could not assign product ""%1"" to websites ""%2""","Produkt ""%1"" nie może być przypisany do strony ""%2""",module,Magento_Catalog
 "Could not save product ""%1"" with websites %2","Nie można zapisać produktu ""%1"" ze stroną %2",module,Magento_Catalog
 "We cannot determine the field name.","Nie można określić nazwy pola.",module,Magento_Catalog
-"Attribute \'%1\' is locked. %2","Attribute \'%1\' is locked. %2",module,Magento_Catalog
+"Attribute \'%1\' is locked. %2","Cecha \'%1\' jest zablokowana. %2",module,Magento_Catalog
 "Do not change the scope. %1","Nie zmieniaj zakresu. %1",module,Magento_Catalog
 "A product type is not defined for the indexer.","Typ produktu nie jest zdefiniowany dla indeksowania.",module,Magento_Catalog
 "%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 nie rozszerza \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
