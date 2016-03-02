@@ -10287,7 +10287,7 @@ Save,Zapisz,module,Magento_Staging
 "Select from existing Scheduled Update","Select from existing Scheduled Update",module,Magento_Staging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_Staging
 entity_type,entity_type,module,Magento_Staging
-Active,Active,module,Magento_Staging
+Active,Aktywny,module,Magento_Staging
 Upcoming,Upcoming,module,Magento_Staging
 "Please select Name for Future Update.","Please select Name for Future Update.",module,Magento_Staging
 "Please select Start Time for Future Update.","Please select Start Time for Future Update.",module,Magento_Staging
@@ -10301,7 +10301,7 @@ Start,Start,module,Magento_Staging
 End,Koniec,module,Magento_Staging
 "Load More","Załaduj więcej",module,Magento_Staging
 "Belongs to ","Należy do ",module,Magento_Staging
-"Allow everything","Allow everything",module,Magento_Staging
+"Allow everything","Zezwól na wszystko",module,Magento_Staging
 "Create New Campaign","Stwórz Nową Kampanię",module,Magento_Staging
 Back,Powrót,module,Magento_Staging
 General,Ogólne,module,Magento_Staging
