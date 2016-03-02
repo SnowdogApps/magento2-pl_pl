@@ -45,7 +45,7 @@ minor,drobne,module,Magento_AdminNotification
 notice,informacja,module,Magento_AdminNotification
 "Wrong message type","Nieprawidłowy typ wiadomości",module,Magento_AdminNotification
 "Wrong notification ID specified.","Niepoprawny ID powiadomienia.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=\"%1\">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=\"%1\">configuration</a>.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=\"%1\">configuration</a>.","Nie zaleca się używania {{base_url}} jako bazowego adresu URL w środowisku produkcyjnym. Radzimy zmianę tej wartości w <a href=\"%1\">konfiguracji</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","Istnieją nieaktualne pamięci podręczne: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1"">strony zarządzania pamięciami podręcznymi</a> i odśwież je.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Nie byliśmy wstanie zsynchronizować jednego lub więcej plików multimedialnych. Zajrzyj do pliku z logami po więcej szczegółów.",module,Magento_AdminNotification
@@ -129,7 +129,7 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "We don\'t have as many of these as you want.","Podana przez Ciebie ilość nie jest dostępna.",module,Magento_AdvancedCheckout
 "You can\'t add this many to your cart.","Nie można dodać takiej ilości do koszyka.",module,Magento_AdvancedCheckout
 "You need to choose options for your item.","Musisz wybrać opcje produktu.",module,Magento_AdvancedCheckout
-"We can\'t add the item to your cart.","We can\'t add the item to your cart.",module,Magento_AdvancedCheckout
+"We can\'t add the item to your cart.","Nie udało się dodać produktu do koszyka.",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","Wpisz liczbę w pole „Ilość”.",module,Magento_AdvancedCheckout
 "This product is assigned to another website.","Ten produkt jest przypisany do innej witryny.",module,Magento_AdvancedCheckout
 "You can add only enabled products.","Możesz dodać tylko włączone produkty.",module,Magento_AdvancedCheckout
@@ -137,9 +137,9 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "The file is empty.","Plik jest pusty.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Nie podano żadnego SKU produktu. <a href=""%1"">Przejdź tutaj</a>, aby dodać produkt(y) po SKU.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","Nie podałeś SKU produktu.",module,Magento_AdvancedCheckout
-"We can\'t add a product to cart by id \\%1\\.""""""","We can\'t add a product to cart by id \\%1\\.""""""",module,Magento_AdvancedCheckout
+"We can\'t add a product to cart by id \\%1\\.""""""","Nie udało się dodać produktu do koszyka z identyfikatorem \\%1\\.""""""",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Wystąpił problem podczas zmiany kolejności tego produktu.",module,Magento_AdvancedCheckout
-"We can\'t find this wish list.","We can\'t find this wish list.",module,Magento_AdvancedCheckout
+"We can\'t find this wish list.","Nie udało się odnaleźć tej listy życzeń.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","Produkty dodane do koszyka: %1.",module,Magento_AdvancedCheckout
 "You added %1 products to your shopping cart.","Produkty dodane do koszyka: %1.",module,Magento_AdvancedCheckout
 "%1 product requires your attention.","Produkty wymagające sprawdzenia: %1.",module,Magento_AdvancedCheckout
@@ -190,8 +190,8 @@ File,Plik,module,Magento_AdvancedCheckout
 "Remove Row","Usuń wiersz",module,Magento_AdvancedCheckout
 "Add Products By SKU","Dodaj produktu po SKU",module,Magento_AdvancedCheckout
 "Shopping Cart Management","Zarządzaj koszykiem",module,Magento_AdvancedCheckout
-"View Shopping Cart","View Shopping Cart",module,Magento_AdvancedCheckout
-"View and modify Shopping Cart","View and modify Shopping Cart",module,Magento_AdvancedCheckout
+"View Shopping Cart","Zobacz koszyk",module,Magento_AdvancedCheckout
+"View and modify Shopping Cart","Wyświetl i modyfikuj koszyk",module,Magento_AdvancedCheckout
 "Order by SKU Settings","Sortuj po ustawieniach SKU",module,Magento_AdvancedCheckout
 "Enable Order by SKU on My Account in Storefront","Włącz zamówienia przez SKU w moje konto w Witryne sklepowej",module,Magento_AdvancedCheckout
 "Customer Groups","Grupy klienta",module,Magento_AdvancedCheckout
@@ -204,7 +204,7 @@ File,Plik,module,Magento_AdvancedCheckout
 "Load a list of SKUs","Załaduj listę SKU",module,Magento_AdvancedCheckout
 "Order by SKU Template","Sortuj po szablonie SKU",module,Magento_AdvancedCheckout
 "Please correct the data sent.","Proszę poprawić przesyłane dane.",module,Magento_AdvancedPricingImportExport
-"Entity type model \'%1\' is not found","Entity type model \'%1\' is not found",module,Magento_AdvancedPricingImportExport
+"Entity type model \'%1\' is not found","Nie znaleziono typu modelu \'%1\'",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Obiekt typu modelu musi występować w \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Brak typów produktów dostępnych do eksportu",module,Magento_AdvancedPricingImportExport
 "%1 class doesn\'t implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","Klasa %1 nie implementuje \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
@@ -237,12 +237,12 @@ Edit,Edytuj,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","Wywołanie RPC nie powiodło się, przekroczenie czasu połączenia %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Wiadomość została odrzucona: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Błąd podczas sprawdzania, czy temat jest synchroniczny",module,Magento_Amqp
-"We can\'t find the role for the user you wanted.","We can\'t find the role for the user you wanted.",module,Magento_Authorization
+"We can\'t find the role for the user you wanted.","Nie możemy znaleźć roli dla użytkownika, którego wybrałeś.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Coś poszło nie tak podczas kompilowania listy dozwolonych zasobów. Więcej informacji znajdziesz w dzienniku działań.",module,Magento_Authorization
 "You created the order.","Złożono zamówienie.",module,Magento_Authorizenet
 "Order saving error: %1","Błąd podczas zapisywania zamówienia: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Wybierz metodę płatności.",module,Magento_Authorizenet
-"We can\'t process your order right now. Please try again later.","We can\'t process your order right now. Please try again later.",module,Magento_Authorizenet
+"We can\'t process your order right now. Please try again later.","W tej chwili nie możemy zrealizować zamówienia. Spróbuj ponownie później.",module,Magento_Authorizenet
 "Cannot place order.","Nie można złożyć zamówienia.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Karta kredytowa: xxxx-%1",module,Magento_Authorizenet
 "amount %1","kwota %1",module,Magento_Authorizenet
@@ -263,10 +263,10 @@ void,unieważniony,module,Magento_Authorizenet
 "Invalid amount for refund.","Nieprawidłowa kwota do refundacji.",module,Magento_Authorizenet
 "Payment refunding error.","Błąd refundacji płatności.",module,Magento_Authorizenet
 "The transaction was declined because the response hash validation failed.","Transakcja została odrzucona, ponieważ nie udało się zweryfikować odpowiedzi.",module,Magento_Authorizenet
-"This payment didn\'t work out because we can\'t find this order.","This payment didn\'t work out because we can\'t find this order.",module,Magento_Authorizenet
+"This payment didn\'t work out because we can\'t find this order.","Płatności nie działa, ponieważ nie możemy znaleźć tego zamówienia.",module,Magento_Authorizenet
 "There was a payment authorization error.","Wystąpił błąd autoryzacji płatności.",module,Magento_Authorizenet
 "Please enter a transaction ID to authorize this payment.","Proszę wprowadzić ID transakcji, aby autoryzować płatność.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Coś się zepsuło: wypłacona kwota nie pasuje do kwoty zamówienia. Popraw to i spróbuj ponownie.",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transakcja %1 została zatwierdzona. Kwota transakcji wynosi %2. Status transakcji to ""%3""",module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","%1 transakcji zostało anulowana/unieważniona. Status transakcji jest ""%2"". Kwota %3.",module,Magento_Authorizenet
 "Authorize Only","Tylko autoryzacja",module,Magento_Authorizenet
@@ -435,7 +435,7 @@ To,Do,module,Magento_Backend
 "[ deleted ]","[ usunięty ]",module,Magento_Backend
 "Select All","Zaznacz wszystko",module,Magento_Backend
 " [deleted]"," [usunięty]",module,Magento_Backend
-"We couldn\'t find any records.","We couldn\'t find any records.",module,Magento_Backend
+"We couldn\'t find any records.","Nie mogliśmy znaleźć żadnych rekordów.",module,Magento_Backend
 "Add New","Dodaj nowe",module,Magento_Backend
 "Invalid export type supplied for grid export block","Nieprawidłowy typ eksportu zastosowany dla bloku eksportu tabeli",module,Magento_Backend
 Export,Eksport,module,Magento_Backend
@@ -463,7 +463,7 @@ Submit,Prześlij,module,Magento_Backend
 "An error occurred while refreshing cache.","Wystąpił błąd podczas odświeżania pamięci podręcznej.",module,Magento_Backend
 Dashboard,Panel,module,Magento_Backend
 "We updated lifetime statistic.","Zaktualizowaliśmy statystykę życia.",module,Magento_Backend
-"We can\'t refresh lifetime statistics.","We can\'t refresh lifetime statistics.",module,Magento_Backend
+"We can\'t refresh lifetime statistics.","Nie możemy odświeżyć statystyki życia.",module,Magento_Backend
 "invalid request","nieprawidłowe zapytanie",module,Magento_Backend
 "see error log for details","zobacz szczegóły w logu błędów",module,Magento_Backend
 "Service unavailable: %1","Usługa niedostępna: %1",module,Magento_Backend
@@ -558,7 +558,7 @@ Minute,Minuta,module,Magento_Backend
 "Report Bugs","Zgłoś błędy",module,Magento_Backend
 "Store View:","Widok sklepu:",module,Magento_Backend
 "Stores Configuration","Konfiguracja sklepów",module,Magento_Backend
-"Please confirm scope switching. All data that hasn\'t been saved will be lost.","Please confirm scope switching. All data that hasn\'t been saved will be lost.",module,Magento_Backend
+"Please confirm scope switching. All data that hasn\'t been saved will be lost.","Potwierdź zmianę poziomu. Wszystkie niezapisane dane zostaną utracone.",module,Magento_Backend
 "Additional Cache Management","Dodatkowe zarządzanie cache",module,Magento_Backend
 "Flush Catalog Images Cache","Opróżnij cache obrazków katalogu",module,Magento_Backend
 "Pregenerated product images files","Wygenerowane pliki zdjęć produktu",module,Magento_Backend
@@ -601,7 +601,7 @@ Marketing,Marketing,module,Magento_Backend
 Content,Zawartość,module,Magento_Backend
 Elements,Elementy,module,Magento_Backend
 Design,Wygląd,module,Magento_Backend
-Schedule,Schedule,module,Magento_Backend
+Schedule,Zaplanuj,module,Magento_Backend
 Settings,Ustawienia,module,Magento_Backend
 "All Stores","Wszystkie sklepy",module,Magento_Backend
 Attributes,Cechy,module,Magento_Backend
@@ -609,9 +609,9 @@ Attributes,Cechy,module,Magento_Backend
 "Data Transfer","Transfer danych",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
 "Connect Manager","Connect Manager",module,Magento_Backend
-"Package Extensions","Package Extensions",module,Magento_Backend
+"Package Extensions","Spakuj moduły",module,Magento_Backend
 Tools,Narzędzia,module,Magento_Backend
-"Web Setup Wizard","Web Setup Wizard",module,Magento_Backend
+"Web Setup Wizard","Kreator konfiguracji sieci Web",module,Magento_Backend
 Currency,Waluta,module,Magento_Backend
 Communications,Komunikacja,module,Magento_Backend
 Services,Usługi,module,Magento_Backend
@@ -766,7 +766,7 @@ Tags,Tagi,module,Magento_Backend
 "Database Backup","Kopia bazy danych",module,Magento_Backup
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","Archiwum może zostać rozpakowane przy pomocy <a href=%1"">%2</a> w systemach Windows"".",module,Magento_Backup
 "You need more permissions to activate maintenance mode right now.","Potrzebujesz więcej uprawnień, aby uaktywnić tryb przerwy technicznej.",module,Magento_Backup
-"To create the backup, please deselect \"Put store into maintenance mode\" or update your permissions.","To create the backup, please deselect \"Put store into maintenance mode\" or update your permissions.",module,Magento_Backup
+"To create the backup, please deselect \"Put store into maintenance mode\" or update your permissions.","W celu utworzenia kopii zapasowej, usuń zaznaczenie \"Przełącz sklep w tryb konserwacji\" lub zaktualizuj swoje uprawnienia.",module,Magento_Backup
 "Something went wrong while putting your store into maintenance mode.","Coś się zepsuło podczas przechodzenia sklepu w tryb konserwacji.",module,Magento_Backup
 "You need more free space to create a backup.","Potrzebujesz więcej wolnego miejsca, aby utworzyć kopię zapasową.",module,Magento_Backup
 "You need more permissions to create a backup.","Potrzebujesz więcej uprawnień, aby utworzyć kopię zapasową.",module,Magento_Backup
@@ -779,9 +779,9 @@ Backup,"Kopia zapasowa",module,Magento_Backup
 failed,nieudane,module,Magento_Backup
 successful,"zakończona pomyślnie",module,Magento_Backup
 "You deleted the selected backup(s).","Zaznaczone kopie zostały usunięte.",module,Magento_Backup
-"Can\'t load snapshot archive","Can\'t load snapshot archive",module,Magento_Backup
+"Can\'t load snapshot archive","Nie można załadować archiwalnego obrazu",module,Magento_Backup
 "Please correct the password.","Proszę poprawić hasło.",module,Magento_Backup
-"To complete the rollback, please deselect \"Put store into maintenance mode\" or update your permissions.","To complete the rollback, please deselect \"Put store into maintenance mode\" or update your permissions.",module,Magento_Backup
+"To complete the rollback, please deselect \"Put store into maintenance mode\" or update your permissions.","Aby ukończyć wycofywanie, usuń zaznaczenie opcji \"Przełącz sklep w tryb konserwacji\" lub zaktualizuj swoje uprawnienia.",module,Magento_Backup
 "We can\'t find the backup file.","Nie możemy odnaleźć pliku z kopią zapasową.",module,Magento_Backup
 "We can\'t connect to the FTP right now.","W tej chili nie możemy połączyć się z FTP.",module,Magento_Backup
 "Failed to validate FTP.","Nie udało się potwierdzić FTP.",module,Magento_Backup
@@ -801,7 +801,7 @@ Database,"Baza danych",module,Magento_Backup
 "Sorry, but we cannot read from or write to backup file ""%1"".","Przepraszam, ale my nie można odczytywać lub zapisać dane do pliku kopii zapasowej ""%1"".",module,Magento_Backup
 "The backup file handler was unspecified.","Uchwyt pliku kopii zapasowej nie został określony.",module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","Coś się zepsuło podczas zapisywania pliku kopii zapasowej ""%1"".",module,Magento_Backup
-"We can\'t save the Cron expression.","We can\'t save the Cron expression.",module,Magento_Backup
+"We can\'t save the Cron expression.","Nie możemy zapisać wyrażenia Cron.",module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","Stracisz wszystkie dane utworzone od wykonania kopii zapasowej, w tym użytkowników administracyjnych, klientów i zamówienia.",module,Magento_Backup
 "Are you sure you want to continue?","Czy na pewno chcesz kontynuować?",module,Magento_Backup
 "This may take a few moments.","To może chwilę potrwać.",module,Magento_Backup
@@ -925,12 +925,12 @@ Year,Rok,module,Magento_Braintree
 "My Credit Cards","Moje karty kredytowe",module,Magento_Braintree
 "New Credit Card","Nowa karta kredytowa",module,Magento_Braintree
 "There was error during saving card data","Wystąpił błąd podczas zapisywania danych karty",module,Magento_Braintree
-"We can\'t initialize checkout.","We can\'t initialize checkout.",module,Magento_Braintree
+"We can\'t initialize checkout.","Nie można zainicjować zamówienia.",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_Braintree
-"We can\'t place the order.","We can\'t place the order.",module,Magento_Braintree
+"We can\'t place the order.","Nie można złożyć zamówienia.",module,Magento_Braintree
 "Incorrect payment method.","Nieprawidłowa metoda płatności.",module,Magento_Braintree
-"We can\'t initialize checkout review.","We can\'t initialize checkout review.",module,Magento_Braintree
-"We can\'t update shipping method.","We can\'t update shipping method.",module,Magento_Braintree
+"We can\'t initialize checkout review.","Nie można zainicjować przeglądu zamówienia.",module,Magento_Braintree
+"We can\'t update shipping method.","Nie udało się zaktualizować metody dostawy.",module,Magento_Braintree
 "The processor declined your transaction, please re-enter your payment information","Procesor odrzucił transakcję. Wprowadź ponownie dane płatności",module,Magento_Braintree
 "Transaction declined by gateway: Check card details or try another card","Transakcja została odrzucona przez bramkę płatności: Sprawdź poprawność danych lub użyj innej karty",module,Magento_Braintree
 "Transaction declined: ","Transakcja odrzucona: ",module,Magento_Braintree
@@ -997,9 +997,9 @@ No,Nie,module,Magento_Braintree
 Edit,Edytuj,module,Magento_Braintree
 "Place Order","Złóż zamówienie",module,Magento_Braintree
 "Credit Card Information","Informacje karty kredytowej",module,Magento_Braintree
-"An error occured with payment processing.","An error occured with payment processing.",module,Magento_Braintree
-"Can not initialize PayPal (Braintree)","Can not initialize PayPal (Braintree)",module,Magento_Braintree
-"Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_Braintree
+"An error occured with payment processing.","Wystąpił błąd z przetwarzania płatności.",module,Magento_Braintree
+"Can not initialize PayPal (Braintree)","Nie można zainicjować PayPal (Braintree)",module,Magento_Braintree
+"Please try again with another form of payment.","Proszę spróbować ponownie z inną formę płatności.",module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
 &nbsp;,&nbsp;,module,Magento_Braintree
 "Enable this Solution","Włącz to rozwiązanie",module,Magento_Braintree
@@ -1042,37 +1042,37 @@ Country,Kraj,module,Magento_BraintreeTwo
 "Add Rule","Dodaj regułę",module,Magento_BraintreeTwo
 "Braintree Settlement Report","Braintree Settlement Report",module,Magento_BraintreeTwo
 "Sorry, but something went wrong","Przepraszamy, coś poszło nie tak",module,Magento_BraintreeTwo
-"We can\'t initialize checkout.","We can\'t initialize checkout.",module,Magento_BraintreeTwo
+"We can\'t initialize checkout.","Nie można zainicjować zamówienia.",module,Magento_BraintreeTwo
 "No authorization transaction to proceed capture.","Nie ma autoryzacji transakcji do kontynuowanie przechwytywania.",module,Magento_BraintreeTwo
 "Braintree error response.","Braintree error response.",module,Magento_BraintreeTwo
-"Payment method nonce can\'t be retrieved.","Payment method nonce can\'t be retrieved.",module,Magento_BraintreeTwo
-"Wrong transaction status","Wrong transaction status",module,Magento_BraintreeTwo
+"Payment method nonce can\'t be retrieved.","Odpowiedź metody płatności nie może być pobrany.",module,Magento_BraintreeTwo
+"Wrong transaction status","Zły stan transakcji",module,Magento_BraintreeTwo
 Authorize,Autoryzujautoryzuj,module,Magento_BraintreeTwo
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_BraintreeTwo
 "--Please Select--","-- Prosimy wybrać --",module,Magento_BraintreeTwo
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_BraintreeTwo
+"Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_BraintreeTwo
 "Paypal account","Konto Paypal",module,Magento_BraintreeTwo
 "Coinbase account","Coinbase account",module,Magento_BraintreeTwo
-"Europe bank account","Europe bank account",module,Magento_BraintreeTwo
-"Credit card","Credit card",module,Magento_BraintreeTwo
+"Europe bank account","Rachunek bankowy w Europie",module,Magento_BraintreeTwo
+"Credit card","Karta kredytowa",module,Magento_BraintreeTwo
 "Apple pay card","Apple pay card",module,Magento_BraintreeTwo
 "Android pay card","Android pay card",module,Magento_BraintreeTwo
 "Authorization expired","Autoryzacja wygasła",module,Magento_BraintreeTwo
 Authorizing,Autoryzowanie,module,Magento_BraintreeTwo
-Authorized,Authorized,module,Magento_BraintreeTwo
-"Gateway rejected","Gateway rejected",module,Magento_BraintreeTwo
-Failed,Failed,module,Magento_BraintreeTwo
+Authorized,Autoryzowany,module,Magento_BraintreeTwo
+"Gateway rejected","Odrzucona brama",module,Magento_BraintreeTwo
+Failed,Nieudane,module,Magento_BraintreeTwo
 "Processor declined","Processor declined",module,Magento_BraintreeTwo
-Settled,Settled,module,Magento_BraintreeTwo
-Settling,Settling,module,Magento_BraintreeTwo
-"Submitted for settlement","Submitted for settlement",module,Magento_BraintreeTwo
-Voided,Voided,module,Magento_BraintreeTwo
-Unrecognized,Unrecognized,module,Magento_BraintreeTwo
+Settled,Rozstrzygnięty,module,Magento_BraintreeTwo
+Settling,Rozliczanie,module,Magento_BraintreeTwo
+"Submitted for settlement","Przedstawione do rozstrzygnięcia",module,Magento_BraintreeTwo
+Voided,Unieważniony,module,Magento_BraintreeTwo
+Unrecognized,Nierozpoznane,module,Magento_BraintreeTwo
 "Settlement declined","Settlement declined",module,Magento_BraintreeTwo
 "Settlement pending","Settlement pending",module,Magento_BraintreeTwo
 "Settlement confirmed","Settlement confirmed",module,Magento_BraintreeTwo
 Sale,Sprzedaż,module,Magento_BraintreeTwo
-Credit,Credit,module,Magento_BraintreeTwo
+Credit,Kredyt,module,Magento_BraintreeTwo
 "Credit Card Type","Typ karty kredytowej",module,Magento_BraintreeTwo
 "Credit Card Number","Numer karty kredytowej",module,Magento_BraintreeTwo
 "Please, enter valid Credit Card Number","Wprowadź prawidłowy numer karty kredytowej",module,Magento_BraintreeTwo
@@ -1089,12 +1089,12 @@ expires,wygasa,module,Magento_BraintreeTwo
 "This payment is not available","Ta płatność nie jest dostępna",module,Magento_BraintreeTwo
 MM,MM,module,Magento_BraintreeTwo
 YY,YY,module,Magento_BraintreeTwo
-"Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_BraintreeTwo
-"Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_BraintreeTwo
+"Please try again with another form of payment.","Proszę spróbować ponownie z inną formę płatności.",module,Magento_BraintreeTwo
+"Sorry, but something went wrong.","Przepraszamy, coś poszło nie tak.",module,Magento_BraintreeTwo
 BraintreeTwo,BraintreeTwo,module,Magento_BraintreeTwo
 &nbsp;,&nbsp;,module,Magento_BraintreeTwo
 "Enable this Solution","Włącz to rozwiązanie",module,Magento_BraintreeTwo
-"Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_BraintreeTwo
+"Enable PayPal through Braintree","Włącz PayPal za pośrednictwem Braintree",module,Magento_BraintreeTwo
 "Basic BraintreeTwo Settings","Podstawowe ustawienia BraintreeTwo",module,Magento_BraintreeTwo
 Title,Tytuł,module,Magento_BraintreeTwo
 Environment,Środowisko,module,Magento_BraintreeTwo
@@ -1114,11 +1114,11 @@ Debug,"Tryb debug",module,Magento_BraintreeTwo
 "Payment from Applicable Countries","Płatność ze stosownych krajów",module,Magento_BraintreeTwo
 "Payment from Specific Countries","Płatność z wybranych krajów",module,Magento_BraintreeTwo
 "Country Specific Credit Card Types","Rodzaj karty kredytowej kraju",module,Magento_BraintreeTwo
-"PayPal through Braintree","PayPal through Braintree",module,Magento_BraintreeTwo
-"Override Merchant Name","Override Merchant Name",module,Magento_BraintreeTwo
+"PayPal through Braintree","PayPal za pośrednictwem Braintree",module,Magento_BraintreeTwo
+"Override Merchant Name","Zastąp nazwę sprzedawcy",module,Magento_BraintreeTwo
 "Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_BraintreeTwo
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_BraintreeTwo
-"Display on Shopping Cart","Display on Shopping Cart",module,Magento_BraintreeTwo
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Pozwala edytować adres dostawy podczas realizacji transakcji na stronie PayPal",module,Magento_BraintreeTwo
+"Display on Shopping Cart","Wyświetl w koszyk",module,Magento_BraintreeTwo
 "3D Secure Verification Settings","Ustawienia bezpiecznej weryfikacji 3D",module,Magento_BraintreeTwo
 "3D Secure Verification","3D bezpieczna weryfikacja",module,Magento_BraintreeTwo
 "Threshold Amount","Wysokość progu",module,Magento_BraintreeTwo
@@ -1167,7 +1167,7 @@ Delete,Usuń,module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Dziecko z określonym sku: ""%1"" już przypisane do produktu: ""%2""",module,Magento_Bundle
 "Product with specified sku: %1 is not a bundle product","Produkt o sku: %1 nie jest pakietem produktów",module,Magento_Bundle
 "Requested bundle option product doesn\'t exist","Requested bundle option product doesn\'t exist",module,Magento_Bundle
-"Requested option doesn\'t exist","Requested option doesn\'t exist",module,Magento_Bundle
+"Requested option doesn\'t exist","Żądana opcja nie istnieje",module,Magento_Bundle
 "Cannot delete option with id %1","Nie można usunąć opcji z id %1",module,Magento_Bundle
 "Could not save option","Nie można zapisać opcji",module,Magento_Bundle
 "Price Range","Zakres ceny",module,Magento_Bundle
@@ -1178,7 +1178,7 @@ Separately,Oddzielnie,module,Magento_Bundle
 "The options you selected are not available.","Opcje, które wybrałeś są niedostępne.",module,Magento_Bundle
 "The required options you selected are not available.","Wymagane opcje, które zaznaczyłeś są niedostępne.",module,Magento_Bundle
 "Please select all required options.","Proszę zaznaczyć wszystkie wymagane opcje.",module,Magento_Bundle
-"We can\'t add this item to your shopping cart right now.","We can\'t add this item to your shopping cart right now.",module,Magento_Bundle
+"We can\'t add this item to your shopping cart right now.","W tej chwili nie możemy dodać tego produktu do Twojego koszyka.",module,Magento_Bundle
 N/A,N/D,module,Magento_Bundle
 Percent,Procent,module,Magento_Bundle
 "Ship Bundle Items","Dostawa powiązanych produktów",module,Magento_Bundle
@@ -1186,12 +1186,12 @@ Percent,Procent,module,Magento_Bundle
 Cancel,Anuluj,module,Magento_Bundle
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_Bundle
 [GLOBAL],[GLOBALNY],module,Magento_Bundle
-"Add Option","Add Option",module,Magento_Bundle
+"Add Option","Dodaj opcję",module,Magento_Bundle
 "New Option","Nowa opcja",module,Magento_Bundle
 "Option Title","Tytuł opcji",module,Magento_Bundle
 "Input Type","Typ pola",module,Magento_Bundle
 Drop-down,Drop-down,module,Magento_Bundle
-"Radio Buttons","Radio Buttons",module,Magento_Bundle
+"Radio Buttons","Pola wyboru",module,Magento_Bundle
 Checkbox,"Pole wyboru",module,Magento_Bundle
 "Multiple Select","Multiple Select",module,Magento_Bundle
 Required,Wymagane,module,Magento_Bundle
@@ -1247,7 +1247,7 @@ Subtotal,"Suma częściowa",module,Magento_Bundle
 Select...,Wybierz...,module,Magento_Bundle
 Status,Stan,module,Magento_Bundle
 Thumbnail,Miniatura,module,Magento_Bundle
-Type,Type,module,Magento_Bundle
+Type,Typ,module,Magento_Bundle
 Always,Zawsze,module,Magento_Captcha
 "After number of attempts to login","Po liczbie prób logowania",module,Magento_Captcha
 "Provided form does not exist","Podany formularz nie istnieje",module,Magento_Captcha
