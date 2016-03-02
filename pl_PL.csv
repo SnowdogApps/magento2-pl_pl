@@ -126,7 +126,7 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "Order by SKU","Sortuj po SKU",module,Magento_AdvancedCheckout
 "SKU not found in catalog.","Brak SKU w katalogu.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Dostępność: brak.",module,Magento_AdvancedCheckout
-"We don\'t have as many of these as you want.","Wymagana ilość nie jest dostępna.",module,Magento_AdvancedCheckout
+"We don\'t have as many of these as you want.","Podana przez Ciebie ilość nie jest dostępna.",module,Magento_AdvancedCheckout
 "You can\'t add this many to your cart.","Nie można dodać takiej ilości do koszyka.",module,Magento_AdvancedCheckout
 "You need to choose options for your item.","Musisz wybrać opcje produktu.",module,Magento_AdvancedCheckout
 "We can\'t add the item to your cart.","We can\'t add the item to your cart.",module,Magento_AdvancedCheckout
@@ -1708,8 +1708,8 @@ Required,Wymagane,module,Magento_Catalog
 "Compatible File Extensions","Zgodne rozszerzenia pliku",module,Magento_Catalog
 "Maximum Image Size","Maksymalny rozmiar obrazka",module,Magento_Catalog
 "Please leave blank if it is not an image.","Proszę zostawić puste, jeśli nie jest to obraz.",module,Magento_Catalog
-"This item has weight","Ten przedmiot ma wagę",module,Magento_Catalog
-"This item has no weight","Ten przedmiot nie ma wagi",module,Magento_Catalog
+"This item has weight","Ta pozycja ma przypisaną wagę",module,Magento_Catalog
+"This item has no weight","Ta pozycja nie ma przypisanej wagi",module,Magento_Catalog
 "Set Product as New From","Set Product as New From",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells",module,Magento_Catalog
 "Related products are shown to shoppers in addition to the item the shopper is looking at.","Related products are shown to shoppers in addition to the item the shopper is looking at.",module,Magento_Catalog
@@ -3088,7 +3088,7 @@ Scope,Zakres,module,Magento_ConfigurableProduct
 Searchable,"Widoczny w wynikach wyszukiwania",module,Magento_ConfigurableProduct
 Comparable,Porównywalne,module,Magento_ConfigurableProduct
 "Page not found.","Nie znaleziono strony.",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Dziękujemy za skontaktowanie się z nami. Odpowiemy najszybciej jak to będzie możliwe.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Dziękujemy za kontakt. Odezwiemy się do Ciebie najszybciej jak to będzie możliwe.",module,Magento_Contact
 "We can\'t process your request right now. Sorry, that\'s all we know.","We can\'t process your request right now. Sorry, that\'s all we know.",module,Magento_Contact
 "* Required Fields","* wymagane pola",module,Magento_Contact
 "Write Us","Napisz do nas",module,Magento_Contact
@@ -3362,7 +3362,7 @@ Customers,Klienci,module,Magento_Customer
 "Please load Wish List item.","Proszę załadować elementy listy życzeń.",module,Magento_Customer
 "Login successful.","Logowanie udane.",module,Magento_Customer
 """%1"" section source is not supported","""%1"" sekcja źródła nie jest obsługiwana",module,Magento_Customer
-"%1 doesn\'t extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 nie rozszerza \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
+"%1 doesn\'t extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 nie implementuje \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
 "The password doesn\'t match this account.","Hasło jest niepoprawne dla tego konta.",module,Magento_Customer
 "No confirmation needed.","Nie potrzeba potwierdzenia.",module,Magento_Customer
 "Account already active","Konto już aktywne",module,Magento_Customer
