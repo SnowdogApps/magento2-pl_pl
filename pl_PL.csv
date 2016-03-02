@@ -11467,7 +11467,7 @@ Resources,Zasoby,module,Magento_User
 "If you requested this change, reset your password here:","Jeśli zażądałeś zmiany, zresetuj swoje hasło tutaj:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie takie samo.",module,Magento_User
 "Hello,","Witamy,",module,Magento_User
-"We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
+"We have received a request to change the following information associated with your account at %store_name: %changes.","Otrzymaliśmy prośbę o zmianę następujących informacji na Twoim koncie %store_name: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
 "or call us at %store_phone","or call us at %store_phone",module,Magento_User
 "Thanks,","Thanks,",module,Magento_User
@@ -11644,14 +11644,14 @@ Name,Nazwa,module,Magento_Variable
 "No token found.","Nie znaleziono tokenu.",module,Magento_Vault
 "Wrong request.","Nieprawidłowe żądanie.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
-"Credit Card was successfully removed","Credit Card was successfully removed",module,Magento_Vault
+"Credit Card was successfully removed","Karta kredytowa została pomyślnie usunięta",module,Magento_Vault
 "My Credit Cards","Moje karty kredytowe",module,Magento_Vault
 "Select vault provider","Wybierz dostawcę vault",module,Magento_Vault
 vault_payment1,vault_payment1,module,Magento_Vault
 vault_payment2,vault_payment2,module,Magento_Vault
-"Card Number","Card Number",module,Magento_Vault
+"Card Number","Numer karty",module,Magento_Vault
 "Expiration Date","Data ważności",module,Magento_Vault
-Type,Type,module,Magento_Vault
+Type,Typ,module,Magento_Vault
 "You have no credit cards.","You have no credit cards.",module,Magento_Vault
 Actions,Operacje,module,Magento_Vault
 Delete,Usuń,module,Magento_Vault
