@@ -1057,8 +1057,8 @@ Authorize,Autoryzujautoryzuj,module,Magento_BraintreeTwo
 "Credit card","Credit card",module,Magento_BraintreeTwo
 "Apple pay card","Apple pay card",module,Magento_BraintreeTwo
 "Android pay card","Android pay card",module,Magento_BraintreeTwo
-"Authorization expired","Authorization expired",module,Magento_BraintreeTwo
-Authorizing,Authorizing,module,Magento_BraintreeTwo
+"Authorization expired","Autoryzacja wygasła",module,Magento_BraintreeTwo
+Authorizing,Autoryzowanie,module,Magento_BraintreeTwo
 Authorized,Authorized,module,Magento_BraintreeTwo
 "Gateway rejected","Gateway rejected",module,Magento_BraintreeTwo
 Failed,Failed,module,Magento_BraintreeTwo
@@ -1071,7 +1071,7 @@ Unrecognized,Unrecognized,module,Magento_BraintreeTwo
 "Settlement declined","Settlement declined",module,Magento_BraintreeTwo
 "Settlement pending","Settlement pending",module,Magento_BraintreeTwo
 "Settlement confirmed","Settlement confirmed",module,Magento_BraintreeTwo
-Sale,Sale,module,Magento_BraintreeTwo
+Sale,Sprzedaż,module,Magento_BraintreeTwo
 Credit,Credit,module,Magento_BraintreeTwo
 "Credit Card Type","Typ karty kredytowej",module,Magento_BraintreeTwo
 "Credit Card Number","Numer karty kredytowej",module,Magento_BraintreeTwo
@@ -1125,7 +1125,7 @@ Debug,"Tryb debug",module,Magento_BraintreeTwo
 "Verify for Applicable Countries","Weryfikuj wyszczególnione kraje",module,Magento_BraintreeTwo
 "Verify for Specific Countries","Weryfikuj wybrane kraje",module,Magento_BraintreeTwo
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_BraintreeTwo
-Select...,Select...,module,Magento_BraintreeTwo
+Select...,Wybierz...,module,Magento_BraintreeTwo
 Status,Status,module,Magento_BraintreeTwo
 "Transaction Type","Transaction Type",module,Magento_BraintreeTwo
 "PayPal Payment ID","PayPal Payment ID",module,Magento_BraintreeTwo
@@ -1133,7 +1133,7 @@ Status,Status,module,Magento_BraintreeTwo
 "Order ID","Order ID",module,Magento_BraintreeTwo
 "Payment Type","Payment Type",module,Magento_BraintreeTwo
 Type,Type,module,Magento_BraintreeTwo
-"Created At","Created At",module,Magento_BraintreeTwo
+"Created At",Utworzono,module,Magento_BraintreeTwo
 Amount,Amount,module,Magento_BraintreeTwo
 "Settlement Code","Settlement Code",module,Magento_BraintreeTwo
 "Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
@@ -1183,16 +1183,16 @@ N/A,N/D,module,Magento_Bundle
 Percent,Procent,module,Magento_Bundle
 "Ship Bundle Items","Dostawa powiązanych produktów",module,Magento_Bundle
 "We can\'t save custom-defined options for bundles with dynamic pricing.","We can\'t save custom-defined options for bundles with dynamic pricing.",module,Magento_Bundle
-Cancel,Cancel,module,Magento_Bundle
+Cancel,Anuluj,module,Magento_Bundle
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_Bundle
-[GLOBAL],[GLOBAL],module,Magento_Bundle
+[GLOBAL],[GLOBALNY],module,Magento_Bundle
 "Add Option","Add Option",module,Magento_Bundle
 "New Option","Nowa opcja",module,Magento_Bundle
 "Option Title","Tytuł opcji",module,Magento_Bundle
 "Input Type","Typ pola",module,Magento_Bundle
 Drop-down,Drop-down,module,Magento_Bundle
 "Radio Buttons","Radio Buttons",module,Magento_Bundle
-Checkbox,Checkbox,module,Magento_Bundle
+Checkbox,"Pole wyboru",module,Magento_Bundle
 "Multiple Select","Multiple Select",module,Magento_Bundle
 Required,Wymagane,module,Magento_Bundle
 Default,Domyślny,module,Magento_Bundle
@@ -1200,8 +1200,8 @@ Name,Nazwa,module,Magento_Bundle
 "Default Quantity","Domyślna ilość",module,Magento_Bundle
 "User Defined","Zdefiniowane przez użytkownika",module,Magento_Bundle
 "Price Type","Typ ceny",module,Magento_Bundle
-"Dynamic Price","Dynamic Price",module,Magento_Bundle
-"Dynamic SKU","Dynamic SKU",module,Magento_Bundle
+"Dynamic Price","Dynamiczna cena",module,Magento_Bundle
+"Dynamic SKU","Dynamiczne SKU",module,Magento_Bundle
 "Dynamic Weight","Dynamic Weight",module,Magento_Bundle
 None,Brak,module,Magento_Bundle
 Quantity:,Ilość:,module,Magento_Bundle
@@ -1244,9 +1244,9 @@ Subtotal,"Suma częściowa",module,Magento_Bundle
 "Qty Shipped","Ilość dostarczona",module,Magento_Bundle
 "Add Products to New Option","Dodawaj produkty do nowych opcji",module,Magento_Bundle
 "Add Products to Option ""%1""","Dodaj produkty do opcji ""%1""",module,Magento_Bundle
-Select...,Select...,module,Magento_Bundle
-Status,Status,module,Magento_Bundle
-Thumbnail,Thumbnail,module,Magento_Bundle
+Select...,Wybierz...,module,Magento_Bundle
+Status,Stan,module,Magento_Bundle
+Thumbnail,Miniatura,module,Magento_Bundle
 Type,Type,module,Magento_Bundle
 Always,Zawsze,module,Magento_Captcha
 "After number of attempts to login","Po liczbie prób logowania",module,Magento_Captcha
@@ -2122,7 +2122,7 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Product availability","Dostępność produktu",module,Magento_CatalogInventory
 "Product Name","Nazwa produktu",module,Magento_CatalogInventory
 Qty,Ilość,module,Magento_CatalogInventory
-"Inventory Section","Inventory Section",module,Magento_CatalogInventory
+"Inventory Section","Sekcja stanów magazynowych",module,Magento_CatalogInventory
 Inventory,Magazyn,module,Magento_CatalogInventory
 "Stock Options","Opcje stanów",module,Magento_CatalogInventory
 "Decrease Stock When Order is Placed","Zmniejsz stan magazynowy po złożeniu zamówienia",module,Magento_CatalogInventory
@@ -2278,17 +2278,17 @@ Action,Operacja,module,Magento_CatalogRuleStaging
 Edit,Edytuj,module,Magento_CatalogRuleStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CatalogRuleStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
-"Start Time","Start Time",module,Magento_CatalogRuleStaging
+"Start Time","Czas rozpoczęcia",module,Magento_CatalogRuleStaging
 Name,Name,module,Magento_CatalogRuleStaging
-Description,Description,module,Magento_CatalogRuleStaging
-"End Date","End Date",module,Magento_CatalogRuleStaging
-"End Time","End Time",module,Magento_CatalogRuleStaging
+Description,Opis,module,Magento_CatalogRuleStaging
+"End Date","Data zakończenia",module,Magento_CatalogRuleStaging
+"End Time","Czas zakończenia",module,Magento_CatalogRuleStaging
 "Update Information","Update Information",module,Magento_CatalogRuleStaging
 "Remove Catalog Rule from Update","Remove Catalog Rule from Update",module,Magento_CatalogRuleStaging
 "Save as a new update","Save as a new update",module,Magento_CatalogRuleStaging
 "Update Name","Update Name",module,Magento_CatalogRuleStaging
-"Start date","Start date",module,Magento_CatalogRuleStaging
-"End date","End date",module,Magento_CatalogRuleStaging
+"Start date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
+"End date","Data zakończenia",module,Magento_CatalogRuleStaging
 "Rule Information","Rule Information",module,Magento_CatalogRuleStaging
 Conditions,Conditions,module,Magento_CatalogRuleStaging
 Actions,Actions,module,Magento_CatalogRuleStaging
@@ -2300,7 +2300,7 @@ Actions,Actions,module,Magento_CatalogRuleStaging
 50,50,module,Magento_CatalogRuleStaging
 100,100,module,Magento_CatalogRuleStaging
 200,200,module,Magento_CatalogRuleStaging
-Websites,Websites,module,Magento_CatalogRuleStaging
+Websites,Witryny,module,Magento_CatalogRuleStaging
 "Catalog Price Rules","Catalog Price Rules",module,Magento_CatalogRuleStaging
 Home,"Strona główna",module,Magento_CatalogSearch
 "Go to Home Page","Przejdź na stronę główną",module,Magento_CatalogSearch
@@ -2640,8 +2640,8 @@ Manually,Ręcznie,module,Magento_CheckoutAgreements
 "Unable to save checkout agreement %1","Nie można zapisać warunku składania zamówienia %1",module,Magento_CheckoutAgreements
 "Unable to remove checkout agreement %1","Nie można usunąć warunku składania zamówienia %1",module,Magento_CheckoutAgreements
 "Checkout agreement with specified ID ""%1"" not found.","Warunek składania zamówienia o identyfikatorze ""%1"" nie został odnaleziony.",module,Magento_CheckoutAgreements
-Close,Close,module,Magento_CheckoutAgreements
-"Terms & Conditions","Terms & Conditions",module,Magento_CheckoutAgreements
+Close,Zamknij,module,Magento_CheckoutAgreements
+"Terms & Conditions",Regulaminy,module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Włącz warunki sprzedaży",module,Magento_CheckoutAgreements
 "Static Blocks","Bloki statyczne",module,Magento_Cms
 "Add New Block","Dodaj nowy blok",module,Magento_Cms
@@ -2738,7 +2738,7 @@ px.,px.,module,Magento_Cms
 "Collapse All","Zwiń wszystko",module,Magento_Cms
 "Expand All","Rozwiń wszystko",module,Magento_Cms
 "We could not detect a size.","Nie można wykryć rozmiaru.",module,Magento_Cms
-"Media Gallery","Media Gallery",module,Magento_Cms
+"Media Gallery","Galeria multimediów",module,Magento_Cms
 "Content Management","Zarządzanie treścią",module,Magento_Cms
 "CMS Home Page","Strona główna CMS",module,Magento_Cms
 "CMS No Route Page","Strona CMS Brak przekierowania",module,Magento_Cms
@@ -2812,7 +2812,7 @@ Action,Operacja,module,Magento_CmsStaging
 "Remove CMS block from Update","Remove CMS block from Update",module,Magento_CmsStaging
 "Save as a new update","Save as a new update",module,Magento_CmsStaging
 "Update Name","Update Name",module,Magento_CmsStaging
-"Start date","Start date",module,Magento_CmsStaging
+"Start date","Data rozpoczęcia",module,Magento_CmsStaging
 "End date","End date",module,Magento_CmsStaging
 "General Information","General Information",module,Magento_CmsStaging
 "Enable Block","Enable Block",module,Magento_CmsStaging
@@ -2828,30 +2828,30 @@ Identifier,Identifier,module,Magento_CmsStaging
 100,100,module,Magento_CmsStaging
 200,200,module,Magento_CmsStaging
 "Remove CMS page from Update","Remove CMS page from Update",module,Magento_CmsStaging
-"Enable Page","Enable Page",module,Magento_CmsStaging
-"Page Title","Page Title",module,Magento_CmsStaging
+"Enable Page","Włącz stronę",module,Magento_CmsStaging
+"Page Title","Tytuł strony",module,Magento_CmsStaging
 Content,Zawartość,module,Magento_CmsStaging
 "Content Heading","Nagłówek treści",module,Magento_CmsStaging
-"Search Engine Optimisation","Search Engine Optimisation",module,Magento_CmsStaging
+"Search Engine Optimisation","Optymalizacja dla wyszukiwarek",module,Magento_CmsStaging
 "URL Key","URL Key",module,Magento_CmsStaging
-"Meta Keywords","Meta Keywords",module,Magento_CmsStaging
-"Meta Description","Meta Description",module,Magento_CmsStaging
+"Meta Keywords","Słowa kluczowe",module,Magento_CmsStaging
+"Meta Description","Meta opis",module,Magento_CmsStaging
 "Page in Websites","Page in Websites",module,Magento_CmsStaging
 Design,Design,module,Magento_CmsStaging
-Layout,Layout,module,Magento_CmsStaging
+Layout,Układ,module,Magento_CmsStaging
 "Layout Update XML","Layout Update XML",module,Magento_CmsStaging
 "Custom Design Update","Custom Design Update",module,Magento_CmsStaging
 From,From,module,Magento_CmsStaging
 To,To,module,Magento_CmsStaging
 "New Theme","New Theme",module,Magento_CmsStaging
-"-- Please Select --","-- Please Select --",module,Magento_CmsStaging
+"-- Please Select --","-- Wybierz --",module,Magento_CmsStaging
 "New Layout","New Layout",module,Magento_CmsStaging
 "Deleting the change will remove the page from this update and all scheduled changes will be lost.","Deleting the change will remove the page from this update and all scheduled changes will be lost.",module,Magento_CmsStaging
 "CMS Pages","Strony CMS",module,Magento_CmsStaging
-"CMS Blocks","CMS Blocks",module,Magento_CmsStaging
+"CMS Blocks","Bloki CMS",module,Magento_CmsStaging
 ID,ID,module,Magento_CmsStaging
-Title,Title,module,Magento_CmsStaging
-Status,Status,module,Magento_CmsStaging
+Title,Tytuł,module,Magento_CmsStaging
+Status,Stan,module,Magento_CmsStaging
 "Default Config","Domyślna konfiguracja",module,Magento_Config
 "Save Config","Zapisz konfigurację",module,Magento_Config
 [GLOBAL],[GLOBALNY],module,Magento_Config
@@ -2941,7 +2941,7 @@ Stores,Sklepy,module,Magento_Config
 "Allow everything","Zezwól na wszystko",module,Magento_Config
 "Magento Admin","Administrator Magento",module,Magento_Config
 Dashboard,Panel,module,Magento_Config
-"Manage Stores","Manage Stores",module,Magento_Config
+"Manage Stores","Zarządzaj sklepami",module,Magento_Config
 "Field 2","Pole 2",module,Magento_Config
 "Field 3","Pole 3",module,Magento_Config
 "Field 3.1","Pole 3.1",module,Magento_Config
@@ -4754,8 +4754,8 @@ Kilograms,Kilogramy,module,Magento_Fedex
 status,status,module,Magento_Fedex
 "Empty response","Pusta odpowiedź",module,Magento_Fedex
 None,Brak,module,Magento_Fedex
-"Field ","Field ",module,Magento_Fedex
-" is required."," is required.",module,Magento_Fedex
+"Field ","Pole ",module,Magento_Fedex
+" is required."," jest wymagane.",module,Magento_Fedex
 FedEx,FedEx,module,Magento_Fedex
 "Enabled for Checkout","Włącz dla zamówienia",module,Magento_Fedex
 "Enabled for RMA","Włączone dla RMA",module,Magento_Fedex
@@ -5668,7 +5668,7 @@ Email,E-mail,module,Magento_Integration
 "Identity link URL","Identity link URL",module,Magento_Integration
 "URL to redirect user to link their 3rd party account with this Magento integration credentials.","URL to redirect user to link their 3rd party account with this Magento integration credentials.",module,Magento_Integration
 "Current User Identity Verification","Current User Identity Verification",module,Magento_Integration
-"Your Password","Your Password",module,Magento_Integration
+"Your Password","Twoje hasło",module,Magento_Integration
 "Integration Details","Szczegóły integracji",module,Magento_Integration
 "Basic Settings","Ustawienia podstawowe",module,Magento_Integration
 "Integration Tokens for Extensions","Integration Tokens for Extensions",module,Magento_Integration
@@ -5971,7 +5971,7 @@ IP-Address,IP-Address,module,Magento_Logging
 "X-Forwarded For","X-Forwarded For",module,Magento_Logging
 "Error Message","Komunikat błędu",module,Magento_Logging
 "Related Changes","Powiązane zmiany",module,Magento_Logging
-Logging,Logging,module,Magento_Logging
+Logging,Rejestrowanie,module,Magento_Logging
 "Action Log","Action Log",module,Magento_Logging
 Archive,Archive,module,Magento_Logging
 "Admin Actions Log Archiving","Admin Archiwizacja Akcji Logów",module,Magento_Logging
@@ -6626,7 +6626,7 @@ Condition,"Stan produktu",module,Magento_OfflineShipping
 Export,Eksport,module,Magento_OfflineShipping
 Import,Import,module,Magento_OfflineShipping
 "Minimum Order Amount","Minimalna wielkość zamówienia",module,Magento_OfflineShipping
-"-- Please Select --","-- Please Select --",module,Magento_OfflineShipping
+"-- Please Select --","-- Wybierz --",module,Magento_OfflineShipping
 "Export VCL for Varnish %1","Export VCL for Varnish %1",module,Magento_PageCache
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Wartość Ttl ""%1"" nie jest prawidłowa. Proszę używać tylko cyfr większych lub równych zero.",module,Magento_PageCache
 "Built-in Cache","Wbudowana pamięć podręczna",module,Magento_PageCache
@@ -6702,7 +6702,7 @@ No,Nie,module,Magento_Payment
 "Forgot an Item?","Zapomniałeś dodać produkt?",module,Magento_Payment
 "Edit Your Cart","Edytuj koszyk",module,Magento_Payment
 "Payment Methods Section","Payment Methods Section",module,Magento_Payment
-"Payment Services","Payment Services",module,Magento_Payment
+"Payment Services","Usługi płatności",module,Magento_Payment
 "Payment Methods","Metody płatności",module,Magento_Payment
 "Billing Agreements","Umowy rozliczeniowe",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
@@ -9629,7 +9629,7 @@ is,jest,module,Magento_SalesRule
 Promotion,Promotion,module,Magento_SalesRule
 "Auto Generated Specific Coupon Codes","Automatycznie wygenerowane kody kuponów",module,Magento_SalesRule
 "Web Site",Witryna,module,Magento_SalesRule
-Back,Back,module,Magento_SalesRule
+Back,Powrót,module,Magento_SalesRule
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
                     ","
@@ -9677,11 +9677,11 @@ Description,Opis,module,Magento_SalesRuleStaging
 "End date","Data zakończenia",module,Magento_SalesRuleStaging
 "Select from existing Scheduled Update","Wybierz z istniejących zaplanowanych aktualizacji",module,Magento_SalesRuleStaging
 "Rule Information","Informacje o regule",module,Magento_SalesRuleStaging
-Websites,Websites,module,Magento_SalesRuleStaging
+Websites,Witryny,module,Magento_SalesRuleStaging
 "Customer Groups","Grupy klienta",module,Magento_SalesRuleStaging
 "Public In RSS Feed","Publiczne w kanale RSS",module,Magento_SalesRuleStaging
 Conditions,Warunki,module,Magento_SalesRuleStaging
-Actions,Actions,module,Magento_SalesRuleStaging
+Actions,Operacje,module,Magento_SalesRuleStaging
 Apply,Zastosuj,module,Magento_SalesRuleStaging
 "Discount Amount","Wielkość zniżki",module,Magento_SalesRuleStaging
 "Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRuleStaging
@@ -10222,7 +10222,7 @@ None,Brak,module,Magento_Sitemap
 "Base Only","Tylko podstawowa",module,Magento_Sitemap
 All,Wszystko,module,Magento_Sitemap
 "Sitemap Generation Warnings","Sitemap ostrzeżenia",module,Magento_Sitemap
-"XML Sitemap Section","XML Sitemap Section",module,Magento_Sitemap
+"XML Sitemap Section","Sekcja mapy strony",module,Magento_Sitemap
 "Categories Options","Opcje kategorii",module,Magento_Sitemap
 Frequency,Częstotliwość,module,Magento_Sitemap
 Priority,Priorytet,module,Magento_Sitemap
@@ -10299,8 +10299,8 @@ View/Edit,Wyświetl/Edytuj,module,Magento_Staging
 "Scheduled Changes","Scheduled Changes",module,Magento_Staging
 Start,Start,module,Magento_Staging
 End,Koniec,module,Magento_Staging
-"Load More","Load More",module,Magento_Staging
-"Belongs to ","Belongs to ",module,Magento_Staging
+"Load More","Załaduj więcej",module,Magento_Staging
+"Belongs to ","Należy do ",module,Magento_Staging
 "Allow everything","Allow everything",module,Magento_Staging
 "Create New Campaign","Stwórz Nową Kampanię",module,Magento_Staging
 Back,Powrót,module,Magento_Staging
@@ -11025,7 +11025,7 @@ Hour,Godzina,module,Magento_Theme
 Minute,Minuta,module,Magento_Theme
 "We could not detect a size.","Nie można wykryć rozmiaru.",module,Magento_Theme
 "We don't recognize this file extension.","Nie rozpoznajemy tego rozszerzenia pliku.",module,Magento_Theme
-"Welcome, %1!","Welcome, %1!",module,Magento_Theme
+"Welcome, %1!","Witaj, %1!",module,Magento_Theme
 Empty,Pusty,module,Magento_Theme
 "1 column","1 kolumna",module,Magento_Theme
 "HTML Head","Nagłówek HTML",module,Magento_Theme
@@ -11086,22 +11086,22 @@ Assign,Przyporządkuj,module,Magento_Ui
 Options,Opcje,module,Magento_Ui
 Filters,Filtry,module,Magento_Ui
 Add,Dodaj,module,Magento_Ui
-"Something went wrong.","Something went wrong.",module,Magento_Ui
-Yes,Yes,module,Magento_Ui
+"Something went wrong.","Coś poszło nie tak.",module,Magento_Ui
+Yes,Tak,module,Magento_Ui
 No,No,module,Magento_Ui
-Done,Done,module,Magento_Ui
+Done,Zrobione,module,Magento_Ui
 options,options,module,Magento_Ui
-Select...,Select...,module,Magento_Ui
+Select...,Wybierz...,module,Magento_Ui
 Selected,Selected,module,Magento_Ui
-"Select All","Select All",module,Magento_Ui
-"Deselect All","Deselect All",module,Magento_Ui
+"Select All","Zaznacz wszystko",module,Magento_Ui
+"Deselect All","Odznacz wszystko",module,Magento_Ui
 "Select All on This Page","Select All on This Page",module,Magento_Ui
 "Deselect All on This Page","Deselect All on This Page",module,Magento_Ui
 On,On,module,Magento_Ui
 Off,Off,module,Magento_Ui
 "Go to Details Page","Przejdź do strony szczegółów",module,Magento_Ui
 "New View","New View",module,Magento_Ui
-"Default View","Default View",module,Magento_Ui
+"Default View","Widok domyślny",module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
 "You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
 "You haven\'t selected any items!","You haven\'t selected any items!",module,Magento_Ui
@@ -11250,8 +11250,8 @@ None,Brak,module,Magento_Ups
 label,etykieta,module,Magento_Ups
 "United Parcel Service","United Parcel Service",module,Magento_Ups
 "United Parcel Service XML","United Parcel Service XML",module,Magento_Ups
-"Field ","Field ",module,Magento_Ups
-" is required."," is required.",module,Magento_Ups
+"Field ","Pole ",module,Magento_Ups
+" is required."," jest wymagane.",module,Magento_Ups
 UPS,UPS,module,Magento_Ups
 "Access License Number","Access License Number",module,Magento_Ups
 "Enabled for Checkout","Włącz dla zamówienia",module,Magento_Ups
@@ -11426,9 +11426,9 @@ Permissions,Uprawnienia,module,Magento_User
 Recommended,Zalecane,module,Magento_User
 Forced,Zmuszony,module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Przepraszamy, ale te hasło jest już używane przez Ciebie. Proszę utwórz inne.",module,Magento_User
-email,email,module,Magento_User
-password,password,module,Magento_User
-username,username,module,Magento_User
+email,"adres e-mail",module,Magento_User
+password,hasło,module,Magento_User
+username,"nazwa użytkownika",module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","Użytkownik nie zalogował się prawidłowo lub konto jest tymczasowo wyłączone.",module,Magento_User
 "You need more permissions to access this.","Potrzebujesz więcej uprawnień, aby uzyskać dostęp do tej sekcji.",module,Magento_User
 "Your account is temporarily disabled.","Your account is temporarily disabled.",module,Magento_User
@@ -11466,12 +11466,12 @@ Resources,Zasoby,module,Magento_User
 "There was recently a request to change the password for your account.","Otrzymaliśmy żądanie zmiany hasła dla Twojego konta.",module,Magento_User
 "If you requested this change, reset your password here:","Jeśli zażądałeś zmiany, zresetuj swoje hasło tutaj:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie takie samo.",module,Magento_User
-"Hello,","Hello,",module,Magento_User
+"Hello,","Witamy,",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
 "or call us at %store_phone","or call us at %store_phone",module,Magento_User
 "Thanks,","Thanks,",module,Magento_User
-"All Users","All Users",module,Magento_User
+"All Users","Wszyscy użytkownicy",module,Magento_User
 "User Roles","User Roles",module,Magento_User
 "User Notification Template","User Notification Template",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_User
@@ -11587,8 +11587,8 @@ Documents,Dokumenty,module,Magento_Usps
 Return,Zwrot,module,Magento_Usps
 Other,Inne,module,Magento_Usps
 None,Brak,module,Magento_Usps
-"Field ","Field ",module,Magento_Usps
-" is required."," is required.",module,Magento_Usps
+"Field ","Pole ",module,Magento_Usps
+" is required."," jest wymagane.",module,Magento_Usps
 USPS,USPS,module,Magento_Usps
 "Enabled for Checkout","Włącz dla zamówienia",module,Magento_Usps
 "Enabled for RMA","Włączone dla RMA",module,Magento_Usps
@@ -11854,8 +11854,8 @@ Yes,Tak,module,Magento_VisualMerchandiser
 No,Nie,module,Magento_VisualMerchandiser
 "Add Products","Dodaj produkty",module,Magento_VisualMerchandiser
 "Save and Close","Zapisz i Zamknij",module,Magento_VisualMerchandiser
-On,On,module,Magento_VisualMerchandiser
-Off,Off,module,Magento_VisualMerchandiser
+On,Włączone,module,Magento_VisualMerchandiser
+Off,Włączone,module,Magento_VisualMerchandiser
 "Visual Merchandiser Options","Visual Merchandiser Options",module,Magento_VisualMerchandiser
 "Visual Merchandiser","Wizualizacja sklepu",module,Magento_VisualMerchandiser
 "General Options","Opcje ogólne",module,Magento_VisualMerchandiser
