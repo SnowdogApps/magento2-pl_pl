@@ -2289,10 +2289,10 @@ Description,Opis,module,Magento_CatalogRuleStaging
 "Update Name","Update Name",module,Magento_CatalogRuleStaging
 "Start date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
 "End date","Data zakończenia",module,Magento_CatalogRuleStaging
-"Rule Information","Rule Information",module,Magento_CatalogRuleStaging
+"Rule Information","Informacje o regule",module,Magento_CatalogRuleStaging
 Conditions,Warunki,module,Magento_CatalogRuleStaging
-Actions,Actions,module,Magento_CatalogRuleStaging
-"Move to another scheduled change","Move to another scheduled change",module,Magento_CatalogRuleStaging
+Actions,Operacje,module,Magento_CatalogRuleStaging
+"Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_CatalogRuleStaging
 "Delete the scheduled change","Delete the scheduled change",module,Magento_CatalogRuleStaging
 "Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.","Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
 20,20,module,Magento_CatalogRuleStaging
@@ -2360,7 +2360,7 @@ Action,Operacja,module,Magento_CatalogStaging
 "Update Name","Zaktualizowana nazwa",module,Magento_CatalogStaging
 "Start date","Data rozpoczęcia",module,Magento_CatalogStaging
 "End date","Data zakończenia",module,Magento_CatalogStaging
-"Enable Category","Enable Category",module,Magento_CatalogStaging
+"Enable Category","Włącz kategorię",module,Magento_CatalogStaging
 "Include in Menu","Uwzględnij w menu",module,Magento_CatalogStaging
 "Category Name","Nazwa kategorii",module,Magento_CatalogStaging
 Content,Zawartość,module,Magento_CatalogStaging
@@ -2819,8 +2819,8 @@ Action,Operacja,module,Magento_CmsStaging
 "Block Title","Tytuł bloku",module,Magento_CmsStaging
 Identifier,Identyfikator,module,Magento_CmsStaging
 "Store View","Widok sklepu",module,Magento_CmsStaging
-"Move to another scheduled change","Move to another scheduled change",module,Magento_CmsStaging
-"Delete the scheduled change","Delete the scheduled change",module,Magento_CmsStaging
+"Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_CmsStaging
+"Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_CmsStaging
 "Deleting the change will remove the block from this update and all scheduled changes will be lost.","Deleting the change will remove the block from this update and all scheduled changes will be lost.",module,Magento_CmsStaging
 20,20,module,Magento_CmsStaging
 30,30,module,Magento_CmsStaging
@@ -2836,8 +2836,8 @@ Content,Zawartość,module,Magento_CmsStaging
 "URL Key","Klucz URL",module,Magento_CmsStaging
 "Meta Keywords","Słowa kluczowe",module,Magento_CmsStaging
 "Meta Description","Meta opis",module,Magento_CmsStaging
-"Page in Websites","Page in Websites",module,Magento_CmsStaging
-Design,Design,module,Magento_CmsStaging
+"Page in Websites","Strona w witrynach",module,Magento_CmsStaging
+Design,Wygląd,module,Magento_CmsStaging
 Layout,Układ,module,Magento_CmsStaging
 "Layout Update XML","Layout Update XML",module,Magento_CmsStaging
 "Custom Design Update","Custom Design Update",module,Magento_CmsStaging
@@ -2881,7 +2881,7 @@ System,System,module,Magento_Config
 "Selected allowed currency ""%1"" is not available in installed currencies.","Wybrana dozwolona waluta ""%1"" nie jest dostępna wśród zainstalowanych walut.",module,Magento_Config
 "Default display currency ""%1"" is not available in allowed currencies.","Domyślnie wyświetlana waluta ""%1"" nie jest na liście dozwolonych walut.",module,Magento_Config
 "Sorry, we haven\'t installed the base currency you selected.","Sorry, we haven\'t installed the base currency you selected.",module,Magento_Config
-"We can\'t save the Cron expression.","We can\'t save the Cron expression.",module,Magento_Config
+"We can\'t save the Cron expression.","Nie udało się zapisać wyrażenia crona.",module,Magento_Config
 "Sorry, we haven\'t installed the default display currency you selected.","Sorry, we haven\'t installed the default display currency you selected.",module,Magento_Config
 "Sorry, the default display currency you selected is not available in allowed currencies.","Przepraszamy, domyślna waluta, którą wybrałeś nie jest dostępna w dozwolonych walutach.",module,Magento_Config
 "Please correct the email address: ""%1"".","Proszę poprawić ten adres e-mail: ""%1"".",module,Magento_Config
@@ -2984,7 +2984,7 @@ Summary,Podsumowanie,module,Magento_ConfigurableProduct
 "Option values are not specified.","Nie podano wartości opcji.",module,Magento_ConfigurableProduct
 "Value index is not specified for an option.","Wartość indeksu nie jest określona dla opcji.",module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","Produkt z id ""%1"" nie zawiera wymaganego atrybutu ""%2"".",module,Magento_ConfigurableProduct
-"Products ""%1"" and ""%2"" have the same set of attribute values.","Products ""%1"" and ""%2"" have the same set of attribute values.",module,Magento_ConfigurableProduct
+"Products ""%1"" and ""%2"" have the same set of attribute values.","Produkty ""%1"" oraz %2 mają ten sam zestaw wartości cechy.",module,Magento_ConfigurableProduct
 "You can\'t add the item to shopping cart.","Nie możesz dodać produktu do koszyka.",module,Magento_ConfigurableProduct
 "You need to choose options for your item.","Musisz wybrać opcje produktu.",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Niektóre pola kombinacji produktu nie są prawidłowe.",module,Magento_ConfigurableProduct
@@ -5582,7 +5582,7 @@ Status,Status,module,Magento_ImportExport
 "Entity is unknown","Jednostka jest nieznana",module,Magento_ImportExport
 "We can\'t identify this file format.","Nie możemy rozpoznać formatu tego pliku.",module,Magento_ImportExport
 "Please correct the value for ""%1"" column.","Please correct the value for ""%1"" column.",module,Magento_ImportExport
-"Please specify the writer.","Please specify the writer.",module,Magento_ImportExport
+"Please specify the writer.","Proszę określić autora.",module,Magento_ImportExport
 "The destination file path must be a string.","The destination file path must be a string.",module,Magento_ImportExport
 "The destination directory is not writable.","Katalog docelowy nie jest zapisywalny.",module,Magento_ImportExport
 "Destination file is not writable","Plik docelowy nie ma praw do zapisu",module,Magento_ImportExport
@@ -6182,9 +6182,9 @@ Customers,Klienci,module,Magento_MultipleWishlist
 """%1"" was moved to %2.","""%1"" zostało przeniesione do %2.",module,Magento_MultipleWishlist
 "We can\'t find an item with this ID.","We can\'t find an item with this ID.",module,Magento_MultipleWishlist
 "We cannot move ""%1"".","We cannot move ""%1"".",module,Magento_MultipleWishlist
-"We can\'t move the wish list item.","We can\'t move the wish list item.",module,Magento_MultipleWishlist
+"We can\'t move the wish list item.","Nie udało się przenieść tej pozycji schowka.",module,Magento_MultipleWishlist
 "%1 items cannot be moved: %2.","Produkty %1 nie mogą być przeniesione: %2.",module,Magento_MultipleWishlist
-"We can\'t move %1 items.","We can\'t move %1 items.",module,Magento_MultipleWishlist
+"We can\'t move %1 items.","Nieprzeniesione produkty: %1.",module,Magento_MultipleWishlist
 "%1 items were moved to %2: %3.","%1 produkty zostały przeniesione do %2: %3.",module,Magento_MultipleWishlist
 "%1 for ""%2""","%1 na ""%2""",module,Magento_MultipleWishlist
 "We can\'t add the item to shopping cart.","We can\'t add the item to shopping cart.",module,Magento_MultipleWishlist
@@ -6305,7 +6305,7 @@ Total,Łącznie,module,Magento_Multishipping
 "Please check billing address information.","Prosimy sprawdzić adres rozliczeniowy.",module,Magento_Multishipping
 "Please select shipping methods for all addresses.","Wybierz metody wysyłki dla wszystkich adresów.",module,Magento_Multishipping
 "A payment method is not defined.","Metoda płatności nie została wybrana.",module,Magento_Multishipping
-"The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping.",module,Magento_Multishipping
+"The requested payment method is not available for multishipping.","Określona metoda płatności nie jest dostępna w przypadku wysyłki do kilku lokalizacji.",module,Magento_Multishipping
 "Item not found or already ordered","Produkt nie został znaleziony lub jest już zamówieony",module,Magento_Multishipping
 "Please specify a payment method.","Prosimy o wybór metody płatności.",module,Magento_Multishipping
 "Please check shipping addresses information.","Prosimy sprawdzić adres dostawy.",module,Magento_Multishipping
@@ -7530,7 +7530,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Some item options or their combination are not currently available.","Wybrane opcje lub ich kombinacje nie są dostępne.",module,Magento_Quote
 "Cart %1 doesn\'t contain item  %2","Cart %1 doesn\'t contain item  %2",module,Magento_Quote
 "Could not save quote","Nie udało się zapisać koszyka",module,Magento_Quote
-"Could not remove item from quote","Could not remove item from quote",module,Magento_Quote
+"Could not remove item from quote","Nie udało się usunąć tej pozycji z koszyka",module,Magento_Quote
 "The qty value is required to update quote item.","The qty value is required to update quote item.",module,Magento_Quote
 "Invalid customer id %1","Nieprawidłowy identyfikator klienta: %1",module,Magento_Quote
 "Invalid address id %1","Nieprawidłowy adres id %1",module,Magento_Quote
@@ -7542,7 +7542,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
 "Please check the shipping address information. %1","Proszę sprawdzić adres dostawy. %1",module,Magento_Quote
 "Please specify a shipping method.","Prosimy o wybór metody dostawy.",module,Magento_Quote
-"Please check the billing address information. %1","Please check the billing address information. %1",module,Magento_Quote
+"Please check the billing address information. %1","Proszę sprawdzić adres rozliczeniowy. %1",module,Magento_Quote
 "Please select a valid payment method.","Prosimy wybrać prawidłową formę płatności.",module,Magento_Quote
 "Store Credit","Kredyt w sklepie",module,Magento_Quote
 Discount,Zniżka,module,Magento_Quote
@@ -7555,7 +7555,7 @@ Tax,Podatek,module,Magento_Quote
 "Cannot set shipping method. %1","Nie można ustawić metody wysyłki. %1",module,Magento_Quote
 error123,błąd123,module,Magento_Quote
 error345,błąd345,module,Magento_Quote
-Carts,Carts,module,Magento_Quote
+Carts,Koszyki,module,Magento_Quote
 "Manage carts","Manage carts",module,Magento_Quote
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Powiązane reguły automatycznego przypomnienia: %1. Usunięcie pozycji spowoduje usunięcie tych powiązań.",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Automated Email Marketing Reminder Rules",module,Magento_Reminder
@@ -7601,7 +7601,7 @@ To,Do,module,Magento_Reminder
 "Only customers who have an account for a store view will receive emails related to that store view.","Only customers who have an account for a store view will receive emails related to that store view.",module,Magento_Reminder
 "Default Titles and Description","Domyślne tytuły i opisy",module,Magento_Reminder
 "You can find and edit rule label and descriptions, per store view, in email templates.","You can find and edit rule label and descriptions, per store view, in email templates.",module,Magento_Reminder
-"Rule Title for All Store Views","Rule Title for All Store Views",module,Magento_Reminder
+"Rule Title for All Store Views","Tytuł reguły dla wszystkich widoków sklepu",module,Magento_Reminder
 "Rule Description for All Store Views","Rule Description for All Store Views",module,Magento_Reminder
 "Titles and Descriptions Per Store View","Titles and Descriptions Per Store View",module,Magento_Reminder
 "Overrides default titles and descriptions. Note that if an email template is not specified for this store view, the respective variable values will be deleted.","Overrides default titles and descriptions. Note that if an email template is not specified for this store view, the respective variable values will be deleted.",module,Magento_Reminder
@@ -8115,7 +8115,7 @@ Customers,Klienci,module,Magento_Reward
 "You removed the reward points from this order.","You removed the reward points from this order.",module,Magento_Reward
 "Reward points will not be used in this order.","Reward points will not be used in this order.",module,Magento_Reward
 "Page not found.","Nie znaleziono strony.",module,Magento_Reward
-"You saved the settings.","You saved the settings.",module,Magento_Reward
+"You saved the settings.","Zapisano ustawienia.",module,Magento_Reward
 "You unsubscribed.","You unsubscribed.",module,Magento_Reward
 "You can\'t unsubscribed right now.","You can\'t unsubscribed right now.",module,Magento_Reward
 "%1 Reward points (%2)","%1 Reward points (%2)",module,Magento_Reward
@@ -8655,7 +8655,7 @@ Message,Wiadomość,module,Magento_Sales
 "Create New Order for %1","Utwórz nowe zamówienie dla %1",module,Magento_Sales
 "Create New Order for New Customer","Utwórz nowe zamówienie dla nowego klienta",module,Magento_Sales
 "Items Ordered","Zamówione produkty",module,Magento_Sales
-"This product is disabled.","This product is disabled.",module,Magento_Sales
+"This product is disabled.","Ten produkt jest wyłączony.",module,Magento_Sales
 "Buy %1 for price %2","Buy %1 for price %2",module,Magento_Sales
 "Item ordered qty","Zamówiona ilość",module,Magento_Sales
 "%1 with %2 discount each","%1 with %2 discount each",module,Magento_Sales
@@ -9448,7 +9448,7 @@ Subtotal,"Suma częściowa",module,Magento_SalesArchive
 "Adjustment Refund","Zwrot manipulacyjny",module,Magento_SalesArchive
 "Adjustment Fee","Opłata manipulacyjna",module,Magento_SalesArchive
 "Grand Total",Łącznie,module,Magento_SalesArchive
-"Return to Order Management","Return to Order Management",module,Magento_SalesArchive
+"Return to Order Management","Wróć do zarządzania zamówieniami",module,Magento_SalesArchive
 "Purchase Point","Punkt zakupu",module,Magento_SalesArchive
 Cancel,Anuluj,module,Magento_SalesArchive
 Hold,Wstrzymaj,module,Magento_SalesArchive
@@ -9687,9 +9687,9 @@ Apply,Zastosuj,module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRuleStaging
 "Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
 Labels,Etykiety,module,Magento_SalesRuleStaging
-"Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRuleStaging
+"Default Rule Label for All Store Views","Domyślna etykieta reguły dla wszystkich widoków sklepu",module,Magento_SalesRuleStaging
 "Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_SalesRuleStaging
-"Delete the scheduled change","Delete the scheduled change",module,Magento_SalesRuleStaging
+"Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_SalesRuleStaging
 "Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.","Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.",module,Magento_SalesRuleStaging
 20,20,module,Magento_SalesRuleStaging
 30,30,module,Magento_SalesRuleStaging
@@ -9793,7 +9793,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "Save file content","Zapisywanie zawartości pliku",module,Magento_ScheduledImportExport
 "Please correct the server type.","Popraw typ serwera.",module,Magento_ScheduledImportExport
 "Import path %1 not exists","Ścieżka %1 nie istnieje",module,Magento_ScheduledImportExport
-"We can\'t read the file.","We can\'t read the file.",module,Magento_ScheduledImportExport
+"We can\'t read the file.","Nie udało się odczytać pliku.",module,Magento_ScheduledImportExport
 "We can\'t save the file history file.","We can\'t save the file history file.",module,Magento_ScheduledImportExport
 "Unknown file format","Nieznany format pliku",module,Magento_ScheduledImportExport
 Enabled,Włączone,module,Magento_ScheduledImportExport
@@ -10201,7 +10201,7 @@ Catalog,Katalog,module,Magento_Sitemap
 "New Site Map","Nowa mapa witryny",module,Magento_Sitemap
 "The sitemap ""%1"" has been generated.","Mapa witryny %1"" została wygenerowana."".",module,Magento_Sitemap
 "We can\'t generate the sitemap right now.","Nie można wygenerować mapy witryny w tej chwili.",module,Magento_Sitemap
-"We can\'t find a sitemap to generate.","We can\'t find a sitemap to generate.",module,Magento_Sitemap
+"We can\'t find a sitemap to generate.","Nie udało się znaleźć mapy witryny do wygenerowania.",module,Magento_Sitemap
 "You saved the sitemap.","Mapa witryny została zapisana.",module,Magento_Sitemap
 "The priority must be between 0 and 1.","Priorytet musi mieć wartość pomiędzy 0 i 1.",module,Magento_Sitemap
 Always,Zawsze,module,Magento_Sitemap
@@ -10282,7 +10282,7 @@ Save,Zapisz,module,Magento_Staging
 "Edit existing update","Edit existing update",module,Magento_Staging
 "Assign to another scheduled update","Przypisz do innej zaplanowanej aktualizacji",module,Magento_Staging
 "Save as a new update","Save as a new update",module,Magento_Staging
-"Select from existing Scheduled Update","Select from existing Scheduled Update",module,Magento_Staging
+"Select from existing Scheduled Update","Wybierz z istniejących zaplanowanych aktualizacji",module,Magento_Staging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_Staging
 entity_type,entity_type,module,Magento_Staging
 Active,Aktywny,module,Magento_Staging
@@ -10291,7 +10291,7 @@ Upcoming,Upcoming,module,Magento_Staging
 "Please select Start Time for Future Update.","Please select Start Time for Future Update.",module,Magento_Staging
 "Future Update Start Time cannot be earlier than current time.","Future Update Start Time cannot be earlier than current time.",module,Magento_Staging
 "Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time.",module,Magento_Staging
-"Update with id ""%1"" does not exist.","Update with id ""%1"" does not exist.",module,Magento_Staging
+"Update with id ""%1"" does not exist.","Aktualizacja o identyfikatorze ""%1"" nie istnieje.",module,Magento_Staging
 "Unable to save Future Update.","Unable to save Future Update.",module,Magento_Staging
 View/Edit,Wyświetl/Edytuj,module,Magento_Staging
 "Scheduled Changes","Scheduled Changes",module,Magento_Staging
@@ -11093,8 +11093,8 @@ Select...,Wybierz...,module,Magento_Ui
 Selected,Selected,module,Magento_Ui
 "Select All","Zaznacz wszystko",module,Magento_Ui
 "Deselect All","Odznacz wszystko",module,Magento_Ui
-"Select All on This Page","Select All on This Page",module,Magento_Ui
-"Deselect All on This Page","Deselect All on This Page",module,Magento_Ui
+"Select All on This Page","Zaznacz wszystko na tej stronie",module,Magento_Ui
+"Deselect All on This Page","Usuń zaznaczenia na tej stronie",module,Magento_Ui
 On,Włączone,module,Magento_Ui
 Off,Wyłączone,module,Magento_Ui
 "Go to Details Page","Przejdź do strony szczegółów",module,Magento_Ui
