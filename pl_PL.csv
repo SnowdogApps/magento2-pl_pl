@@ -2063,7 +2063,7 @@ End,Koniec,module,Magento_CatalogEvent
 "Countdown Ticker",Odliczanie,module,Magento_CatalogEvent
 Action,Operacja,module,Magento_CatalogEvent
 Edit,Edytuj,module,Magento_CatalogEvent
-"Entity type model \'%1\' is not found","Entity type model \'%1\' is not found",module,Magento_CatalogImportExport
+"Entity type model \'%1\' is not found","Nie znaleziono modelu dla obiektów typu '%1'",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Obiekt typu modelu musi występować w \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Brak typów produktów dostępnych do eksportu.",module,Magento_CatalogImportExport
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Typ obiektu modelu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
@@ -3089,7 +3089,7 @@ Searchable,"Widoczny w wynikach wyszukiwania",module,Magento_ConfigurableProduct
 Comparable,Porównywalne,module,Magento_ConfigurableProduct
 "Page not found.","Nie znaleziono strony.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Dziękujemy za kontakt. Odezwiemy się do Ciebie najszybciej jak to będzie możliwe.",module,Magento_Contact
-"We can\'t process your request right now. Sorry, that\'s all we know.","We can\'t process your request right now. Sorry, that\'s all we know.",module,Magento_Contact
+"We can\'t process your request right now. Sorry, that\'s all we know.","W tej chwili nie możemy zrealizować tego żądania.",module,Magento_Contact
 "* Required Fields","* wymagane pola",module,Magento_Contact
 "Write Us","Napisz do nas",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Zostaw nam wiadomość, a my skontaktujemy się z Tobą tak szybko jak to możliwe.",module,Magento_Contact
@@ -6375,16 +6375,15 @@ Options,Opcje,module,Magento_Multishipping
 "We received your order!","Otrzymaliśmy zamówienie!",module,Magento_Multishipping
 "Message has been rejected: %1","Wiadomość została odrzucona: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","Porządkowanie kolejki komunikatów MySQL",module,Magento_MysqlMq
-"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","All the times are in minutes. Use ""0"" if you want to skip automatic clearance.",module,Magento_MysqlMq
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Wszystkie wartości powinny być podane w minutach. Użyj ""0"", aby zrezygnować z automatycznego czyszczenia.",module,Magento_MysqlMq
 "Retry Messages In Progress After","Retry Messages In Progress After",module,Magento_MysqlMq
 "Successful Messages Lifetime","Czas życia pomyślnych komunikatów",module,Magento_MysqlMq
 "Failed Messages Lifetime","Czas życia komunikatów o niepowodzeniu",module,Magento_MysqlMq
 "New Messages Lifetime","Czas życia nowych komunikatów",module,Magento_MysqlMq
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Nie można raportować zdarzeń Crona, ponieważ nie skonfigurowano identyfikatora aplikacji New Relic",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
-"New Relic Reporting Section","New Relic Reporting Section",module,Magento_NewRelicReporting
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Integracja z usługą New Relic wymaga agenta newrelic-php5, który nie jest obecnie zainstalowany. Informacje na temat jego instalacji są dostępne <a target=""_blank"" href=""%1"">tutaj</a>.",module,Magento_NewRelicReporting
+"New Relic Reporting Section","Dział raportowania New Relic",module,Magento_NewRelicReporting
 "New Relic Reporting","Raportowanie New Relic",module,Magento_NewRelicReporting
 General,Ogólne,module,Magento_NewRelicReporting
 "Enable New Relic Integration","Włącz integrację z New Relic",module,Magento_NewRelicReporting
@@ -7414,8 +7413,8 @@ Basic Settings - PayPal Payments Pro Hosted Solution""",module,Magento_Paypal
 "Persist Recently Viewed Products","Zachowuj ostatnio przeglądane produkty",module,Magento_PersistentHistory
 "Persist Customer Group Membership and Segmentation","Zachowuj przynależność klienta do grupy klientów oraz segmentację klientów",module,Magento_PersistentHistory
 "Read Product Price","Read Product Price",module,Magento_PricePermissions
-"Edit Product Price","Edit Product Price",module,Magento_PricePermissions
-"Edit Product Status","Edit Product Status",module,Magento_PricePermissions
+"Edit Product Price","Zmień cenę produktu",module,Magento_PricePermissions
+"Edit Product Status","Zmień stan produktu",module,Magento_PricePermissions
 "Default Product Price","Domyślna cena produktu",module,Magento_PricePermissions
 "
                         Defines the default product price
@@ -7503,7 +7502,7 @@ Delete,Usuń,module,Magento_ProductVideo
 "Edit Cart Price Rules","Edit Cart Price Rules",module,Magento_PromotionPermissions
 "Edit Automated Email Reminder Rules","Edytuj zasady automatycznego przypominania",module,Magento_PromotionPermissions
 "Unable to save address. Please check input data.","Nie udało się zapisać adresu. Proszę sprawdź wpisane dane.",module,Magento_Quote
-"Cart %1 doesn\'t contain products","Cart %1 doesn\'t contain products",module,Magento_Quote
+"Cart %1 doesn\'t contain products","W koszyku %1 nie ma żadnych produktów",module,Magento_Quote
 "Could not apply coupon code","Nie udało się zastosować kodu rabatowego",module,Magento_Quote
 "Coupon code is not valid","Kod kuponu jest nieprawidłowy",module,Magento_Quote
 "Could not delete coupon code","Nie udało się usunąć kodu rabatowego",module,Magento_Quote
@@ -9956,7 +9955,7 @@ None,Brak,module,Magento_Security
 "Limit Time Between Password Reset Requests","Odstęp pomiędzy żądaniami zresetowania hasła",module,Magento_Security
 "Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable.",module,Magento_Security
 "Page not found.","Nie znaleziono strony.",module,Magento_SendFriend
-"You can\'t send messages more than %1 times an hour.","You can\'t send messages more than %1 times an hour.",module,Magento_SendFriend
+"You can\'t send messages more than %1 times an hour.","Maksymalna liczba wiadomości na godzinę: %1.",module,Magento_SendFriend
 "The link to a friend was sent.","Link został wysłany do znajomego.",module,Magento_SendFriend
 "We found some problems with the data.","Problem z danymi.",module,Magento_SendFriend
 "Some emails were not sent.","Niektóre e-maile nie zostały wysłane.",module,Magento_SendFriend
@@ -10003,7 +10002,7 @@ Enabled,Włączone,module,Magento_SendFriend
 "Limit Sending By","Ogranicz wysyłanie o",module,Magento_SendFriend
 "New Shipment for Order #%1","Nowa dostawa dla zamówienia nr %1",module,Magento_Shipping
 "Submit Shipment","Wyślij przesyłkę",module,Magento_Shipping
-"You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.","You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn\'t match the quantity that was shipped.","Próbujesz dodać ilość produktu, która nie jest zgodna z ilością jaka została dostarczona.",module,Magento_Shipping
 "Products should be added to package(s)","Produkty powinny zostać dodane do paczek",module,Magento_Shipping
 "The value that you entered is not valid.","Wartość, która wprowadzono nie jest poprawna.",module,Magento_Shipping
 "Add Tracking Number","Dodaj numer przesyłki",module,Magento_Shipping
@@ -10356,7 +10355,7 @@ Layouts,Szablony,module,Magento_Store
 Back,Powrót,module,Magento_Support
 "Backup Log Details","Szczegóły logów backupu",module,Magento_Support
 Create,Utwórz,module,Magento_Support
-"Requested system report has no data to output.","Requested system report has no data to output.",module,Magento_Support
+"Requested system report has no data to output.","Żądany raport nie ma żadnych danych do wyświetlenia.",module,Magento_Support
 "&copy; Magento Commerce Inc., %1","&copy; Magento Commerce Inc., %1",module,Magento_Support
 "Are you sure you want to delete the system report?","Czy na pewno chcesz usunąć raport systemu?",module,Magento_Support
 Download,Pobierz,module,Magento_Support
@@ -10597,8 +10596,8 @@ Stores,Sklepy,module,Magento_Support
 "Report Groups","Raport grupy",module,Magento_Support
 "Swatch Helper: not valid parameter for product instantiation","Swatch Helper: not valid parameter for product instantiation",module,Magento_Swatches
 "Admin is a required field in the each row","Admin is a required field in the each row",module,Magento_Swatches
-"Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
-"Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
+"Update Product Preview Image","Zaktualizuj zdjęcie poglądowe produktu",module,Magento_Swatches
+"Filtering by this attribute will update the product image on catalog page","Filtrowanie według tej cechy zaktualizuje zdjęcie produktu na stronie katalogu",module,Magento_Swatches
 "Use Product Image for Swatch if Possible","Używaj zdjęć produktów do próbek jeżeli to możliwe",module,Magento_Swatches
 "Allows use fallback logic for replacing swatch image with product swatch or base image","Allows use fallback logic for replacing swatch image with product swatch or base image",module,Magento_Swatches
 "Visual Swatch","Graficzna próbka",module,Magento_Swatches
