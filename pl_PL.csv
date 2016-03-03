@@ -12017,9 +12017,9 @@ Conditions,Warunki,module,Magento_Widget
 "My Wish List","Moja lista życzeń",module,Magento_Wishlist
 "%1's Wish List","%1 listy życzeń",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
-"We can\'t specify a product.","We can\'t specify a product.",module,Magento_Wishlist
-"We can\'t add the item to Wish List right now: %1.","We can\'t add the item to Wish List right now: %1.",module,Magento_Wishlist
-"We can\'t add the item to Wish List right now.","We can\'t add the item to Wish List right now.",module,Magento_Wishlist
+"We can\'t specify a product.","Nie możemy określić produktu.",module,Magento_Wishlist
+"We can\'t add the item to Wish List right now: %1.","Aktualnie nie możemy dodać elementu do schowka: %1.",module,Magento_Wishlist
+"We can\'t add the item to Wish List right now.","Aktualnie nie możemy dodać elementu do schowka.",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Wishlist
 "This product(s) is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_Wishlist
 "We can\'t add the item to the cart right now.","We can\'t add the item to the cart right now.",module,Magento_Wishlist
@@ -12059,7 +12059,7 @@ Comment,Komentarz,module,Magento_Wishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 produkt(y) został dodany do koszyka: %2.",module,Magento_Wishlist
 Comment:,Komentarz:,module,Magento_Wishlist
 "We cannot retrieve the Wish List.","Nie możemy pobrać listy życzeń.",module,Magento_Wishlist
-"%1\'s Wishlist","%1\'s Wishlist",module,Magento_Wishlist
+"%1\'s Wishlist","Schowek %1",module,Magento_Wishlist
 "We can\'t specify a wish list item.","We can\'t specify a wish list item.",module,Magento_Wishlist
 "The product does not exist.","Produkt nie istnieje.",module,Magento_Wishlist
 "Test Phrase","Fraza testowa",module,Magento_Wishlist
@@ -12105,7 +12105,7 @@ Back,Powrót,module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name chce się z tobą podzielić tą listą życzeń z %store_name:",module,Magento_Wishlist
 "Message from %customer_name:","Wiadomość od %customer_name:",module,Magento_Wishlist
 "View all Wish List items","Zobacz wszystkie elementy listy życzeń",module,Magento_Wishlist
-"Wish List Section","Wish List Section",module,Magento_Wishlist
+"Wish List Section","Sekcja showka",module,Magento_Wishlist
 "Share Options","Opcje współdzielenia",module,Magento_Wishlist
 "Email Sender",Nadawca,module,Magento_Wishlist
 "Email Template","Szablon e-mail",module,Magento_Wishlist
@@ -12132,7 +12132,7 @@ Delete,Usuń,module,Magento_Wishlist
 "CVV result","Wynik CVV",module,Magento_Worldpay
 "Postcode AVS check","Sprawdzono kod pocztowy AVS",module,Magento_Worldpay
 "Address AVS check","Sprawdzono adres AVS",module,Magento_Worldpay
-"Country comparison check","Country comparison check",module,Magento_Worldpay
+"Country comparison check","Porównanie kraju",module,Magento_Worldpay
 "Risk Score","Ocena ryzyka",module,Magento_Worldpay
 "Not supported",Nieobsługiwane,module,Magento_Worldpay
 "Not checked","Nie sprawdzony",module,Magento_Worldpay
@@ -12142,8 +12142,8 @@ Matched,Pasujący,module,Magento_Worldpay
 "No such order id.","Brak takiego identyfikatora zamówienia.",module,Magento_Worldpay
 "Gateway response is not valid.","Błędna odpowiedź z bramki.",module,Magento_Worldpay
 "Wrong response type","Błędny typ odpowiedzi",module,Magento_Worldpay
-"Currency doesn\'t match.","Currency doesn\'t match.",module,Magento_Worldpay
-"Amount doesn\'t match.","Amount doesn\'t match.",module,Magento_Worldpay
+"Currency doesn\'t match.","Błędna waluta.",module,Magento_Worldpay
+"Amount doesn\'t match.","Błędna ilość.",module,Magento_Worldpay
 "Not supported response.","Otrzymana odpowiedź nie jest wspierana.",module,Magento_Worldpay
 "Gateway processing error.","Błąd przetwarzania bramki.",module,Magento_Worldpay
 "Transaction was not placed.","Transakcja nie została zakończona.",module,Magento_Worldpay
