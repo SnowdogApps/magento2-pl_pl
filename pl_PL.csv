@@ -1701,7 +1701,7 @@ Done,Zrobione,module,Magento_Catalog
 "Option Title","Tytuł opcji",module,Magento_Catalog
 "Add Value","Dodaj wartość",module,Magento_Catalog
 Title,Tytuł,module,Magento_Catalog
-"Option Type","Option Type",module,Magento_Catalog
+"Option Type","Rodzaj opcji",module,Magento_Catalog
 Required,Wymagane,module,Magento_Catalog
 "Price Type","Typ ceny",module,Magento_Catalog
 "Max Characters","Maks znaków",module,Magento_Catalog
@@ -1790,9 +1790,9 @@ Action,Operacja,module,Magento_Catalog
 "Browse to find or drag image here","Browse to find or drag image here",module,Magento_Catalog
 "Alt Text","Tekst alternatywny",module,Magento_Catalog
 Role,Rola,module,Magento_Catalog
-"Image Size","Image Size",module,Magento_Catalog
+"Image Size","Rozmiar zdjęcia",module,Magento_Catalog
 {size},{size},module,Magento_Catalog
-"Image Resolution","Image Resolution",module,Magento_Catalog
+"Image Resolution","Rozdzielczość zdjęcia",module,Magento_Catalog
 "{width}^{height} px","{width}^{height} px",module,Magento_Catalog
 "Hide from Product Page","Ukryj na stronie produktu",module,Magento_Catalog
 "Product Alerts","Alerty produktów",module,Magento_Catalog
@@ -1860,7 +1860,7 @@ OK,OK,module,Magento_Catalog
 Adding...,Adding...,module,Magento_Catalog
 Added,Dodane,module,Magento_Catalog
 "unselect all","odznacz wszystko",module,Magento_Catalog
-Inventory,Inventory,module,Magento_Catalog
+Inventory,Magazyn,module,Magento_Catalog
 "Catalog Section","Catalog Section",module,Magento_Catalog
 "Product Fields Auto-Generation","Auto generowanie pola produktu",module,Magento_Catalog
 "Mask for SKU","Maska dla SKU",module,Magento_Catalog
@@ -7118,9 +7118,9 @@ Continue,Kontynuuj,module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Przepraszamy coś poszło nie tak. Prosimy spróbować ponownie później.",module,Magento_Paypal
 "PayPal Section","PayPal Section",module,Magento_Paypal
 "PayPal Settlement","PayPal Settlement",module,Magento_Paypal
-Fetch,Fetch,module,Magento_Paypal
-Actions,Actions,module,Magento_Paypal
-Manage,Manage,module,Magento_Paypal
+Fetch,Pobierz,module,Magento_Paypal
+Actions,Operacje,module,Magento_Paypal
+Manage,Zarządzaj,module,Magento_Paypal
 "Place Order Using Billing Agreements","Place Order Using Billing Agreements",module,Magento_Paypal
 "Merchant Location","Lokalizacja handlowca",module,Magento_Paypal
 "Merchant Country","Kraj handlowca",module,Magento_Paypal
@@ -8405,7 +8405,7 @@ Dropdown,"Lista rozwijana",module,Magento_Rma
 "Return # ","Zwrot # ",module,Magento_Rma
 "Return Date: ","Data zwrotu: ",module,Magento_Rma
 "Order # ","Zamówienie # ",module,Magento_Rma
-"Ordered: ","Ordered: ",module,Magento_Rma
+"Ordered: ","Zamówione: ",module,Magento_Rma
 "Shipping Address:","Adres dla dostawy:",module,Magento_Rma
 "Return Address:","Adres zwrotny:",module,Magento_Rma
 Condition,"Stan produktu",module,Magento_Rma
@@ -8452,7 +8452,7 @@ Closed,Zamknięty,module,Magento_Rma
 "We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Rma
 Message,Wiadomość,module,Magento_Rma
 "No detail for number \\' . . '\\""",No detail for number \\' . . '\\"""""""",module,Magento_Rma
-"Use Config Settings","Use Config Settings",module,Magento_Rma
+"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_Rma
 "All Items","Wszystkie produkty",module,Magento_Rma
 "Individual Items","Poszczególne pozycje",module,Magento_Rma
 "Account &amp; Shipping Information","Konta &amp; i informacje o wysyłce",module,Magento_Rma
@@ -9276,7 +9276,7 @@ Search,Szukaj,module,Magento_Sales
 "You have item changes","You have item changes",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
 Operations,Operacje,module,Magento_Sales
-Create,Create,module,Magento_Sales
+Create,Utwórz,module,Magento_Sales
 "Send Order Email","Send Order Email",module,Magento_Sales
 "Accept or Deny Payment","Accept or Deny Payment",module,Magento_Sales
 "Send Sales Emails","Send Sales Emails",module,Magento_Sales
@@ -10576,8 +10576,8 @@ Expand,Rozwiń,module,Magento_Support
 Top,"Na górze",module,Magento_Support
 "No data","Brak danych",module,Magento_Support
 "Support System Report","Support System Report",module,Magento_Support
-"System Report","System Report",module,Magento_Support
-Data,Data,module,Magento_Support
+"System Report","Raport systemu",module,Magento_Support
+Data,Dane,module,Magento_Support
 Modules,Moduły,module,Magento_Support
 Logs,Logs,module,Magento_Support
 Attributes,Cechy,module,Magento_Support
@@ -10589,8 +10589,8 @@ Stores,Sklepy,module,Magento_Support
 "New Backup","Nowa kopia zapasowa",module,Magento_Support
 "Delete items","Usuń elementy",module,Magento_Support
 "Are you sure you want to delete selected item(s)?","Czy na pewno chcesz usunąć wszystkie zaznaczone towary?",module,Magento_Support
-"Code Dump","Code Dump",module,Magento_Support
-"DB Dump","DB Dump",module,Magento_Support
+"Code Dump","Kopia kodu",module,Magento_Support
+"DB Dump","Kopia bazy danych",module,Magento_Support
 "Choose Report Groups","Choose Report Groups",module,Magento_Support
 "New Report","Nowy raport",module,Magento_Support
 "Date Generated","Data wygenerowania",module,Magento_Support
