@@ -11236,7 +11236,7 @@ Residential,Rezydencyjny,module,Magento_Ups
 Commercial,Komercyjna,module,Magento_Ups
 Pounds,Funty,module,Magento_Ups
 Kilograms,Kilogramy,module,Magento_Ups
-"Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Przepraszamy coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my Spróbujemy pomóc.",module,Magento_Ups
+"Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Przepraszamy, ale coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my spróbujemy pomóc.",module,Magento_Ups
 "We can\'t convert a rate from \\%1-%2\\.""""""","We can\'t convert a rate from \\%1-%2\\.""""""",module,Magento_Ups
 "Cannot retrieve shipping rates","Nie można pobrać stawek metody wysyłki",module,Magento_Ups
 status,status,module,Magento_Ups
