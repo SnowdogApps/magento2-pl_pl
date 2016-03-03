@@ -1132,7 +1132,7 @@ Status,Status,module,Magento_BraintreeTwo
 "Transaction ID","Transaction ID",module,Magento_BraintreeTwo
 "Order ID","Order ID",module,Magento_BraintreeTwo
 "Payment Type","Payment Type",module,Magento_BraintreeTwo
-Type,Typ,module,Magento_BraintreeTwo
+Type,Rodzaj,module,Magento_BraintreeTwo
 "Created At",Utworzono,module,Magento_BraintreeTwo
 Amount,Amount,module,Magento_BraintreeTwo
 "Settlement Code","Settlement Code",module,Magento_BraintreeTwo
@@ -1247,7 +1247,7 @@ Subtotal,"Suma częściowa",module,Magento_Bundle
 Select...,Wybierz...,module,Magento_Bundle
 Status,Stan,module,Magento_Bundle
 Thumbnail,Miniatura,module,Magento_Bundle
-Type,Typ,module,Magento_Bundle
+Type,Rodzaj,module,Magento_Bundle
 Always,Zawsze,module,Magento_Captcha
 "After number of attempts to login","Po liczbie prób logowania",module,Magento_Captcha
 "Provided form does not exist","Podany formularz nie istnieje",module,Magento_Captcha
@@ -1747,7 +1747,7 @@ Groups,Grupy,module,Magento_Catalog
 "Please enter a new group name.","Wprowadź nazwę nowej grupy.",module,Magento_Catalog
 "An attribute group named ""/name/"" already exists"".","An attribute group named ""/name/"" already exists"".",module,Magento_Catalog
 "Sorry, we\'re unable to complete this request.","Sorry, we\'re unable to complete this request.",module,Magento_Catalog
-"You can\'t remove attributes from this attribute set.","Nie możesz usuwać cech z tego zestawu cech.",module,Magento_Catalog
+"You can\'t remove attributes from this attribute set.","Nie możesz usuwać cech z tego zestawu.",module,Magento_Catalog
 "Custom Options","Indywidualne opcje",module,Magento_Catalog
 "This is a required option.","Ta opcja jest wymagana.",module,Magento_Catalog
 "The field isn\'t complete.","The field isn\'t complete.",module,Magento_Catalog
@@ -11651,7 +11651,7 @@ vault_payment1,vault_payment1,module,Magento_Vault
 vault_payment2,vault_payment2,module,Magento_Vault
 "Card Number","Numer karty",module,Magento_Vault
 "Expiration Date","Data ważności",module,Magento_Vault
-Type,Typ,module,Magento_Vault
+Type,Rodzaj,module,Magento_Vault
 "You have no credit cards.","You have no credit cards.",module,Magento_Vault
 Actions,Operacje,module,Magento_Vault
 Delete,Usuń,module,Magento_Vault
