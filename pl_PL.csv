@@ -2086,7 +2086,7 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Customer Group","Grupa klienta",module,Magento_CatalogInventory
 "Minimum Qty","Minimalna ilość",module,Magento_CatalogInventory
 "Add Minimum Qty","Dodaj minimalną ilość",module,Magento_CatalogInventory
-"We can\'t rebuild the index for an undefined product.","We can\'t rebuild the index for an undefined product.",module,Magento_CatalogInventory
+"We can\'t rebuild the index for an undefined product.","Nie można przebudować indeksu dla niezdefiniowanego produktu.",module,Magento_CatalogInventory
 "Could not rebuild index for empty products array","Nie można przebudować indeksu do pustej tablicy produktów",module,Magento_CatalogInventory
 "Invalid stock id: %1. Only default stock with id %2 allowed","Nieprawidłowe ID stanu: %1. Tylko domyślny stan z ID %2 jest dozwolony",module,Magento_CatalogInventory
 "Invalid stock item id: %1. Should be null or numeric value greater than 0","Nieprawidłowe ID elementu stanu: %1. Powinno być puste lub numeryczne, większe od 0",module,Magento_CatalogInventory
@@ -2800,7 +2800,7 @@ Enable,Włącz,module,Magento_Cms
 "You saved this %1 update.","You saved this %1 update.",module,Magento_CmsStaging
 "Something went wrong while saving the %1.","Something went wrong while saving the %1.",module,Magento_CmsStaging
 "Something went wrong","Something went wrong",module,Magento_CmsStaging
-"Scheduled Changes","Scheduled Changes",module,Magento_CmsStaging
+"Scheduled Changes","Planowane zmiany",module,Magento_CmsStaging
 "Start Date","Data rozpoczęcia",module,Magento_CmsStaging
 "Start Time","Czas rozpoczęcia",module,Magento_CmsStaging
 Name,Nazwa,module,Magento_CmsStaging
@@ -6068,7 +6068,7 @@ Details,Szczegóły,module,Magento_Logging
 Partners,Partnerzy,module,Magento_Marketplace
 "Magento Marketplace","Market Magento",module,Magento_Marketplace
 "Platinum Partners","Platynowi partnerzy",module,Magento_Marketplace
-"Representing Magento\'s highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.","Representing Magento\'s highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.",module,Magento_Marketplace
+"Representing Magento\'s highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.","Reprezentując najwyższy poziom zaangażowania, partnerzy z grupy Magento Platinum Partners są liderami oraz innowatorami kluczowych produktów i usług mających na celu pomoc sprzedawcom i producentom w rozwijaniu ich działalności. Magento zastrzega poziom platynowy tylko dla wybranych i zaufanych partnerów, którzy oferują integracje dodatków i funkcjonalności, a także, działają w celu ulepszenia platformy handlowej Magento.",module,Magento_Marketplace
 "Featured Platinum Partners","Rekomendowani Partnerzy Platynowi",module,Magento_Marketplace
 "Partner search","Poszukiwania partnerów",module,Magento_Marketplace
 "Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magento jest dobrze prosperującą ekosystemem partnerów technologii mającej na celu pomoc kupcom i producentom w dostarczaniu najlepszych możliwych doświadczeń dla klientów. Są oni rozpoznawani jako eksperci w e-commerce, wyszukiwaniu, e-mail marketingu, płatnościach, podatkach, bezpieczeństwie, optymalizacji i analizie, realizowaniu zamówień i innych. Odwiedź katalog Partnerów Magento, aby zobaczyć wszystkich naszych zaufanych partnerów.",module,Magento_Marketplace
@@ -7562,7 +7562,7 @@ Carts,Carts,module,Magento_Quote
 "Automated Email Marketing Reminder Rules","Automated Email Marketing Reminder Rules",module,Magento_Reminder
 "Add New Rule","Dodaj nową regułę",module,Magento_Reminder
 "Are you sure you want to match this rule now?","Are you sure you want to match this rule now?",module,Magento_Reminder
-"No more than %1 customers may receive the reminder email after this action.","No more than %1 customers may receive the reminder email after this action.",module,Magento_Reminder
+"No more than %1 customers may receive the reminder email after this action.","Liczba klientów, która może otrzymać e-mail z przypomnieniem po tej akcji: %1.",module,Magento_Reminder
 "Run Now","Uruchom teraz",module,Magento_Reminder
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Reminder
 "Edit Rule '%1'","Edytuj regułę '%1'",module,Magento_Reminder
@@ -8628,7 +8628,7 @@ Category,Kategoria,module,Magento_Rule
 "Credit Memos","Faktury korygujące",module,Magento_Sales
 Orders,Zamówienia,module,Magento_Sales
 Invoices,Faktury,module,Magento_Sales
-"We can\'t get the order instance right now.","We can\'t get the order instance right now.",module,Magento_Sales
+"We can\'t get the order instance right now.","Nie możemy załadować tego zamówienia w tej chwili.",module,Magento_Sales
 "Create New Order","Utwórz zamówienie",module,Magento_Sales
 "Save Order Address","Zapisz adres zamówienia",module,Magento_Sales
 Shipping,Dostawa,module,Magento_Sales
@@ -9649,7 +9649,7 @@ Apply,Zastosuj,module,Magento_SalesRule
 "You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_SalesRuleStaging
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_SalesRuleStaging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_SalesRuleStaging
-"Required parameters are missing.","Required parameters are missing.",module,Magento_SalesRuleStaging
+"Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_SalesRuleStaging
 "You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
 Rule,Reguła,module,Magento_SalesRuleStaging
@@ -10321,7 +10321,7 @@ Name,Nazwa,module,Magento_Staging
 "Current store is not active.","Bieżący magazyn nie jest aktywny.",module,Magento_Store
 "Requested store is inactive","Wybrany sklep jest nieaktywny",module,Magento_Store
 "Requested store is not found","Wybrany sklep nie został odnaleziony",module,Magento_Store
-"Environment emulation nesting is not allowed.","Environment emulation nesting is not allowed.",module,Magento_Store
+"Environment emulation nesting is not allowed.","Zagnieżdżenie emulacji środowiska nie jest dozwolone.",module,Magento_Store
 "Only default scope allowed","Dozwolony jest jedynie zakres domyślny",module,Magento_Store
 "Invalid scope object","Invalid scope object",module,Magento_Store
 "Store with the same code","Sklep z takim samym kodem",module,Magento_Store
@@ -11074,7 +11074,7 @@ Translations,Tłumaczenia,module,Magento_Translation
 "Please select item(s).","Wybierz produkty.",module,Magento_Ui
 "Unsupported bookmark action.","Nieobsługiwana zakładka działania.",module,Magento_Ui
 "Parameter ""class"" must be present.","Parameter ""class"" must be present.",module,Magento_Ui
-"Parameter ""sortOrder"" must be present.","Parameter ""sortOrder"" must be present.",module,Magento_Ui
+"Parameter ""sortOrder"" must be present.","Parametr ""sortOrder"" jest wymagany.",module,Magento_Ui
 "Initialization error component, check the spelling of the name or the correctness of the call.","Inicjalizacja błąd składnika, Sprawdź pisownię nazwy lub poprawności połączenia.",module,Magento_Ui
 "Bookmark with id ""%1"" does not exist.","Zakładka o identyfikatorze ""%1"" nie istnieje.",module,Magento_Ui
 Cancel,Anuluj,module,Magento_Ui
@@ -11291,7 +11291,7 @@ Debug,"Tryb debug",module,Magento_Ups
 "Edit URL Rewrite for a Category","Dodaj przekierowanie URL dla kategorii",module,Magento_UrlRewrite
 "Add URL Rewrite for a Category","Dodaj przekierowanie URL dla kategorii",module,Magento_UrlRewrite
 Category:,Kategoria:,module,Magento_UrlRewrite
-"We can\'t set up a URL rewrite because the product you chose is not associated with a website.","We can\'t set up a URL rewrite because the product you chose is not associated with a website.",module,Magento_UrlRewrite
+"We can\'t set up a URL rewrite because the product you chose is not associated with a website.","Nie można skonfigurować przekierowania URL, ponieważ wybrany produkt nie jest przypisany do witryny.",module,Magento_UrlRewrite
 "Please assign a website to the selected category.","Przypisz witrynę do wybranej kategorii.",module,Magento_UrlRewrite
 "Edit URL Rewrite for a Product","Dodaj przekierowanie URL dla produktu",module,Magento_UrlRewrite
 "Add URL Rewrite for a Product","Dodaj przekierowanie URL dla produktu",module,Magento_UrlRewrite
