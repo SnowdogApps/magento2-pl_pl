@@ -11431,7 +11431,7 @@ password,hasło,module,Magento_User
 username,"nazwa użytkownika",module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","Użytkownik nie zalogował się prawidłowo lub konto jest tymczasowo wyłączone.",module,Magento_User
 "You need more permissions to access this.","Potrzebujesz więcej uprawnień, aby uzyskać dostęp do tej sekcji.",module,Magento_User
-"Your account is temporarily disabled.","Your account is temporarily disabled.",module,Magento_User
+"Your account is temporarily disabled.","Twoje konto jest tymczasowo wyłączone.",module,Magento_User
 "User Name is a required field.","Nazwa użytkownika jest polem wymaganym.",module,Magento_User
 "First Name is a required field.","Imię jest polem wymaganym.",module,Magento_User
 "Last Name is a required field.","Nazwisko jest polem wymaganym.",module,Magento_User
@@ -11470,9 +11470,9 @@ Resources,Zasoby,module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","Otrzymaliśmy prośbę o zmianę następujących informacji na Twoim koncie %store_name: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
 "or call us at %store_phone","or call us at %store_phone",module,Magento_User
-"Thanks,","Thanks,",module,Magento_User
+"Thanks,","Dziękujemy,",module,Magento_User
 "All Users","Wszyscy użytkownicy",module,Magento_User
-"User Roles","User Roles",module,Magento_User
+"User Roles","Role użytkownika",module,Magento_User
 "User Notification Template","User Notification Template",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_User
 "Maximum Login Failures to Lockout Account","Maxymalna liczba nieudanych prób logowania do blokady konta",module,Magento_User
@@ -11575,8 +11575,8 @@ Yes,Tak,module,Magento_Usps
 No,Nie,module,Magento_Usps
 "Not Required",Niewymagane,module,Magento_Usps
 Required,Wymagane,module,Magento_Usps
-"For some reason we can\'t retrieve tracking info right now.","For some reason we can\'t retrieve tracking info right now.",module,Magento_Usps
-"Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Sorry, something went wrong. Please try again or contact us and we\'ll try to help.",module,Magento_Usps
+"For some reason we can\'t retrieve tracking info right now.","Z jakiegoś powodu nam nie można pobrać informacji śledzenia teraz.",module,Magento_Usps
+"Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Przepraszamy coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my Spróbujemy pomóc.",module,Magento_Usps
 track_summary,track_summary,module,Magento_Usps
 "Empty response","Pusta odpowiedź",module,Magento_Usps
 "Service type does not match","Typ usługi nie zgadza się",module,Magento_Usps
@@ -11612,7 +11612,7 @@ Machinable,"Automatyczne pakowanie",module,Magento_Usps
 "Handling Fee","Opłata manipulacyjna",module,Magento_Usps
 "Allowed Methods","Dozwolone metody",module,Magento_Usps
 "Free Method","Darmowa metoda",module,Magento_Usps
-"Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Usps
+"Enable Free Shipping Threshold","Włącz próg darmowej wysyłki",module,Magento_Usps
 "Free Shipping Amount Threshold","Próg darmowej wysyłki",module,Magento_Usps
 "Displayed Error Message","Wyświetlony błąd",module,Magento_Usps
 "Ship to Applicable Countries","Dostawa do stosownych krajów",module,Magento_Usps
@@ -11643,7 +11643,7 @@ Yes,Tak,module,Magento_Variable
 Name,Nazwa,module,Magento_Variable
 "No token found.","Nie znaleziono tokenu.",module,Magento_Vault
 "Wrong request.","Nieprawidłowe żądanie.",module,Magento_Vault
-"Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
+"Deletion failure. Please try again.","Usuwanie awarii. Proszę spróbować ponownie.",module,Magento_Vault
 "Credit Card was successfully removed","Karta kredytowa została pomyślnie usunięta",module,Magento_Vault
 "My Credit Cards","Moje karty kredytowe",module,Magento_Vault
 "Select vault provider","Wybierz dostawcę vault",module,Magento_Vault
@@ -11652,7 +11652,7 @@ vault_payment2,vault_payment2,module,Magento_Vault
 "Card Number","Numer karty",module,Magento_Vault
 "Expiration Date","Data ważności",module,Magento_Vault
 Type,Rodzaj,module,Magento_Vault
-"You have no credit cards.","You have no credit cards.",module,Magento_Vault
+"You have no credit cards.","Nie masz karty kredytowej.",module,Magento_Vault
 Actions,Operacje,module,Magento_Vault
 Delete,Usuń,module,Magento_Vault
 Cancel,Anuluj,module,Magento_Vault
@@ -11762,15 +11762,15 @@ Root,Baza,module,Magento_VersionsCms
 Node,Węzeł,module,Magento_VersionsCms
 "Not Selected","Nie wybrano",module,Magento_VersionsCms
 "Select a page or node.","Wybierz węzeł lub stronę.",module,Magento_VersionsCms
-"Parent page","Parent page",module,Magento_VersionsCms
+"Parent page","Strona rodzica",module,Magento_VersionsCms
 "Website Root","Strona bazowa",module,Magento_VersionsCms
 Page:,Strona:,module,Magento_VersionsCms
 Page,Strona,module,Magento_VersionsCms
 Previous,Poprzedni,module,Magento_VersionsCms
-"You\'re currently reading page","You\'re currently reading page",module,Magento_VersionsCms
+"You\'re currently reading page","Aktualnie czytasz stronę",module,Magento_VersionsCms
 Next,Następne,module,Magento_VersionsCms
-"Delete Revision and Version","Delete Revision and Version",module,Magento_VersionsCms
-"Publish Revision","Publish Revision",module,Magento_VersionsCms
+"Delete Revision and Version","Usuń rewizję oraz wersję",module,Magento_VersionsCms
+"Publish Revision","Opublikuj rewizję",module,Magento_VersionsCms
 Pages,Strony,module,Magento_VersionsCms
 "CMS Page Hierarchy","Hierarchia strony CMS",module,Magento_VersionsCms
 "Enable Hierarchy Functionality","Włącz funkcję hierarchii",module,Magento_VersionsCms
@@ -11813,8 +11813,8 @@ Equal,Równe,module,Magento_VisualMerchandiser
 "Less than or equal to","Równa lub mniejsza niż",module,Magento_VisualMerchandiser
 Contains,Zawiera,module,Magento_VisualMerchandiser
 "Error in yes/no format","Błąd w formacie tak/nie",module,Magento_VisualMerchandiser
-"Category ID \'%1\' not found","Category ID \'%1\' not found",module,Magento_VisualMerchandiser
-"%1 doesn\'t implement SortInterface","%1 doesn\'t implement SortInterface",module,Magento_VisualMerchandiser
+"Category ID \'%1\' not found","Nie znaleziono ID kategorii \'%1\'",module,Magento_VisualMerchandiser
+"%1 doesn\'t implement SortInterface","%1 nie zaimplementowano SortInterface",module,Magento_VisualMerchandiser
 "Move low stock to top","Przenieś niską akcję do góry",module,Magento_VisualMerchandiser
 "Name: A - Z","Nazwa: A - Z",module,Magento_VisualMerchandiser
 "Name: Z - A","Nazwa: Z - A",module,Magento_VisualMerchandiser
@@ -11856,7 +11856,7 @@ No,Nie,module,Magento_VisualMerchandiser
 "Save and Close","Zapisz i Zamknij",module,Magento_VisualMerchandiser
 On,Włączone,module,Magento_VisualMerchandiser
 Off,Włączone,module,Magento_VisualMerchandiser
-"Visual Merchandiser Options","Visual Merchandiser Options",module,Magento_VisualMerchandiser
+"Visual Merchandiser Options","Opcje Visual Merchandiser",module,Magento_VisualMerchandiser
 "Visual Merchandiser","Wizualizacja sklepu",module,Magento_VisualMerchandiser
 "General Options","Opcje ogólne",module,Magento_VisualMerchandiser
 "Visible Attributes for Category Rules","Widoczne atrybuty dla zasad kategorii",module,Magento_VisualMerchandiser
@@ -11875,7 +11875,7 @@ Price,Cena,module,Magento_VisualMerchandiser
 SKU,SKU,module,Magento_VisualMerchandiser
 Stock,Zapasy,module,Magento_VisualMerchandiser
 "Operation allowed only in HTTPS","Operacja jest dozwolona tylko w HTTPS",module,Magento_Webapi
-"Cannot perform GET operation with store code \'all\'","Cannot perform GET operation with store code \'all\'",module,Magento_Webapi
+"Cannot perform GET operation with store code \'all\'","Nie można wykonać operacji GET dla kodu sklepu \'wszystkie\'",module,Magento_Webapi
 "Request does not match any route.","Wniosek nie odpowiada żadnej ścieżce.",module,Magento_Webapi
 "Not allowed parameters: %1. Please use only %2 and %3.","Parametr: %1 nie dozwolony. Proszę używać tylko %2 i %3.",module,Magento_Webapi
 "Requested service is not available: ""%1""","Żądana usługa nie dostępna: ""%1""",module,Magento_Webapi
@@ -11888,9 +11888,9 @@ Message,Wiadomość,module,Magento_Webapi
 "Soap fault reason.","Powód niepowodzenia komunikacji SOAP.",module,Magento_Webapi
 "Manage Customers","Zarządzaj klientami",module,Magento_Webapi
 "Create Customer","Utwórz klienta",module,Magento_Webapi
-"Edit Customer","Edit Customer",module,Magento_Webapi
+"Edit Customer","Edycja klienta",module,Magento_Webapi
 "Get Customer","Pobierz klienta",module,Magento_Webapi
-"Delete Customer","Delete Customer",module,Magento_Webapi
+"Delete Customer","Usuń klienta",module,Magento_Webapi
 "Magento Web API","Magento Web API",module,Magento_Webapi
 "SOAP Settings","Ustawienia protokołu SOAP",module,Magento_Webapi
 "Default Response Charset","Domyślny zestaw znaków odpowiedzi",module,Magento_Webapi
@@ -12022,45 +12022,45 @@ Conditions,Warunki,module,Magento_Widget
 "We can\'t add the item to Wish List right now.","Aktualnie nie możemy dodać elementu do schowka.",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Wishlist
 "This product(s) is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_Wishlist
-"We can\'t add the item to the cart right now.","We can\'t add the item to the cart right now.",module,Magento_Wishlist
-"We can\'t load the Wish List item right now.","We can\'t load the Wish List item right now.",module,Magento_Wishlist
-"We can\'t configure the product right now.","We can\'t configure the product right now.",module,Magento_Wishlist
-"The requested cart item doesn\'t exist.","The requested cart item doesn\'t exist.",module,Magento_Wishlist
+"We can\'t add the item to the cart right now.","Nie można teraz dodać produktu do koszyka.",module,Magento_Wishlist
+"We can\'t load the Wish List item right now.","Nie można teraz wczytać produktu ze schowka.",module,Magento_Wishlist
+"We can\'t configure the product right now.","Nie można teraz skonfigurować produktu.",module,Magento_Wishlist
+"The requested cart item doesn\'t exist.","Żądany produkt z koszyka nie istnieje.",module,Magento_Wishlist
 "%1 has been moved to your wish list.","%1 został przeniesiony do Twojej listy życzeń.",module,Magento_Wishlist
-"We can\'t move the item to the wish list.","We can\'t move the item to the wish list.",module,Magento_Wishlist
-"We can\'t delete the item from Wish List right now because of an error: %1.","We can\'t delete the item from Wish List right now because of an error: %1.",module,Magento_Wishlist
-"We can\'t delete the item from the Wish List right now.","We can\'t delete the item from the Wish List right now.",module,Magento_Wishlist
+"We can\'t move the item to the wish list.","Nie możemy przenieść produktu do schowka.",module,Magento_Wishlist
+"We can\'t delete the item from Wish List right now because of an error: %1.","Nie możemy usunąć elementu ze schowka. Wystąpił błąd: %1.",module,Magento_Wishlist
+"We can\'t delete the item from the Wish List right now.","Aktualnie nie możemy usunąć produktu ze schowka.",module,Magento_Wishlist
 "Message length must not exceed %1 symbols","Długość komunikatu nie może przekraczać %1 znaków",module,Magento_Wishlist
 "Please enter an email address.","Podaj adres e-mail.",module,Magento_Wishlist
 "This wish list can be shared %1 more times.","Lista może być udostępniona jeszcze %1 razy.",module,Magento_Wishlist
 "Please enter a valid email address.","Prosimy wpisać poprawny adres e-mail",module,Magento_Wishlist
 "Your wish list has been shared.","Twoja lista życzeń została udostępniona.",module,Magento_Wishlist
-"We can\'t delete item from Wish List right now.","We can\'t delete item from Wish List right now.",module,Magento_Wishlist
-"Can\'t save description %1","Can\'t save description %1",module,Magento_Wishlist
-"Can\'t update wish list","Can\'t update wish list",module,Magento_Wishlist
+"We can\'t delete item from Wish List right now.","Nie można teraz usunąć produktu ze schowka.",module,Magento_Wishlist
+"Can\'t save description %1","Nie można zapisać opisu %1",module,Magento_Wishlist
+"Can\'t update wish list","Nie można zaktualizować schowka",module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 został zaktualizowany na liście życzeń.",module,Magento_Wishlist
-"We can\'t update your Wish List right now.","We can\'t update your Wish List right now.",module,Magento_Wishlist
-"The requested Wish List doesn\'t exist.","The requested Wish List doesn\'t exist.",module,Magento_Wishlist
-"We can\'t create the Wish List right now.","We can\'t create the Wish List right now.",module,Magento_Wishlist
+"We can\'t update your Wish List right now.","Nie można teraz zaktualizować schowka.",module,Magento_Wishlist
+"The requested Wish List doesn\'t exist.","Żądany schowek nie istnieje.",module,Magento_Wishlist
+"We can\'t create the Wish List right now.","Nie możemy teraz stworzyć schowka.",module,Magento_Wishlist
 "%1 items","%1 elementów",module,Magento_Wishlist
 "1 item","1 element",module,Magento_Wishlist
 Comment,Komentarz,module,Magento_Wishlist
 "Display number of items in wish list","Wyświetl ilość elementów na liście życzeń",module,Magento_Wishlist
 "Display item quantities","Wyświetlaj ilości produktów",module,Magento_Wishlist
 "An item option with code %1 already exists.","Opcja produktu z kodem %1 już istnieje.",module,Magento_Wishlist
-"We can\'t specify a wish list.","We can\'t specify a wish list.",module,Magento_Wishlist
+"We can\'t specify a wish list.","Nie możemy dokładnie określić schowka.",module,Magento_Wishlist
 "Cannot specify product.","Nie można ustalić produktu.",module,Magento_Wishlist
 "Product is not salable.","Produkt nie jest chodliwy.",module,Magento_Wishlist
 "Invalid item option format.","Nieprawidłowy format opcji elementu.",module,Magento_Wishlist
 "%1 for ""%2"".","%1 na ""%2"".",module,Magento_Wishlist
-"We can\'t add this item to your shopping cart right now.","We can\'t add this item to your shopping cart right now.",module,Magento_Wishlist
-"We couldn\'t add the following product(s) to the shopping cart: %1.","We couldn\'t add the following product(s) to the shopping cart: %1.",module,Magento_Wishlist
-"We can\'t update the Wish List right now.","We can\'t update the Wish List right now.",module,Magento_Wishlist
+"We can\'t add this item to your shopping cart right now.","Teraz nie ma możliwości dodania tego produktu do Twojego koszyka.",module,Magento_Wishlist
+"We couldn\'t add the following product(s) to the shopping cart: %1.","Nie udało się dodać następującego produktu (następujących produktów) do koszyka: %1.",module,Magento_Wishlist
+"We can\'t update the Wish List right now.","Nie możemy teraz stworzyć schowka.",module,Magento_Wishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 produkt(y) został dodany do koszyka: %2.",module,Magento_Wishlist
 Comment:,Komentarz:,module,Magento_Wishlist
 "We cannot retrieve the Wish List.","Nie możemy pobrać listy życzeń.",module,Magento_Wishlist
 "%1\'s Wishlist","Schowek %1",module,Magento_Wishlist
-"We can\'t specify a wish list item.","We can\'t specify a wish list item.",module,Magento_Wishlist
+"We can\'t specify a wish list item.","Nie możemy dokładnie określić produktów ze schowka.",module,Magento_Wishlist
 "The product does not exist.","Produkt nie istnieje.",module,Magento_Wishlist
 "Test Phrase","Fraza testowa",module,Magento_Wishlist
 message,wiadomość,module,Magento_Wishlist
