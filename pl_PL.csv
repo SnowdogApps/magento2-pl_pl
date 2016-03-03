@@ -11088,9 +11088,9 @@ Filters,Filtry,module,Magento_Ui
 Add,Dodaj,module,Magento_Ui
 "Something went wrong.","Coś poszło nie tak.",module,Magento_Ui
 Yes,Tak,module,Magento_Ui
-No,No,module,Magento_Ui
+No,Nie,module,Magento_Ui
 Done,Zrobione,module,Magento_Ui
-options,options,module,Magento_Ui
+options,opcje,module,Magento_Ui
 Select...,Wybierz...,module,Magento_Ui
 Selected,Selected,module,Magento_Ui
 "Select All","Zaznacz wszystko",module,Magento_Ui
@@ -11164,7 +11164,7 @@ Keyword,Keyword,module,Magento_Ui
 "This is a required field.","To pole jest wymagane.",module,Magento_Ui
 "Please enter positive number in this field.","Proszę podać dodatnią wartość w tym polu.",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Prosimy o wprowadzenie poprawnej wartości np. 10,20,30",module,Magento_Ui
-"We don\'t recognize or support this file extension type.","We don\'t recognize or support this file extension type.",module,Magento_Ui
+"We don\'t recognize or support this file extension type.","Nie rozpoznajemy ani nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_Ui
 "File you are trying to upload exceeds maximum file size limit.","File you are trying to upload exceeds maximum file size limit.",module,Magento_Ui
 Attention,Uwaga,module,Magento_Ui
 OK,OK,module,Magento_Ui
@@ -11236,7 +11236,7 @@ Residential,Rezydencyjny,module,Magento_Ups
 Commercial,Komercyjna,module,Magento_Ups
 Pounds,Funty,module,Magento_Ups
 Kilograms,Kilogramy,module,Magento_Ups
-"Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Sorry, something went wrong. Please try again or contact us and we\'ll try to help.",module,Magento_Ups
+"Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Przepraszamy coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my Spróbujemy pomóc.",module,Magento_Ups
 "We can\'t convert a rate from \\%1-%2\\.""""""","We can\'t convert a rate from \\%1-%2\\.""""""",module,Magento_Ups
 "Cannot retrieve shipping rates","Nie można pobrać stawek metody wysyłki",module,Magento_Ups
 status,status,module,Magento_Ups
@@ -11468,7 +11468,7 @@ Resources,Zasoby,module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie takie samo.",module,Magento_User
 "Hello,","Witamy,",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","Otrzymaliśmy prośbę o zmianę następujących informacji na Twoim koncie %store_name: %changes.",module,Magento_User
-"If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
+"If you have not authorized this action, please contact us immediately at %store_email","Jeśli nie autoryzowałeś tej akcji, prosimy o natychmiastowy kontakt na adres %store_email",module,Magento_User
 "or call us at %store_phone","lub zadzwoń do nas na %store_phone",module,Magento_User
 "Thanks,","Dziękujemy,",module,Magento_User
 "All Users","Wszyscy użytkownicy",module,Magento_User
