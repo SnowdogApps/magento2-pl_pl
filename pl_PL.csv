@@ -2075,7 +2075,7 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Please enter a value for title.","Wprowadź wartości dla tytułu.",module,Magento_CatalogImportExport
 "Value for \'price\' sub attribute in \'custom_options\' attribute contains incorrect value","Wartość cechy 'price' w atrybucie 'custom_options' zawiera nieprawidłową wartość",module,Magento_CatalogImportExport
 "Value for \'maximum characters\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'maximum characters\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
-"Value for \'sort order\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'sort order\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
+"Value for \'sort order\' sub attribute in \'custom_options\' attribute contains incorrect value","Wartość cechy 'sort order' w atrybucie 'custom_options' zawiera nieprawidłową wartość",module,Magento_CatalogImportExport
 "Value for \'value price\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'value price\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
 "This name is already being used for custom option. Please enter a different name.","Ta nazwa jest już używana dla niestandardowych opcji. Podaj inną nazwę.",module,Magento_CatalogImportExport
 "Custom options have different types.","Niestandardowe opcje mają różne typy.",module,Magento_CatalogImportExport
@@ -2283,7 +2283,7 @@ Name,Nazwa,module,Magento_CatalogRuleStaging
 Description,Opis,module,Magento_CatalogRuleStaging
 "End Date","Data zakończenia",module,Magento_CatalogRuleStaging
 "End Time","Czas zakończenia",module,Magento_CatalogRuleStaging
-"Update Information","Update Information",module,Magento_CatalogRuleStaging
+"Update Information","Informacje o aktualizacji",module,Magento_CatalogRuleStaging
 "Remove Catalog Rule from Update","Remove Catalog Rule from Update",module,Magento_CatalogRuleStaging
 "Save as a new update","Save as a new update",module,Magento_CatalogRuleStaging
 "Update Name","Update Name",module,Magento_CatalogRuleStaging
@@ -2356,7 +2356,7 @@ Preview,Podgląd,module,Magento_CatalogStaging
 Action,Operacja,module,Magento_CatalogStaging
 "End Date","Data zakończenia",module,Magento_CatalogStaging
 "Update Information","Aktualizacja informacji",module,Magento_CatalogStaging
-"Remove Category from Update","Remove Category from Update",module,Magento_CatalogStaging
+"Remove Category from Update","Usuń kategorię z aktualizacji",module,Magento_CatalogStaging
 "Update Name","Zaktualizowana nazwa",module,Magento_CatalogStaging
 "Start date","Data rozpoczęcia",module,Magento_CatalogStaging
 "End date","Data zakończenia",module,Magento_CatalogStaging
@@ -2809,7 +2809,7 @@ Action,Operacja,module,Magento_CmsStaging
 "End Date","Data zakończenia",module,Magento_CmsStaging
 "End Time","Czas zakończenia",module,Magento_CmsStaging
 "Update Information","Informacje o aktualizacji",module,Magento_CmsStaging
-"Remove CMS block from Update","Remove CMS block from Update",module,Magento_CmsStaging
+"Remove CMS block from Update","Usuń blok CMS z aktualizacji",module,Magento_CmsStaging
 "Save as a new update","Save as a new update",module,Magento_CmsStaging
 "Update Name","Update Name",module,Magento_CmsStaging
 "Start date","Data rozpoczęcia",module,Magento_CmsStaging
@@ -5788,8 +5788,8 @@ General,Ogólne,module,Magento_Invitation
 N/A,N/D,module,Magento_Invitation
 "Status History","Historia statusów",module,Magento_Invitation
 Customers,Klienci,module,Magento_Invitation
-"Order Conversion Rate","Order Conversion Rate",module,Magento_Invitation
-"We can\'t find this invitation.","We can\'t find this invitation.",module,Magento_Invitation
+"Order Conversion Rate","Kurs przeliczeniowy zamówienia",module,Magento_Invitation
+"We can\'t find this invitation.","Nie udało się znaleźć tego zaproszenia.",module,Magento_Invitation
 "Please select invitations.","Proszę wybrać zaproszenia.",module,Magento_Invitation
 "We discarded %1 of %2 invitations.","Odrzuciliśmy %1 z %2 zaproszeń.",module,Magento_Invitation
 "We skipped %1 of the selected invitations.","Pomineliśmy %1 z wybranych zaproszeń.",module,Magento_Invitation
@@ -6134,7 +6134,7 @@ Warehouse,Magazyn,module,Magento_MultipleLocationInventory
 "Requested warehouse doesn\'t exist","Żądany magazyn nie istnieje",module,Magento_MultipleLocationInventory
 "Test error message","Test error message",module,Magento_MultipleLocationInventory
 Edit,Edytuj,module,Magento_MultipleLocationInventory
-"Multiple Location Inventory","Multiple Location Inventory",module,Magento_MultipleLocationInventory
+"Multiple Location Inventory","Wiele lokalizacji magazynów",module,Magento_MultipleLocationInventory
 "Change status of warehouse","Change status of warehouse",module,Magento_MultipleLocationInventory
 "Edit warehouse","Edit warehouse",module,Magento_MultipleLocationInventory
 "Manage Warehouses","Zarządzaj magazynami",module,Magento_MultipleLocationInventory
@@ -6171,9 +6171,9 @@ Customers,Klienci,module,Magento_MultipleWishlist
 "We can\'t find the item.","We can\'t find the item.",module,Magento_MultipleWishlist
 """%1"" is already present in %2.","""%1"" jest już obecny w %2.",module,Magento_MultipleWishlist
 "We can\'t copy \\%1\\.""""""","We can\'t copy \\%1\\.""""""",module,Magento_MultipleWishlist
-"We can\'t copy the wish list item.","We can\'t copy the wish list item.",module,Magento_MultipleWishlist
-"We can\'t find %1 items.","We can\'t find %1 items.",module,Magento_MultipleWishlist
-"We can\'t copy %1 items.","We can\'t copy %1 items.",module,Magento_MultipleWishlist
+"We can\'t copy the wish list item.","Nie można skopiować pozycji schowka.",module,Magento_MultipleWishlist
+"We can\'t find %1 items.","Nieznalezione produkty: %1.",module,Magento_MultipleWishlist
+"We can\'t copy %1 items.","Nieprzekopiowane produkty: %1.",module,Magento_MultipleWishlist
 "%1 items are already present in %2: %3.","%1 produkty są już obecne w %2: %3.",module,Magento_MultipleWishlist
 "%1 items were copied to %2: %3.","%1 produkty zostały skopiowane do %2: %3.",module,Magento_MultipleWishlist
 "You can\'t delete the default wish list.","You can\'t delete the default wish list.",module,Magento_MultipleWishlist
@@ -6297,7 +6297,7 @@ Total,Łącznie,module,Magento_Multishipping
 "Create Billing Address","Utwórz adres rozliczeniowy",module,Magento_Multishipping
 "Create Shipping Address","Utwórz adres dostawy",module,Magento_Multishipping
 "Data saving problem","Problem podczas zapisywania danych",module,Magento_Multishipping
-"We cannot open the overview page.","We cannot open the overview page.",module,Magento_Multishipping
+"We cannot open the overview page.","Nie można otworzyć strony przeglądu.",module,Magento_Multishipping
 "Please agree to all Terms and Conditions before placing the order.","Musisz zgodzić się z ogólnymi warunkami składania zamówienia zanim złożysz zamówienie.",module,Magento_Multishipping
 "Order place error","Błąd składania zamówienia",module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","Maksymalna ilość produktów, którą można dostarczyć do różnych adresów to %1",module,Magento_Multishipping
@@ -6593,7 +6593,7 @@ None,Brak,module,Magento_OfflineShipping
 "Per Item","Za sztukę",module,Magento_OfflineShipping
 "Please correct Table Rates File Format.","Proszę poprawić format pliku tabeli cen.",module,Magento_OfflineShipping
 "Something went wrong while importing table rates.","Coś się zepsuło podczas importowania tabeli cen.",module,Magento_OfflineShipping
-"We couldn\'t import this file because of these errors: %1","We couldn\'t import this file because of these errors: %1",module,Magento_OfflineShipping
+"We couldn\'t import this file because of these errors: %1","Nie można zaimportować tego pliku ze względu na te błędy: %1",module,Magento_OfflineShipping
 "Please correct Table Rates format in the Row #%1.","Proszę poprawić format tabeli cen w wierszu #%1.",module,Magento_OfflineShipping
 "Please correct Country ""%1"" in the Row #%2.","Proszę poprawić Kraj ""%1"" w wierszu #%2.",module,Magento_OfflineShipping
 "Please correct Region/State ""%1"" in the Row #%2.","Proszę poprawić region/województwo ""%1"" w wierszu #%2.",module,Magento_OfflineShipping
@@ -6656,8 +6656,8 @@ N/A,N/D,module,Magento_Payment
 "We cannot retrieve the transparent payment method model object.","We cannot retrieve the transparent payment method model object.",module,Magento_Payment
 "Command Executor for %1 is not defined.","Command Executor for %1 is not defined.",module,Magento_Payment
 "Command %1 does not exist.","Polecenie %1 nie istnieje.",module,Magento_Payment
-"Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Magento_Payment
-"Wrong gateway response format.","Wrong gateway response format.",module,Magento_Payment
+"Transaction has been declined. Please try again later.","Transakcja została odrzucona. Prosimy spróbować ponownie później.",module,Magento_Payment
+"Wrong gateway response format.","Nieprawidłowy format odpowiedzi bramki.",module,Magento_Payment
 "Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
 Discount,Zniżka,module,Magento_Payment
 Shipping,Dostawa,module,Magento_Payment
@@ -7520,7 +7520,7 @@ Delete,Usuń,module,Magento_ProductVideo
 Shipping,Dostawa,module,Magento_Quote
 Subtotal,"Suma częściowa",module,Magento_Quote
 "We found an invalid item option format.","We found an invalid item option format.",module,Magento_Quote
-"An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_Quote
+"An item option with code %1 already exists.","Opcja produktu z kodem %1 już istnieje.",module,Magento_Quote
 "Item qty declaration error","Błąd deklaracji ilości produktu",module,Magento_Quote
 "Some of the products below do not have all the required options.","Część produktów poniżej nie ma wszystkich wymaganych opcji.",module,Magento_Quote
 "Something went wrong during the item options declaration.","Something went wrong during the item options declaration.",module,Magento_Quote
@@ -7728,7 +7728,7 @@ No,Nie,module,Magento_Reports
 "Empty Rows","Puste rzędy",module,Magento_Reports
 "Invalid date specified","Wybrana data jest nieprawidłowa",module,Magento_Reports
 Refresh,Odśwież,module,Magento_Reports
-"We can\'t find records for this period.","We can\'t find records for this period.",module,Magento_Reports
+"We can\'t find records for this period.","Nie udało się znaleźć wpisów z tego okresu.",module,Magento_Reports
 "Show Reviews","Pokaż recenzje",module,Magento_Reports
 "Products Report","Raport produktów",module,Magento_Reports
 Downloads,Pobrania,module,Magento_Reports
@@ -8254,7 +8254,7 @@ Purchased,Zakupiono,module,Magento_Rma
 Status,Status,module,Magento_Rma
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Rma
 Close,Zamknij,module,Magento_Rma
-"Are you sure you want to close this returns request?","Are you sure you want to close this returns request?",module,Magento_Rma
+"Are you sure you want to close this returns request?","Czy na pewno chcesz zamknąć ten wniosek zwrotu?",module,Magento_Rma
 Print,Drukuj,module,Magento_Rma
 "Return #%1 - %2","Zwraca #%1 - %2",module,Magento_Rma
 "RMA Item Details","Szczegóły produktów zlecenia RMA",module,Magento_Rma
@@ -9940,7 +9940,7 @@ None,Brak,module,Magento_Security
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Incorrect Security Checker class. It has to implement SecurityCheckerInterface",module,Magento_Security
 "some error","jakiś błąd",module,Magento_Security
 "This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","To konto administratorskie jest otwarte w więcej niż jedna lokalizacja. Miej na uwadze, iż inne lokacje obejmują także różne przeglądarki czy sesje na tym samym komputerze.",module,Magento_Security
-"Concurrent session information:","Concurrent session information:",module,Magento_Security
+"Concurrent session information:","Informacje o równoległej sesji:",module,Magento_Security
 "IP Address","Adres IP",module,Magento_Security
 "Time of session start","Czas rozpoczęcia sesji",module,Magento_Security
 "Are you sure that you want to log out all other sessions?","Czy na pewno chcesz wylogować wszystkie inne sesje?",module,Magento_Security
@@ -10200,7 +10200,7 @@ Catalog,Katalog,module,Magento_Sitemap
 "Site Map","Mapa witryny",module,Magento_Sitemap
 "New Site Map","Nowa mapa witryny",module,Magento_Sitemap
 "The sitemap ""%1"" has been generated.","Mapa witryny %1"" została wygenerowana."".",module,Magento_Sitemap
-"We can\'t generate the sitemap right now.","We can\'t generate the sitemap right now.",module,Magento_Sitemap
+"We can\'t generate the sitemap right now.","Nie można wygenerować mapy witryny w tej chwili.",module,Magento_Sitemap
 "We can\'t find a sitemap to generate.","We can\'t find a sitemap to generate.",module,Magento_Sitemap
 "You saved the sitemap.","Mapa witryny została zapisana.",module,Magento_Sitemap
 "The priority must be between 0 and 1.","Priorytet musi mieć wartość pomiędzy 0 i 1.",module,Magento_Sitemap
@@ -10278,9 +10278,9 @@ Save,Zapisz,module,Magento_Staging
 "Something went wrong while saving the %1.","Something went wrong while saving the %1.",module,Magento_Staging
 "You saved this %1 update.","You saved this %1 update.",module,Magento_Staging
 "New Campaign","Nowa Kampania",module,Magento_Staging
-"Staging Dashboard","Staging Dashboard",module,Magento_Staging
+"Staging Dashboard","Przejściowy panel",module,Magento_Staging
 "Edit existing update","Edit existing update",module,Magento_Staging
-"Assign to another scheduled update","Assign to another scheduled update",module,Magento_Staging
+"Assign to another scheduled update","Przypisz do innej zaplanowanej aktualizacji",module,Magento_Staging
 "Save as a new update","Save as a new update",module,Magento_Staging
 "Select from existing Scheduled Update","Select from existing Scheduled Update",module,Magento_Staging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_Staging
@@ -10611,7 +10611,7 @@ Delete,Usuń,module,Magento_Swatches
 "Upload a file","Prześlij plik",module,Magento_Swatches
 Clear,Wyczyść,module,Magento_Swatches
 "Step 2: Attribute Values","Krok 2: Wartości cech",module,Magento_Swatches
-"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.",module,Magento_Swatches
+"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Wybierz wartości każdej z cechy powiązanej z tym produktem. Każda unikalna kombinacja wartości tworzy SKU produktu.",module,Magento_Swatches
 "Sort Variations","Zmiana sortowania",module,Magento_Swatches
 Options,Opcje,module,Magento_Swatches
 "Select All","Zaznacz wszystko",module,Magento_Swatches
@@ -10931,7 +10931,7 @@ Manage,Zarządzaj,module,Magento_Theme
 "Fonts Assets","Zestaw czcionek",module,Magento_Theme
 "Edit custom.css","Edytuj custom.css",module,Magento_Theme
 "Allowed file types *.css.","Dozwolone typy pliku *.js.",module,Magento_Theme
-"This file will replace the current custom.css file and can\'t be more than 2 MB.","This file will replace the current custom.css file and can\'t be more than 2 MB.",module,Magento_Theme
+"This file will replace the current custom.css file and can\'t be more than 2 MB.","Ten plik zastąpi obecny plik custom.css. Nie może być większy niż 2 MB.",module,Magento_Theme
 "Max file size to upload %1M","Maksymalny rozmiar pliku %1M",module,Magento_Theme
 "Something is wrong with the file upload settings.","Coś jest nie tak z ustawieniami przesyłania plików.",module,Magento_Theme
 "CSS Editor","Edytor CSS",module,Magento_Theme
