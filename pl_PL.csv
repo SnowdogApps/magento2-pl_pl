@@ -11376,7 +11376,7 @@ Inactive,Nieaktywny,module,Magento_User
 Users,Użytkownicy,module,Magento_User
 "Save User","Zapisz użytkownika",module,Magento_User
 "Delete User","Usuń użytkownika",module,Magento_User
-"Are you sure you want to revoke the user\'s tokens?","Are you sure you want to revoke the user\'s tokens?",module,Magento_User
+"Are you sure you want to revoke the user\'s tokens?","Czy na pewno chcesz cofnąć token użytkownika?",module,Magento_User
 "Force Sign-In","Wymuś logowanie",module,Magento_User
 "Edit User '%1'","Edytuj użytkownika '%1'",module,Magento_User
 "New User","Nowy użytkownik",module,Magento_User
@@ -11397,7 +11397,7 @@ Role,Rola,module,Magento_User
 "Please correct the password reset token.","Proszę o poprawne hasło resetowania tokenu.",module,Magento_User
 "Please specify the correct account and try again.","Określ poprawne konto i spróbuj ponownie.",module,Magento_User
 "Your password reset link has expired.","Link resteowania hasła utracił ważność.",module,Magento_User
-"We\'ll email you a link to reset your password.","We\'ll email you a link to reset your password.",module,Magento_User
+"We\'ll email you a link to reset your password.","Możemy Ci wysłać e-mail z linkiem do resetowania hasła.",module,Magento_User
 "Please correct this email address:","Proszę poprawić adres e-mail:",module,Magento_User
 "Please enter an email address.","Podaj adres e-mail.",module,Magento_User
 "You updated your password.","Zaktualizowałeś swoje hasło.",module,Magento_User
@@ -11407,11 +11407,11 @@ System,System,module,Magento_User
 Permissions,Uprawnienia,module,Magento_User
 "You cannot delete your own account.","Nie możesz usunąć swojego własnego konta.",module,Magento_User
 "You deleted the user.","Usunięto użytkownika.",module,Magento_User
-"We can\'t find a user to delete.","We can\'t find a user to delete.",module,Magento_User
+"We can\'t find a user to delete.","Nie możemy znaleźć użytkownika do usunięcia.",module,Magento_User
 "This user no longer exists.","Taki użytkownik już nie istnieje",module,Magento_User
 "Edit User","Edycja użytkownika",module,Magento_User
-"You have revoked the user\'s tokens.","You have revoked the user\'s tokens.",module,Magento_User
-"We can\'t find a user to revoke.","We can\'t find a user to revoke.",module,Magento_User
+"You have revoked the user\'s tokens.","Odwołano tokeny użytkowników.",module,Magento_User
+"We can\'t find a user to revoke.","Nie możemy znaleźć użytkownika aby do niego się odwołać.",module,Magento_User
 "You cannot delete self-assigned roles.","Nie można usunąć ról przypisywanych samorzutnie.",module,Magento_User
 "You deleted the role.","Możesz usunąć regułę.",module,Magento_User
 "An error occurred while deleting this role.","Wystąpił błąd podczas usuwania tej roli.",module,Magento_User
@@ -11440,8 +11440,8 @@ username,"nazwa użytkownika",module,Magento_User
 "Your password must be at least %1 characters.","Hasło musi mieć co najmniej %1 znaków.",module,Magento_User
 "Your password must include both numeric and alphabetic characters.","Hasło musi zawierać zarówno znaki numeryczne jak i alfabetu.",module,Magento_User
 "Your password confirmation must match your password.","Potwierdzenie twojego hasła musi być zgodne z twoim hasłem.",module,Magento_User
-"It\'s time to change your password.","It\'s time to change your password.",module,Magento_User
-"It\'s time to <a href=\\%1\\>change your password</a>.""""""","It\'s time to <a href=\\%1\\>change your password</a>.""""""",module,Magento_User
+"It\'s time to change your password.","Nadszedł czas, abyś zmienił swoje hasło.",module,Magento_User
+"It\'s time to <a href=\\%1\\>change your password</a>.""""""","Nadszedł czas, aby <a href=\\%1\\"> Zmień swoje hasło</a>""",module,Magento_User
 "Your password has expired; please contact your administrator.","Twoje hasło wygasło; Skontaktuj się z administratorem.",module,Magento_User
 "Password Help","Pomoc hasła",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Wpisz swój adres e-mail.  Otrzymasz e-mail z linkiem do resetowania hasła.",module,Magento_User
@@ -11469,11 +11469,11 @@ Resources,Zasoby,module,Magento_User
 "Hello,","Witamy,",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","Otrzymaliśmy prośbę o zmianę następujących informacji na Twoim koncie %store_name: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","If you have not authorized this action, please contact us immediately at %store_email",module,Magento_User
-"or call us at %store_phone","or call us at %store_phone",module,Magento_User
+"or call us at %store_phone","lub zadzwoń do nas na %store_phone",module,Magento_User
 "Thanks,","Dziękujemy,",module,Magento_User
 "All Users","Wszyscy użytkownicy",module,Magento_User
 "User Roles","Role użytkownika",module,Magento_User
-"User Notification Template","User Notification Template",module,Magento_User
+"User Notification Template","Szablon Powiadamianie użytkownika",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_User
 "Maximum Login Failures to Lockout Account","Maxymalna liczba nieudanych prób logowania do blokady konta",module,Magento_User
 "We will disable this feature if the value is empty.","Możemy wyłączyć tę funkcję, jeśli wartość jest pusta.",module,Magento_User
