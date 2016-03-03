@@ -10373,7 +10373,7 @@ Report,Raport,module,Magento_Support
 Support,"Wsparcie techniczne",module,Magento_Support
 "Data Collector","Data Collector",module,Magento_Support
 "The backup has been saved.","Kopia zapasowa została zapisana.",module,Magento_Support
-"Failed to save backup with error: %1","Failed to save backup with error: %1",module,Magento_Support
+"Failed to save backup with error: %1","Podczas próby zapisu kopii zapasowej wystąpił błąd: %1",module,Magento_Support
 "An error occurred while saving backup","Wystąpił błąd podczas zapisywania kopii zapasowej",module,Magento_Support
 "All processes should be complete","Wszystkie procesy powinny być wykonane",module,Magento_Support
 "Wrong param id","Niewłaściwy parametr Id",module,Magento_Support
@@ -10440,7 +10440,7 @@ Value,Wartość,module,Magento_Support
 Scope,Zakres,module,Magento_Support
 Configuration,Konfiguracja,module,Magento_Support
 Path,Ścieżka,module,Magento_Support
-"Data from app/etc/env.php","Data from app/etc/env.php",module,Magento_Support
+"Data from app/etc/env.php","Dane z app/etc/env.php",module,Magento_Support
 Title,Tytuł,module,Magento_Support
 Group,Grupa,module,Magento_Support
 "Is Gateway","Is Gateway",module,Magento_Support
@@ -10963,7 +10963,7 @@ Theme,Temat,module,Magento_Theme
 "You deleted the theme.","Usunąłeś motyw.",module,Magento_Theme
 "We cannot delete the theme.","Nie możemy usunąć motywu.",module,Magento_Theme
 "File not found: ""%1"".","Nie znaleziono pliku: ""%1"".",module,Magento_Theme
-"We can\'t find file.","We can\'t find file.",module,Magento_Theme
+"We can\'t find file.","Nie można znaleźć pliku.",module,Magento_Theme
 "We cannot find theme ""%1"".","Nie możemy znaleźć motywu ""%1"".",module,Magento_Theme
 "We cannot find the theme.","Nie możemy znaleźć motywu.",module,Magento_Theme
 "This theme is not editable.","Ten motyw nie jest edytowalny.",module,Magento_Theme
@@ -10971,13 +10971,13 @@ Theme,Temat,module,Magento_Theme
 "We can\'t upload the CSS file right now.","We can\'t upload the CSS file right now.",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","Nie możemy znaleźć motywu o id ""%1"".",module,Magento_Theme
 "We can\'t upload the JS file right now.","We can\'t upload the JS file right now.",module,Magento_Theme
-"Sorry, something went wrong. That\'s all we know.","Sorry, something went wrong. That\'s all we know.",module,Magento_Theme
+"Sorry, something went wrong. That\'s all we know.","Przepraszamy, coś poszło nie tak.",module,Magento_Theme
 "Invalid type","Nieprawidłowy typ",module,Magento_Theme
 "Exception does not contain field \'%1\'","Exception does not contain field \'%1\'",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Nieprawidłowe wyrażenie regularne: ""%1"".",module,Magento_Theme
 label,etykieta,module,Magento_Theme
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_Theme
-"The start date can\'t follow the end date.","The start date can\'t follow the end date.",module,Magento_Theme
+"The start date can\'t follow the end date.","Data rozpoczęcia nie może być późniejsza niż data zakończenia.",module,Magento_Theme
 "The date range for this design change overlaps another design change for the specified store.","The date range for this design change overlaps another design change for the specified store.",module,Magento_Theme
 Copy,Kopia,module,Magento_Theme
 "Theme id should be set","Id motywu powinien być ustawiony",module,Magento_Theme
@@ -10989,7 +10989,7 @@ Copy,Kopia,module,Magento_Theme
 "We found a directory with the same name.","Znaleźliśmy katalog o tej samej nazwie.",module,Magento_Theme
 "We cannot find a directory with this name.","Nie możemy znaleźć katalogu o podanej nazwie.",module,Magento_Theme
 "We can\'t delete root directory %1 right now.","We can\'t delete root directory %1 right now.",module,Magento_Theme
-"Theme isn\'t deletable.","Theme isn\'t deletable.",module,Magento_Theme
+"Theme isn\'t deletable.","Motywu nie można usunąć.",module,Magento_Theme
 "localized exception","zlokalizowany wyjątek",module,Magento_Theme
 Message,Wiadomość,module,Magento_Theme
 "Test Label","Etykieta testowa",module,Magento_Theme
@@ -11106,7 +11106,7 @@ Off,Off,module,Magento_Ui
 "You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
 "You haven\'t selected any items!","You haven\'t selected any items!",module,Magento_Ui
 "Search by keyword","Search by keyword",module,Magento_Ui
-Keyword,Keyword,module,Magento_Ui
+Keyword,"Słowo kluczowe",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter less or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter {0} words or less.","Podaj {0} słów lub mniej.",module,Magento_Ui
@@ -11165,7 +11165,7 @@ Keyword,Keyword,module,Magento_Ui
 "Please enter positive number in this field.","Proszę podać dodatnią wartość w tym polu.",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Prosimy o wprowadzenie poprawnej wartości np. 10,20,30",module,Magento_Ui
 "We don\'t recognize or support this file extension type.","Nie rozpoznajemy ani nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_Ui
-"File you are trying to upload exceeds maximum file size limit.","File you are trying to upload exceeds maximum file size limit.",module,Magento_Ui
+"File you are trying to upload exceeds maximum file size limit.","Rozmiar pliku który próbujesz przesłać przekracza dopuszczalny limit.",module,Magento_Ui
 Attention,Uwaga,module,Magento_Ui
 OK,OK,module,Magento_Ui
 Close,Zamknij,module,Magento_Ui
