@@ -8860,11 +8860,11 @@ Sales,Sprzedaż,module,Magento_Sales
 "The order does not allow an invoice to be created.","The order does not allow an invoice to be created.",module,Magento_Sales
 "You can\'t create an invoice without products.","You can\'t create an invoice without products.",module,Magento_Sales
 "New Invoice","Nowa faktura",module,Magento_Sales
-"We can\'t save the invoice right now.","We can\'t save the invoice right now.",module,Magento_Sales
+"We can\'t save the invoice right now.","W tej chwili nie możemy zapisać faktury.",module,Magento_Sales
 "The invoice and the shipment  have been created. The shipping label cannot be created now.","The invoice and the shipment  have been created. The shipping label cannot be created now.",module,Magento_Sales
 "You created the invoice and shipment.","You created the invoice and shipment.",module,Magento_Sales
 "The invoice has been created.","Faktura została utworzona.",module,Magento_Sales
-"We can\'t send the invoice email right now.","We can\'t send the invoice email right now.",module,Magento_Sales
+"We can\'t send the invoice email right now.","W tej chwili nie możemy wysłać e-maila z fakturą.",module,Magento_Sales
 "We can\'t send the shipment right now.","We can\'t send the shipment right now.",module,Magento_Sales
 "Cannot update item quantity.","Nie można zaktualizować ilości produktów.",module,Magento_Sales
 "The invoice has been voided.","Faktura została unieważniona.",module,Magento_Sales
@@ -9485,10 +9485,10 @@ Shipment,Dostawa,module,Magento_SalesArchive
 "Edit Rule '%1'","Edytuj regułę '%1'",module,Magento_SalesRule
 "New Rule","Nowa reguła",module,Magento_SalesRule
 Delete,Usuń,module,Magento_SalesRule
-"Are you sure you want to delete this?","Are you sure you want to delete this?",module,Magento_SalesRule
+"Are you sure you want to delete this?","Czy na pewno chcesz to usunąć?",module,Magento_SalesRule
 "Rule Information","Informacje o regule",module,Magento_SalesRule
 Reset,Reset,module,Magento_SalesRule
-Save,Save,module,Magento_SalesRule
+Save,Zapisz,module,Magento_SalesRule
 Actions,Operacje,module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Zastosuj regułę do produktów w koszyku spełniających następujące warunki (pozostaw puste dla wszystkich produktów).",module,Magento_SalesRule
 "Apply To","Zastosuj do",module,Magento_SalesRule
@@ -9873,7 +9873,7 @@ Store,Sklep,module,Magento_Search
 Marketing,Marketing,module,Magento_Search
 "Search synonyms are not supported by the %1 search engine. Any synonyms you enter won\'t be used.","Search synonyms are not supported by the %1 search engine. Any synonyms you enter won\'t be used.",module,Magento_Search
 "The synonym group has been deleted.","Usunięto grupę synonimów.",module,Magento_Search
-"We can\'t find a synonym group to delete.","We can\'t find a synonym group to delete.",module,Magento_Search
+"We can\'t find a synonym group to delete.","Nie możemy znaleźć grupy synonimów do usunięcia.",module,Magento_Search
 "This synonyms group no longer exists.","Ta grupa synonimów już nie istnieje.",module,Magento_Search
 "Edit Synonym Group","Edycja grupy synonimów",module,Magento_Search
 "Synonym Group","Grupa synonimów",module,Magento_Search
@@ -10197,7 +10197,7 @@ Generate,Wygeneruj,module,Magento_Sitemap
 "Add Sitemap","Dodaj mapę",module,Magento_Sitemap
 Catalog,Katalog,module,Magento_Sitemap
 "You deleted the sitemap.","Usunąłeś mapę.",module,Magento_Sitemap
-"We can\'t find a sitemap to delete.","We can\'t find a sitemap to delete.",module,Magento_Sitemap
+"We can\'t find a sitemap to delete.","Nie możemy znaleźć mapy witryny do usunięcia.",module,Magento_Sitemap
 "This sitemap no longer exists.","Taka mapa strony już nie istnieje",module,Magento_Sitemap
 "Site Map","Mapa witryny",module,Magento_Sitemap
 "New Site Map","Nowa mapa witryny",module,Magento_Sitemap
