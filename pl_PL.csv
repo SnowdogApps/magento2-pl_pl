@@ -2792,7 +2792,7 @@ Enable,Włącz,module,Magento_Cms
 "Custom design to","Własne zmiany do",module,Magento_Cms
 "Custom Theme","Indywidualny motyw graficzny",module,Magento_Cms
 "Custom Layout","Indywidualny układ",module,Magento_Cms
-"This block no longer exists.","This block no longer exists.",module,Magento_CmsStaging
+"This block no longer exists.","Ten blok już nie istnieje.",module,Magento_CmsStaging
 "You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_CmsStaging
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CmsStaging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_CmsStaging
@@ -4668,7 +4668,7 @@ Yes,Tak,module,Magento_EncryptionKey
 "The encryption key has been changed.","Klucz szyfrowania został zmieniony.",module,Magento_EncryptionKey
 "This is your new encryption key: <span style=\"font-family:monospace;\">%1</span>. Be sure to write it down and take good care of it!","To jest twój nowy klucz szyfrowania: <span style=\"font-family:monospace;\">%1</span>. Pamiętaj by go zapisać i dobrze o niego dbać!",module,Magento_EncryptionKey
 "Manage Encryption Key","Manage Encryption Key",module,Magento_EncryptionKey
-"Private Sales","Private Sales",module,Magento_Enterprise
+"Private Sales","Sprzedaż prywatna",module,Magento_Enterprise
 "Payment Type","Typ płatności",module,Magento_Eway
 "Transaction Type","Typ transakcji",module,Magento_Eway
 "Transaction ID","ID transakcji",module,Magento_Eway
@@ -6380,7 +6380,7 @@ Options,Opcje,module,Magento_Multishipping
 "Successful Messages Lifetime","Czas życia pomyślnych komunikatów",module,Magento_MysqlMq
 "Failed Messages Lifetime","Czas życia komunikatów o niepowodzeniu",module,Magento_MysqlMq
 "New Messages Lifetime","Czas życia nowych komunikatów",module,Magento_MysqlMq
-"No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
+"No New Relic Application ID configured, cannot continue with Cron Event reporting","Nie można raportować zdarzeń Crona, ponieważ nie skonfigurowano identyfikatora aplikacji New Relic",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
@@ -7559,7 +7559,7 @@ error123,błąd123,module,Magento_Quote
 error345,błąd345,module,Magento_Quote
 Carts,Carts,module,Magento_Quote
 "Manage carts","Manage carts",module,Magento_Quote
-"This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.",module,Magento_Reminder
+"This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Powiązane reguły automatycznego przypomnienia: %1. Usunięcie pozycji spowoduje usunięcie tych powiązań.",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Automated Email Marketing Reminder Rules",module,Magento_Reminder
 "Add New Rule","Dodaj nową regułę",module,Magento_Reminder
 "Are you sure you want to match this rule now?","Are you sure you want to match this rule now?",module,Magento_Reminder
@@ -10318,7 +10318,7 @@ Action,Operacja,module,Magento_Staging
 100,100,module,Magento_Staging
 200,200,module,Magento_Staging
 Name,Nazwa,module,Magento_Staging
-"Invalid store parameter.","Invalid store parameter.",module,Magento_Store
+"Invalid store parameter.","Podano nieprawidłowy sklep.",module,Magento_Store
 "Current store is not active.","Bieżący magazyn nie jest aktywny.",module,Magento_Store
 "Requested store is inactive","Wybrany sklep jest nieaktywny",module,Magento_Store
 "Requested store is not found","Wybrany sklep nie został odnaleziony",module,Magento_Store
