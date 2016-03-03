@@ -2073,7 +2073,7 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Value for \'price\' sub attribute in \'store\' attribute contains incorrect value","Value for \'price\' sub attribute in \'store\' attribute contains incorrect value",module,Magento_CatalogImportExport
 "Value for \'type\' sub attribute in \'custom_options\' attribute contains incorrect value, acceptable values are: \'dropdown\', \'checkbox\'","Value for \'type\' sub attribute in \'custom_options\' attribute contains incorrect value, acceptable values are: \'dropdown\', \'checkbox\'",module,Magento_CatalogImportExport
 "Please enter a value for title.","Wprowadź wartości dla tytułu.",module,Magento_CatalogImportExport
-"Value for \'price\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'price\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
+"Value for \'price\' sub attribute in \'custom_options\' attribute contains incorrect value","Wartość cechy 'price' w atrybucie 'custom_options' zawiera nieprawidłową wartość",module,Magento_CatalogImportExport
 "Value for \'maximum characters\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'maximum characters\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
 "Value for \'sort order\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'sort order\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
 "Value for \'value price\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'value price\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
@@ -3151,7 +3151,7 @@ Import,Import,module,Magento_CurrencySymbol
 "Currency Symbols","Symbole walut",module,Magento_CurrencySymbol
 "Use Standard","Użyj standardowych",module,Magento_CurrencySymbol
 "Please specify a correct Import Service.","Proszę sprecyzuj prawidłową obsługę importu.",module,Magento_CurrencySymbol
-"We can\'t initialize the import model.","We can\'t initialize the import model.",module,Magento_CurrencySymbol
+"We can\'t initialize the import model.","Nie można zainicjować modelu importu.",module,Magento_CurrencySymbol
 "Click ""Save"" to apply the rates we found.","Kliknij przycisk ""Zapisz"" aby przypisać stawki, które znaleźliśmy.",module,Magento_CurrencySymbol
 "Currency Rates","Kursy walut",module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","Proszę poprawić dane wejściowe dla kursu ""%1 => %2"".",module,Magento_CurrencySymbol
@@ -4243,9 +4243,9 @@ kgs,kgs,module,Magento_Directory
 "Please correct the target currency.","Proszę poprawić w walucie docelowej.",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Niezdefiniowany zakres od ""%1-%2"".",module,Magento_Directory
 label,etykieta,module,Magento_Directory
-"We can\'t retrieve a rate from %1.","We can\'t retrieve a rate from %1.",module,Magento_Directory
+"We can\'t retrieve a rate from %1.","Nie można pobrać kursu z %1.",module,Magento_Directory
 "FATAL ERROR:","BŁĄD KRYTYCZNY:",module,Magento_Directory
-"We can\'t initialize the import model.","We can\'t initialize the import model.",module,Magento_Directory
+"We can\'t initialize the import model.","Nie można zainicjować modelu importu.",module,Magento_Directory
 "Please specify the correct Import Service.","Proszę sprecyzuj prawidłową obsługę importu.",module,Magento_Directory
 WARNING:,OSTRZEŻENIE:,module,Magento_Directory
 "Please correct the country code: %1.","Proszę poprawić kod kraju: %1.",module,Magento_Directory
@@ -6131,7 +6131,7 @@ Warehouse,Magazyn,module,Magento_MultipleLocationInventory
 "Manage Warehouse","Zarządzaj magazynem",module,Magento_MultipleLocationInventory
 "Please correct the data sent.","Proszę poprawić przesyłane dane.",module,Magento_MultipleLocationInventory
 "Please select a user","Wybierz użytkownika",module,Magento_MultipleLocationInventory
-"Requested warehouse doesn\'t exist","Requested warehouse doesn\'t exist",module,Magento_MultipleLocationInventory
+"Requested warehouse doesn\'t exist","Żądany magazyn nie istnieje",module,Magento_MultipleLocationInventory
 "Test error message","Test error message",module,Magento_MultipleLocationInventory
 Edit,Edytuj,module,Magento_MultipleLocationInventory
 "Multiple Location Inventory","Multiple Location Inventory",module,Magento_MultipleLocationInventory
@@ -6165,7 +6165,7 @@ Reports,Raporty,module,Magento_MultipleWishlist
 Customers,Klienci,module,Magento_MultipleWishlist
 "Customer Wish List Report","Raport listy życzeń klienta",module,Magento_MultipleWishlist
 "Wish list ""%1"" was saved.","Lista życzeń ""%1"" została zapisana.",module,Magento_MultipleWishlist
-"We can\'t create the wish list right now.","We can\'t create the wish list right now.",module,Magento_MultipleWishlist
+"We can\'t create the wish list right now.","Nie można utworzyć schowka w tej chwili.",module,Magento_MultipleWishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_MultipleWishlist
 """%1"" was copied to %2.","""%1"" został skopiowany do %2.",module,Magento_MultipleWishlist
 "We can\'t find the item.","We can\'t find the item.",module,Magento_MultipleWishlist
@@ -6391,7 +6391,7 @@ General,Ogólne,module,Magento_NewRelicReporting
 "Insights API URL","Insights API URL",module,Magento_NewRelicReporting
 "Use %s to replace the account ID in the URL","Use %s to replace the account ID in the URL",module,Magento_NewRelicReporting
 "New Relic Account ID","Identyfikator konta New Relic",module,Magento_NewRelicReporting
-"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one",module,Magento_NewRelicReporting
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","Nie masz konta New Relic? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Kliknij tutaj, aby założyć",module,Magento_NewRelicReporting
 "New Relic Application ID","Identyfikator aplikacji New Relic",module,Magento_NewRelicReporting
 "This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","This can commonly be found at the end of the URL when viewing the APM after ""/applications/""",module,Magento_NewRelicReporting
 "New Relic API Key","Klucz API New Relic",module,Magento_NewRelicReporting
@@ -6635,8 +6635,7 @@ Import,Import,module,Magento_OfflineShipping
 "Varnish Configuration","Konfiguracja Varnish",module,Magento_PageCache
 "Access list","Access list",module,Magento_PageCache
 "IPs access list separated with \',\' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.","IPs access list separated with \',\' that can purge Varnish configuration for config file generation.
-                            If field is empty default value localhost will be saved.",module,Magento_PageCache
+                            If field is empty default value localhost will be saved.","Lista adresów IP (rozdzielonych przecinkiem), które mają być uprawnione do odświeżania Varnisha przy generowaniu pliku konfiguracji. Jeżeli pole zostanie puste, będzie używana wartość ""localhost"".",module,Magento_PageCache
 "Backend host",Host,module,Magento_PageCache
 "Specify backend host for config file generation. If field is empty default value localhost will be saved.","Specify backend host for config file generation. If field is empty default value localhost will be saved.",module,Magento_PageCache
 "Backend port",Port,module,Magento_PageCache
@@ -6656,7 +6655,7 @@ N/A,N/D,module,Magento_Payment
 "Switch/Solo/Maestro Start Date","Data wydania karty Switch/Solo/Maestro",module,Magento_Payment
 "We cannot retrieve the transparent payment method model object.","We cannot retrieve the transparent payment method model object.",module,Magento_Payment
 "Command Executor for %1 is not defined.","Command Executor for %1 is not defined.",module,Magento_Payment
-"Command %1 does not exist.","Command %1 does not exist.",module,Magento_Payment
+"Command %1 does not exist.","Polecenie %1 nie istnieje.",module,Magento_Payment
 "Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Magento_Payment
 "Wrong gateway response format.","Wrong gateway response format.",module,Magento_Payment
 "Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
@@ -7397,7 +7396,7 @@ Basic Settings - PayPal Payments Pro Hosted Solution""",module,Magento_Paypal
 "Remember Me","Zapamiętaj mnie",module,Magento_Persistent
 "What\'s this?","What\'s this?",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Sprawdź &quot;Zapamiętaj mnie&quot; wobec dostęp Twój koszyk na tym komputerze, nawet jeśli nie jesteś zalogowany.",module,Magento_Persistent
-"Check \'Remember Me\' to access your shopping cart on this computer even if you are not signed in.","Check \'Remember Me\' to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
+"Check \'Remember Me\' to access your shopping cart on this computer even if you are not signed in.","Zaznacz \'Zapamiętaj mnie\', aby mieć dostęp do swojego koszyka na tym komputerze bez potrzeby logowania.",module,Magento_Persistent
 "Persistent Shopping Cart","Trwały koszyk",module,Magento_Persistent
 "General Options","Opcje ogólne",module,Magento_Persistent
 "Enable Persistence","Włącz trwałą obecność",module,Magento_Persistent
@@ -7511,7 +7510,7 @@ Delete,Usuń,module,Magento_ProductVideo
 "We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Quote
 "This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","This shipping method is not available. To use this shipping method, please contact us.",module,Magento_Quote
-"The address model is not defined.","The address model is not defined.",module,Magento_Quote
+"The address model is not defined.","Model adresu nie został zdefiniowany.",module,Magento_Quote
 "The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
@@ -7567,9 +7566,9 @@ Carts,Carts,module,Magento_Quote
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Reminder
 "Edit Rule '%1'","Edytuj regułę '%1'",module,Magento_Reminder
 "New Rule","Nowa reguła",module,Magento_Reminder
-"Email Reminder Rule","Email Reminder Rule",module,Magento_Reminder
+"Email Reminder Rule","Reguła przypomnienia e-mail",module,Magento_Reminder
 Conditions,Warunki,module,Magento_Reminder
-"You need to set at least one condition for this rule to work.","You need to set at least one condition for this rule to work.",module,Magento_Reminder
+"You need to set at least one condition for this rule to work.","Reguła do działania potrzebuje ustawionego przynajmniej jednego warunku.",module,Magento_Reminder
 ID,ID,module,Magento_Reminder
 Email,E-mail,module,Magento_Reminder
 "Matched At",Dopasowano,module,Magento_Reminder
@@ -8635,7 +8634,7 @@ Shipping,Dostawa,module,Magento_Sales
 Billing,Rozliczenie,module,Magento_Sales
 "Edit Order %1 %2 Address","Edycja adresu zamówienia %1 %2",module,Magento_Sales
 "Order Address Information","Informacje adresowe zamówienia",module,Magento_Sales
-"Please correct the parent block for this block.","Please correct the parent block for this block.",module,Magento_Sales
+"Please correct the parent block for this block.","Popraw blok nadrzędny tego bloku.",module,Magento_Sales
 "Submit Comment","Zatwierdź komentarz",module,Magento_Sales
 "Submit Order","Wyślij zamówienie",module,Magento_Sales
 "Are you sure you want to cancel this order?","Czy na pewno chcesz anulować to zamówienie?",module,Magento_Sales
@@ -9710,7 +9709,7 @@ Qty,Ilość,module,Magento_ScalableInventory
 "Minimum Qty Allowed in Shopping Cart","Minimalna ilość dozwolona w koszyku",module,Magento_ScalableInventory
 "Maximum Qty Allowed in Shopping Cart","Maksymalna ilość dozwolona w koszyku",module,Magento_ScalableInventory
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_ScalableInventory
-"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_ScalableInventory
+"Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_ScalableInventory
 Backorders,Rezerwacje,module,Magento_ScalableInventory
 "Use deferred Stock update","Use deferred Stock update",module,Magento_ScalableInventory
 "Notify for Quantity Below","Powiadamiaj o ujemnej ilości",module,Magento_ScalableInventory
@@ -10271,8 +10270,8 @@ Save,Zapisz,module,Magento_Staging
 "View Specific Date","Zobacz określoną datę",module,Magento_Staging
 "Date & Time","Data i czas",module,Magento_Staging
 "Something went wrong while removing the %1.","Coś się zepsuło podczas usuwania %1.",module,Magento_Staging
-"The 'mode' value is unexpected.","The 'mode' value is unexpected.",module,Magento_Staging
-"Required parameters are missing.","Required parameters are missing.",module,Magento_Staging
+"The 'mode' value is unexpected.","Wartość 'mode' nie jest obsługiwana.",module,Magento_Staging
+"Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_Staging
 "You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_Staging
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_Staging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_Staging
@@ -10363,7 +10362,7 @@ Download,Pobierz,module,Magento_Support
 Report,Raport,module,Magento_Support
 "System Report Information","System raportów informacji",module,Magento_Support
 "Requested system report has no data to display.","Żądany raport systemu nie ma danych do wyświetlenia.",module,Magento_Support
-"Output path %1 doesn\'t exist","Output path %1 doesn\'t exist",module,Magento_Support
+"Output path %1 doesn\'t exist","Nieistniejąca ścieżka dla wyjścia: %1",module,Magento_Support
 "Unknown DB param: %1","Nieznany parametr DB: %1",module,Magento_Support
 "Paths file already exists","Ścieżka pliku już istnieje",module,Magento_Support
 "Paths file cannot be created","Nie można utworzyć ścieżki pliku",module,Magento_Support
