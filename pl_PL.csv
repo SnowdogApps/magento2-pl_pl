@@ -6358,13 +6358,13 @@ Items,Elementy,module,Magento_Multishipping
 "Continue to Billing Information","Przejdź dalej do szczegółów płatności",module,Magento_Multishipping
 "Back to Select Addresses","Wróć do wyboru adresów",module,Magento_Multishipping
 "Thank you for your purchase!","Dziękujemy za złożenie zamówienia!",module,Magento_Multishipping
-"Thanks for your order. We\'ll email you order details and tracking information.","Thanks for your order. We\'ll email you order details and tracking information.",module,Magento_Multishipping
+"Thanks for your order. We\'ll email you order details and tracking information.","Dzięki za Twoje zamówienie. Prześlemy Ci wiadomość e-mail z szczegóły zamówienia i informacją o śledzeniu zamówienia.",module,Magento_Multishipping
 "Your order numbers are: ","Numery twoich zamówień to: ",module,Magento_Multishipping
 "Your order number is: ","Numer twojego zamówienia to: ",module,Magento_Multishipping
 "Continue Shopping","Kontynuuj zakupy",module,Magento_Multishipping
-"We can\'t complete your order because you don\'t have a payment method set up.","We can\'t complete your order because you don\'t have a payment method set up.",module,Magento_Multishipping
+"We can\'t complete your order because you don\'t have a payment method set up.","Nie możemy dokończyć zamówienia ponieważ nie masz ustawionej metody płatności.",module,Magento_Multishipping
 "Please choose a payment method.","Wybierz metodę płatności.",module,Magento_Multishipping
-"Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
+"Multishipping Settings Section","Sekcja Ustawień Multi Wysyłek",module,Magento_Multishipping
 "Multishipping Settings","Ustawienia multishipping",module,Magento_Multishipping
 Options,Opcje,module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","Pozwól na dostawę do wielu adresów",module,Magento_Multishipping
@@ -6375,7 +6375,7 @@ Options,Opcje,module,Magento_Multishipping
 "Message has been rejected: %1","Wiadomość została odrzucona: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","Porządkowanie kolejki komunikatów MySQL",module,Magento_MysqlMq
 "All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Wszystkie wartości powinny być podane w minutach. Użyj ""0"", aby zrezygnować z automatycznego czyszczenia.",module,Magento_MysqlMq
-"Retry Messages In Progress After","Retry Messages In Progress After",module,Magento_MysqlMq
+"Retry Messages In Progress After","Ponów wiadomości po postępie",module,Magento_MysqlMq
 "Successful Messages Lifetime","Czas życia pomyślnych komunikatów",module,Magento_MysqlMq
 "Failed Messages Lifetime","Czas życia komunikatów o niepowodzeniu",module,Magento_MysqlMq
 "New Messages Lifetime","Czas życia nowych komunikatów",module,Magento_MysqlMq
@@ -6387,18 +6387,18 @@ Options,Opcje,module,Magento_Multishipping
 General,Ogólne,module,Magento_NewRelicReporting
 "Enable New Relic Integration","Włącz integrację z New Relic",module,Magento_NewRelicReporting
 "New Relic API URL","Adres API New Relic",module,Magento_NewRelicReporting
-"Insights API URL","Insights API URL",module,Magento_NewRelicReporting
-"Use %s to replace the account ID in the URL","Use %s to replace the account ID in the URL",module,Magento_NewRelicReporting
+"Insights API URL","Insights klucz API",module,Magento_NewRelicReporting
+"Use %s to replace the account ID in the URL","Zastąp identyfikator konta w adresie URL za pomocą %s",module,Magento_NewRelicReporting
 "New Relic Account ID","Identyfikator konta New Relic",module,Magento_NewRelicReporting
 """Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","Nie masz konta New Relic? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Kliknij tutaj, aby założyć",module,Magento_NewRelicReporting
 "New Relic Application ID","Identyfikator aplikacji New Relic",module,Magento_NewRelicReporting
-"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","This can commonly be found at the end of the URL when viewing the APM after ""/applications/""",module,Magento_NewRelicReporting
+"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","To najczęściej znajdują się na końcu adresu URL podczas oglądania APM po ""/ applications /""",module,Magento_NewRelicReporting
 "New Relic API Key","Klucz API New Relic",module,Magento_NewRelicReporting
-"This is located by navigating to Events -> Deployments from the New Relic APM website","This is located by navigating to Events -> Deployments from the New Relic APM website",module,Magento_NewRelicReporting
-"Insights API Key","Insights API Key",module,Magento_NewRelicReporting
+"This is located by navigating to Events -> Deployments from the New Relic APM website","To znajduje się przechodząc do wydarzeń -> wdrożeń ze strony nowych Relic APM",module,Magento_NewRelicReporting
+"Insights API Key","Insights klucz API",module,Magento_NewRelicReporting
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Generated under Insights in Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting
 "New Relic Application Name","Nazwa aplikacji New Relic",module,Magento_NewRelicReporting
-"This is located by navigating to Settings from the New Relic APM website","This is located by navigating to Settings from the New Relic APM website",module,Magento_NewRelicReporting
+"This is located by navigating to Settings from the New Relic APM website","To znajduje się przechodząc do ustawień ze strony nowych Relic APM",module,Magento_NewRelicReporting
 Cron,Cron,module,Magento_NewRelicReporting
 "Enable Cron","Włączyć Cron",module,Magento_NewRelicReporting
 "Delete Selected Problems","Usuń zaznaczone problemy",module,Magento_Newsletter
@@ -6458,42 +6458,42 @@ Action,Operacja,module,Magento_Newsletter
 "Newsletter Subscribers","Subskrybenci newslettera",module,Magento_Newsletter
 Newsletter,Biuletyn,module,Magento_Newsletter
 Subscribers,Subskrybenci,module,Magento_Newsletter
-"Please select one or more subscribers.","Please select one or more subscribers.",module,Magento_Newsletter
+"Please select one or more subscribers.","Wybierz jedną lub więcej subskrybentów.",module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","Usunięto %1 wpis(ów).",module,Magento_Newsletter
 "A total of %1 record(s) were updated.","Zaktualizowano %1 rekordów.",module,Magento_Newsletter
-"The newsletter template has been deleted.","The newsletter template has been deleted.",module,Magento_Newsletter
-"We can\'t delete this template right now.","We can\'t delete this template right now.",module,Magento_Newsletter
+"The newsletter template has been deleted.","Szablon newslettera został usunięty.",module,Magento_Newsletter
+"We can\'t delete this template right now.","Nie można teraz usunąć szablonu.",module,Magento_Newsletter
 "Edit Template","Edycja szablonu",module,Magento_Newsletter
 "New Template","Nowy szablon",module,Magento_Newsletter
 "Create Newsletter Template","Utwórz szablon newslettera",module,Magento_Newsletter
-"The newsletter template has been saved.","The newsletter template has been saved.",module,Magento_Newsletter
-"Something went wrong while saving this template.","Something went wrong while saving this template.",module,Magento_Newsletter
+"The newsletter template has been saved.","Szablon newslettera został zapisany.",module,Magento_Newsletter
+"Something went wrong while saving this template.","Coś się zepsuło podczas zapisywania tego szablonu.",module,Magento_Newsletter
 "Newsletter Subscription","Subskrypcja newsletter'a",module,Magento_Newsletter
-"Something went wrong while saving your subscription.","Something went wrong while saving your subscription.",module,Magento_Newsletter
-"We saved the subscription.","We saved the subscription.",module,Magento_Newsletter
-"We removed the subscription.","We removed the subscription.",module,Magento_Newsletter
+"Something went wrong while saving your subscription.","Coś się zepsuło podczas zapisywania twojej subskrypcji.",module,Magento_Newsletter
+"We saved the subscription.","Zapisaliśmy subskrypcję.",module,Magento_Newsletter
+"We removed the subscription.","Usunęliśmy subskrypcję.",module,Magento_Newsletter
 "Your subscription has been confirmed.","Twoja subskrypcja została potwierdzona.",module,Magento_Newsletter
-"This is an invalid subscription confirmation code.","This is an invalid subscription confirmation code.",module,Magento_Newsletter
-"This is an invalid subscription ID.","This is an invalid subscription ID.",module,Magento_Newsletter
+"This is an invalid subscription confirmation code.","To jest nieprawidłowy kod potwierdzający subskrypcję.",module,Magento_Newsletter
+"This is an invalid subscription ID.","Jest to identyfikator nieprawidłowej subskrypcji.",module,Magento_Newsletter
 "This email address is already assigned to another user.","Ten e-mail jest już przypisany do innego użytkownika.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Niestety, administrator wyłączył subskrypcje dla gości. Prosimy <a href=%1"">zarejestruj się</a>."".",module,Magento_Newsletter
 "Please enter a valid email address.","Prosimy wpisać poprawny adres e-mail",module,Magento_Newsletter
-"The confirmation request has been sent.","The confirmation request has been sent.",module,Magento_Newsletter
+"The confirmation request has been sent.","Prośba o potwierdzenie zostało wysłane.",module,Magento_Newsletter
 "Thank you for your subscription.","Dziękujemy za twoją subskrypcję",module,Magento_Newsletter
 "There was a problem with the subscription: %1","Wystąpił problem z subskrypcją: %1",module,Magento_Newsletter
 "Something went wrong with the subscription.","Coś się zepsuło z subskrypcja.",module,Magento_Newsletter
-"You unsubscribed.","You unsubscribed.",module,Magento_Newsletter
-"Something went wrong while unsubscribing you.","Something went wrong while unsubscribing you.",module,Magento_Newsletter
+"You unsubscribed.","Możesz się wypisać.",module,Magento_Newsletter
+"Something went wrong while unsubscribing you.","Coś się zepsuło podczas wypisywania się.",module,Magento_Newsletter
 Sent,Wysłano,module,Magento_Newsletter
 Cancelled,Anulowane,module,Magento_Newsletter
 "Not Sent","Nie wysłane",module,Magento_Newsletter
 Sending,Wysyłanie,module,Magento_Newsletter
 Paused,Zatrzymany,module,Magento_Newsletter
-"There are no subscribers selected.","There are no subscribers selected.",module,Magento_Newsletter
+"There are no subscribers selected.","Nie zostali wybrani subskrybenci.",module,Magento_Newsletter
 "You selected an invalid queue.","Wybrano nieprawidłową kolejkę.",module,Magento_Newsletter
 "We cannot mark as received subscriber.","Nie można oznaczyć jako subskrybenta.",module,Magento_Newsletter
 "Duplicate template code","Klonuj kod szablonu",module,Magento_Newsletter
-"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>","Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>","Użyj tego linku, aby <!-- tag do usunięcia subskrypcji  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
 "Choose Store View:","Wybierz widok sklepu:",module,Magento_Newsletter
 "Newsletter Message Preview","Podgląd newslettera",module,Magento_Newsletter
 "Add to Queue","Dodaj do kolejki",module,Magento_Newsletter
@@ -6509,7 +6509,7 @@ Subscribe,Subskrybuj,module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Twój adres został pomyślnie dodany do naszej listy subskrypcyjnej newslettera.",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Twój adres został usunięty z naszej listy subskrypcyjnej newslettera.",module,Magento_Newsletter
 "Newsletter Template","Szablony newslettera",module,Magento_Newsletter
-"Newsletter Section","Newsletter Section",module,Magento_Newsletter
+"Newsletter Section","Sekcja newslettera",module,Magento_Newsletter
 "Subscription Options","Opcje subskrypcji",module,Magento_Newsletter
 "Allow Guest Subscription","Zezwól na subskrybowanie przez niezalogowanych",module,Magento_Newsletter
 "Need to Confirm","Wymaga potwierdzenia",module,Magento_Newsletter
@@ -6522,7 +6522,7 @@ Subscribe,Subskrybuj,module,Magento_Newsletter
 "Unsubscription Email Template","Szablon wiadomości wypisującej",module,Magento_Newsletter
 "We found no problems.","Nie znaleźliśmy żadnych problemów.",module,Magento_Newsletter
 Subscriber,Subskrybent,module,Magento_Newsletter
-"Queue Start Date","Queue Start Date",module,Magento_Newsletter
+"Queue Start Date","Data rozpoczęcia kolejki",module,Magento_Newsletter
 "Queue Subject","Temat kolejki",module,Magento_Newsletter
 "Error Code","Kod błędu",module,Magento_Newsletter
 "Error Text","Tekst błędu",module,Magento_Newsletter
@@ -7586,7 +7586,7 @@ N/A,N/D,module,Magento_Reminder
 "Rule Name","Nazwa reguły",module,Magento_Reminder
 Description,Opis,module,Magento_Reminder
 "Cart Price Rule","Zasady koszyka cen",module,Magento_Reminder
-"Promotion rule this reminder will advertise.","Promotion rule this reminder will advertise.",module,Magento_Reminder
+"Promotion rule this reminder will advertise.","Reguły promocyjne, które to przypomnienie będzie reklamowało.",module,Magento_Reminder
 "Assigned to Website","Przypisane do witryny",module,Magento_Reminder
 Status,Status,module,Magento_Reminder
 Active,Aktywny,module,Magento_Reminder
@@ -7594,7 +7594,7 @@ Inactive,Nieaktywny,module,Magento_Reminder
 From,Od,module,Magento_Reminder
 To,Do,module,Magento_Reminder
 "Repeat Schedule","Powtórz harmonogram",module,Magento_Reminder
-"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter \"7, 14\" to trigger emails in 7 days, and then 14 days after that).","Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter \"7, 14\" to trigger emails in 7 days, and then 14 days after that).",module,Magento_Reminder
+"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter \"7, 14\" to trigger emails in 7 days, and then 14 days after that).","Wprowadź liczbę dni, po których przypomnienie e-mail zostanie ponownie wysłane, jeśli jej reguła jest nadal spełniana (Np.: Wprowadź \"7, 14\" by wysłać e-mail wpierw za 7 dni, a następnie 14 dni później).",module,Magento_Reminder
 "Select Rule...","Wybierz regułę...",module,Magento_Reminder
 "Email Templates","Szablony e-mail",module,Magento_Reminder
 "Only customers who have an account for a store view will receive emails related to that store view.","Only customers who have an account for a store view will receive emails related to that store view.",module,Magento_Reminder
@@ -7607,10 +7607,10 @@ To,Do,module,Magento_Reminder
 "Rule Information","Informacje o regule",module,Magento_Reminder
 "Emails and Labels","E-maile i etykiety",module,Magento_Reminder
 "Matched Customers","Pasujący klienci",module,Magento_Reminder
-"Please correct the reminder rule you requested.","Please correct the reminder rule you requested.",module,Magento_Reminder
-"You deleted the reminder rule.","You deleted the reminder rule.",module,Magento_Reminder
-"We can\'t delete the reminder rule right now.","We can\'t delete the reminder rule right now.",module,Magento_Reminder
-"Reminder Rules","Reguły przypominania",module,Magento_Reminder
+"Please correct the reminder rule you requested.","Proszę poprawić żądaną regułę przypomnień.",module,Magento_Reminder
+"You deleted the reminder rule.","Reguła przypomnień została usunięta.",module,Magento_Reminder
+"We can\'t delete the reminder rule right now.","W tej chwili nie możemy usunąć reguły przypomnień.",module,Magento_Reminder
+"Reminder Rules","Reguły przypomnień",module,Magento_Reminder
 "Email Reminders","Przypomnienia e-mail",module,Magento_Reminder
 "New Reminder Rule","Nowa reguła przypomnień",module,Magento_Reminder
 "Edit Rule","Edytuj regułę",module,Magento_Reminder
@@ -11071,7 +11071,7 @@ Translations,Tłumaczenia,module,Magento_Translation
 "New %1","Nowy %1",module,Magento_Ui
 "Please select item(s).","Wybierz produkty.",module,Magento_Ui
 "Unsupported bookmark action.","Nieobsługiwana zakładka działania.",module,Magento_Ui
-"Parameter ""class"" must be present.","Parameter ""class"" must be present.",module,Magento_Ui
+"Parameter ""class"" must be present.","Parametr ""class"" jest wymagany.",module,Magento_Ui
 "Parameter ""sortOrder"" must be present.","Parametr ""sortOrder"" jest wymagany.",module,Magento_Ui
 "Initialization error component, check the spelling of the name or the correctness of the call.","Inicjalizacja błąd składnika, Sprawdź pisownię nazwy lub poprawności połączenia.",module,Magento_Ui
 "Bookmark with id ""%1"" does not exist.","Zakładka o identyfikatorze ""%1"" nie istnieje.",module,Magento_Ui
@@ -11089,7 +11089,7 @@ No,Nie,module,Magento_Ui
 Done,Zrobione,module,Magento_Ui
 options,opcje,module,Magento_Ui
 Select...,Wybierz...,module,Magento_Ui
-Selected,Selected,module,Magento_Ui
+Selected,Wybrane,module,Magento_Ui
 "Select All","Zaznacz wszystko",module,Magento_Ui
 "Deselect All","Odznacz wszystko",module,Magento_Ui
 "Select All on This Page","Zaznacz wszystko na tej stronie",module,Magento_Ui
@@ -11099,7 +11099,7 @@ Off,Wyłączone,module,Magento_Ui
 "Go to Details Page","Przejdź do strony szczegółów",module,Magento_Ui
 "New View","Nowy widok",module,Magento_Ui
 "Default View","Widok domyślny",module,Magento_Ui
-"${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","{ $.visible } $ ze ${ $.total } widoczne",module,Magento_Ui
 "You have successfully saved your edits.","Zmiany zostały pomyślnie zapisane.",module,Magento_Ui
 "You haven\'t selected any items!","You haven\'t selected any items!",module,Magento_Ui
 "Search by keyword","Wyszukiwanie wg słów kluczowych",module,Magento_Ui
@@ -11234,7 +11234,7 @@ Commercial,Komercyjna,module,Magento_Ups
 Pounds,Funty,module,Magento_Ups
 Kilograms,Kilogramy,module,Magento_Ups
 "Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Przepraszamy, ale coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my spróbujemy pomóc.",module,Magento_Ups
-"We can\'t convert a rate from \\%1-%2\\.""""""","We can\'t convert a rate from \\%1-%2\\.""""""",module,Magento_Ups
+"We can\'t convert a rate from \\%1-%2\\.""""""","Nie można prze konwertować kursu z \\%1-%2\\.""""""",module,Magento_Ups
 "Cannot retrieve shipping rates","Nie można pobrać stawek metody wysyłki",module,Magento_Ups
 status,status,module,Magento_Ups
 error_message,error_message,module,Magento_Ups
