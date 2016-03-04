@@ -10766,7 +10766,7 @@ Tax,Podatek,module,Magento_Tax
 "Tax Zones and Rates","Strefa podatku i cen",module,Magento_Tax
 "We can\'t delete this tax rate right now.","Nie można teraz usunąć tej stawki podatku.",module,Magento_Tax
 "An error occurred while loading this tax rate.","Wystąpił błąd podczas ładowania tej stawki podatku.",module,Magento_Tax
-"We can\'t save this rate right now.","We can\'t save this rate right now.",module,Magento_Tax
+"We can\'t save this rate right now.","Nie możemy zapisać tej stawki.",module,Magento_Tax
 "You deleted the tax rate.","Usunąłeś stawkę podatku.",module,Magento_Tax
 "We can\'t delete this rate because of an incorrect rate ID.","We can\'t delete this rate because of an incorrect rate ID.",module,Magento_Tax
 "Something went wrong deleting this rate.","Something went wrong deleting this rate.",module,Magento_Tax
