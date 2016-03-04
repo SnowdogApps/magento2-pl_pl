@@ -9540,8 +9540,8 @@ End,Koniec,module,Magento_SalesRule
 Coupons/Discounts,Kupony/obniżki,module,Magento_SalesRule
 Promotions,Promocje,module,Magento_SalesRule
 "You deleted the rule.","Możesz usunąć regułę.",module,Magento_SalesRule
-"We can\'t delete the rule right now. Please review the log and try again.","We can\'t delete the rule right now. Please review the log and try again.",module,Magento_SalesRule
-"We can\'t find a rule to delete.","We can\'t find a rule to delete.",module,Magento_SalesRule
+"We can\'t delete the rule right now. Please review the log and try again.","W tej chwili nie możemy usunąć danej reguły. Proszę przejrzeć logi i spróbować ponownie.",module,Magento_SalesRule
+"We can\'t find a rule to delete.","Nie możemy znaleźć reguły do usunięcia.",module,Magento_SalesRule
 "This rule no longer exists.","Ta reguła już nie istnieje.",module,Magento_SalesRule
 "Edit Rule","Edytuj regułę",module,Magento_SalesRule
 "New Cart Price Rule","Nowe reguły cenowe koszyka",module,Magento_SalesRule
@@ -9682,15 +9682,15 @@ Conditions,Warunki,module,Magento_SalesRuleStaging
 Actions,Operacje,module,Magento_SalesRuleStaging
 Apply,Zastosuj,module,Magento_SalesRuleStaging
 "Discount Amount","Wielkość zniżki",module,Magento_SalesRuleStaging
-"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRuleStaging
+"Maximum Qty Discount is Applied To","Maksymalna zniżka ilościowa jest stosowana dla",module,Magento_SalesRuleStaging
 "Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRuleStaging
-"Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
+"Discard subsequent rules","Odrzuć kolejne reguły",module,Magento_SalesRuleStaging
 Labels,Etykiety,module,Magento_SalesRuleStaging
 "Default Rule Label for All Store Views","Domyślna etykieta reguły dla wszystkich widoków sklepu",module,Magento_SalesRuleStaging
 "Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_SalesRuleStaging
 "Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_SalesRuleStaging
-"Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.","Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.",module,Magento_SalesRuleStaging
+"Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.","Usunięcie zmiany spowoduje usunięcie reguły sprzedaży z tej aktualizacji i wszystkie zaplanowane zmiany zostaną utracone.",module,Magento_SalesRuleStaging
 20,20,module,Magento_SalesRuleStaging
 30,30,module,Magento_SalesRuleStaging
 50,50,module,Magento_SalesRuleStaging
