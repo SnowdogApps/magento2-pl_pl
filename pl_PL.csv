@@ -9765,10 +9765,10 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "We cannot change status for all items.","Nie można zmienić stanu wszystkich produktów.",module,Magento_ScheduledImportExport
 "You deleted a total of %1 record(s).","Usunięto w sumie %1 rekord(ów).",module,Magento_ScheduledImportExport
 "We can\'t delete all the items right now.","We can\'t delete all the items right now.",module,Magento_ScheduledImportExport
-"We can\'t save the scheduled operation right now.","We can\'t save the scheduled operation right now.",module,Magento_ScheduledImportExport
-"We can\'t create directory \\%1\\""",We can\'t create directory \\%1\\"""""""",module,Magento_ScheduledImportExport
+"We can\'t save the scheduled operation right now.","Nie można teraz zapisać zaplanowanej operacji.",module,Magento_ScheduledImportExport
+"We can\'t create directory \\%1\\""",Nie możemy utworzyć katalogu \\%1\\"""""""",module,Magento_ScheduledImportExport
 "The directory ""%1"" is not writable.","Katalog ""%1"" nie jest zapisywalny.",module,Magento_ScheduledImportExport
-"We can\'t delete \\%1\\ because the directory is not writable.""""""","We can\'t delete \\%1\\ because the directory is not writable.""""""",module,Magento_ScheduledImportExport
+"We can\'t delete \\%1\\ because the directory is not writable.""""""","Nie możemy usunąć \\%1\" ponieważ katalogu nie jest zapisywalny.""",module,Magento_ScheduledImportExport
 "Scheduled Import","Harmonogram Importu",module,Magento_ScheduledImportExport
 "New Scheduled Import","Nowe harmonogram Importu",module,Magento_ScheduledImportExport
 "Scheduled Export","Harmonogram exportu",module,Magento_ScheduledImportExport
@@ -9779,15 +9779,15 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "You deleted the scheduled export.","Usunąłeś zaplanowany eksport.",module,Magento_ScheduledImportExport
 "Are you sure you want to delete this scheduled import?","Czy na pewno chcesz usunąć ten harmonogram importu?",module,Magento_ScheduledImportExport
 "Are you sure you want to delete this scheduled export?","Czy na pewno chcesz usunąć ten harmonogram exportu?",module,Magento_ScheduledImportExport
-"We were unable to save the cron expression.","We were unable to save the cron expression.",module,Magento_ScheduledImportExport
+"We were unable to save the cron expression.","Nie mogliśmy zapisać wyrażenia cron.",module,Magento_ScheduledImportExport
 "Unable to delete the cron task.","Nie można usunąć zadania cron.",module,Magento_ScheduledImportExport
 "Please correct the cron job task","Please correct the cron job task",module,Magento_ScheduledImportExport
 "File has been not created","Nie utworzono pliku",module,Magento_ScheduledImportExport
 "Something went wrong and the operation failed.","Coś poszło nie tak i operacja nie powiodła się.",module,Magento_ScheduledImportExport
-"We can\'t read the file source because the file name is empty.","We can\'t read the file source because the file name is empty.",module,Magento_ScheduledImportExport
+"We can\'t read the file source because the file name is empty.","Nie możemy odczytać pliku źródłowego, ponieważ nazwa pliku jest pusta.",module,Magento_ScheduledImportExport
 "Connecting to server","Łączenie z serwerem",module,Magento_ScheduledImportExport
 "Reading import file","Czytanie pliku importu",module,Magento_ScheduledImportExport
-"We can\'t read the import file.","We can\'t read the import file.",module,Magento_ScheduledImportExport
+"We can\'t read the import file.","Nie można odczytać pliku importu.",module,Magento_ScheduledImportExport
 "Save history file content ""%1""","Save history file content ""%1""",module,Magento_ScheduledImportExport
 "We couldn\'t write file \\%1\\ to \\"%2\\" with the \\"%3\\" driver.""""""","We couldn\'t write file \\%1\\ to \\"%2\\" with the \\"%3\\" driver.""""""",module,Magento_ScheduledImportExport
 "Save file content","Zapisywanie zawartości pliku",module,Magento_ScheduledImportExport
@@ -10552,11 +10552,11 @@ Message,Wiadomość,module,Magento_Support
 "There was an error while loading system report data.","Wystąpił błąd podczas ładowania systemu danych raportu.",module,Magento_Support
 General,Ogólne,module,Magento_Support
 Environment,Środowisko,module,Magento_Support
-"Cannot save backup. The reason is: Utility lsof not found","Cannot save backup. The reason is: Utility lsof not found",module,Magento_Support
+"Cannot save backup. The reason is: Utility lsof not found","Nie można zapisać kopii zapasowej. Powód: narzędzie lsof nie zostało znalezione",module,Magento_Support
 "Test error","Błąd testowy",module,Magento_Support
 "Error message!","Komunikat błędu!",module,Magento_Support
 "User Defined","Zdefiniowane przez użytkownika",module,Magento_Support
-"Entity Type Code","Entity Type Code",module,Magento_Support
+"Entity Type Code","Typ kodu obiektu",module,Magento_Support
 "Source Model","Model źródłowy",module,Magento_Support
 "Backend Model","Model administracyjny",module,Magento_Support
 "Frontend Model","Model interfejsu klienta",module,Magento_Support
@@ -10565,7 +10565,7 @@ Delete,Usuń,module,Magento_Support
 "Delete ""%1""","Usuń ""%1""",module,Magento_Support
 "Are you sure you want to delete a ""%1"" record?","Czy na pewno chcesz usunąć rekord ""%1""?",module,Magento_Support
 View,Zobacz,module,Magento_Support
-"Are you sure you wan\'t to delete a \\%1\\ record?""""""","Are you sure you wan\'t to delete a \\%1\\ record?""""""",module,Magento_Support
+"Are you sure you wan\'t to delete a \\%1\\ record?""""""","Czy na pewno chcesz usunąć rekord ""%1""?",module,Magento_Support
 "Empty log","Brak logów",module,Magento_Support
 "Backup ID: ","ID kopii zapasowej: ",module,Magento_Support
 Collapse,Zwiń,module,Magento_Support
@@ -10589,7 +10589,7 @@ Stores,Sklepy,module,Magento_Support
 "Are you sure you want to delete selected item(s)?","Czy na pewno chcesz usunąć wszystkie zaznaczone towary?",module,Magento_Support
 "Code Dump","Kopia kodu",module,Magento_Support
 "DB Dump","Kopia bazy danych",module,Magento_Support
-"Choose Report Groups","Choose Report Groups",module,Magento_Support
+"Choose Report Groups","Wybierz raport grupy",module,Magento_Support
 "New Report","Nowy raport",module,Magento_Support
 "Date Generated","Data wygenerowania",module,Magento_Support
 "Report Groups","Raport grupy",module,Magento_Support
