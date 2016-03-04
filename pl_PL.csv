@@ -8694,7 +8694,7 @@ Quantity,Ilość,module,Magento_Sales
 "Refund Shipping (Incl. Tax)","Zwrot dostawy (z podatkiem)",module,Magento_Sales
 "Refund Shipping (Excl. Tax)","Zwrot dostawy (bez podatku)",module,Magento_Sales
 "Refund Shipping","Zwrot kosztów wysyłki",module,Magento_Sales
-"Update Qty\'s","Update Qty\'s",module,Magento_Sales
+"Update Qty\'s","Aktualizuj ilości",module,Magento_Sales
 Refund,Zwróć,module,Magento_Sales
 "Refund Offline","Zwróć offline",module,Magento_Sales
 "Paid Amount","Zapłacono kwotę",module,Magento_Sales
@@ -8720,7 +8720,7 @@ Print,Drukuj,module,Magento_Sales
 "Credit Memo","Faktura korygująca",module,Magento_Sales
 Capture,Przechwyć,module,Magento_Sales
 "The invoice email was sent.","E-mail z fakturą został wysłany.",module,Magento_Sales
-"The invoice email wasn\'t sent.","The invoice email wasn\'t sent.",module,Magento_Sales
+"The invoice email wasn\'t sent.","E-mail z fakturą nie został wysłany.",module,Magento_Sales
 "Invoice #%1 | %2 | %4 (%3)","Faktura #%1 | %2 | %4 (%3)",module,Magento_Sales
 "Invalid parent block for this block","Nieprawidłowy blok nadrzędny dla tego bloku",module,Magento_Sales
 "Order Statuses","Statusy zamówienia",module,Magento_Sales
@@ -8761,7 +8761,7 @@ Invoice,Faktura,module,Magento_Sales
 Ship,Dostawa,module,Magento_Sales
 Reorder,"Ponowne zamówienia",module,Magento_Sales
 "Order # %1 %2 | %3","Zamówienie # %1 %2 | %3",module,Magento_Sales
-"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","To zamówienie zawiera (%1) produktów i dlatego nie może być teraz edytowane z poziomu panelu administracyjnego. Jeśli chcesz kontynuować edycję (%2) produktów zostanie usuniętych, aktualne zamówienie zostanie anulowane, a na jego miejsce zostanie utworzone nowe.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Czy jesteś pewien? To zamówienie zostanie usunięte a w miejsce niego zostanie utworzone nowe.",module,Magento_Sales
 "Save Gift Message","Zapisz wiadomość prezentową",module,Magento_Sales
 " [deleted]"," [usunięty]",module,Magento_Sales
@@ -8812,14 +8812,14 @@ Value,Wartość,module,Magento_Sales
 "Print Order # %1","Wydrukuj zamówienie nr %1",module,Magento_Sales
 "Grand Total to be Charged","Łącznie do zapłaty",module,Magento_Sales
 Unassign,Odepnij,module,Magento_Sales
-"We can\'t add this item to your shopping cart right now.","We can\'t add this item to your shopping cart right now.",module,Magento_Sales
-"You sent the message.","You sent the message.",module,Magento_Sales
+"We can\'t add this item to your shopping cart right now.","W tej chwili nie możemy dodać tego produktu do Twojego koszyka.",module,Magento_Sales
+"You sent the message.","Wiadomość wysłana.",module,Magento_Sales
 Sales,Sprzedaż,module,Magento_Sales
 "This order no longer exists.","Takie zamówienie już nie istnieje.",module,Magento_Sales
 "Please enter a comment.","Wpisz treść komentarza.",module,Magento_Sales
 "We cannot add order history.","We cannot add order history.",module,Magento_Sales
-"You updated the order address.","You updated the order address.",module,Magento_Sales
-"We can\'t update the order address right now.","We can\'t update the order address right now.",module,Magento_Sales
+"You updated the order address.","Adres zamówienia został zaktualizowany.",module,Magento_Sales
+"We can\'t update the order address right now.","W tej chwili nie możemy zaktualizować adresu tego zamówienia.",module,Magento_Sales
 "You have not canceled the item.","Nie posiadasz anulowanych produktów.",module,Magento_Sales
 "You canceled the order.","Anulowane zamówienia.",module,Magento_Sales
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","nie zastosowano kodu kuponu ""%1"". Nie obowiązują zniżki dla wybranych produktów",module,Magento_Sales
@@ -8837,15 +8837,15 @@ Sales,Sprzedaż,module,Magento_Sales
 "New Memo","Nowa faktura korygująca",module,Magento_Sales
 "The credit memo\'s total must be positive.","The credit memo\'s total must be positive.",module,Magento_Sales
 "Cannot create online refund for Refund to Store Credit.","Cannot create online refund for Refund to Store Credit.",module,Magento_Sales
-"You created the credit memo.","You created the credit memo.",module,Magento_Sales
-"We can\'t save the credit memo right now.","We can\'t save the credit memo right now.",module,Magento_Sales
-"We can\'t update the item\'s quantity right now.","We can\'t update the item\'s quantity right now.",module,Magento_Sales
+"You created the credit memo.","Faktura korygująca została stworzona.",module,Magento_Sales
+"We can\'t save the credit memo right now.","W tej chili nie możemy stworzyć faktury korygującej.",module,Magento_Sales
+"We can\'t update the item\'s quantity right now.","W tej chwili nie możemy uaktualnić ilości tego produktu.",module,Magento_Sales
 "View Memo for #%1","Zobacz korektę dla nr %1",module,Magento_Sales
 "View Memo","Zobacz korektę",module,Magento_Sales
-"You voided the credit memo.","You voided the credit memo.",module,Magento_Sales
-"We can\'t void the credit memo.","We can\'t void the credit memo.",module,Magento_Sales
+"You voided the credit memo.","Faktura korygująca została unieważniona.",module,Magento_Sales
+"We can\'t void the credit memo.","Nie możemy unieważnić tej faktury korygującej.",module,Magento_Sales
 "The order no longer exists.","To zamówienie już nie istnieje.",module,Magento_Sales
-"We can\'t create credit memo for the order.","We can\'t create credit memo for the order.",module,Magento_Sales
+"We can\'t create credit memo for the order.","Nie możemy utworzyć faktury korygującej dla tego zamówienia.",module,Magento_Sales
 "Edit Order","Edycja zamówienia",module,Magento_Sales
 "You sent the order email.","Wysłanie e-mail z zamówieniem.",module,Magento_Sales
 "We can\'t send the email order right now.","We can\'t send the email order right now.",module,Magento_Sales
@@ -9737,7 +9737,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "Failed Email Receiver","Nie powiodło się odebranie wiadomości E-mail",module,Magento_ScheduledImportExport
 "Failed Email Sender","Nadanie wiadomości E-mail nie powiodło się",module,Magento_ScheduledImportExport
 "Failed Email Template","Niepowodzenie szablonu Email",module,Magento_ScheduledImportExport
-"Send Failed Email Copy To","Send Failed Email Copy To",module,Magento_ScheduledImportExport
+"Send Failed Email Copy To","Wyślij kopię e-maila do",module,Magento_ScheduledImportExport
 "Send Failed Email Copy Method","Send Failed Email Copy Method",module,Magento_ScheduledImportExport
 "Export Settings","Ustawienia eksportu",module,Magento_ScheduledImportExport
 "Export File Information","Informacje o pliku eksportu",module,Magento_ScheduledImportExport
@@ -9764,7 +9764,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "A total of %1 record(s) have been updated.","Zaktualizowano %1 rekordów.",module,Magento_ScheduledImportExport
 "We cannot change status for all items.","Nie można zmienić stanu wszystkich produktów.",module,Magento_ScheduledImportExport
 "You deleted a total of %1 record(s).","Usunięto w sumie %1 rekord(ów).",module,Magento_ScheduledImportExport
-"We can\'t delete all the items right now.","We can\'t delete all the items right now.",module,Magento_ScheduledImportExport
+"We can\'t delete all the items right now.","Nie można teraz usunąć wszystkich przedmiotów.",module,Magento_ScheduledImportExport
 "We can\'t save the scheduled operation right now.","Nie można teraz zapisać zaplanowanej operacji.",module,Magento_ScheduledImportExport
 "We can\'t create directory \\%1\\""",Nie możemy utworzyć katalogu \\%1\\"""""""",module,Magento_ScheduledImportExport
 "The directory ""%1"" is not writable.","Katalog ""%1"" nie jest zapisywalny.",module,Magento_ScheduledImportExport
