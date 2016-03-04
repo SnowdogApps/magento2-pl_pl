@@ -2265,8 +2265,8 @@ Actions,Operacje,module,Magento_CatalogRule
 "Create new","Utwórz nowy",module,Magento_CatalogRuleStaging
 "Assign to update","Przypisz do aktualizacji",module,Magento_CatalogRuleStaging
 "Smth went to exception","Smth went to exception",module,Magento_CatalogRuleStaging
-"You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_CatalogRuleStaging
-"You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CatalogRuleStaging
+"You removed this %1 from the update and saved it in a new one.","Możesz usunąć ten %1 z aktualizacji i zapisać w innym nowym.",module,Magento_CatalogRuleStaging
+"You removed this %1 from the update and saved it in the other one.","Możesz usunąć ten %1 z aktualizacji i zapisać w innym.",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update.","Usunąć ten %1 z aktualizacji.",module,Magento_CatalogRuleStaging
 "Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_CatalogRuleStaging
 "You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_CatalogRuleStaging
@@ -5567,7 +5567,7 @@ Status,Status,module,Magento_ImportExport
 "We can\'t provide the upload settings right now.","We can\'t provide the upload settings right now.",module,Magento_ImportExport
 "Created: %1, Updated: %2, Deleted: %3","Utworzone: %1, Zaktualizowane: %2, Usunięte: %3",module,Magento_ImportExport
 "Please enter a correct entity model.","Podaj poprawny obiekt modelu.",module,Magento_ImportExport
-"The entity adapter object must be an instance of %1 or %2.","The entity adapter object must be an instance of %1 or %2.",module,Magento_ImportExport
+"The entity adapter object must be an instance of %1 or %2.","Obiekt adaptera musi być instancją %1 lub %2.",module,Magento_ImportExport
 "The input entity code is not equal to entity adapter code.","Kod wejścia jednostki nie jest równy kodowi adaptera jednostki.",module,Magento_ImportExport
 "Please enter a correct entity.","Proszę podać poprawny obiekt.",module,Magento_ImportExport
 "The adapter object must be an instance of %1.","Obiekt adaptera musi być instancją %1.",module,Magento_ImportExport
@@ -5606,7 +5606,7 @@ Status,Status,module,Magento_ImportExport
 "Please specify a source.","Prosimy o podanie źródła.",module,Magento_ImportExport
 "ImportExport: Import Data validation - Validation strategy not found","ImportExport: Poprawność danych importu - nie znaleziono strategi sprawdzania poprawności",module,Magento_ImportExport
 "Cannot get autoincrement value","Nie można pobrać wartości automatycznego zwiększania",module,Magento_ImportExport
-"Error in data structure: %1 values are mixed","Error in data structure: %1 values are mixed",module,Magento_ImportExport
+"Error in data structure: %1 values are mixed","Błąd w strukturze danych: %1 wartości jednostek są wymieszane",module,Magento_ImportExport
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_ImportExport
 label,etykieta,module,Magento_ImportExport
 Add/Update,Dodaj/Aktualizuj,module,Magento_ImportExport
@@ -5617,7 +5617,7 @@ Delete,Usuń,module,Magento_ImportExport
 "Delete Entities","Usuń elementy",module,Magento_ImportExport
 "Custom Action","Akcja niestandardowa",module,Magento_ImportExport
 "Error message","Komunikat błędu",module,Magento_ImportExport
-"URL key for specified store already exists.","URL key for specified store already exists.",module,Magento_ImportExport
+"URL key for specified store already exists.","Klucz URL dla wybranego sklepu już istnieje.",module,Magento_ImportExport
 "Entity Attributes","Cechy jednostki",module,Magento_ImportExport
 Continue,Kontynuuj,module,Magento_ImportExport
 "Validation Results","Rezultat walidacji",module,Magento_ImportExport
@@ -5640,9 +5640,9 @@ Never,Nigdy,module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indeks(ów) jest w tryby ""Zaplanowanej aktualizacji"".",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","Nie można zmienić trybu indeksowania z powodu błędu.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indeks(ów) jest w trybie ""Aktualizacji po zapisie"".",module,Magento_Indexer
-"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.",module,Magento_Indexer
-"State for the same indexer","State for the same indexer",module,Magento_Indexer
-"State for the same view","State for the same view",module,Magento_Indexer
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Jeden lub więcej <a href=""%1""> kondensatory są nieprawidłowe</a>. Upewnij się, że twój <a href=""%2"" target=""_blank""> Magento cron</a> jest uruchomiony.",module,Magento_Indexer
+"State for the same indexer","Państwo dla tego samego indeksowania",module,Magento_Indexer
+"State for the same view","Państwo ma ten sam widok",module,Magento_Indexer
 "Some Exception Message","Niektóre wiadomości wyjątku",module,Magento_Indexer
 "Test Phrase","Fraza testowa",module,Magento_Indexer
 "Change indexer mode","Zmień tryb indeksatora",module,Magento_Indexer
@@ -5666,7 +5666,7 @@ Email,E-mail,module,Magento_Integration
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Wprowadź adres URL gdzie Oauth poświadczenia mogą być wysyłane przy użyciu Oauth dla tokenu wymiany. Zdecydowanie zalecamy używanie https://.",module,Magento_Integration
 "Identity link URL","Identity link URL",module,Magento_Integration
 "URL to redirect user to link their 3rd party account with this Magento integration credentials.","URL to redirect user to link their 3rd party account with this Magento integration credentials.",module,Magento_Integration
-"Current User Identity Verification","Current User Identity Verification",module,Magento_Integration
+"Current User Identity Verification","Weryfikacja tożsamości użytkownika",module,Magento_Integration
 "Your Password","Twoje hasło",module,Magento_Integration
 "Integration Details","Szczegóły integracji",module,Magento_Integration
 "Basic Settings","Ustawienia podstawowe",module,Magento_Integration
@@ -5683,14 +5683,14 @@ Activate,Aktywuj,module,Magento_Integration
 Reauthorize,Autoryzuj,module,Magento_Integration
 "Uninstall the extension to remove integration '%1'.","Odinstaluj rozszerzenie, aby zrezygnować z integracji '%1'.",module,Magento_Integration
 "This integration no longer exists.","Ta integracja już nie istnieje.",module,Magento_Integration
-"The integration '%1' has been deleted.","The integration '%1' has been deleted.",module,Magento_Integration
+"The integration '%1' has been deleted.","Integracja ""%1"" został usunięty.",module,Magento_Integration
 "Integration ID is not specified or is invalid.","Integracja ID nie została określona lub jest nieprawidłowa.",module,Magento_Integration
 "Internal error. Check exception log for details.","Błąd wewnętrzny. Sprawdź dziennik wyjątek dla szczegółów.",module,Magento_Integration
 "View ""%1"" Integration","Widok ""%1"" integracji",module,Magento_Integration
 "Edit ""%1"" Integration","Edytuj integrację ""%1""",module,Magento_Integration
 "Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Ostrzeżenie! Nie używaj integracji za pomocą HTTPS, są niebezpieczne i mogą narazić prywatne lub identyfikowalne informacje",module,Magento_Integration
 "Cannot edit integrations created via config file.","Cannot edit integrations created via config file.",module,Magento_Integration
-"The integration \'%1\' has been saved.","The integration \'%1\' has been saved.",module,Magento_Integration
+"The integration \'%1\' has been saved.","Integracja \'%1\' został zapisany.",module,Magento_Integration
 "The integration was not saved.","Integracja nie została zapisana.",module,Magento_Integration
 "The integration '%1' has been re-authorized.","Integracja ""%1"" została ponownie autoryzowana.",module,Magento_Integration
 "The integration '%1' has been activated.","Integracja ""%1"" została aktywowana.",module,Magento_Integration
@@ -5700,13 +5700,13 @@ Reauthorize,Autoryzuj,module,Magento_Integration
 "This user has no tokens.","Ten użytkownik nie posada tokenów.",module,Magento_Integration
 "The tokens could not be revoked.","Tokeny nie mogą być odwołane.",module,Magento_Integration
 "Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Przepraszamy coś poszło źle przy przyznawaniu uprawnień. Możesz dowiedzieć się więcej w Dzienniku logów.",module,Magento_Integration
-"Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.",module,Magento_Integration
+"Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Coś poszło źle podczas usuwania ról oraz uprawnień. Możesz dowiedzieć się więcej w Dzienniku logów.",module,Magento_Integration
 "This customer has no tokens.","Ten klient ma nie tokenów.",module,Magento_Integration
 Inactive,Nieaktywny,module,Magento_Integration
 Active,Aktywny,module,Magento_Integration
 Reset,Resetuj,module,Magento_Integration
-"Integration with name \'%1\' exists.","Integration with name \'%1\' exists.",module,Magento_Integration
-"Integration with ID \'%1\' does not exist.","Integration with ID \'%1\' does not exist.",module,Magento_Integration
+"Integration with name \'%1\' exists.","Integracja o nazwie \'%1\' już istnieje.",module,Magento_Integration
+"Integration with ID \'%1\' does not exist.","Integracja z ID \'%1\' nie istnieje.",module,Magento_Integration
 "One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.",module,Magento_Integration
 "Invalid Callback URL","Nieoprawny adres zwrotny",module,Magento_Integration
 "Invalid Rejected Callback URL","Odrzucone zwrotnego adresu URL",module,Magento_Integration
@@ -5722,27 +5722,27 @@ Reset,Resetuj,module,Magento_Integration
 "Token is not associated with the specified consumer","Token is not associated with the specified consumer",module,Magento_Integration
 "Token is not an access token","Token jest nie tokenem dostępu",module,Magento_Integration
 "Access token has been revoked","Access token has been revoked",module,Magento_Integration
-"Consumer key is not the correct length","Consumer key is not the correct length",module,Magento_Integration
-"A consumer having the specified key does not exist","A consumer having the specified key does not exist",module,Magento_Integration
-"Verifier is invalid","Verifier is invalid",module,Magento_Integration
-"Verifier is not the correct length","Verifier is not the correct length",module,Magento_Integration
+"Consumer key is not the correct length","Nieprawidłowa długość kluza uzytkownika",module,Magento_Integration
+"A consumer having the specified key does not exist","Użytkownik o okreslonym kluzu nie istnieje",module,Magento_Integration
+"Verifier is invalid","Weryfikator jest nieprawidłowy",module,Magento_Integration
+"Verifier is not the correct length","Nieprawidłowa długość weryfikatora",module,Magento_Integration
 "Token verifier and verifier token do not match","Token verifier and verifier token do not match",module,Magento_Integration
 "A consumer with the ID %1 does not exist","A consumer with the ID %1 does not exist",module,Magento_Integration
 "Token is not the correct length","Nieprawidłowa długość tokenu",module,Magento_Integration
-"Specified token does not exist","Specified token does not exist",module,Magento_Integration
+"Specified token does not exist","Wybrany token nie istnieje",module,Magento_Integration
 "A token with consumer ID %1 does not exist","A token with consumer ID %1 does not exist",module,Magento_Integration
 "Unexpected error. Unable to create oAuth consumer account.","Unexpected error. Unable to create oAuth consumer account.",module,Magento_Integration
 "Unexpected error. Unable to load oAuth consumer account.","Unexpected error. Unable to load oAuth consumer account.",module,Magento_Integration
 "A consumer with ID %1 does not exist","A consumer with ID %1 does not exist",module,Magento_Integration
 "Unable to post data to consumer due to an unexpected error","Unable to post data to consumer due to an unexpected error",module,Magento_Integration
-"Consumer with ID \'%1\' does not exist.","Consumer with ID \'%1\' does not exist.",module,Magento_Integration
+"Consumer with ID \'%1\' does not exist.","Użytkownik z ID \'%1\' nie istnieje.",module,Magento_Integration
 "Invalid token to except","Invalid token to except",module,Magento_Integration
-"Integration with ID '%1' doesn't exist.","Integration with ID '%1' doesn't exist.",module,Magento_Integration
-"Your account is temporarily disabled.","Your account is temporarily disabled.",module,Magento_Integration
-"You have entered an invalid password for current user.","You have entered an invalid password for current user.",module,Magento_Integration
+"Integration with ID '%1' doesn't exist.","Integracja z ID '%1' nie istnieje.",module,Magento_Integration
+"Your account is temporarily disabled.","Twoje konto jest tymczasowo wyłączone.",module,Magento_Integration
+"You have entered an invalid password for current user.","Wpisałeś nieprawidłowe hasło dla bieżącego użytkownika.",module,Magento_Integration
 "A token with consumer ID 0 does not exist","A token with consumer ID 0 does not exist",module,Magento_Integration
 "The integration you selected asks you to approve access to the following:","The integration you selected asks you to approve access to the following:",module,Magento_Integration
-"No permissions requested","No permissions requested",module,Magento_Integration
+"No permissions requested","Nie są wymagane żadne uprawnienia",module,Magento_Integration
 "Are you sure ?","Czy na pewno tego chcesz ?",module,Magento_Integration
 "Are you sure you want to delete this integration? You can't undo this action.","Are you sure you want to delete this integration? You can't undo this action.",module,Magento_Integration
 "Please setup or sign in into your 3rd party account to complete setup of this integration.","Please setup or sign in into your 3rd party account to complete setup of this integration.",module,Magento_Integration
@@ -5762,9 +5762,9 @@ OAuth,OAuth,module,Magento_Integration
 "Consumer Settings","Ustawienia konsumentów",module,Magento_Integration
 "OAuth consumer credentials HTTP Post maxredirects","OAuth consumer credentials HTTP Post maxredirects",module,Magento_Integration
 "OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration
-"Integrations Configuration","Integrations Configuration",module,Magento_Integration
-"Integration configuration file","Integration configuration file",module,Magento_Integration
-"Integrations API Configuration","Integrations API Configuration",module,Magento_Integration
+"Integrations Configuration","Konfiguracja integracji",module,Magento_Integration
+"Integration configuration file","Plik konfiguracyjny integracji",module,Magento_Integration
+"Integrations API Configuration","Konfiguracja API integracji",module,Magento_Integration
 "Integrations API configuration file","Integrations API configuration file",module,Magento_Integration
 "We couldn't find any records.","Nie mogliśmy znaleźć żadnych rekordów.",module,Magento_Integration
 Status,Status,module,Magento_Integration
@@ -6657,7 +6657,7 @@ N/A,N/D,module,Magento_Payment
 "Command %1 does not exist.","Polecenie %1 nie istnieje.",module,Magento_Payment
 "Transaction has been declined. Please try again later.","Transakcja została odrzucona. Prosimy spróbować ponownie później.",module,Magento_Payment
 "Wrong gateway response format.","Nieprawidłowy format odpowiedzi bramki.",module,Magento_Payment
-"Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
+"Validator for field %1 does not exist.","Walidator dla pola %1 nie istnieje.",module,Magento_Payment
 Discount,Zniżka,module,Magento_Payment
 Shipping,Dostawa,module,Magento_Payment
 "All Allowed Countries","Wszystkie dozwolone kraje",module,Magento_Payment
@@ -6666,31 +6666,31 @@ Shipping,Dostawa,module,Magento_Payment
 "The payment disallows storing objects.","Płatności nie zezwala na przechowywanie obiektów.",module,Magento_Payment
 "We cannot retrieve the payment method code.","Nie można pobrać kodu metody płatności.",module,Magento_Payment
 "We cannot retrieve the payment information object instance.","Nie można pobrać informacji instancji obiektu płatności.",module,Magento_Payment
-"You can\'t use the payment type you selected to make payments to the billing country.","You can\'t use the payment type you selected to make payments to the billing country.",module,Magento_Payment
+"You can\'t use the payment type you selected to make payments to the billing country.","Nie można użyć wybranego typu płatności do dokonania płatności w kraju rozliczeniowym.",module,Magento_Payment
 "The order action is not available.","Kolejność działań nie jest dostępna.",module,Magento_Payment
 "The authorize action is not available.","Autoryzacja nie jest dostępna.",module,Magento_Payment
 "The capture action is not available.","Przechwytywanie nie jest dostępne.",module,Magento_Payment
 "The refund action is not available.","Zwrot nie jest dostępny.",module,Magento_Payment
 "The void action is not available.","Unieważnienie akcji nie jest dostępne.",module,Magento_Payment
 "The payment review action is unavailable.","Akci opini płatności jest niedostępna.",module,Magento_Payment
-"The credit card number doesn\'t match the credit card type.","The credit card number doesn\'t match the credit card type.",module,Magento_Payment
+"The credit card number doesn\'t match the credit card type.","Numer karty kredytowej nie pasuje do jej typu.",module,Magento_Payment
 "Invalid Credit Card Number","Nieprawidłowy numer karty kredytowej",module,Magento_Payment
 "This credit card type is not allowed for this payment method.","Ten typ karty kredytowa nie jest dozwolony w tej metodzie płatności.",module,Magento_Payment
 "Please enter a valid credit card verification number.","Prosimy o wprowadzenie poprawnego weryfikacyjnego numeru karty kredytowej.",module,Magento_Payment
 "Please enter a valid credit card expiration date.","Wprowadź datę wygaśnięcia karty kredytowej.",module,Magento_Payment
-"%1 class doesn\'t implement \Magento\Payment\Model\MethodInterface","%1 class doesn\'t implement \Magento\Payment\Model\MethodInterface",module,Magento_Payment
+"%1 class doesn\'t implement \Magento\Payment\Model\MethodInterface","Klasa %1 nie implementuje \Magento\Payment\Model\MethodInterface",module,Magento_Payment
 Yes,Tak,module,Magento_Payment
 No,Nie,module,Magento_Payment
-"Failure #1","Failure #1",module,Magento_Payment
-"Failure #2","Failure #2",module,Magento_Payment
+"Failure #1","Niepowodzenie #1",module,Magento_Payment
+"Failure #2","Niepowodzenie #2",module,Magento_Payment
 "Expiration Date","Data ważności",module,Magento_Payment
 "Card Verification Number","Numer weryfikacyjny karty",module,Magento_Payment
 "Switch/Solo/Maestro Only","Tylko Switch/Solo/Maestro",module,Magento_Payment
 "Issue Number","Numer wydania",module,Magento_Payment
 "Start Date","Data rozpoczęcia",module,Magento_Payment
-" is not available. You still can process offline actions."," is not available. You still can process offline actions.",module,Magento_Payment
+" is not available. You still can process offline actions."," nie jest dostępny. Nadal można przetwarzać działań offline.",module,Magento_Payment
 "Please Select",Wybierz,module,Magento_Payment
-"We\'ll ask for your payment details before you place an order.","We\'ll ask for your payment details before you place an order.",module,Magento_Payment
+"We\'ll ask for your payment details before you place an order.","Będziemy prosić o szczegóły płatności zanim złożysz zamówienie.",module,Magento_Payment
 "--Please Select--","-- Prosimy wybrać --",module,Magento_Payment
 "Card Verification Number Visual Reference","Wizualna referencja numeru weryfikacyjnego karty",module,Magento_Payment
 "What is this?","Co to jest?",module,Magento_Payment
@@ -6698,7 +6698,7 @@ No,Nie,module,Magento_Payment
 "Place Order","Złóż zamówienie",module,Magento_Payment
 "Forgot an Item?","Zapomniałeś dodać produkt?",module,Magento_Payment
 "Edit Your Cart","Edytuj koszyk",module,Magento_Payment
-"Payment Methods Section","Payment Methods Section",module,Magento_Payment
+"Payment Methods Section","Sekcja Metod Płatności",module,Magento_Payment
 "Payment Services","Usługi płatności",module,Magento_Payment
 "Payment Methods","Metody płatności",module,Magento_Payment
 "Billing Agreements","Umowy rozliczeniowe",module,Magento_Paypal
@@ -6748,15 +6748,15 @@ Close,Zamknij,module,Magento_Paypal
 "Invalid block type","Nieprawidłowy typ bloku",module,Magento_Paypal
 "Please specify the correct billing agreement ID and try again.","Proszę określić poprawny identyfikator umowy rozliczeniowej i spróbować ponownie.",module,Magento_Paypal
 "You canceled the billing agreement.","Anulowano umowę rozliczeniową.",module,Magento_Paypal
-"We can\'t cancel the billing agreement.","We can\'t cancel the billing agreement.",module,Magento_Paypal
+"We can\'t cancel the billing agreement.","Nie możemy anulować umowy rozliczeniowej.",module,Magento_Paypal
 "You deleted the billing agreement.","Usunąłeś umowę rozliczeniową.",module,Magento_Paypal
-"We can\'t delete the billing agreement.","We can\'t delete the billing agreement.",module,Magento_Paypal
+"We can\'t delete the billing agreement.","Nie możemy usunąć umowy rozliczeniowej.",module,Magento_Paypal
 Reports,Raporty,module,Magento_Paypal
 Sales,Sprzedaż,module,Magento_Paypal
 "View Transaction","Zobacz transakcję",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Nie znaleźliśmy nic do pobrania ze względu na pustą konfigurację.",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","Pobrane wiersze raportu %1 z ""%2@%3.""",module,Magento_Paypal
-"We can\'t fetch reports from \\%1@%2.\\""",We can\'t fetch reports from \\%1@%2.\\"""""""",module,Magento_Paypal
+"We can\'t fetch reports from \\%1@%2.\\""",Nie możemy pobrać raportu z \\%1@%2.\\"""""""",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","Umowa rozliczeniowa ""%1"" została anulowana.",module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","Umowa rozliczeniowa ""%1"" została utworzona.",module,Magento_Paypal
 "We couldn\'t finish the billing agreement wizard.","We couldn\'t finish the billing agreement wizard.",module,Magento_Paypal
@@ -6769,15 +6769,15 @@ Sales,Sprzedaż,module,Magento_Paypal
 "Express Checkout has been canceled.","Express Checkout został anulowany.",module,Magento_Paypal
 "Unable to cancel Express Checkout","Nie można anulować zamówienia Express",module,Magento_Paypal
 "Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_Paypal
-"We can\'t place the order.","We can\'t place the order.",module,Magento_Paypal
+"We can\'t place the order.","Nie możemy złożyć zamówienia.",module,Magento_Paypal
 "We can\'t process Express Checkout approval.","We can\'t process Express Checkout approval.",module,Magento_Paypal
 "We can\'t initialize Express Checkout review.","We can\'t initialize Express Checkout review.",module,Magento_Paypal
-"We can\'t update shipping method.","We can\'t update shipping method.",module,Magento_Paypal
+"We can\'t update shipping method.","Nie możemy zaktualizować metody dostawy.",module,Magento_Paypal
 "We can\'t start Express Checkout.","We can\'t start Express Checkout.",module,Magento_Paypal
 "To check out, please sign in with your email address.","Aby sprawdzić, Proszę Zaloguj się przy użyciu adresu e-mail.",module,Magento_Paypal
-"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Paypal
-"Your payment has been declined. Please try again.","Your payment has been declined. Please try again.",module,Magento_Paypal
-"Requested payment method does not match with order.","Requested payment method does not match with order.",module,Magento_Paypal
+"Sorry, but something went wrong","Przepraszamy, coś poszło nie tak",module,Magento_Paypal
+"Your payment has been declined. Please try again.","Twoja płatność została odrzucona. Proszę spróbować ponownie.",module,Magento_Paypal
+"Requested payment method does not match with order.","Żądana metoda płatności jest niezgodna z zamówieniem.",module,Magento_Paypal
 "Error processing payment, please try again later.","Błąd podczas przetwarzania płatności, prosimy spróbować ponownie później.",module,Magento_Paypal
 "Payment Gateway is unreachable at the moment. Please use another payment option.","Payment Gateway is unreachable at the moment. Please use another payment option.",module,Magento_Paypal
 "PayPal response hasn\'t required fields.","PayPal response hasn\'t required fields.",module,Magento_Paypal
