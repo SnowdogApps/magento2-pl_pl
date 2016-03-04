@@ -7555,7 +7555,7 @@ Tax,Podatek,module,Magento_Quote
 error123,błąd123,module,Magento_Quote
 error345,błąd345,module,Magento_Quote
 Carts,Koszyki,module,Magento_Quote
-"Manage carts","Manage carts",module,Magento_Quote
+"Manage carts","Zarządzaj koszykami",module,Magento_Quote
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Powiązane reguły automatycznego przypomnienia: %1. Usunięcie pozycji spowoduje usunięcie tych powiązań.",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Automated Email Marketing Reminder Rules",module,Magento_Reminder
 "Add New Rule","Dodaj nową regułę",module,Magento_Reminder
@@ -8028,7 +8028,7 @@ Pending,Oczekujący,module,Magento_Review
 "Not Approved",Odrzucona,module,Magento_Review
 "Please enter a review summary.","Please enter a review summary.",module,Magento_Review
 "Please enter a nickname.","Proszę podaj nick.",module,Magento_Review
-"Please enter a review.","Please enter a review.",module,Magento_Review
+"Please enter a review.","Proszę wpisać treść opinii.",module,Magento_Review
 "Rating isn't Available","Ocenianie niedostępne",module,Magento_Review
 "Please specify a rating title for a store, or we\'ll just use the default value.","Please specify a rating title for a store, or we\'ll just use the default value.",module,Magento_Review
 "Assigned Options","Przypisane opcje",module,Magento_Review
@@ -8585,7 +8585,7 @@ Comma-separated,"Oddzielone przecinkami",module,Magento_Rma
 Feed,Feed,module,Magento_Rss
 "Miscellaneous Feeds","Różne kanały",module,Magento_Rss
 "Get Feed","Pobierz kanał",module,Magento_Rss
-"RSS Feeds Section","RSS Feeds Section",module,Magento_Rss
+"RSS Feeds Section","Dział kanałów RSS",module,Magento_Rss
 "RSS Feeds","Kanały RSS",module,Magento_Rss
 "Rss Config","Konfiguracja RSS",module,Magento_Rss
 "Enable RSS","Włącz RSS",module,Magento_Rss
@@ -8622,7 +8622,7 @@ Category,Kategoria,module,Magento_Rule
 "Open Chooser","Otwórz selektor",module,Magento_Rule
 "Unknown condition operator","Nieznany stan operatora",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","Nie można pobrać informacji o powiązanym typie jednostki: ""%1"".",module,Magento_Rule
-"This won\'t take long . . .","This won\'t take long . . .",module,Magento_Rule
+"This won\'t take long . . .","To nie potrwa długo . . .",module,Magento_Rule
 "Credit Memos","Faktury korygujące",module,Magento_Sales
 Orders,Zamówienia,module,Magento_Sales
 Invoices,Faktury,module,Magento_Sales
@@ -8655,7 +8655,7 @@ Message,Wiadomość,module,Magento_Sales
 "Create New Order for New Customer","Utwórz nowe zamówienie dla nowego klienta",module,Magento_Sales
 "Items Ordered","Zamówione produkty",module,Magento_Sales
 "This product is disabled.","Ten produkt jest wyłączony.",module,Magento_Sales
-"Buy %1 for price %2","Buy %1 for price %2",module,Magento_Sales
+"Buy %1 for price %2","Kup %1 za %2",module,Magento_Sales
 "Item ordered qty","Zamówiona ilość",module,Magento_Sales
 "%1 with %2 discount each","%1 with %2 discount each",module,Magento_Sales
 "%1 for %2","%1 dla %2",module,Magento_Sales
@@ -9415,7 +9415,7 @@ Orders,Zamówienia,module,Magento_SalesArchive
 "Please specify the order ID to be removed from archive.","Określ identyfikator zamówienia które ma być usunięte z archiwum.",module,Magento_SalesArchive
 Shipments,Dostawy,module,Magento_SalesArchive
 "There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.","Istnieje %1 zamówień w tym archiwum. Wszystkie z nich zostaną przeniesione do tabeli regularnej po  wyłączaniu archiwum.",module,Magento_SalesArchive
-Archive,Archive,module,Magento_SalesArchive
+Archive,Archiwizuj,module,Magento_SalesArchive
 "Restore from Archive","Przywróć z archiwum",module,Magento_SalesArchive
 "Orders, Invoices, Shipments, Credit Memos Archiving","Archiwizacja zamówień, faktur, wysyłek, faktur korygujących",module,Magento_SalesArchive
 "Enable Archiving","Włącz archiwizowanie",module,Magento_SalesArchive
