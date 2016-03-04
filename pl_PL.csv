@@ -2845,8 +2845,8 @@ From,Z,module,Magento_CmsStaging
 To,Do,module,Magento_CmsStaging
 "New Theme","Nowy temat",module,Magento_CmsStaging
 "-- Please Select --","-- Wybierz --",module,Magento_CmsStaging
-"New Layout","New Layout",module,Magento_CmsStaging
-"Deleting the change will remove the page from this update and all scheduled changes will be lost.","Deleting the change will remove the page from this update and all scheduled changes will be lost.",module,Magento_CmsStaging
+"New Layout","Nowy Layout",module,Magento_CmsStaging
+"Deleting the change will remove the page from this update and all scheduled changes will be lost.","Usunięcie zmiany spowoduje usunięcie strony tej aktualizacji i wszystkie zaplanowane zmiany zostaną utracone.",module,Magento_CmsStaging
 "CMS Pages","Strony CMS",module,Magento_CmsStaging
 "CMS Blocks","Bloki CMS",module,Magento_CmsStaging
 ID,Identyfikator,module,Magento_CmsStaging
@@ -10275,7 +10275,7 @@ Save,Zapisz,module,Magento_Staging
 "You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_Staging
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_Staging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_Staging
-"Something went wrong while saving the %1.","Something went wrong while saving the %1.",module,Magento_Staging
+"Something went wrong while saving the %1.","Coś się zepsuło podczas zapisywania %1.",module,Magento_Staging
 "You saved this %1 update.","You saved this %1 update.",module,Magento_Staging
 "New Campaign","Nowa Kampania",module,Magento_Staging
 "Staging Dashboard","Przejściowy panel",module,Magento_Staging
@@ -10283,12 +10283,12 @@ Save,Zapisz,module,Magento_Staging
 "Assign to another scheduled update","Przypisz do innej zaplanowanej aktualizacji",module,Magento_Staging
 "Save as a new update","Save as a new update",module,Magento_Staging
 "Select from existing Scheduled Update","Wybierz z istniejących zaplanowanych aktualizacji",module,Magento_Staging
-"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_Staging
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_Staging
 entity_type,entity_type,module,Magento_Staging
 Active,Aktywny,module,Magento_Staging
 Upcoming,Upcoming,module,Magento_Staging
-"Please select Name for Future Update.","Please select Name for Future Update.",module,Magento_Staging
-"Please select Start Time for Future Update.","Please select Start Time for Future Update.",module,Magento_Staging
+"Please select Name for Future Update.","Proszę wybrać nazwę przyszłej aktualizacji.",module,Magento_Staging
+"Please select Start Time for Future Update.","Proszę wybrać czas rozpoczęcia przyszłej aktualizacji.",module,Magento_Staging
 "Future Update Start Time cannot be earlier than current time.","Future Update Start Time cannot be earlier than current time.",module,Magento_Staging
 "Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time.",module,Magento_Staging
 "Update with id ""%1"" does not exist.","Aktualizacja o identyfikatorze ""%1"" nie istnieje.",module,Magento_Staging
@@ -10380,7 +10380,7 @@ Support,"Wsparcie techniczne",module,Magento_Support
 "File does not exist","Plik nie istnieje",module,Magento_Support
 "Log Details","Szczegóły logów",module,Magento_Support
 "An error occurred during mass deletion of data collector backups. Please review log and try again.","An error occurred during mass deletion of data collector backups. Please review log and try again.",module,Magento_Support
-"After you make your selections, click the \"Create\" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","After you make your selections, click the \"Create\" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.",module,Magento_Support
+"After you make your selections, click the \"Create\" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","Po dokonaniu wyborów, kliknij przycisk \"Utwórz\". Następnie zaczekaj aż zostanie wygenerowany raport systemowy. Może to potrwać kilka minut. Otrzymasz powiadomienie gdy ten etap zostanie zakończony.",module,Magento_Support
 "Create System Report","Utwórz raport systemu",module,Magento_Support
 "Unable to find a system report to delete.","Nie można odnaleźć raportu systemu, aby go usunąć.",module,Magento_Support
 "The system report has been deleted.","Raport systemu został usunięty.",module,Magento_Support
@@ -10672,14 +10672,14 @@ less,mniej,module,Magento_TargetRule
 "equals or less than","równy lub mniejszy niż",module,Magento_TargetRule
 "Product Price is %1 %2% of Matched Product(s) Price","Cena produktu jest %1 %2% ceny dopasowanych produktów",module,Magento_TargetRule
 "Please define a product data object.","Proszę określić obiekt danych produktu.",module,Magento_TargetRule
-"We can\'t rebuild the index for an undefined product.","We can\'t rebuild the index for an undefined product.",module,Magento_TargetRule
+"We can\'t rebuild the index for an undefined product.","Nie możemy przebudować indeksu dla niezdefiniowanego produktu.",module,Magento_TargetRule
 "Could not rebuild index for empty products array","Nie można przebudować indeksu do pustej tablicy produktów",module,Magento_TargetRule
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_TargetRule
 "Related Products","Produkty powiązane",module,Magento_TargetRule
 Up-sells,"Produkty alternatywne",module,Magento_TargetRule
 Cross-sells,"Sprzedaże krzyżowe",module,Magento_TargetRule
 "Model class name for attribute is invalid","Nazwa klasy modelu atrybutu jest nieprawidłowa",module,Magento_TargetRule
-"This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.","This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.",module,Magento_TargetRule
+"This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.","Kod tej cechy jest nieprawidłowy. Proszę używać tylko liter (a-z), cyfr (0-9) lub podkreślnika (_), oraz upewnić się, że kod zaczyna się od litery.",module,Magento_TargetRule
 "Product Attributes","Cechy produktu",module,Magento_TargetRule
 "Both Selected and Rule-Based","Zarówno wybrane jak i oparte na regułach",module,Magento_TargetRule
 "Selected Only","Tylko wybrane",module,Magento_TargetRule
