@@ -1622,7 +1622,7 @@ Disabled,Wyłączone,module,Magento_Catalog
 "The configuration item option instance in options group is incorrect.","Instancja elementu konfiguracji opcji w grupie opcji jest niepoprawna.",module,Magento_Catalog
 "The configuration item instance in options group is incorrect.","Instancja elementu konfiguracji w grupie opcji jest nieprawidłowa.",module,Magento_Catalog
 "The BuyRequest instance in options group is incorrect.","Instancja BuyRequest w grupie opcji jest niepoprawna.",module,Magento_Catalog
-"We can\'t add the product to the cart because of an option validation issue.","Nie można dodać produkt do koszyka z powodu problemu opcji sprawdzania poprawności.",module,Magento_Catalog
+"We can\'t add the product to the cart because of an option validation issue.","Nie można dodać produktu do koszyka z powodu problemu podczas sprawdzania poprawności opcji.",module,Magento_Catalog
 "%1 doesn\'t extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 nie rozszerza \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
 "The file options format is not valid.","Format opcji pliku jest nieprawidłowy.",module,Magento_Catalog
 px.,px.,module,Magento_Catalog
@@ -1688,7 +1688,7 @@ Select...,Wybierz...,module,Magento_Catalog
 "Advanced Pricing","Advanced Pricing",module,Magento_Catalog
 "Tier Price","Tier Price",module,Magento_Catalog
 "Customer Group","Grupa klienta",module,Magento_Catalog
-"Special Price From","Cena Promocyjna od",module,Magento_Catalog
+"Special Price From","Cena promocyjna od",module,Magento_Catalog
 To,Do,module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
 Done,Zrobione,module,Magento_Catalog
@@ -1745,12 +1745,12 @@ Groups,Grupy,module,Magento_Catalog
 "A name is required.","Nazwa jest wymagana.",module,Magento_Catalog
 "This group contains system attributes. Please move system attributes to another group and try again.","Nie możesz usunąć cech z tego zestawu. Przenieś je do innego zestawu i ponów próbę.",module,Magento_Catalog
 "Please enter a new group name.","Wprowadź nazwę nowej grupy.",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists"".","An attribute group named ""/name/"" already exists"".",module,Magento_Catalog
-"Sorry, we\'re unable to complete this request.","Sorry, we\'re unable to complete this request.",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists"".","Grupa atrybutów o nazwie ""/ nazwa /"" już istnieje"".",module,Magento_Catalog
+"Sorry, we\'re unable to complete this request.","Przepraszamy, nie możemy zrealizować tego żądania.",module,Magento_Catalog
 "You can\'t remove attributes from this attribute set.","Nie możesz usuwać cech z tego zestawu.",module,Magento_Catalog
 "Custom Options","Indywidualne opcje",module,Magento_Catalog
 "This is a required option.","Ta opcja jest wymagana.",module,Magento_Catalog
-"The field isn\'t complete.","The field isn\'t complete.",module,Magento_Catalog
+"The field isn\'t complete.","Pole nie jest kompletne.",module,Magento_Catalog
 "Compatible file extensions to upload","Kompatybilne rozszerzenia wgrywanego pliku",module,Magento_Catalog
 "Maximum image width","Maksymalna szerokość obrazka",module,Magento_Catalog
 "Maximum image height","Maksymalna wysokość obrazka",module,Magento_Catalog
@@ -1775,7 +1775,7 @@ Backorders,Rezerwacje,module,Magento_Catalog
 "Add Product To Websites","Dodaj produkty do witryn",module,Magento_Catalog
 "Remove Product From Websites","Usuń produkt z witryn",module,Magento_Catalog
 "To hide an item in catalog or search results, set the status to ""Disabled"".","Aby ukryć produkt w katalogu lub w wynikach wyszukiwania, należy ustawić stan na ""Wyłączone"".",module,Magento_Catalog
-"We can\'t save custom-defined options for bundles with dynamic pricing.","We can\'t save custom-defined options for bundles with dynamic pricing.",module,Magento_Catalog
+"We can\'t save custom-defined options for bundles with dynamic pricing.","Nie można zapisać opcji niestandardowych dla grup produktów z dynamicznymi cenami.",module,Magento_Catalog
 "Delete Custom Option","Usuń opcję niestandardowe",module,Magento_Catalog
 "Sort Custom Options","Niestandardowe opcje sortowania",module,Magento_Catalog
 "Input Type","Typ pola",module,Magento_Catalog
@@ -1849,7 +1849,7 @@ Loading...,Ładuję...,module,Magento_Catalog
 Availability,Dostępność,module,Magento_Catalog
 "Warning message","Komunikat ostrzegawczy",module,Magento_Catalog
 Submit,Prześlij,module,Magento_Catalog
-"We don\'t recognize or support this file extension type.","We don\'t recognize or support this file extension type.",module,Magento_Catalog
+"We don\'t recognize or support this file extension type.","Nie rozpoznajemy lub nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_Catalog
 "Configure Product","Konfiguruj produkt",module,Magento_Catalog
 OK,OK,module,Magento_Catalog
 "Select type of option.","Proszę wybrać typ opcji.",module,Magento_Catalog
@@ -1857,11 +1857,11 @@ OK,OK,module,Magento_Catalog
 "Please select items.","Prosimy wybrać produkty.",module,Magento_Catalog
 "Choose existing category.","Wybierz istniejącej kategorii.",module,Magento_Catalog
 "Image Detail","Szczegóły obrazu",module,Magento_Catalog
-Adding...,Adding...,module,Magento_Catalog
+Adding...,dodawane...,module,Magento_Catalog
 Added,Dodane,module,Magento_Catalog
 "unselect all","odznacz wszystko",module,Magento_Catalog
 Inventory,Magazyn,module,Magento_Catalog
-"Catalog Section","Catalog Section",module,Magento_Catalog
+"Catalog Section","Sekcja katalogu",module,Magento_Catalog
 "Product Fields Auto-Generation","Auto generowanie pola produktu",module,Magento_Catalog
 "Mask for SKU","Maska dla SKU",module,Magento_Catalog
 "Use {{name}} as Product Name placeholder","Używaj {{name}} jako nazwa zastępcza",module,Magento_Catalog
@@ -1972,14 +1972,14 @@ Anchor,"Zakotwiczona (wyświetla filtry atrybutów)",module,Magento_Catalog
 "Products in Category","Produkty w kategorii",module,Magento_Catalog
 Design,Wygląd,module,Magento_Catalog
 "Use Parent Category Settings","Użyj ustawień kategorii nadrzędnego",module,Magento_Catalog
-Theme,Theme,module,Magento_Catalog
+Theme,Temat,module,Magento_Catalog
 Layout,Układ,module,Magento_Catalog
 "Layout Update XML","XML aktualizacji układu",module,Magento_Catalog
 "Apply Design to Products","Zastosuj projekt do produktów",module,Magento_Catalog
 "Schedule Design Update","Harmonogram aktualizacji projektu",module,Magento_Catalog
 AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
-"Attribute Label","Attribute Label",module,Magento_Catalog
+"Attribute Label","Etykieta cechy",module,Magento_Catalog
 System,System,module,Magento_Catalog
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Catalog
 "Delete items","Usuń elementy",module,Magento_Catalog
@@ -2267,9 +2267,9 @@ Actions,Operacje,module,Magento_CatalogRule
 "Smth went to exception","Smth went to exception",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CatalogRuleStaging
-"You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_CatalogRuleStaging
+"You removed this %1 from the update.","Usunąć ten %1 z aktualizacji.",module,Magento_CatalogRuleStaging
 "Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_CatalogRuleStaging
-"You saved this %1 update.","You saved this %1 update.",module,Magento_CatalogRuleStaging
+"You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_CatalogRuleStaging
 ID,ID,module,Magento_CatalogRuleStaging
 Rule,Reguła,module,Magento_CatalogRuleStaging
 Priority,Priorytet,module,Magento_CatalogRuleStaging
@@ -2284,16 +2284,16 @@ Description,Opis,module,Magento_CatalogRuleStaging
 "End Date","Data zakończenia",module,Magento_CatalogRuleStaging
 "End Time","Czas zakończenia",module,Magento_CatalogRuleStaging
 "Update Information","Informacje o aktualizacji",module,Magento_CatalogRuleStaging
-"Remove Catalog Rule from Update","Remove Catalog Rule from Update",module,Magento_CatalogRuleStaging
-"Save as a new update","Save as a new update",module,Magento_CatalogRuleStaging
-"Update Name","Update Name",module,Magento_CatalogRuleStaging
+"Remove Catalog Rule from Update","Usunąć regułę katalogu z aktualizacji",module,Magento_CatalogRuleStaging
+"Save as a new update","Zapisz jako nową aktaulizację",module,Magento_CatalogRuleStaging
+"Update Name","Zaktualizowana nazwa",module,Magento_CatalogRuleStaging
 "Start date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
 "End date","Data zakończenia",module,Magento_CatalogRuleStaging
 "Rule Information","Informacje o regule",module,Magento_CatalogRuleStaging
 Conditions,Warunki,module,Magento_CatalogRuleStaging
 Actions,Operacje,module,Magento_CatalogRuleStaging
 "Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_CatalogRuleStaging
-"Delete the scheduled change","Delete the scheduled change",module,Magento_CatalogRuleStaging
+"Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_CatalogRuleStaging
 "Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.","Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
 20,20,module,Magento_CatalogRuleStaging
 30,30,module,Magento_CatalogRuleStaging
@@ -2301,7 +2301,7 @@ Actions,Operacje,module,Magento_CatalogRuleStaging
 100,100,module,Magento_CatalogRuleStaging
 200,200,module,Magento_CatalogRuleStaging
 Websites,Witryny,module,Magento_CatalogRuleStaging
-"Catalog Price Rules","Catalog Price Rules",module,Magento_CatalogRuleStaging
+"Catalog Price Rules","Reguły cenowe katalogu",module,Magento_CatalogRuleStaging
 Home,"Strona główna",module,Magento_CatalogSearch
 "Go to Home Page","Przejdź na stronę główną",module,Magento_CatalogSearch
 "Catalog Advanced Search","Zaawansowane wyszukiwanie w katalogu",module,Magento_CatalogSearch
@@ -2717,7 +2717,7 @@ Pages,Strony,module,Magento_Cms
 "We found a directory with the same name. Please try another folder name.","Znaleźliśmy katalog o tej samej nazwie. Spróbuj inną nazwę folderu.",module,Magento_Cms
 "We cannot create a new directory.","Nie możemy utworzyć nowego katalogu.",module,Magento_Cms
 "We cannot delete directory %1.","Nie możemy usunąć katalogu %1.",module,Magento_Cms
-"We can\'t upload the file right now.","We can\'t upload the file right now.",module,Magento_Cms
+"We can\'t upload the file right now.","W tej chwili nie możemy wgrać tego pliku.",module,Magento_Cms
 "We can\'t delete root directory %1 right now.","W tej chwili nie możemy usunąć katalogu głównego %1.",module,Magento_Cms
 "Directory %1 is not under storage root path.","Katalog %1 jest w ścieżce katalogu głównego magazynu.",module,Magento_Cms
 LocalizedException,LocalizedException,module,Magento_Cms
@@ -2728,7 +2728,7 @@ Exception,Wyjątek,module,Magento_Cms
 Edit,Edytuj,module,Magento_Cms
 Delete,Usuń,module,Magento_Cms
 "Delete ${ $.$data.title }","Usuń ${ $.$data.title }",module,Magento_Cms
-"Are you sure you wan\'t to delete a ${ $.$data.title } record?","Are you sure you wan\'t to delete a ${ $.$data.title } record?",module,Magento_Cms
+"Are you sure you wan\'t to delete a ${ $.$data.title } record?","Czy na pewno chcesz usunąć rekord ${ $.$data.title }?",module,Magento_Cms
 "Delete ""${ $.$data.title }""","Usuń ${ $.$data.title }",module,Magento_Cms
 "Are you sure you wan\'t to delete a \\${ $.$data.title }\\ record?""""""","Are you sure you wan\'t to delete a \\${ $.$data.title }\\ record?""""""",module,Magento_Cms
 View,Zobacz,module,Magento_Cms
@@ -11329,7 +11329,7 @@ Custom,Niestandardowe,module,Magento_UrlRewrite
 "For CMS page","Dla stron CMS",module,Magento_UrlRewrite
 "Create URL Rewrite:","Utwórz przekierowanie URL",module,Magento_UrlRewrite
 "You deleted the URL rewrite.","Usunąłeś przekierowanie URL.",module,Magento_UrlRewrite
-"We can\'t delete URL Rewrite right now.","We can\'t delete URL Rewrite right now.",module,Magento_UrlRewrite
+"We can\'t delete URL Rewrite right now.","W tej chwili nie możemy usunąć przekierowania URL.",module,Magento_UrlRewrite
 "URL Rewrites","Przekierowania URL",module,Magento_UrlRewrite
 "The product you chose is not associated with the selected store or category.","Wybrany produkt nie jest skojarzony z wybranym sklepem lub kategorią.",module,Magento_UrlRewrite
 "The category you chose is not associated with the selected store.","Wybrana kategoria nie jest związany z wybranym sklepem.",module,Magento_UrlRewrite
