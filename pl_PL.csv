@@ -5484,7 +5484,7 @@ Creative,Kreatywne,module,Magento_GoogleTagManager
 "Add Products to Group","Dodawanie produktów do grupy",module,Magento_GroupedProduct
 Cancel,Zamknij,module,Magento_GroupedProduct
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_GroupedProduct
-"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.",module,Magento_GroupedProduct
+"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","Zgrupowane produkt składają się z wielu, samodzielnych produktów, które są przedstawiane jako Grupa. Można oferować odmiany pojedynczego produktu lub grupy przez stworzenie skoordynowanego zestawu czasu lub temat. Każdy produkt można nabyć oddzielnie lub jako część grupy.",module,Magento_GroupedProduct
 Remove,Usuń,module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
 Thumbnail,Miniaturka,module,Magento_GroupedProduct
@@ -9958,7 +9958,7 @@ None,Brak,module,Magento_Security
 "The link to a friend was sent.","Link został wysłany do znajomego.",module,Magento_SendFriend
 "We found some problems with the data.","Problem z danymi.",module,Magento_SendFriend
 "Some emails were not sent.","Niektóre e-maile nie zostały wysłane.",module,Magento_SendFriend
-"You\'ve met your limit of %1 sends in an hour.","You\'ve met your limit of %1 sends in an hour.",module,Magento_SendFriend
+"You\'ve met your limit of %1 sends in an hour.","Osiągnąłeś swój limit %1 wysyłek na godzinę.",module,Magento_SendFriend
 "Please enter a sender name.","Wprowadź nazwę nadawcy.",module,Magento_SendFriend
 "Invalid Sender Email","Nieprawidłowy e-mail nadawcy",module,Magento_SendFriend
 "Please enter a message.","Wpisz wiadomość.",module,Magento_SendFriend
@@ -10279,9 +10279,9 @@ Save,Zapisz,module,Magento_Staging
 "You saved this %1 update.","You saved this %1 update.",module,Magento_Staging
 "New Campaign","Nowa Kampania",module,Magento_Staging
 "Staging Dashboard","Przejściowy panel",module,Magento_Staging
-"Edit existing update","Edit existing update",module,Magento_Staging
+"Edit existing update","Zmień istniejącą aktualizację",module,Magento_Staging
 "Assign to another scheduled update","Przypisz do innej zaplanowanej aktualizacji",module,Magento_Staging
-"Save as a new update","Save as a new update",module,Magento_Staging
+"Save as a new update","Zapisz jako nową aktaulizację",module,Magento_Staging
 "Select from existing Scheduled Update","Wybierz z istniejących zaplanowanych aktualizacji",module,Magento_Staging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_Staging
 entity_type,entity_type,module,Magento_Staging
@@ -10289,12 +10289,12 @@ Active,Aktywny,module,Magento_Staging
 Upcoming,Upcoming,module,Magento_Staging
 "Please select Name for Future Update.","Proszę wybrać nazwę przyszłej aktualizacji.",module,Magento_Staging
 "Please select Start Time for Future Update.","Proszę wybrać czas rozpoczęcia przyszłej aktualizacji.",module,Magento_Staging
-"Future Update Start Time cannot be earlier than current time.","Future Update Start Time cannot be earlier than current time.",module,Magento_Staging
-"Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time.",module,Magento_Staging
+"Future Update Start Time cannot be earlier than current time.","Czas rozpoczęcia przyszłej aktualizacji nie może być wcześniejszy niż czas obecny.",module,Magento_Staging
+"Future Update End Time cannot be equal or earlier than Start Time.","Czas zakończenia przyszłej aktualizacji musi wypadać później niż jej czas rozpoczęcia.",module,Magento_Staging
 "Update with id ""%1"" does not exist.","Aktualizacja o identyfikatorze ""%1"" nie istnieje.",module,Magento_Staging
-"Unable to save Future Update.","Unable to save Future Update.",module,Magento_Staging
+"Unable to save Future Update.","Nie można zapisać przyszłej aktualizacji.",module,Magento_Staging
 View/Edit,Wyświetl/Edytuj,module,Magento_Staging
-"Scheduled Changes","Scheduled Changes",module,Magento_Staging
+"Scheduled Changes","Planowane zmiany",module,Magento_Staging
 Start,Start,module,Magento_Staging
 End,Koniec,module,Magento_Staging
 "Load More","Załaduj więcej",module,Magento_Staging
