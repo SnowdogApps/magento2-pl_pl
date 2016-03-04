@@ -10489,7 +10489,7 @@ Id,ID,module,Magento_Support
 "URL key","Klucz URL",module,Magento_Support
 Store,Sklep,module,Magento_Support
 "Duplicate Orders By Increment Id","Duplicate Orders By Increment Id",module,Magento_Support
-"Increment Id","Przyrost id",module,Magento_Support
+"Increment Id","Identyfikator przyrostowy",module,Magento_Support
 "Customer Id","Identyfikator klienta",module,Magento_Support
 "Duplicate Products By SKU","Duplikuj produkty po SKU",module,Magento_Support
 SKU,SKU,module,Magento_Support
@@ -10505,7 +10505,7 @@ Parent,Rodzic,module,Magento_Support
 "Event Name","Nazwa zdarzenia",module,Magento_Support
 "Observer Class","Klasa obserwatora",module,Magento_Support
 Method,Metoda,module,Magento_Support
-"All Admin Events","Wszystkie wydarzenia Admina",module,Magento_Support
+"All Admin Events","Wszystkie zdarzenia administracyjne",module,Magento_Support
 "All Crontab Events","All Crontab Events",module,Magento_Support
 "All Doc Events","All Doc Events",module,Magento_Support
 "All Frontend Events","All Frontend Events",module,Magento_Support
