@@ -7582,7 +7582,7 @@ N/A,N/D,module,Magento_Reminder
 "Emails Failed","E-maile nie powiodły się",module,Magento_Reminder
 "Last Sent","Ostatnio wysłane",module,Magento_Reminder
 "General Information","Informacje ogólne",module,Magento_Reminder
-"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.",module,Magento_Reminder
+"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","E-mail z przypomnieniem może promować regułę cenową koszyka z kuponem lub bez. Jeśli taka reguła definiuje automatycznie generowany kupon, przypomnienie wygeneruje kod kuponu dla każdego klienta.",module,Magento_Reminder
 "Rule Name","Nazwa reguły",module,Magento_Reminder
 Description,Opis,module,Magento_Reminder
 "Cart Price Rule","Zasady koszyka cen",module,Magento_Reminder
@@ -7680,7 +7680,7 @@ is,jest,module,Magento_Reminder
 "The item was added to wish list %1, store view %2.","Produkt został dodany do listy życzeń %1, widok sklepu %2 ",module,Magento_Reminder
 "If an item is %1 in the wish list and %2 of these conditions match:","Jeśli produkt jest %1 w liście życzeń i %2 jedne z tych warunków daje prawdę:",module,Magento_Reminder
 "Condition type is unexpected","Typ warunku jest nieakceptowany",module,Magento_Reminder
-"Please specify a valid number of minute.","Please specify a valid number of minute.",module,Magento_Reminder
+"Please specify a valid number of minute.","Proszę wprowadzić prawidłową liczbę minut.",module,Magento_Reminder
 "Unable to save Cron expression","Nie można zapisać wyrażenia cron.",module,Magento_Reminder
 "<b>Important</b>: If you select \"Use Auto Generation\", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Important</b>: If you select \"Use Auto Generation\", this rule will no longer be used in any automated email reminder rules for abandoned carts",module,Magento_Reminder
 "Validate error 1","Błąd walidacji 1",module,Magento_Reminder
@@ -7693,20 +7693,20 @@ text,tekst,module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Aby skorzystać z promocji musisz zalogować się na <a href=""%account_url"">%store_name</a> i zastosować kupon ""%coupon_code"" w koszyku.",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","Aby skorzystać z promocji musisz zalogować się na <a href=""%account_url"">%store_name</a>",module,Magento_Reminder
 "This coupon can be used only up to %coupon_limit time(s) by you or other customers.","This coupon can be used only up to %coupon_limit time(s) by you or other customers.",module,Magento_Reminder
-"You can use this coupon up to %coupon_limit time(s).","You can use this coupon up to %coupon_limit time(s).",module,Magento_Reminder
+"You can use this coupon up to %coupon_limit time(s).","Możesz użyć tego kuponu do %coupon_limit razy.",module,Magento_Reminder
 "Promo Section","Promo Section",module,Magento_Reminder
 "Automated Email Reminder Rules","Automated Email Reminder Rules",module,Magento_Reminder
-"Enable Reminder Emails","Enable Reminder Emails",module,Magento_Reminder
+"Enable Reminder Emails","Włącz przypomnienia e-mail",module,Magento_Reminder
 Frequency,Częstotliwość,module,Magento_Reminder
 Interval,Interwał,module,Magento_Reminder
 "Set this value equal or greater to your Magento cron job launch period.","Set this value equal or greater to your Magento cron job launch period.",module,Magento_Reminder
 "Minute of the Hour","Minute of the Hour",module,Magento_Reminder
-"Valid range: 0-59 (default 0).","Valid range: 0-59 (default 0).",module,Magento_Reminder
+"Valid range: 0-59 (default 0).","Prawidłowy zakres: 0-59 (domyślnie 0).",module,Magento_Reminder
 "Start Time","Czas rozpoczęcia",module,Magento_Reminder
 "Maximum Emails per One Run","Maximum Emails per One Run",module,Magento_Reminder
 "Email Send Failure Threshold","Email Send Failure Threshold",module,Magento_Reminder
-"Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.","Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.",module,Magento_Reminder
-"Reminder Email Sender","Reminder Email Sender",module,Magento_Reminder
+"Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.","Upewnij się, że wartość graniczna jest wprowadzona. W innym wypadku e-maile przypominające będą ponownie wysyłane do klientów w pętli.",module,Magento_Reminder
+"Reminder Email Sender","Nadawca e-maili przypominających",module,Magento_Reminder
 Rule,Reguła,module,Magento_Reminder
 Start,Start,module,Magento_Reminder
 End,Koniec,module,Magento_Reminder
@@ -10621,7 +10621,7 @@ Options,Opcje,module,Magento_Swatches
 "Create New Value","Utwórz nową wartość",module,Magento_Swatches
 "These changes affect all related products.","Te zmiany wpływają na wszystkie powiązane produkty.",module,Magento_Swatches
 "Swatches per Product","Swatches per Product",module,Magento_Swatches
-"Related Products Rule","Related Products Rule",module,Magento_TargetRule
+"Related Products Rule","Powiązane reguły produktów",module,Magento_TargetRule
 "Add Rule","Dodaj regułę",module,Magento_TargetRule
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_TargetRule
 "Edit Rule '%1'","Edytuj regułę '%1'",module,Magento_TargetRule
@@ -10647,10 +10647,10 @@ To,Do,module,Magento_TargetRule
 "You deleted the rule.","Możesz usunąć regułę.",module,Magento_TargetRule
 "We can't find a page to delete.","Nie możemy odnaleźć strony do usunięcia.",module,Magento_TargetRule
 "This rule no longer exists.","Ta reguła już nie istnieje.",module,Magento_TargetRule
-"New Related Products Rule","New Related Products Rule",module,Magento_TargetRule
+"New Related Products Rule","Nowe powiązania reguł produktów",module,Magento_TargetRule
 "Related Products Rules","Powiązane reguły produktów",module,Magento_TargetRule
 "You saved the rule.","Zapisałeś regułę.",module,Magento_TargetRule
-"We can\'t save the product rule right now.","We can\'t save the product rule right now.",module,Magento_TargetRule
+"We can\'t save the product rule right now.","W tej chwili nie możemy stworzyć reguły produktu.",module,Magento_TargetRule
 "Please specify a correct rule.","Proszę określić poprawną regułę.",module,Magento_TargetRule
 "Invalid product list type","Nieprawidłowy typ listy produktów",module,Magento_TargetRule
 "Invalid rotation mode type","Nieprawidłowy typ modelu obrotu",module,Magento_TargetRule
@@ -10746,7 +10746,7 @@ Name,Nazwa,module,Magento_Tax
 "Tax Rate","Stawka podatku",module,Magento_Tax
 Priority,Priorytet,module,Magento_Tax
 "Tax rates at the same priority are added, others are compounded.","Stawki podatku o tym samym priorytecie zostały dodane, pozostałe zostały połączone.",module,Magento_Tax
-"Calculate Off Subtotal Only","Calculate Off Subtotal Only",module,Magento_Tax
+"Calculate Off Subtotal Only","Obliczaj tylko z sumy częściowej",module,Magento_Tax
 "Sort Order","Kolejność sortowania",module,Magento_Tax
 "Do you really want to delete this tax class?","Czy na pewno chcesz usunąć tę Klasę podatku?",module,Magento_Tax
 "Add New Tax Class","Dodaj nową klasę podatkową",module,Magento_Tax
@@ -10780,7 +10780,7 @@ Tax,Podatek,module,Magento_Tax
 "New Rule","Nowa reguła",module,Magento_Tax
 "You saved the tax rule.","Zapisałeś regułę podatkową.",module,Magento_Tax
 "We can\'t save this tax rule right now.","Obecnie nie możemy zapisać tej reguły podatkowej.",module,Magento_Tax
-"Invalid name of tax class specified.","Invalid name of tax class specified.",module,Magento_Tax
+"Invalid name of tax class specified.","Nieprawidłowo określona nazwa klasy podatkowej.",module,Magento_Tax
 "We can\'t delete this tax class right now.","Obecnie nie możemy usunąć tej klasy podatkowej.",module,Magento_Tax
 "We can\'t save this tax class right now.","Obecnie nie możemy zapisać tej klasy podatkowej.",module,Magento_Tax
 "Make sure all required information is valid.","Upewnij się, że wszystkie wymagane informacje są poprawne.",module,Magento_Tax
@@ -10802,7 +10802,7 @@ Tax,Podatek,module,Magento_Tax
 "Both (without and with tax)","Oba (z podatkiem i bez)",module,Magento_Tax
 "Invalid attribute %1","Nieprawidłowy atrybut %1",module,Magento_Tax
 Code,Kod,module,Magento_Tax
-"Invalid type supplied","Invalid type supplied",module,Magento_Tax
+"Invalid type supplied","Podano nieprawidłowy typ",module,Magento_Tax
 "Class name and class type","Nazwa klasy i typ klasy",module,Magento_Tax
 "Grand Total (Excl. Tax)","Suma łączna (bez podatku)",module,Magento_Tax
 "Grand Total (Incl. Tax)","Suma łączna (z podatkiem)",module,Magento_Tax
@@ -10821,11 +10821,11 @@ Total,Łącznie,module,Magento_Tax
 None,Brak,module,Magento_Tax
 "Including and Excluding Tax","Zawierające i niezawierające podatek",module,Magento_Tax
 "Warning tax configuration can result in rounding errors. ","Ostrzeżenie: konfiguracja podatkowa może powodować błedy zaokrąglania. ",module,Magento_Tax
-"Store(s) affected: ","Store(s) affected: ",module,Magento_Tax
+"Store(s) affected: ","Dotyczy sklepów: ",module,Magento_Tax
 "Click on the link to <a href=""%1"">ignore this notification</a>","Kliknij na link, aby <a href=""%1""> zignorować tą informację</a>",module,Magento_Tax
 "Warning tax discount configuration might result in different discounts
-                                than a customer might expect. ","Warning tax discount configuration might result in different discounts
-                                than a customer might expect. ",module,Magento_Tax
+                                than a customer might expect. ","Ostrzeżenie: konfiguracja podatkowa może powodować inne zniżki
+                                niż oczekiwane przez klienta. ",module,Magento_Tax
 "Please see <a href=""%1"">documentation</a> for more details. ","By uzyskać więcej szczegółów przejdź do <a href=""%1"">dokumentacji</a>. ",module,Magento_Tax
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Kliknij tutaj, aby przejść do <a href=%1"">zarządzania podatkami</a> i zmienić ustawienia."".",module,Magento_Tax
 "Invalid type of tax class ""%1""","Nieprawidłowy typ klasy podatku ""%1""",module,Magento_Tax
@@ -10860,9 +10860,9 @@ Taxes,Podatki,module,Magento_Tax
 "Tax Calculation Method Based On","Metoda obliczania podatku oparta na",module,Magento_Tax
 "Tax Calculation Based On","Obliczanie podatku oparte na",module,Magento_Tax
 "Catalog Prices","Ceny katalogu",module,Magento_Tax
-"This sets whether catalog prices entered from Magento Admin include tax.","This sets whether catalog prices entered from Magento Admin include tax.",module,Magento_Tax
+"This sets whether catalog prices entered from Magento Admin include tax.","Ustawia, czy Katalog ceny wprowadzany z Magento Admin zawiera podatek.",module,Magento_Tax
 "Shipping Prices","Ceny dostawy",module,Magento_Tax
-"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.",module,Magento_Tax
+"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","Czy koszty dostawy pobrane z Magento Admin lub pobrane z zewnątrz zawierają podatek.",module,Magento_Tax
 "Apply Customer Tax","Zastosuj podatek klienta",module,Magento_Tax
 "Apply Discount On Prices","Zastosuj zniżkę na cenach",module,Magento_Tax
 "Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","Zastosuj zniżkę na cenie zawierającej podatek jest obliczane na podstawie podatku sklepu, jeśli Zastosuj podatek po zniżce"" jest wybrane."".",module,Magento_Tax
@@ -10880,7 +10880,7 @@ Taxes,Podatki,module,Magento_Tax
 "Display Prices","Wyświetlaj ceny",module,Magento_Tax
 "Display Subtotal","Wyświetlaj sumę częściową",module,Magento_Tax
 "Display Shipping Amount","Wyświetlaj koszt dostawy",module,Magento_Tax
-"Include Tax In Order Total","Include Tax In Order Total",module,Magento_Tax
+"Include Tax In Order Total","Zawrzyj podatek w sumie zamówienia",module,Magento_Tax
 "Display Full Tax Summary","Wyświetlaj pełne podsumowanie podatku",module,Magento_Tax
 "Display Zero Tax Subtotal","Wyświetlaj zerową podsumę podatku",module,Magento_Tax
 "Orders, Invoices, Credit Memos Display Settings","Ustawienia wyświetlania zamówień, faktur, faktur korygujących",module,Magento_Tax
@@ -10889,8 +10889,8 @@ Rate,Stawka,module,Magento_Tax
 "Subtotal Only","Tylko suma częściowa",module,Magento_Tax
 "(Excl. Tax)","(bez podatku)",module,Magento_Tax
 "(Incl. Tax)","(z podatkiem)",module,Magento_Tax
-"Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
-"Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
+"Order Total Excl. Tax","Suma zamówienia bez podatku",module,Magento_Tax
+"Order Total Incl. Tax","Suma zamówienia z podatkiem",module,Magento_Tax
 "Order Total","Suma zamówienia",module,Magento_Tax
 "Your credit card will be charged for","Twoja karta kredytowa zostanie obciążona kwotą",module,Magento_Tax
 Code,Kod,module,Magento_TaxImportExport
@@ -10970,15 +10970,15 @@ Theme,Temat,module,Magento_Theme
 "We can\'t upload the JS file right now.","W tej chwili nie możemy wgrać pliku JS.",module,Magento_Theme
 "Sorry, something went wrong. That\'s all we know.","Przepraszamy, coś poszło nie tak.",module,Magento_Theme
 "Invalid type","Nieprawidłowy typ",module,Magento_Theme
-"Exception does not contain field \'%1\'","Exception does not contain field \'%1\'",module,Magento_Theme
+"Exception does not contain field \'%1\'","Wyjątek nie zawierają pola \'%1\'",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Nieprawidłowe wyrażenie regularne: ""%1"".",module,Magento_Theme
 label,etykieta,module,Magento_Theme
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_Theme
 "The start date can\'t follow the end date.","Data rozpoczęcia nie może być późniejsza niż data zakończenia.",module,Magento_Theme
-"The date range for this design change overlaps another design change for the specified store.","The date range for this design change overlaps another design change for the specified store.",module,Magento_Theme
+"The date range for this design change overlaps another design change for the specified store.","Zakres dat dla tej zmiany wyglądu nakłada się na inny projekt zmian dla określonego sklepu.",module,Magento_Theme
 Copy,Kopia,module,Magento_Theme
 "Theme id should be set","Id motywu powinien być ustawiony",module,Magento_Theme
-"Circular-reference in theme inheritance detected for ""%1""","Circular-reference in theme inheritance detected for ""%1""",module,Magento_Theme
+"Circular-reference in theme inheritance detected for ""%1""","Odwołania cykliczne w temacie dziedziczenia wykryto dla ""%1""",module,Magento_Theme
 "The CSS file must be less than %1M.","Plik CSS, musi być mniejsza niż %1M.",module,Magento_Theme
 "The JS file must be less than %1M.","Plik JS, musi być mniejsza niż %1M.",module,Magento_Theme
 "We can\'t upload the file right now.","W tej chwili nie możemy wgrać tego pliku.",module,Magento_Theme
@@ -11001,8 +11001,8 @@ Remove,Usuń,module,Magento_Theme
 "Toggle Nav","Przełącznik Nav",module,Magento_Theme
 "JavaScript seems to be disabled in your browser.","Wygląda na to, że JavaScript jest wyłączony w twojej przeglądarce.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Javascript in your browser.","By w pełni cieszyć się naszą stroną, upewnij się, że włączyłeś JavaScript w swojej przeglądarce.",module,Magento_Theme
-"Local Storage seems to be disabled in your browser.","Local Storage seems to be disabled in your browser.",module,Magento_Theme
-"For the best experience on our site, be sure to turn on Local Storage in your browser.","For the best experience on our site, be sure to turn on Local Storage in your browser.",module,Magento_Theme
+"Local Storage seems to be disabled in your browser.","Wygląda na to, że pamięć podręczna jest wyłączona w twojej przeglądarce.",module,Magento_Theme
+"For the best experience on our site, be sure to turn on Local Storage in your browser.","By w pełni cieszyć się naszą stroną, upewnij się, że włączyłeś pamięć podręczną w swojej przeglądarce.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","To jest demo sklepu. Zamówienia nie zostaną spełnione.",module,Magento_Theme
 "Items %1 to %2 of %3 total","Elementy %1 do %2 %3 całkowita",module,Magento_Theme
 "%1 Item","%1 elementu",module,Magento_Theme
@@ -11038,9 +11038,9 @@ Empty,Pusty,module,Magento_Theme
 "Display Demo Store Notice","Wyświetlaj informację o wersji demonstracyjnej",module,Magento_Theme
 "Search Engine Robots","Roboty wyszukiwarek",module,Magento_Theme
 "Default Robots","Domyślne roboty",module,Magento_Theme
-"Edit custom instruction of robots.txt File","Edit custom instruction of robots.txt File",module,Magento_Theme
+"Edit custom instruction of robots.txt File","Edytuj niestandardową instrukcję obsługi pliku robots.txt",module,Magento_Theme
 "Reset to Defaults","Przywróć domyślne",module,Magento_Theme
-"This action will delete your custom instructions and reset robots.txt file to system's default settings.","This action will delete your custom instructions and reset robots.txt file to system's default settings.",module,Magento_Theme
+"This action will delete your custom instructions and reset robots.txt file to system's default settings.","Ta akcja będzie usuwać twoje niestandardowe instrukcje i zresetuje plik robots.txt do domyślnych ustawień systemu.",module,Magento_Theme
 Header,Nagłówek,module,Magento_Theme
 "Logo Image","Obrazek logo",module,Magento_Theme
 "Logo Image Width","Szerokość obrazu logo",module,Magento_Theme
@@ -11052,7 +11052,7 @@ Copyright,"Prawa autorskie",module,Magento_Theme
 "Miscellaneous HTML","Różny HTML",module,Magento_Theme
 "This will be displayed just before body closing tag.","To będzie wyświetlane tuż przed zamykającym znacznikiem body.",module,Magento_Theme
 "Default welcome msg!","Domyślna wiadomość powitalna!",module,Magento_Theme
-"Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. All rights reserved.",module,Magento_Theme
+"Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. Wszystkie prawa zastrzeżone.",module,Magento_Theme
 "Admin empty","Admin pusty",module,Magento_Theme
 "Admin 1column","Admin 1 kolumna",module,Magento_Theme
 "Skip to Content","Przejdź do treści",module,Magento_Theme
@@ -11101,7 +11101,7 @@ Off,Wyłączone,module,Magento_Ui
 "Default View","Widok domyślny",module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","{ $.visible } $ ze ${ $.total } widoczne",module,Magento_Ui
 "You have successfully saved your edits.","Zmiany zostały pomyślnie zapisane.",module,Magento_Ui
-"You haven\'t selected any items!","You haven\'t selected any items!",module,Magento_Ui
+"You haven\'t selected any items!","Nie wybrano żadnego produktu!",module,Magento_Ui
 "Search by keyword","Wyszukiwanie wg słów kluczowych",module,Magento_Ui
 Keyword,"Słowo kluczowe",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
