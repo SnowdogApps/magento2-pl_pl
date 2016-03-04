@@ -2110,13 +2110,13 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Please correct the quantity for some products.","Proszę poprawić ilość dla niektórych produktów.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Najwięcej, ile możnesz kupic to %1.",module,Magento_CatalogInventory
 "We don\'t have as many \\%1\\ as you requested.""""""","Nie mamy tyle \\%1\\ ile zamawiasz.""""""",module,Magento_CatalogInventory
-"We don\'t have as many \\%1\\ as you requested""","Nie mamy tyle \\%1\\ ile zamawiasz.""""""","We don\'t have as many \\%1\\ as you requested"""," but we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
-"We don\'t have \\%1\\ in the requested quantity""","We don\'t have \\%1\\ in the requested quantity""","We don\'t have \\%1\\ in the requested quantity"""," so we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
+"We don\'t have as many \\%1\\ as you requested""","Nie mamy tyle \\%1\\ ile zamawiasz""","We don\'t have as many \\%1\\ as you requested"""," but we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
+"We don\'t have \\%1\\ in the requested quantity""","Nie mamy \\%1\\ w żądanej ilości""","We don\'t have \\%1\\ in the requested quantity"""," so we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Możesz kupić %1 tylko w ilościach po %2 na raz.",module,Magento_CatalogInventory
 "You can buy this product only in quantities of %1 at a time.","Możesz kupić ten produkt tylko w ilościach po %1 na raz.",module,Magento_CatalogInventory
 "Decimal qty increments is not allowed.","Zwiększanie o wartości dziesiętne nie jest możliwe.",module,Magento_CatalogInventory
 "Stock Status","Stan magazynowy",module,Magento_CatalogInventory
-"Advanced Inventory","Advanced Inventory",module,Magento_CatalogInventory
+"Advanced Inventory","Zaawansowane stany magazynowe",module,Magento_CatalogInventory
 "%1 is available to buy in increments of %2","%1 jest do kupienia w przyrostach co %2",module,Magento_CatalogInventory
 "Only %1 left","Tylko %1 pozostał",module,Magento_CatalogInventory
 "Product availability","Dostępność produktu",module,Magento_CatalogInventory
@@ -2149,8 +2149,8 @@ Backorders,Rezerwacje,module,Magento_CatalogInventory
 Stock,Zapasy,module,Magento_CatalogInventory
 "Index stock","Indeksuj stany",module,Magento_CatalogInventory
 "Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_CatalogInventory
-"Qty Uses Decimals","Qty Uses Decimals",module,Magento_CatalogInventory
-"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Shipping",module,Magento_CatalogInventory
+"Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_CatalogInventory
+"Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_CatalogInventory
 "Use deferred Stock update","Use deferred Stock update",module,Magento_CatalogInventory
 Quantity,Ilość,module,Magento_CatalogInventory
 "New Permission","Nowe uprawnienie",module,Magento_CatalogPermissions
@@ -2793,9 +2793,9 @@ Enable,Włącz,module,Magento_Cms
 "Custom Theme","Indywidualny motyw graficzny",module,Magento_Cms
 "Custom Layout","Indywidualny układ",module,Magento_Cms
 "This block no longer exists.","Ten blok już nie istnieje.",module,Magento_CmsStaging
-"You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_CmsStaging
-"You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CmsStaging
-"You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_CmsStaging
+"You removed this %1 from the update and saved it in a new one.","Możesz usunąć ten %1 z aktualizacji i zapisać w innym.",module,Magento_CmsStaging
+"You removed this %1 from the update and saved it in the other one.","Możesz usunąć ten %1 z aktualizacji i zapisać w innym.",module,Magento_CmsStaging
+"You removed this %1 from the update.","Usunąć ten %1 z aktualizacji.",module,Magento_CmsStaging
 "Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_CmsStaging
 "You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_CmsStaging
 "Something went wrong while saving the %1.","Coś się zepsuło podczas zapisywania %1.",module,Magento_CmsStaging
@@ -2840,7 +2840,7 @@ Content,Zawartość,module,Magento_CmsStaging
 Design,Wygląd,module,Magento_CmsStaging
 Layout,Układ,module,Magento_CmsStaging
 "Layout Update XML","XML aktualizacji Layoutu",module,Magento_CmsStaging
-"Custom Design Update","Custom Design Update",module,Magento_CmsStaging
+"Custom Design Update","Indywidualny design do",module,Magento_CmsStaging
 From,Z,module,Magento_CmsStaging
 To,Do,module,Magento_CmsStaging
 "New Theme","Nowy temat",module,Magento_CmsStaging
@@ -2880,14 +2880,14 @@ System,System,module,Magento_Config
 "Specify a fully qualified URL.","Określ pełny kwalifikowany adres URL.",module,Magento_Config
 "Selected allowed currency ""%1"" is not available in installed currencies.","Wybrana dozwolona waluta ""%1"" nie jest dostępna wśród zainstalowanych walut.",module,Magento_Config
 "Default display currency ""%1"" is not available in allowed currencies.","Domyślnie wyświetlana waluta ""%1"" nie jest na liście dozwolonych walut.",module,Magento_Config
-"Sorry, we haven\'t installed the base currency you selected.","Sorry, we haven\'t installed the base currency you selected.",module,Magento_Config
+"Sorry, we haven\'t installed the base currency you selected.","Niestety, nie mamy zainstalowanej wybranej waluty bazowej.",module,Magento_Config
 "We can\'t save the Cron expression.","Nie udało się zapisać wyrażenia crona.",module,Magento_Config
-"Sorry, we haven\'t installed the default display currency you selected.","Sorry, we haven\'t installed the default display currency you selected.",module,Magento_Config
+"Sorry, we haven\'t installed the default display currency you selected.","Przepraszamy, nie została zainstalowana domyślna waluta, która została wybrana.",module,Magento_Config
 "Sorry, the default display currency you selected is not available in allowed currencies.","Przepraszamy, domyślna waluta, którą wybrałeś nie jest dostępna w dozwolonych walutach.",module,Magento_Config
 "Please correct the email address: ""%1"".","Proszę poprawić ten adres e-mail: ""%1"".",module,Magento_Config
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Nazwa nadawcy ""%1"" nie jest prawidłowy. Proszę używać tylko widocznych znaków i spacji.",module,Magento_Config
 "Maximum sender name length is 255. Please correct your settings.","Maksymalna długość nazwy nadawcy to 255. Prosimy poprawić ustawienia.",module,Magento_Config
-"The file you\'re uploading exceeds the server size limit of %1 kilobytes.","The file you\'re uploading exceeds the server size limit of %1 kilobytes.",module,Magento_Config
+"The file you\'re uploading exceeds the server size limit of %1 kilobytes.","Plik, który został wgrany przekracza dozwolony na serwerze limit wielkości pliku %1 kilobajtów.",module,Magento_Config
 "The base directory to upload file is not specified.","Bazowy katalog do przesłania pliku nie został podany.",module,Magento_Config
 "The specified image adapter cannot be used because of: %1","Adapter określonego obrazu nie może być użyty z powodu: %1",module,Magento_Config
 "Default scope","Domyślny zakres",module,Magento_Config
@@ -2947,15 +2947,15 @@ Dashboard,Panel,module,Magento_Config
 "Field 3.1","Pole 3.1",module,Magento_Config
 "Field 3.1.1","Pole 3.1.1",module,Magento_Config
 "Field 4","Pole 4",module,Magento_Config
-"Advanced Section","Advanced Section",module,Magento_Config
-"Advanced Admin Section","Advanced Admin Section",module,Magento_Config
-"Design Section","Design Section",module,Magento_Config
-"General Section","General Section",module,Magento_Config
-"System Section","System Section",module,Magento_Config
-"Currency Setup Section","Currency Setup Section",module,Magento_Config
+"Advanced Section","Sekcja Zaawansowana",module,Magento_Config
+"Advanced Admin Section","Sekcja Zaawansowanych Ustawień Administracyjnych",module,Magento_Config
+"Design Section","Sekcja wyglądu",module,Magento_Config
+"General Section","Sekcja ogólna",module,Magento_Config
+"System Section","Sekcja system",module,Magento_Config
+"Currency Setup Section","Sekcja ustawień waluty",module,Magento_Config
 "Developer Section","Sekcja programisty",module,Magento_Config
-"Web Section","Web Section",module,Magento_Config
-"Store Email Addresses Section","Store Email Addresses Section",module,Magento_Config
+"Web Section","Sekcja internetowa",module,Magento_Config
+"Store Email Addresses Section","Sekcja sklepowych adresów e-mail",module,Magento_Config
 "Email to a Friend","Wyślij znajomemu",module,Magento_Config
 "Add configurable attributes to the current Attribute Set (""%1"")","Dodaj konfigurowalne atrybuty do obecnego Zestawu Atrybutów (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Dodaj konfigurowalne atrybuty do nowego zestawu atrybutów w oparciu o bieżący",module,Magento_ConfigurableProduct
@@ -3055,8 +3055,8 @@ Cancel,Anuluj,module,Magento_ConfigurableProduct
 "New Product Review","Nowa recenzja produktu",module,Magento_ConfigurableProduct
 "Here are the products you\'re about to create.","Oto produkty, które zamierzasz utworzyć.",module,Magento_ConfigurableProduct
 "You created these products for this configuration.","Te produkty zostały stworzone dla tej konfiguracji.",module,Magento_ConfigurableProduct
-"Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
-"These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
+"Disassociated Products","Produkty składowe konfiguracji",module,Magento_ConfigurableProduct
+"These products are not associated.","Produkty te nie są powiązane.",module,Magento_ConfigurableProduct
 "Disable Product","Wyłącz produkt",module,Magento_ConfigurableProduct
 "Enable Product","Włącz produkt",module,Magento_ConfigurableProduct
 "Incl. Tax","Z podatkiem",module,Magento_ConfigurableProduct
@@ -3102,7 +3102,7 @@ Submit,Prześlij,module,Magento_Contact
 "Email: %email","E-mail: %email",module,Magento_Contact
 "Phone Number: %telephone","Numer telefonu: %telephone",module,Magento_Contact
 "Comment: %comment","Komentarz: %comment",module,Magento_Contact
-"Contacts Section","Contacts Section",module,Magento_Contact
+"Contacts Section","Sekcja Kontaktu",module,Magento_Contact
 Contacts,Kontakty,module,Magento_Contact
 "Contact Us","Skontaktuj się z nami",module,Magento_Contact
 "Enable Contact Us","Włącz formularz kontaktowy",module,Magento_Contact
@@ -3129,9 +3129,9 @@ Daily,Codziennie,module,Magento_Cron
 Weekly,"Co tydzień",module,Magento_Cron
 Monthly,"Co miesiąc",module,Magento_Cron
 "Invalid cron expression: %1","Nieprawidłowe wyrażenie Crona: %1",module,Magento_Cron
-"Invalid cron expression, expecting \'match/modulus\': %1","Invalid cron expression, expecting \'match/modulus\': %1",module,Magento_Cron
+"Invalid cron expression, expecting \'match/modulus\': %1","Nieprawidłowe wyrażenie cron, spodziewane ""match/modulus"": %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Nieprawidłowe wyrażenie cron, spodziewana wartość numeryczna modulus: %1",module,Magento_Cron
-"Invalid cron expression, expecting \'from-to\' structure: %1","Invalid cron expression, expecting \'from-to\' structure: %1",module,Magento_Cron
+"Invalid cron expression, expecting \'from-to\' structure: %1","Nieprawidłowe wyrażenie cron, spodziewana struktura 'od-do': %1",module,Magento_Cron
 "Cron (Scheduled Tasks)","Cron (zaplanowane zadania)",module,Magento_Cron
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Dla prawidłowo generowanych adresów URL podczas działania cron proszę upewnić się, że Sieć > Bezpieczne i Niezabezpieczone Bazowe URLs są zapisane. Wszystkie czasy są podane w minutach.",module,Magento_Cron
 "Cron configuration options for group: ","Opcje konfiguracja cron dla grupy: ",module,Magento_Cron
@@ -3465,7 +3465,7 @@ InputException,InputException,module,Magento_Customer
 "Validator Exception","Walidator wyjątku",module,Magento_Customer
 "Localized Exception","Zlokalizowanie wyjątku",module,Magento_Customer
 "some error",błąd,module,Magento_Customer
-"Minimum different classes of characters in password are %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum different classes of characters in password are %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
+"Minimum different classes of characters in password are %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimalna różność klas w haśle to %1. Klasy postaci: małe znaki, wielkie znaki, cyfry, znaki specjalne.",module,Magento_Customer
 Label,Etykieta,module,Magento_Customer
 Select...,Wybierz...,module,Magento_Customer
 Edit,Edytuj,module,Magento_Customer
@@ -3639,11 +3639,11 @@ Ten email zostanie wysłany zamiast Domyślnego Emaila Przywitalnego, po potwier
 "Password Template Email Sender","Szablon email wysyłki hasła",module,Magento_Customer
 "Recovery Link Expiration Period (hours)","Okres ważności linka odzyskującego (godziny)",module,Magento_Customer
 "Please enter a number 1 or greater in this field.","Prosimy o podanie cyfry 1 lub większej w tym polu.",module,Magento_Customer
-"Number of Required Character Classes","Number of Required Character Classes",module,Magento_Customer
-"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.",module,Magento_Customer
+"Number of Required Character Classes","Liczba wymaganych znaków klas",module,Magento_Customer
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Liczba znaków różnych klas wymaganych w haśle: małe, wielkich liter, cyfr, znaków specjalnych.",module,Magento_Customer
 "Minimum Password Length","minimalna długość hasła",module,Magento_Customer
 "Maximum Login Failures to Lockout Account","Maxymalna liczba nieudanych prób logowania do blokady konta",module,Magento_Customer
-"Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
+"Use 0 to disable account locking.","Użyj 0 aby wyłączyć blokowanie konta.",module,Magento_Customer
 "Lockout Time (minutes)","Czas blokady (w minutach)",module,Magento_Customer
 "Name and Address Options","Opcje nazwy i adresu",module,Magento_Customer
 "Number of Lines in a Street Address","Ilość linii w polu adresu",module,Magento_Customer
@@ -3745,7 +3745,7 @@ Reverted,Odwrócony,module,Magento_CustomerBalance
 "Unknown balance history action code","Nieznany kod czynności historii salda",module,Magento_CustomerBalance
 "There is no order set to balance model.","Brak zamówienia przypisanego do modelu wyliczania sumy koszyka.",module,Magento_CustomerBalance
 "You do not have enough store credit to complete this order.","Nie masz wystarczająco dużo kredytu sklepu do wykonania niniejszego zamówienia.",module,Magento_CustomerBalance
-"You can\'t use more store credit than the order amount.","You can\'t use more store credit than the order amount.",module,Magento_CustomerBalance
+"You can\'t use more store credit than the order amount.","Nie można użyć ilości kredytu sklepu większej od kwoty zamówienia.",module,Magento_CustomerBalance
 "Store Credit Balance","Saldo kredytu kupieckiego",module,Magento_CustomerBalance
 "Balance History","Historia bilansu",module,Magento_CustomerBalance
 "Refund Store Credit to Store Credit","Zwrócony kredyt kupiecki będzie przechowywany w kredycie kupieckim",module,Magento_CustomerBalance
@@ -3762,7 +3762,7 @@ Remove,Usuń,module,Magento_CustomerBalance
 "Your Store Credit balance is now %balance.","Twój Kredyt Sklepu wynosi teraz %balance.",module,Magento_CustomerBalance
 "Store credit","Kredyt w sklepie",module,Magento_CustomerBalance
 "Store credit available","Dostępny kredyt sklepu",module,Magento_CustomerBalance
-"Your store credit was successfully applied","Your store credit was successfully applied",module,Magento_CustomerBalance
+"Your store credit was successfully applied","Pomyślnie zastosowano kartę kredytową w sklepie",module,Magento_CustomerBalance
 "Store Credit Options","Opcje kredytu kupieckiego",module,Magento_CustomerBalance
 "Enable Store Credit Functionality","Włącz kredyt kupiecki",module,Magento_CustomerBalance
 "Show Store Credit History to Customers","Pokaż klientom historię kredytu kupieckiego",module,Magento_CustomerBalance
@@ -3811,7 +3811,7 @@ Yes,Tak,module,Magento_CustomerCustomAttributes
 "Customer Attributes","Cechy klienta",module,Magento_CustomerCustomAttributes
 "Edit Customer Attribute ""%1""","Edycja cechy klienta: %1",module,Magento_CustomerCustomAttributes
 "New Customer Attribute","Nowy atrybut klienta",module,Magento_CustomerCustomAttributes
-"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","This is used internally. Make sure you don\'t use spaces or more than %1 symbols.",module,Magento_CustomerCustomAttributes
+"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","Ta wartość jest używana wewnętrznie. Upewnij się, że nie ma spacji lub więcej niż %1 symboli.",module,Magento_CustomerCustomAttributes
 "Manage Form Types","Zarządzanie rodzajami formularzy",module,Magento_CustomerCustomAttributes
 "New Form Type","Nowy typ formularza",module,Magento_CustomerCustomAttributes
 "Edit Form Type ""%1""","Edycja typu formularza: %1",module,Magento_CustomerCustomAttributes
@@ -3854,7 +3854,7 @@ Customer,Klient,module,Magento_CustomerCustomAttributes
 "We can't save the form type right now.","Nie można zapisać typu formularza.",module,Magento_CustomerCustomAttributes
 "This system form type cannot be deleted.","Systemowy typ nie może zostać usunięty.",module,Magento_CustomerCustomAttributes
 "The form type has been deleted.","Typ został usunięty.",module,Magento_CustomerCustomAttributes
-"We can\'t delete the form type right now.","We can\'t delete the form type right now.",module,Magento_CustomerCustomAttributes
+"We can\'t delete the form type right now.","Nie można usunąć typu formularza.",module,Magento_CustomerCustomAttributes
 "Customer Address Registration","Rejestracja adresu klienta",module,Magento_CustomerCustomAttributes
 "Customer Account Address","Adres konta klienta",module,Magento_CustomerCustomAttributes
 "Customer Registration","Rejestracja klienta",module,Magento_CustomerCustomAttributes
@@ -4320,7 +4320,7 @@ Unlimited,Nielimitowany,module,Magento_Downloadable
 "There is no downloadable link with provided ID.","Nie ma linku z podanym identyfikatorem do pobrania.",module,Magento_Downloadable
 "Cannot delete link with id %1","Nie można usunąć łącza z id %1",module,Magento_Downloadable
 "Please specify product link(s).","Określ link(i) produktu",module,Magento_Downloadable
-"Product type of the product must be \'downloadable\'.","Product type of the product must be \'downloadable\'.",module,Magento_Downloadable
+"Product type of the product must be \'downloadable\'.","Typ produktu tego produktu musi mieć wartość ""do pobrania"".",module,Magento_Downloadable
 "Invalid sample type.","Nieprawidłowy typ próbki.",module,Magento_Downloadable
 "Sample title cannot be empty.","Tytuł próbki nie może być pusty.",module,Magento_Downloadable
 "There is no downloadable sample with provided ID.","Nie ma próbki do pobrania z podanym ID.",module,Magento_Downloadable
@@ -4334,7 +4334,7 @@ attachment,załącznik,module,Magento_Downloadable
 inline,liniowy,module,Magento_Downloadable
 Pending,Oczekujący,module,Magento_Downloadable
 Invoiced,Zafakturowano,module,Magento_Downloadable
-"To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
+"To enable the option set the weight to no","Aby włączyć opcję ustaw wagę na nie",module,Magento_Downloadable
 "Is this downloadable Product?","Jest to produkt do pobrania?",module,Magento_Downloadable
 Links,Linki,module,Magento_Downloadable
 Title,Tytuł,module,Magento_Downloadable
@@ -4409,7 +4409,7 @@ Error,Błąd,module,Magento_DownloadableImportExport
 "Default Label","Domyślna etykieta",module,Magento_Eav
 "Default label","Domyślna etykieta",module,Magento_Eav
 "Attribute Code","Kod cechy",module,Magento_Eav
-"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","This is used internally. Make sure you don\'t use spaces or more than %1 symbols.",module,Magento_Eav
+"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","Ta wartość jest używana wewnętrznie. Upewnij się, że nie ma spacji lub więcej niż %1 symboli.",module,Magento_Eav
 "Catalog Input Type for Store Owner","Typ pola dla właściciela sklepu",module,Magento_Eav
 "Values Required","Wartości wymagane",module,Magento_Eav
 "Default Value","Domyślna wartość",module,Magento_Eav
@@ -4667,7 +4667,7 @@ Yes,Tak,module,Magento_EncryptionKey
 "Please enter an encryption key.","Wprowadź klucz szyfrowania.",module,Magento_EncryptionKey
 "The encryption key has been changed.","Klucz szyfrowania został zmieniony.",module,Magento_EncryptionKey
 "This is your new encryption key: <span style=\"font-family:monospace;\">%1</span>. Be sure to write it down and take good care of it!","To jest twój nowy klucz szyfrowania: <span style=\"font-family:monospace;\">%1</span>. Pamiętaj by go zapisać i dobrze o niego dbać!",module,Magento_EncryptionKey
-"Manage Encryption Key","Manage Encryption Key",module,Magento_EncryptionKey
+"Manage Encryption Key","Klucze szyfrowe",module,Magento_EncryptionKey
 "Private Sales","Sprzedaż prywatna",module,Magento_Enterprise
 "Payment Type","Typ płatności",module,Magento_Eway
 "Transaction Type","Typ transakcji",module,Magento_Eway
@@ -4750,7 +4750,7 @@ Direct,Bezpośrednio,module,Magento_Fedex
 Indirect,Niebezpośrednia,module,Magento_Fedex
 Pounds,Funty,module,Magento_Fedex
 Kilograms,Kilogramy,module,Magento_Fedex
-"For some reason we can\'t retrieve tracking info right now.","For some reason we can\'t retrieve tracking info right now.",module,Magento_Fedex
+"For some reason we can\'t retrieve tracking info right now.","Z jakiegoś powodu nam nie możemy teraz pobrać informacji śledzących.",module,Magento_Fedex
 status,status,module,Magento_Fedex
 "Empty response","Pusta odpowiedź",module,Magento_Fedex
 None,Brak,module,Magento_Fedex
@@ -4929,7 +4929,7 @@ History,Historia,module,Magento_GiftCardAccount
 "The balance cannot be less than zero.","Saldo nie może być mniejsza od zera.",module,Magento_GiftCardAccount
 "This gift card account is already in the quote.","To konto karty upominkowej jest już w ofercie.",module,Magento_GiftCardAccount
 "Please correct the gift card account code: ""%1"".","Proszę poprawić kod konta karty upominkowej: ""%1"".",module,Magento_GiftCardAccount
-"This gift card account wasn\'t found in the quote.","This gift card account wasn\'t found in the quote.",module,Magento_GiftCardAccount
+"This gift card account wasn\'t found in the quote.","To konto karty upominkowej nie został przeczytany.",module,Magento_GiftCardAccount
 "Please correct the gift card account ID. Requested code: ""%1""","Proszę poprawić identyfikator konta karty upominkowej. Zgłoszony kod: ""%1""",module,Magento_GiftCardAccount
 "Please correct the gift card account website: %1.","Proszę poprawić stronę Konto karty upominkowej: %1.",module,Magento_GiftCardAccount
 "Gift card account %1 is not enabled.","Konto karty upominkowej %1 nie jest włączone.",module,Magento_GiftCardAccount
@@ -5085,7 +5085,7 @@ Message,Wiadomość,module,Magento_GiftRegistry
 "Share Gift Registry","Podziel się rejestrem prezentów",module,Magento_GiftRegistry
 "Gift Registry","Rejestr prezentów",module,Magento_GiftRegistry
 Event,Wydarzenie,module,Magento_GiftRegistry
-Registrants,Registrants,module,Magento_GiftRegistry
+Registrants,Rejestrujący,module,Magento_GiftRegistry
 "Event Date","Data wydarzenia",module,Magento_GiftRegistry
 "Total Items","Łącznie elementów",module,Magento_GiftRegistry
 Remaining,Pozostałe,module,Magento_GiftRegistry
@@ -5127,7 +5127,7 @@ State/Province,Województwo,module,Magento_GiftRegistry
 "Please select a region, state or province","Proszę wybrać region",module,Magento_GiftRegistry
 "Please Select",Wybierz,module,Magento_GiftRegistry
 "View Gift Registry %1","Wyświetl rejestr prezentów %1",module,Magento_GiftRegistry
-"Share '%1' Gift Registry","Share '%1' Gift Registry",module,Magento_GiftRegistry
+"Share '%1' Gift Registry","Podziel się '%1' rejestrem prezentów",module,Magento_GiftRegistry
 "-- Please select --",--Wybierz--,module,Magento_GiftRegistry
 From,Od,module,Magento_GiftRegistry
 To,Do,module,Magento_GiftRegistry
@@ -5139,7 +5139,7 @@ Registrant,Rejestrujący,module,Magento_GiftRegistry
 "Please correct the gift registry entity.","Proszę popraw rejestr prezentu.",module,Magento_GiftRegistry
 "Shopping cart items have been added to gift registry.","Przedmioty z koszyka zostały dodane do rejestru prezentów.",module,Magento_GiftRegistry
 "Virtual, Downloadable, and virtual Gift Card products cannot be added to gift registries.","Produktów wirtualnych, do pobrania i wirtualnych kart podarunkowych nie można dodać do listy prezentów.",module,Magento_GiftRegistry
-"We can\'t add shopping cart items to the gift registry right now.","We can\'t add shopping cart items to the gift registry right now.",module,Magento_GiftRegistry
+"We can\'t add shopping cart items to the gift registry right now.","Teraz nie można dodać produktów z koszyka do rejestru prezentów.",module,Magento_GiftRegistry
 "You deleted this gift registry entity.","Ten rejestr prezentów został usunięty.",module,Magento_GiftRegistry
 "We couldn't delete this gift registry entity.","Ten rejestr prezentów nie mógł zostać usunięty.",module,Magento_GiftRegistry
 Customers,Klienci,module,Magento_GiftRegistry
@@ -5295,7 +5295,7 @@ label,etykieta,module,Magento_GiftRegistry
 "Remaining Quantity","Pozostała ilość",module,Magento_GiftRegistry
 Quantity:,Ilość:,module,Magento_GiftRegistry
 "Customize and Add to Gift Registry","Dostosuj i dodaj do rejestru prezentów",module,Magento_GiftRegistry
-"This won\'t take long . . .","This won\'t take long . . .",module,Magento_GiftRegistry
+"This won\'t take long . . .","To nie potrwa długo . . .",module,Magento_GiftRegistry
 "Required Fields","Wymagane pola",module,Magento_GiftRegistry
 "Search Options","Opcje wyszukiwania",module,Magento_GiftRegistry
 "For better search results, first choose a gift registry type. By default, we search all registry types.","Dla lepszego wyszukiwania, wybierz typ rejestru prezentów. Domyślnie wyszukiwane są wszystkie typy rejestru.",module,Magento_GiftRegistry
@@ -5331,7 +5331,7 @@ View,Zobacz,module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","Możesz zalogować się na swoje konto, aby wyświetlić więcej szczegółów o tej liście prezentowej.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Ship to Recipient Address",module,Magento_GiftRegistry
 "Ship Here","Wysyłamy Tutaj",module,Magento_GiftRegistry
-"Recipient Address","Recipient Address",module,Magento_GiftRegistry
+"Recipient Address","Adres odbiorcy",module,Magento_GiftRegistry
 "Use gift registry shipping address","Użyj adresu dostawy z rejestru prezentów",module,Magento_GiftRegistry
 "The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","Jedynym miejscem, aby zmienić numer rejestru upominków jest strona informacji rejestru prezentów lub bezpośrednio w Twoim koszyku.",module,Magento_GiftRegistry
 Text,Tekst,module,Magento_GiftRegistry
