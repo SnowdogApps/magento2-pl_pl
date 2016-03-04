@@ -2810,8 +2810,8 @@ Action,Operacja,module,Magento_CmsStaging
 "End Time","Czas zakończenia",module,Magento_CmsStaging
 "Update Information","Informacje o aktualizacji",module,Magento_CmsStaging
 "Remove CMS block from Update","Usuń blok CMS z aktualizacji",module,Magento_CmsStaging
-"Save as a new update","Save as a new update",module,Magento_CmsStaging
-"Update Name","Update Name",module,Magento_CmsStaging
+"Save as a new update","Zapisz jako nową aktaulizację",module,Magento_CmsStaging
+"Update Name","Zaktualizowana nazwa",module,Magento_CmsStaging
 "Start date","Data rozpoczęcia",module,Magento_CmsStaging
 "End date","Data zakończenia",module,Magento_CmsStaging
 "General Information","Ogólne informacje",module,Magento_CmsStaging
@@ -2827,7 +2827,7 @@ Identifier,Identyfikator,module,Magento_CmsStaging
 50,50,module,Magento_CmsStaging
 100,100,module,Magento_CmsStaging
 200,200,module,Magento_CmsStaging
-"Remove CMS page from Update","Remove CMS page from Update",module,Magento_CmsStaging
+"Remove CMS page from Update","Usuwanie strony CMS z aktualizacji",module,Magento_CmsStaging
 "Enable Page","Włącz stronę",module,Magento_CmsStaging
 "Page Title","Tytuł strony",module,Magento_CmsStaging
 Content,Zawartość,module,Magento_CmsStaging
@@ -2839,11 +2839,11 @@ Content,Zawartość,module,Magento_CmsStaging
 "Page in Websites","Strona w witrynach",module,Magento_CmsStaging
 Design,Wygląd,module,Magento_CmsStaging
 Layout,Układ,module,Magento_CmsStaging
-"Layout Update XML","Layout Update XML",module,Magento_CmsStaging
+"Layout Update XML","XML aktualizacji Layoutu",module,Magento_CmsStaging
 "Custom Design Update","Custom Design Update",module,Magento_CmsStaging
 From,Z,module,Magento_CmsStaging
 To,Do,module,Magento_CmsStaging
-"New Theme","New Theme",module,Magento_CmsStaging
+"New Theme","Nowy temat",module,Magento_CmsStaging
 "-- Please Select --","-- Wybierz --",module,Magento_CmsStaging
 "New Layout","New Layout",module,Magento_CmsStaging
 "Deleting the change will remove the page from this update and all scheduled changes will be lost.","Deleting the change will remove the page from this update and all scheduled changes will be lost.",module,Magento_CmsStaging
@@ -10764,7 +10764,7 @@ Tax,Podatek,module,Magento_Tax
 "Manage Tax Rates","Zarządzaj stawkami podatków",module,Magento_Tax
 "New Tax Rate","Nowa stawka podatku",module,Magento_Tax
 "Tax Zones and Rates","Strefa podatku i cen",module,Magento_Tax
-"We can\'t delete this tax rate right now.","We can\'t delete this tax rate right now.",module,Magento_Tax
+"We can\'t delete this tax rate right now.","Nie można teraz usunąć tej stawki podatku.",module,Magento_Tax
 "An error occurred while loading this tax rate.","Wystąpił błąd podczas ładowania tej stawki podatku.",module,Magento_Tax
 "We can\'t save this rate right now.","We can\'t save this rate right now.",module,Magento_Tax
 "You deleted the tax rate.","Usunąłeś stawkę podatku.",module,Magento_Tax
@@ -10780,16 +10780,16 @@ Tax,Podatek,module,Magento_Tax
 "Edit Rule","Edytuj regułę",module,Magento_Tax
 "New Rule","Nowa reguła",module,Magento_Tax
 "You saved the tax rule.","Zapisałeś regułę podatkową.",module,Magento_Tax
-"We can\'t save this tax rule right now.","We can\'t save this tax rule right now.",module,Magento_Tax
+"We can\'t save this tax rule right now.","Obecnie nie możemy zapisać tej reguły podatkowej.",module,Magento_Tax
 "Invalid name of tax class specified.","Invalid name of tax class specified.",module,Magento_Tax
-"We can\'t delete this tax class right now.","We can\'t delete this tax class right now.",module,Magento_Tax
-"We can\'t save this tax class right now.","We can\'t save this tax class right now.",module,Magento_Tax
+"We can\'t delete this tax class right now.","Obecnie nie możemy usunąć tej klasy podatkowej.",module,Magento_Tax
+"We can\'t save this tax class right now.","Obecnie nie możemy zapisać tej klasy podatkowej.",module,Magento_Tax
 "Make sure all required information is valid.","Upewnij się, że wszystkie wymagane informacje są poprawne.",module,Magento_Tax
-"The Rate Percent should be a positive number.","The Rate Percent should be a positive number.",module,Magento_Tax
+"The Rate Percent should be a positive number.","Procent stawki powinien być liczbą dodatnią.",module,Magento_Tax
 "Maximum zip code length is 9.","Maksymalna długość kodu to 9",module,Magento_Tax
-"Use digits only for the zip code.","Use digits only for the zip code.",module,Magento_Tax
+"Use digits only for the zip code.","W kodzie pocztowym używaj tylko cyfr.",module,Magento_Tax
 "Range To should be equal or greater than Range From.","Zakres końcowy powinien być równy lub większy od ZAkresu początkowego",module,Magento_Tax
-"The tax rate cannot be removed. It exists in a tax rule.","The tax rate cannot be removed. It exists in a tax rule.",module,Magento_Tax
+"The tax rate cannot be removed. It exists in a tax rule.","Stawka podatkowa nie może być usunięta. Istnieje w regule podatkowej.",module,Magento_Tax
 "This class no longer exists.","Ta klasa już nie istnieje.",module,Magento_Tax
 "You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Nie możesz usunąć tej klasy podatkowej, ponieważ jest ona używana przez jedną z reguł podatkowych. Wpierw musisz usunąć tę regułę.",module,Magento_Tax
 "You cannot delete this tax class because it is used in existing %1(s).","You cannot delete this tax class because it is used in existing %1(s).",module,Magento_Tax
