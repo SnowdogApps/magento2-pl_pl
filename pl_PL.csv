@@ -1787,7 +1787,7 @@ Action,Operacja,module,Magento_Catalog
 "Delete Tier","Usuń poziom",module,Magento_Catalog
 "Product In Websites","Produkty w witrynach",module,Magento_Catalog
 "(Copy data from: %1)","(Kopiuj dane z: %1)",module,Magento_Catalog
-"Browse to find or drag image here","Browse to find or drag image here",module,Magento_Catalog
+"Browse to find or drag image here","Przeglądaj, aby znaleźć lub przeciągnij zdjęcie tutaj",module,Magento_Catalog
 "Alt Text","Tekst alternatywny",module,Magento_Catalog
 Role,Rola,module,Magento_Catalog
 "Image Size","Rozmiar zdjęcia",module,Magento_Catalog
@@ -2179,7 +2179,7 @@ Action,Operacja,module,Magento_CatalogPermissions
 Allow,Zezwól,module,Magento_CatalogPermissions
 Deny,Zabroń,module,Magento_CatalogPermissions
 "Use parent","Użyj nadrzędnego",module,Magento_CatalogPermissions
-"Category Permissions Section","Category Permissions Section",module,Magento_CatalogPermissions
+"Category Permissions Section","Sekcja uprawnień kategorii",module,Magento_CatalogPermissions
 Enable,Włącz,module,Magento_CatalogPermissions
 "
                         <strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.
@@ -2227,7 +2227,7 @@ Promo,Promocja,module,Magento_CatalogRule
 "Rule with specified ID ""%1"" not found.","Reguła z określonym ID ""%1"" nie została znaleziona.",module,Magento_CatalogRule
 "Unable to remove rule %1","Nie można usunąć reguły %1",module,Magento_CatalogRule
 "Could not rebuild index for empty products array","Nie można odbudować indeksu do pustej tablicy produktów",module,Magento_CatalogRule
-"We can\'t rebuild the index for an undefined product.","We can\'t rebuild the index for an undefined product.",module,Magento_CatalogRule
+"We can\'t rebuild the index for an undefined product.","Nie możemy przebudować indeksu dla niezdefiniowanego produktu.",module,Magento_CatalogRule
 "Percentage discount should be between 0 and 100.","Zniżka procentowa powinno zawierać się między 0 i 100.",module,Magento_CatalogRule
 "Discount value should be 0 or greater.","Wartość znizki powinno być 0 lub większa.",module,Magento_CatalogRule
 "Unknown action.","Nieznane działanie.",module,Magento_CatalogRule
@@ -2276,7 +2276,7 @@ Priority,Priorytet,module,Magento_CatalogRuleStaging
 "Web Site",Witryna,module,Magento_CatalogRuleStaging
 Action,Operacja,module,Magento_CatalogRuleStaging
 Edit,Edytuj,module,Magento_CatalogRuleStaging
-"Scheduled Changes","Scheduled Changes",module,Magento_CatalogRuleStaging
+"Scheduled Changes","Planowane zmiany",module,Magento_CatalogRuleStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
 "Start Time","Czas rozpoczęcia",module,Magento_CatalogRuleStaging
 Name,Nazwa,module,Magento_CatalogRuleStaging
@@ -2294,7 +2294,7 @@ Conditions,Warunki,module,Magento_CatalogRuleStaging
 Actions,Operacje,module,Magento_CatalogRuleStaging
 "Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_CatalogRuleStaging
 "Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_CatalogRuleStaging
-"Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.","Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
+"Deleting the change will remove the catalog rule from this update and all scheduled changes will be lost.","Usunięcie zmiany spowoduje usunięcie reguły katalogu z tej aktualizacji i wszystkie zaplanowane zmiany zostaną utracone.",module,Magento_CatalogRuleStaging
 20,20,module,Magento_CatalogRuleStaging
 30,30,module,Magento_CatalogRuleStaging
 50,50,module,Magento_CatalogRuleStaging
@@ -2373,7 +2373,7 @@ Anchor,"Zakotwiczona (wyświetla filtry atrybutów)",module,Magento_CatalogStagi
 "Use All","Użyj wszystkie",module,Magento_CatalogStaging
 "Default Product Sorting","Domyślnie sortowanie produktów",module,Magento_CatalogStaging
 "Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_CatalogStaging
-"Layered Navigation Price Step","Layered Navigation Price Step",module,Magento_CatalogStaging
+"Layered Navigation Price Step","Krok cen w nawigacji warstwowej",module,Magento_CatalogStaging
 "Search Engine Optimization","Optymalizacja dla wyszukiwarek",module,Magento_CatalogStaging
 "Meta Title","Meta tytuł",module,Magento_CatalogStaging
 "Meta Keywords","Słowa kluczowe",module,Magento_CatalogStaging
@@ -2514,7 +2514,7 @@ Loading...,Ładuję...,module,Magento_Checkout
 "Incl. Tax","Z podatkiem",module,Magento_Checkout
 "Your order number is: %1.","Numer zamówienia: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Twój numer zamówienia to: <span>%1</span>.",module,Magento_Checkout
-"We\'ll email you an order confirmation with details and tracking info.","We\'ll email you an order confirmation with details and tracking info.",module,Magento_Checkout
+"We\'ll email you an order confirmation with details and tracking info.","Wyślemy Ci e-mail potwierdzający ze szczegółami zamówienia oraz informacje umożliwiające śledzenie przesyłki.",module,Magento_Checkout
 "Payment Transaction Failed","Płatność nie powiodła się",module,Magento_Checkout
 Reason,Powód,module,Magento_Checkout
 "Checkout Type","Typ transakcji",module,Magento_Checkout
@@ -2796,7 +2796,7 @@ Enable,Włącz,module,Magento_Cms
 "You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_CmsStaging
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CmsStaging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_CmsStaging
-"Required parameters are missing.","Required parameters are missing.",module,Magento_CmsStaging
+"Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_CmsStaging
 "You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_CmsStaging
 "Something went wrong while saving the %1.","Coś się zepsuło podczas zapisywania %1.",module,Magento_CmsStaging
 "Something went wrong","Coś poszło nie tak",module,Magento_CmsStaging
@@ -2821,7 +2821,7 @@ Identifier,Identyfikator,module,Magento_CmsStaging
 "Store View","Widok sklepu",module,Magento_CmsStaging
 "Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_CmsStaging
 "Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_CmsStaging
-"Deleting the change will remove the block from this update and all scheduled changes will be lost.","Deleting the change will remove the block from this update and all scheduled changes will be lost.",module,Magento_CmsStaging
+"Deleting the change will remove the block from this update and all scheduled changes will be lost.","Usunięcie zmiany spowoduje usunięcie bloku z tej aktualizacji i wszystkie zaplanowane zmiany zostaną utracone.",module,Magento_CmsStaging
 20,20,module,Magento_CmsStaging
 30,30,module,Magento_CmsStaging
 50,50,module,Magento_CmsStaging
@@ -7818,33 +7818,33 @@ Name,Nazwa,module,Magento_Reports
 "Times Deleted","Times Deleted",module,Magento_Reports
 "Index type is not valid","Typ indeksu nie jest prawidłowa",module,Magento_Reports
 Reports,Raporty,module,Magento_Reports
-"Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>""","Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>""","Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>"""," click <a href=\\%3\\">here</a>.""""""",module,Magento_Reports
+"Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>""","Ostatnia aktualizacja: %1. Do odświeżenia ostatni dzień\ <a href=\\%2\\> statystyki</a>""","Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>"""," click <a href=\\%3\\">here</a>.""""""",module,Magento_Reports
 "New Accounts Report","Nowy raport konta",module,Magento_Reports
 "Customers by Number of Orders","Klienci wg liczby zamówień",module,Magento_Reports
 "Order Count Report","Raport liczby zamówień",module,Magento_Reports
-"Order Total Report","Order Total Report",module,Magento_Reports
-"Downloads Report","Downloads Report",module,Magento_Reports
+"Order Total Report","Raport liczby zamówień",module,Magento_Reports
+"Downloads Report","Pobierz raport",module,Magento_Reports
 "Low Stock","Mało produktów",module,Magento_Reports
 "Low Stock Report","Low Stock Report",module,Magento_Reports
-"Ordered Products Report","Ordered Products Report",module,Magento_Reports
+"Ordered Products Report","Raport zamówionych produktów",module,Magento_Reports
 "Products Most Viewed Report","Raport najczęściej oglądanych produktów",module,Magento_Reports
-"Product Views Report","Product Views Report",module,Magento_Reports
+"Product Views Report","Raport oglądanych produktów",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
 Review,Opinia,module,Magento_Reports
 Reviews,Recenzje,module,Magento_Reports
 "Customers Report","Raporty klientów",module,Magento_Reports
 "Customer Reviews Report","Raport Opinii klientów",module,Magento_Reports
-"Product Reviews Report","Product Reviews Report",module,Magento_Reports
+"Product Reviews Report","Raport ocenianych produktów",module,Magento_Reports
 "Product Reviews","Recenzje produktu",module,Magento_Reports
 Details,Szczegóły,module,Magento_Reports
 Sales,Sprzedaż,module,Magento_Reports
-"Bestsellers Report","Bestsellers Report",module,Magento_Reports
+"Bestsellers Report","Raport Bestsellerów ",module,Magento_Reports
 Coupons,Kupony,module,Magento_Reports
 "Coupons Report","Raport kuponów",module,Magento_Reports
-"Invoice Report","Invoice Report",module,Magento_Reports
-"Refunds Report","Refunds Report",module,Magento_Reports
+"Invoice Report","Raportu faktur",module,Magento_Reports
+"Refunds Report","Raport zwrotów",module,Magento_Reports
 "Sales Report","Raport sprzedaży",module,Magento_Reports
-"Orders Report","Orders Report",module,Magento_Reports
+"Orders Report","Raport zamówień",module,Magento_Reports
 "Shipping Report","Raport dostaw",module,Magento_Reports
 "Tax Report","Raport podatkowy",module,Magento_Reports
 "Shopping Cart",Koszyk,module,Magento_Reports
@@ -8385,9 +8385,9 @@ Price,Cena,module,Magento_Rma
 "You selected the wrong RMA.","You selected the wrong RMA.",module,Magento_Rma
 "We can\'t create a return transaction for order #%1.","We can\'t create a return transaction for order #%1.",module,Magento_Rma
 "You submitted Return #%1.","You submitted Return #%1.",module,Magento_Rma
-"We can\'t create a return right now. Please try again later.","We can\'t create a return right now. Please try again later.",module,Magento_Rma
+"We can\'t create a return right now. Please try again later.","W tej chwili nie możemy utworzyć zwrotu. Proszę spróbować później.",module,Magento_Rma
 "Create New Return","Utwórz nowe żądanie zwrotu",module,Magento_Rma
-"We can\'t delete the label right now.","We can\'t delete the label right now.",module,Magento_Rma
+"We can\'t delete the label right now.","Nie można usunąć teraz etykiety.",module,Magento_Rma
 "Return #%1","Zwrot #%1",module,Magento_Rma
 "Cannot add message.","Nie można dodać wiadomości.",module,Magento_Rma
 "My Returns","Moje zwroty",module,Magento_Rma
@@ -8431,7 +8431,7 @@ Rejected,Odrzucone,module,Magento_Rma
 Denied,"Zwrot odrzucony",module,Magento_Rma
 Closed,Zamknięty,module,Magento_Rma
 "Processed and Closed","Przetworzone i zamknięte",module,Magento_Rma
-"This is the wrong RMA item status.","This is the wrong RMA item status.",module,Magento_Rma
+"This is the wrong RMA item status.","To jest zły stan produktu RMA.",module,Magento_Rma
 "We received your Return request.","We received your Return request.",module,Magento_Rma
 "We authorized your Return request.","We authorized your Return request.",module,Magento_Rma
 "We partially authorized your Return request.","We partially authorized your Return request.",module,Magento_Rma
@@ -8444,7 +8444,7 @@ Closed,Zamknięty,module,Magento_Rma
 "Requested entity doesn\'t exist","Requested entity doesn\'t exist",module,Magento_Rma
 "Please enter a valid comment.","Please enter a valid comment.",module,Magento_Rma
 "Invalid carrier: %1","Nieprawidłowy przewoźnik: %1",module,Magento_Rma
-"We need more information to create your shipping label(s). Please verify your store information and shipping settings.","We need more information to create your shipping label(s). Please verify your store information and shipping settings.",module,Magento_Rma
+"We need more information to create your shipping label(s). Please verify your store information and shipping settings.","Brak wystarczających informacji do utworzenia etykiety wysyłkowej. Proszę sprawdzić informacje o sklepie oraz ustawienia wysyłki.",module,Magento_Rma
 "No detail for number ""%1""","Brak szczegółów dla numeru ""%1""",module,Magento_Rma
 "Shipment does not exists.","Shipment does not exists.",module,Magento_Rma
 "We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Rma
