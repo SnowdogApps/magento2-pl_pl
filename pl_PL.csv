@@ -5765,7 +5765,7 @@ OAuth,OAuth,module,Magento_Integration
 "Integrations Configuration","Konfiguracja integracji",module,Magento_Integration
 "Integration configuration file","Plik konfiguracyjny integracji",module,Magento_Integration
 "Integrations API Configuration","Konfiguracja API integracji",module,Magento_Integration
-"Integrations API configuration file","Integrations API configuration file",module,Magento_Integration
+"Integrations API configuration file","Plik konfiguracyjny integracji API",module,Magento_Integration
 "We couldn't find any records.","Nie mogliśmy znaleźć żadnych rekordów.",module,Magento_Integration
 Status,Status,module,Magento_Integration
 Invitations,"Tekst zaproszenia do skomentowania",module,Magento_Invitation
@@ -5792,11 +5792,11 @@ Customers,Klienci,module,Magento_Invitation
 "Please select invitations.","Proszę wybrać zaproszenia.",module,Magento_Invitation
 "We discarded %1 of %2 invitations.","Odrzuciliśmy %1 z %2 zaproszeń.",module,Magento_Invitation
 "We skipped %1 of the selected invitations.","Pomineliśmy %1 z wybranych zaproszeń.",module,Magento_Invitation
-"Something went wrong while sending invitations.","Something went wrong while sending invitations.",module,Magento_Invitation
+"Something went wrong while sending invitations.","Coś się zepsuło podczas wysyłania zaproszeń.",module,Magento_Invitation
 "No invitations have been resent.","No invitations have been resent.",module,Magento_Invitation
 "You sent %1 of %2 invitation(s).","Wysłano %1 z %2 zaproszeń.",module,Magento_Invitation
 "Something went wrong while sending %1 invitations.","Coś się zepsuło podczas wysyłania %1 zaproszeń.",module,Magento_Invitation
-"We discarded %1 invitation(s) addressed to current customers.","We discarded %1 invitation(s) addressed to current customers.",module,Magento_Invitation
+"We discarded %1 invitation(s) addressed to current customers.","Odrzuciliśmy %1 zaproszenie skierowane do obecnych klientów.",module,Magento_Invitation
 "Please specify at least one email address.","Określ co najmniej jeden adres e-mail.",module,Magento_Invitation
 "We sent %1 invitation(s).","Wysłaliśmy zaproszenia. Ilość: %1.",module,Magento_Invitation
 "Something went wrong while sending %1 of %2 invitations.","Coś się zepsuło podczas wysyłania %1 z %2 zaproszeń.",module,Magento_Invitation
@@ -5814,15 +5814,15 @@ Reports,Raporty,module,Magento_Invitation
 "Bad request.","Złe zapytanie.",module,Magento_Invitation
 "Your invitation is not valid. Please create an account.","Zaproszenie jest nie prawidłowe. Utwórz konto.",module,Magento_Invitation
 "Your invitation is not valid. Please contact us at %1.","Zaproszenie jest nie prawidłowe. Prosimy o kontakt pod adresem %1.",module,Magento_Invitation
-"We can\'t save this customer.","We can\'t save this customer.",module,Magento_Invitation
+"We can\'t save this customer.","Nie możemy zapisać klienta.",module,Magento_Invitation
 "Page not found.","Nie znaleziono strony.",module,Magento_Invitation
 "My Invitations","Moje zaproszenia",module,Magento_Invitation
 "You sent the invitation for %1.","Wysyłasz zaproszenie dla %1.",module,Magento_Invitation
 "Something went wrong while sending an email to %1.","Coś się zepsuło podczas wysyłania wiadomości e-mail do %1.",module,Magento_Invitation
 "We did not send %1 invitation(s) addressed to current customers.","Nie wysłaliśmy %1 zaproszeń skierowana do obecnych klientów.",module,Magento_Invitation
 "Send Invitations","Wyślij Zaproszenie",module,Magento_Invitation
-"Max Invitations Allowed to be Sent at One Time","Max Invitations Allowed to be Sent at One Time",module,Magento_Invitation
-"Please correct the value for \\%1\\ parameter""","Please correct the value for \\%1\\ parameter""","Please correct the value for \\%1\\ parameter"""," otherwise we\'ll use the saved value instead.""",module,Magento_Invitation
+"Max Invitations Allowed to be Sent at One Time","Maksymalna liczba wysłanych zaproszeń jednocześnie",module,Magento_Invitation
+"Please correct the value for \\%1\\ parameter""","Popraw wartość parametru \\%1\\",Please correct the value for \\%1\\" parameter"""," otherwise we\'ll use the saved value instead.""",module,Magento_Invitation
 "Same as Inviter","Tak samo jak zapraszający",module,Magento_Invitation
 "Default Customer Group from System Configuration","Default Customer Group from System Configuration",module,Magento_Invitation
 "By Invitation Only","Tylko na zaproszenie",module,Magento_Invitation
@@ -5832,14 +5832,14 @@ Reports,Raporty,module,Magento_Invitation
 "The wrong store is specified.","Określono niepoprawny sklep.",module,Magento_Invitation
 "You can\'t update this message.","You can\'t update this message.",module,Magento_Invitation
 "We can\'t generate encrypted code.","We can\'t generate encrypted code.",module,Magento_Invitation
-"We can\'t find an ID for this invitation.","We can\'t find an ID for this invitation.",module,Magento_Invitation
+"We can\'t find an ID for this invitation.","Nie udało się znaleźć ID dla tego zaproszenia.",module,Magento_Invitation
 "You can\'t send an invitation with status \\%1\\.""""""","You can\'t send an invitation with status \\%1\\.""""""",module,Magento_Invitation
-"Please enter a valid invitation email.","Please enter a valid invitation email.",module,Magento_Invitation
+"Please enter a valid invitation email.","Prosimy wpisać poprawny adres e-mail zaproszenia.",module,Magento_Invitation
 "We can\'t identify the proper website.","We can\'t identify the proper website.",module,Magento_Invitation
 "Please specify an email.","Proszę podać e-mail.",module,Magento_Invitation
 "This invitation is addressed to a current customer: ""%1"".","This invitation is addressed to a current customer: ""%1"".",module,Magento_Invitation
 "This invitation is not valid.","This invitation is not valid.",module,Magento_Invitation
-"Please correct the invitation email.","Please correct the invitation email.",module,Magento_Invitation
+"Please correct the invitation email.","Proszę poprawić email zaproszenia.",module,Magento_Invitation
 "Invitation for same email address","Invitation for same email address",module,Magento_Invitation
 "Not Sent","Nie wysłane",module,Magento_Invitation
 Sent,Wysłano,module,Magento_Invitation
@@ -5875,30 +5875,30 @@ Remove,Usuń,module,Magento_Invitation
 "Please accept this invitation to join %store_name.","Please accept this invitation to join %store_name.",module,Magento_Invitation
 "%store_name offers limited time sales of products only to members.","%store_name offers limited time sales of products only to members.",module,Magento_Invitation
 "Please use the following link to create an account and view the deals:","Użyj następującego linku, aby utworzyć konto i zobacz oferty:",module,Magento_Invitation
-"Private Sales","Private Sales",module,Magento_Invitation
-"Invited Customers","Invited Customers",module,Magento_Invitation
-Conversion,Conversion,module,Magento_Invitation
-"Invitation Section","Invitation Section",module,Magento_Invitation
-Conversions,Conversions,module,Magento_Invitation
+"Private Sales","Sprzedaż prywatna",module,Magento_Invitation
+"Invited Customers","Zaproszeni Klienci",module,Magento_Invitation
+Conversion,Dyskusja,module,Magento_Invitation
+"Invitation Section","Sekcja Zaproszenia",module,Magento_Invitation
+Conversions,Dyskusje,module,Magento_Invitation
 "Customer Invitation Email Sender","Customer Invitation Email Sender",module,Magento_Invitation
 "Customer Invitation Email Template","Customer Invitation Email Template",module,Magento_Invitation
 "Enable Invitations Functionality","Enable Invitations Functionality",module,Magento_Invitation
 "Enable Invitations on Storefront","Enable Invitations on Storefront",module,Magento_Invitation
 "Referred Customer Group","Referred Customer Group",module,Magento_Invitation
-"New Accounts Registration","New Accounts Registration",module,Magento_Invitation
+"New Accounts Registration","Rejestracja nowego konta",module,Magento_Invitation
 "Allow Customers to Add Custom Message to Invitation Email","Klienci mogli dodać niestandardowe wiadomości e-mail",module,Magento_Invitation
-"Customer Invitations","Customer Invitations",module,Magento_Invitation
+"Customer Invitations","Zaproszenia klienta",module,Magento_Invitation
 "Discard Selected","Odrzuć wybrane",module,Magento_Invitation
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Invitation
 "Send Selected","Wyślij wybrane",module,Magento_Invitation
 ID,ID,module,Magento_Invitation
-Invitee,Invitee,module,Magento_Invitation
+Invitee,Zaproszony,module,Magento_Invitation
 Registered,Zarejestrowany,module,Magento_Invitation
 "Valid Website","Valid Website",module,Magento_Invitation
 Name,Nazwa,module,Magento_Invitation
 Group,Grupa,module,Magento_Invitation
-"Invitations Sent","Invitations Sent",module,Magento_Invitation
-"Invitations Accepted","Invitations Accepted",module,Magento_Invitation
+"Invitations Sent","Zaproszenie zostało wysłane",module,Magento_Invitation
+"Invitations Accepted","Akceptacja zaproszeń",module,Magento_Invitation
 "Accept Rate","Zaakceptuj stawki",module,Magento_Invitation
 "Discard Rate","Odrzuć stawki",module,Magento_Invitation
 "Accepted and Purchased","Zaakceptowane i zakupione",module,Magento_Invitation
@@ -6092,7 +6092,7 @@ Database,"Baza danych",module,Magento_MediaStorage
 "Wrong file info format","Nieprawidłowy format informacji pliku",module,Magento_MediaStorage
 "Path ""%value%"" is protected and cannot be used.","Ścieżka ""%value%"" jest chroniona i nie może być użyta.",module,Magento_MediaStorage
 "Path ""%value%"" is not available and cannot be used.","Ścieżka ""%value%"" jest niedostępna i nie może być użyta.",module,Magento_MediaStorage
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","Path ""%value%"" may not include parent directory traversal (""../"", ""..\").",module,Magento_MediaStorage
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","Ścieżka ""%value%"" nie może zawierać przejść do nadrzędnych katalogów (""../"", ""..\").",module,Magento_MediaStorage
 "Please set available and/or protected paths list(s) before validation.","Prosimy ustawić listę dostępnych i/lub chronionych ścieżek przed walidacją.",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","Plik z rozszerzeniem %value%"" jest chroniony i nie może być przesłany.""",module,Magento_MediaStorage
 "Unable to create directory: %1","Nie udało się utworzyć katalogu: %1",module,Magento_MediaStorage
@@ -6781,10 +6781,10 @@ Sales,Sprzedaż,module,Magento_Paypal
 "Error processing payment, please try again later.","Błąd podczas przetwarzania płatności, prosimy spróbować ponownie później.",module,Magento_Paypal
 "Payment Gateway is unreachable at the moment. Please use another payment option.","Payment Gateway is unreachable at the moment. Please use another payment option.",module,Magento_Paypal
 "PayPal response hasn\'t required fields.","PayPal response hasn\'t required fields.",module,Magento_Paypal
-"Something went wrong while processing your order.","Something went wrong while processing your order.",module,Magento_Paypal
+"Something went wrong while processing your order.","Coś poszło nie tak podczas przetwarzania Twojego zamówienia.",module,Magento_Paypal
 "PayPal gateway has rejected request. %1","Bramka PayPal odrzuciła żądanie. %1",module,Magento_Paypal
 "The PayPal gateway rejected the request. %1","Brama PayPal odrzucił żądanie. %1",module,Magento_Paypal
-"I\'m sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","I\'m sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.",module,Magento_Paypal
+"I\'m sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Przepraszamy, ale nie byliśmy w stanie przetworzyć Twojej płatności. Proszę spróbować innej metody płatności lub skontaktuj się z nami - możemy pomóc.",module,Magento_Paypal
 "I\'m sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","I\'m sorry - but we are not able to complete your transaction. Please contact us so we can assist you.",module,Magento_Paypal
 "The payment method code is not set.","Kod metody płatności nie jest ustawiony.",module,Magento_Paypal
 "The reference ID is not set.","Identyfikator referencji nie jest ustawiony.",module,Magento_Paypal
@@ -6835,7 +6835,7 @@ Never,Nigdy,module,Magento_Paypal
 "The payment is pending because it was made to an email address that is not yet registered or confirmed.","The payment is pending because it was made to an email address that is not yet registered or confirmed.",module,Magento_Paypal
 "The merchant account is not yet verified.","Konto handlowca nie jest zweryfikowane.",module,Magento_Paypal
 "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.",module,Magento_Paypal
-"Sorry, but something went wrong. Please contact PayPal customer service.","Sorry, but something went wrong. Please contact PayPal customer service.",module,Magento_Paypal
+"Sorry, but something went wrong. Please contact PayPal customer service.","Przepraszamy, ale coś poszło nie tak. Proszę skontaktować się z obsługa klienta PayPal.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a chargeback by your customer.","A reversal has occurred on this transaction due to a chargeback by your customer.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",module,Magento_Paypal
@@ -6847,7 +6847,7 @@ Never,Nigdy,module,Magento_Paypal
 "Settlement of a chargeback.","Settlement of a chargeback.",module,Magento_Paypal
 "A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.",module,Magento_Paypal
 "Buyer claims that he did not receive goods or service.","Buyer claims that he did not receive goods or service.",module,Magento_Paypal
-"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Buyer claims that the goods or service received differ from merchant’s description of the goods or service.",module,Magento_Paypal
+"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Kupujący twierdzi, iż towary lub usługi które otrzymał, różnią się od opisu dostarczonego przez sprzedawcę.",module,Magento_Paypal
 "Buyer claims that he/she did not authorize transaction.","Buyer claims that he/she did not authorize transaction.",module,Magento_Paypal
 "A case that has been resolved and close requires a reimbursement.","Sprawa zakończona i zamknięta wymaga zwrotu kosztów. ",module,Magento_Paypal
 "Buyer claims that a possible duplicate payment was made to the merchant.","Buyer claims that a possible duplicate payment was made to the merchant.",module,Magento_Paypal
@@ -6913,9 +6913,9 @@ CPF,CPF,module,Magento_Paypal
 "IPN ""%1""","IPN ""%1""",module,Magento_Paypal
 "Payflow PNREF: #%1.","Payflow PNREF: #%1.",module,Magento_Paypal
 "Unable to fetch transaction details.","Nie można pobrać szczegóły transakcji.",module,Magento_Paypal
-"Invalid method %1::%2","Invalid method %1::%2",module,Magento_Paypal
+"Invalid method %1::%2","Nieprawidłowa metoda %1::%2",module,Magento_Paypal
 "Transaction has been declined","Transakcja została odrzucona",module,Magento_Paypal
-"Error processing payment. Please try again later.","Error processing payment. Please try again later.",module,Magento_Paypal
+"Error processing payment. Please try again later.","Błąd podczas przetwarzania płatności. Prosimy spróbować ponownie później.",module,Magento_Paypal
 "We cannot send the new order email.","Nie można wysłać nowego e-mailu zamówienia.",module,Magento_Paypal
 "You cannot void a verification transaction.","Nie można unieważnić weryfikacji transakcji.",module,Magento_Paypal
 "You need an authorization transaction to void.","You need an authorization transaction to void.",module,Magento_Paypal
@@ -7020,7 +7020,7 @@ Reversal,Reversal,module,Magento_Paypal
 Void,Unieważniony,module,Magento_Paypal
 "WorldLink Withdrawal","WorldLink Withdrawal",module,Magento_Paypal
 "eBay Auction Payment","Płatność aukcji eBay",module,Magento_Paypal
-"The PayPal certificate file is empty.","The PayPal certificate file is empty.",module,Magento_Paypal
+"The PayPal certificate file is empty.","Plik certyfikatu PayPal jest pusty.",module,Magento_Paypal
 "Header (center)","Nagłówek (centrum)",module,Magento_Paypal
 "Sidebar (right)","Pasek boczny (z prawej)",module,Magento_Paypal
 "Near PayPal Credit checkout button","Near PayPal Credit checkout button",module,Magento_Paypal
@@ -7055,10 +7055,10 @@ here,tutaj,module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Kiedy zalogujesz się do swojego konta Zaawansowanego PayPal, przejdź do zakładki Ustawienia usługi - Hosted Checkout Pages - Menu ustawień i ustaw opcje opisane poniżej",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","W celu użycia PayPal Payflow Link, musisz skonfigurować konto PayPal PayFlow Link na stronie PayPal.",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Kiedy już zalogujesz się do konta PayPal Payflow Link, przejdź do Ustawień usługi - Hosted Checkout Pages - Menu ustawień i ustaw opcje opisane poniżej",module,Magento_Paypal
-"Credit Card Type","Credit Card Type",module,Magento_Paypal
-"Credit Card Number","Credit Card Number",module,Magento_Paypal
-"Expiration Date","Expiration Date",module,Magento_Paypal
-"Card Verification Number","Card Verification Number",module,Magento_Paypal
+"Credit Card Type","Typ karty kredytowej",module,Magento_Paypal
+"Credit Card Number","Numer karty kredytowej",module,Magento_Paypal
+"Expiration Date","Data ważności",module,Magento_Paypal
+"Card Verification Number","Numer weryfikacyjny karty",module,Magento_Paypal
 "Billing Agreement # ","Umowa rozliczeniowa # ",module,Magento_Paypal
 "Agreement Information","Informacje umowy",module,Magento_Paypal
 "Reference ID:","ID referencji",module,Magento_Paypal
@@ -7110,15 +7110,15 @@ Continue,Kontynuuj,module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases with PayPal.","Podpisz umowę rozliczeniową, aby przetwarzać dalsze zakupy z PayPal.",module,Magento_Paypal
 "Continue to PayPal","Przejdź do PayPal",module,Magento_Paypal
-"Save credit card info for future use.","Save credit card info for future use.",module,Magento_Paypal
+"Save credit card info for future use.","Zapisz informacje o karcie kredytowej do przyszłego wykorzystania.",module,Magento_Paypal
 "Sorry, something went wrong.","Przepraszamy coś poszło nie tak.",module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Przepraszamy coś poszło nie tak. Prosimy spróbować ponownie później.",module,Magento_Paypal
-"PayPal Section","PayPal Section",module,Magento_Paypal
+"PayPal Section","Sekcja PayPal",module,Magento_Paypal
 "PayPal Settlement","PayPal Settlement",module,Magento_Paypal
 Fetch,Pobierz,module,Magento_Paypal
 Actions,Operacje,module,Magento_Paypal
 Manage,Zarządzaj,module,Magento_Paypal
-"Place Order Using Billing Agreements","Place Order Using Billing Agreements",module,Magento_Paypal
+"Place Order Using Billing Agreements","Złóż zamówienie przy pomocy umów rozliczeniowych",module,Magento_Paypal
 "Merchant Location","Lokalizacja handlowca",module,Magento_Paypal
 "Merchant Country","Kraj handlowca",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","Jeśli nie wybrane, domyślny kraj z ogólnych ustawień będzie użyty",module,Magento_Paypal
@@ -7164,7 +7164,7 @@ Manage,Zarządzaj,module,Magento_Paypal
                     See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
                 ",module,Magento_Paypal
-"Merchant Account ID","Merchant Account ID",module,Magento_Paypal
+"Merchant Account ID","Identyfikator konta sprzedawcy",module,Magento_Paypal
 "Enable PayPal Credit","Włącz PayPal Credit",module,Magento_Paypal
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
@@ -7393,7 +7393,7 @@ Basic Settings - PayPal Payments Pro Hosted Solution""",module,Magento_Paypal
 "Method ""%1"" is not defined in ""%2""","Nie zdefiniowano metody ""%1"" w ""%2""",module,Magento_Persistent
 "To check out, please sign in using your email address.","Aby sprawdzić, Proszę Zaloguj się przy użyciu adresu e-mail.",module,Magento_Persistent
 "Remember Me","Zapamiętaj mnie",module,Magento_Persistent
-"What\'s this?","What\'s this?",module,Magento_Persistent
+"What\'s this?","Co to jest?",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Sprawdź &quot;Zapamiętaj mnie&quot; wobec dostęp Twój koszyk na tym komputerze, nawet jeśli nie jesteś zalogowany.",module,Magento_Persistent
 "Check \'Remember Me\' to access your shopping cart on this computer even if you are not signed in.","Zaznacz \'Zapamiętaj mnie\', aby mieć dostęp do swojego koszyka na tym komputerze bez potrzeby logowania.",module,Magento_Persistent
 "Persistent Shopping Cart","Trwały koszyk",module,Magento_Persistent
@@ -7410,7 +7410,7 @@ Basic Settings - PayPal Payments Pro Hosted Solution""",module,Magento_Paypal
 "Persist Comparison History","Zachowuj historię porównań",module,Magento_PersistentHistory
 "Persist Recently Viewed Products","Zachowuj ostatnio przeglądane produkty",module,Magento_PersistentHistory
 "Persist Customer Group Membership and Segmentation","Zachowuj przynależność klienta do grupy klientów oraz segmentację klientów",module,Magento_PersistentHistory
-"Read Product Price","Read Product Price",module,Magento_PricePermissions
+"Read Product Price","Wyświetl cenę produktu",module,Magento_PricePermissions
 "Edit Product Price","Zmień cenę produktu",module,Magento_PricePermissions
 "Edit Product Status","Zmień stan produktu",module,Magento_PricePermissions
 "Default Product Price","Domyślna cena produktu",module,Magento_PricePermissions
