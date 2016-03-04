@@ -10505,7 +10505,7 @@ Parent,Rodzic,module,Magento_Support
 "Event Name","Nazwa zdarzenia",module,Magento_Support
 "Observer Class","Klasa obserwatora",module,Magento_Support
 Method,Metoda,module,Magento_Support
-"All Admin Events","All Admin Events",module,Magento_Support
+"All Admin Events","Wszystkie wydarzenia Admina",module,Magento_Support
 "All Crontab Events","All Crontab Events",module,Magento_Support
 "All Doc Events","All Doc Events",module,Magento_Support
 "All Frontend Events","All Frontend Events",module,Magento_Support
