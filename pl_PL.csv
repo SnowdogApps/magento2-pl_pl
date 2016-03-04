@@ -10768,8 +10768,8 @@ Tax,Podatek,module,Magento_Tax
 "An error occurred while loading this tax rate.","Wystąpił błąd podczas ładowania tej stawki podatku.",module,Magento_Tax
 "We can\'t save this rate right now.","Nie możemy zapisać tej stawki.",module,Magento_Tax
 "You deleted the tax rate.","Usunąłeś stawkę podatku.",module,Magento_Tax
-"We can\'t delete this rate because of an incorrect rate ID.","We can\'t delete this rate because of an incorrect rate ID.",module,Magento_Tax
-"Something went wrong deleting this rate.","Something went wrong deleting this rate.",module,Magento_Tax
+"We can\'t delete this rate because of an incorrect rate ID.","Nie można usunąć tej stawki ze względu na nieprawidłowe ID.",module,Magento_Tax
+"Something went wrong deleting this rate.","Coś poszło nie tak, jak powinno, podczas usuwania stawki.",module,Magento_Tax
 "Edit Tax Rate","Edytuj stawkę podatku",module,Magento_Tax
 "You saved the tax rate.","Zapisałeś stawkę podatkową.",module,Magento_Tax
 "Tax Rules","Reguły podatków",module,Magento_Tax
@@ -10792,7 +10792,7 @@ Tax,Podatek,module,Magento_Tax
 "The tax rate cannot be removed. It exists in a tax rule.","Stawka podatkowa nie może być usunięta. Istnieje w regule podatkowej.",module,Magento_Tax
 "This class no longer exists.","Ta klasa już nie istnieje.",module,Magento_Tax
 "You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Nie możesz usunąć tej klasy podatkowej, ponieważ jest ona używana przez jedną z reguł podatkowych. Wpierw musisz usunąć tę regułę.",module,Magento_Tax
-"You cannot delete this tax class because it is used in existing %1(s).","You cannot delete this tax class because it is used in existing %1(s).",module,Magento_Tax
+"You cannot delete this tax class because it is used in existing %1(s).","Nie możesz usunąć tej klasy podatku ponieważ jest używana do %s produktów.",module,Magento_Tax
 "Custom price if available","Indywidualna cena, jeśli dostępna",module,Magento_Tax
 "Original price only","Tylko oryginalna cena",module,Magento_Tax
 "Shipping Address","Adres wysyłki",module,Magento_Tax
@@ -10831,7 +10831,7 @@ None,Brak,module,Magento_Tax
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Kliknij tutaj, aby przejść do <a href=%1"">zarządzania podatkami</a> i zmienić ustawienia."".",module,Magento_Tax
 "Invalid type of tax class ""%1""","Nieprawidłowy typ klasy podatku ""%1""",module,Magento_Tax
 "Updating classType is not allowed.","Aktualizowanie classType jest niedozwolone.",module,Magento_Tax
-"A class with the same name already exists for ClassType %1.","A class with the same name already exists for ClassType %1.",module,Magento_Tax
+"A class with the same name already exists for ClassType %1.","Klasa o tej samej nazwie już istnieje dla ClassType %1.",module,Magento_Tax
 "customer group","grupa klientów",module,Magento_Tax
 product,produkt,module,Magento_Tax
 "Excl. tax:","Bez podatku:",module,Magento_Tax
