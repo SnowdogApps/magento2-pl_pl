@@ -1638,7 +1638,7 @@ px.,px.,module,Magento_Catalog
 "The file is empty. Please choose another one","Plik jest pusty. Proszę wybrać inny",module,Magento_Catalog
 "Some of the selected item options are not currently available.","Niektóre wybrane opcje nie są dostępne.",module,Magento_Catalog
 "The text is too long.","Tekst jest za długi.",module,Magento_Catalog
-"This product doesn\'t have tier price","This product doesn\'t have tier price",module,Magento_Catalog
+"This product doesn\'t have tier price","Ten produkt nie posiada poziomów cen",module,Magento_Catalog
 "Product hasn\'t group price with such data: customerGroupId = \'%1\', website = %2, qty = %3","Produkt nie posiada grup cen z takimi danymi: customerGroupId = ""%1"", strona = %2, ilość = %3",module,Magento_Catalog
 "Invalid data provided for tier_price","Nieprawidłowe dane podane dla tier_price",module,Magento_Catalog
 "Please provide valid data","Podaj poprawne dane",module,Magento_Catalog
@@ -10368,7 +10368,7 @@ Report,Raport,module,Magento_Support
 "Please select item(s).","Wybierz produkty.",module,Magento_Support
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Support
 Support,"Wsparcie techniczne",module,Magento_Support
-"Data Collector","Data Collector",module,Magento_Support
+"Data Collector","Modułów zbierający dane",module,Magento_Support
 "The backup has been saved.","Kopia zapasowa została zapisana.",module,Magento_Support
 "Failed to save backup with error: %1","Podczas próby zapisu kopii zapasowej wystąpił błąd: %1",module,Magento_Support
 "An error occurred while saving backup","Wystąpił błąd podczas zapisywania kopii zapasowej",module,Magento_Support
@@ -10378,7 +10378,7 @@ Support,"Wsparcie techniczne",module,Magento_Support
 "Cannot delete backup","Nie można usunąć kopii zapasowej",module,Magento_Support
 "File does not exist","Plik nie istnieje",module,Magento_Support
 "Log Details","Szczegóły logów",module,Magento_Support
-"An error occurred during mass deletion of data collector backups. Please review log and try again.","An error occurred during mass deletion of data collector backups. Please review log and try again.",module,Magento_Support
+"An error occurred during mass deletion of data collector backups. Please review log and try again.","Wystąpił błąd podczas masowego usuwania danych kolektora kopii zapasowych. Przejrzyj logi i spróbuj ponownie.",module,Magento_Support
 "After you make your selections, click the \"Create\" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","Po dokonaniu wyborów, kliknij przycisk \"Utwórz\". Następnie zaczekaj aż zostanie wygenerowany raport systemowy. Może to potrwać kilka minut. Otrzymasz powiadomienie gdy ten etap zostanie zakończony.",module,Magento_Support
 "Create System Report","Utwórz raport systemu",module,Magento_Support
 "Unable to find a system report to delete.","Nie można odnaleźć raportu systemu, aby go usunąć.",module,Magento_Support
@@ -10412,7 +10412,7 @@ Windows,Windows,module,Magento_Support
 "[%1 years ago]","[%1 lat temu]",module,Magento_Support
 "And more...","I więcej...",module,Magento_Support
 "Column %1","Kolumny %1",module,Magento_Support
-"Preparing system report data: Detected Single Row Mode but data may be incomplete.","Preparing system report data: Detected Single Row Mode but data may be incomplete.",module,Magento_Support
+"Preparing system report data: Detected Single Row Mode but data may be incomplete.","Przygotowanie systemu danych raportu: wykryto tryb pojedynczego wiersza, ale dane mogą być niepełne.",module,Magento_Support
 Yes,Tak,module,Magento_Support
 No,Nie,module,Magento_Support
 "All Eav Attributes","Wszystkie atrybuty Eav",module,Magento_Support
@@ -10429,7 +10429,7 @@ Model,Model,module,Magento_Support
 "Additional Attribute Table","Tabela dodatkowych cech",module,Magento_Support
 "New Eav Attributes","Nowe cechy EAV",module,Magento_Support
 "Product Eav Attributes","Cechy EAV produktu",module,Magento_Support
-"Rma Item Eav Attributes","Rma Item Eav Attributes",module,Magento_Support
+"Rma Item Eav Attributes","Rma produkt Eav atrybuty",module,Magento_Support
 "User Defined Eav Attributes","Cechy EAV zdefiniowane przez użytkownika",module,Magento_Support
 Name,Nazwa,module,Magento_Support
 Enabled,Włączone,module,Magento_Support
@@ -10440,19 +10440,19 @@ Path,Ścieżka,module,Magento_Support
 "Data from app/etc/env.php","Dane z app/etc/env.php",module,Magento_Support
 Title,Tytuł,module,Magento_Support
 Group,Grupa,module,Magento_Support
-"Is Gateway","Is Gateway",module,Magento_Support
+"Is Gateway","Adres bramy",module,Magento_Support
 Void,Unieważniony,module,Magento_Support
-"For Checkout","For Checkout",module,Magento_Support
-"For Multishipping","For Multishipping",module,Magento_Support
+"For Checkout","Dla Wysyłki",module,Magento_Support
+"For Multishipping","Dla Multi wysyłki",module,Magento_Support
 "Capture Online","Przechwyć online",module,Magento_Support
-"Partial Capture Online","Partial Capture Online",module,Magento_Support
-"Refund Online","Refund Online",module,Magento_Support
-"Partial Refund Online","Partial Refund Online",module,Magento_Support
+"Partial Capture Online","Częściowe przechwytywania Online",module,Magento_Support
+"Refund Online","Zwróć online",module,Magento_Support
+"Partial Refund Online","Częściowy zwrot Online",module,Magento_Support
 "Capture Offline","Przechwyć offline",module,Magento_Support
-"Partial Capture Offline","Partial Capture Offline",module,Magento_Support
+"Partial Capture Offline","Częściowe przechwytywania w trybie Offline",module,Magento_Support
 "Refund Offline","Zwróć offline",module,Magento_Support
-"Partial Refund Offline","Partial Refund Offline",module,Magento_Support
-"Payments Functionality Matrix","Payments Functionality Matrix",module,Magento_Support
+"Partial Refund Offline","Częściowy zwrot w trybie Offline",module,Magento_Support
+"Payments Functionality Matrix","Funkcjonalność Matrix Płatności",module,Magento_Support
 "Payment Methods","Metody płatności",module,Magento_Support
 "Shipping Methods","Formy dostawy",module,Magento_Support
 "Job Code","Kod zadania",module,Magento_Support
@@ -10460,36 +10460,36 @@ Void,Unieważniony,module,Magento_Support
 "Run Class","Uruchom klasę",module,Magento_Support
 "Run Method","Uruchom metodę",module,Magento_Support
 "Group Code","Kod grupy",module,Magento_Support
-"All Configurable Cron Jobs","All Configurable Cron Jobs",module,Magento_Support
+"All Configurable Cron Jobs","Wszystkie konfigurowalne działania Crona",module,Magento_Support
 "All Global Cron Jobs","Wszystkie globalne zadania Crona",module,Magento_Support
-"Cron Schedules List","Cron Schedules List",module,Magento_Support
-"Schedule Id","Schedule Id",module,Magento_Support
+"Cron Schedules List","Harmonogram listy Crona",module,Magento_Support
+"Schedule Id","Harmonogram Id",module,Magento_Support
 Status,Status,module,Magento_Support
 "Created At",Utworzono,module,Magento_Support
-"Scheduled At","Scheduled At",module,Magento_Support
+"Scheduled At","Zaplanowane w",module,Magento_Support
 "Executed At",Wykonano,module,Magento_Support
 "Finished At",Zakończono,module,Magento_Support
-"Core Configurable Cron Jobs","Core Configurable Cron Jobs",module,Magento_Support
-"Core Global Cron Jobs","Core Global Cron Jobs",module,Magento_Support
-"Cron Schedules by job code","Cron Schedules by job code",module,Magento_Support
+"Core Configurable Cron Jobs","Rdzeń konfigurowalnych działań Crona",module,Magento_Support
+"Core Global Cron Jobs","Rdzeń globalnych zadań Crona",module,Magento_Support
+"Cron Schedules by job code","Harmonogramy prac kodu Crona",module,Magento_Support
 Count,Licznik,module,Magento_Support
-"Cron Schedules by status code","Cron Schedules by status code",module,Magento_Support
+"Cron Schedules by status code","Harmonogram statusu kodu Crona",module,Magento_Support
 "Status Code","Kod statusu",module,Magento_Support
-"Custom Configurable Cron Jobs","Custom Configurable Cron Jobs",module,Magento_Support
-"Custom Global Cron Jobs","Custom Global Cron Jobs",module,Magento_Support
-"Errors in Cron Schedules Queue","Errors in Cron Schedules Queue",module,Magento_Support
+"Custom Configurable Cron Jobs","Indywidualne konfigurowalne działania Crona",module,Magento_Support
+"Custom Global Cron Jobs","Indywidualne globalne zadania Crona",module,Magento_Support
+"Errors in Cron Schedules Queue","Błędy w planach kolejki Crona",module,Magento_Support
 Error,Błąd,module,Magento_Support
-"Corrupted Categories Data","Corrupted Categories Data",module,Magento_Support
+"Corrupted Categories Data","Uszkodzone kategorje danych",module,Magento_Support
 Id,ID,module,Magento_Support
-"Expected Children Count","Expected Children Count",module,Magento_Support
-"Actual Children Count","Actual Children Count",module,Magento_Support
-"Expected Level","Expected Level",module,Magento_Support
+"Expected Children Count","Przewidywana liczba dzieci",module,Magento_Support
+"Actual Children Count","Aktualna liczba dzieci",module,Magento_Support
+"Expected Level","Przewidywany poziom",module,Magento_Support
 "Actual Level","Rzeczywisty poziom",module,Magento_Support
-"Duplicate Categories By URL Key","Duplicate Categories By URL Key",module,Magento_Support
+"Duplicate Categories By URL Key","Duplikuj kategorie po kluczu URL",module,Magento_Support
 "URL key","Klucz URL",module,Magento_Support
 Store,Sklep,module,Magento_Support
 "Duplicate Orders By Increment Id","Duplicate Orders By Increment Id",module,Magento_Support
-"Increment Id","Increment Id",module,Magento_Support
+"Increment Id","Przyrost id",module,Magento_Support
 "Customer Id","Identyfikator klienta",module,Magento_Support
 "Duplicate Products By SKU","Duplikuj produkty po SKU",module,Magento_Support
 SKU,SKU,module,Magento_Support
