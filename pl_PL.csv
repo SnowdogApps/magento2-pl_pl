@@ -1311,7 +1311,7 @@ label,etykieta,module,Magento_Catalog
 "New Product Attribute","Nowa cecha produktu",module,Magento_Catalog
 "Advanced Attribute Properties","Zaawansowane właściwości atrybutu",module,Magento_Catalog
 "Attribute Code","Kod cechy",module,Magento_Catalog
-"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","This is used internally. Make sure you don\'t use spaces or more than %1 symbols.",module,Magento_Catalog
+"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","Ta wartość jest używana wewnętrznie. Upewnij się, że nie ma spacji lub więcej niż %1 symboli.",module,Magento_Catalog
 "Default Value","Domyślna wartość",module,Magento_Catalog
 "Unique Value","Unikalna wartość",module,Magento_Catalog
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Catalog
@@ -1610,13 +1610,13 @@ Disabled,Wyłączone,module,Magento_Catalog
 "The image does not exist.","Obraz nie istnieje.",module,Magento_Catalog
 "Please correct the image file type.","Proszę poprawić typ pliku ze zdjęciem.",module,Magento_Catalog
 "We couldn\'t move this file: %1.","Nie możemy przenieść tego pliku: %1.",module,Magento_Catalog
-"We can\'t find the image file.","We can\'t find the image file.",module,Magento_Catalog
+"We can\'t find the image file.","Nie możemy odnaleźć pliku ze zdjęciem.",module,Magento_Catalog
 "The option type to get group instance is incorrect.","Typ opcji aby uzyskać instancję grupę jest nieprawidłowy.",module,Magento_Catalog
 "Select type options required values rows.","Proszę wybrać typ opcji z wymaganymi wartościami.",module,Magento_Catalog
 "Could not remove custom option","Nie można usunąć opcji produktu",module,Magento_Catalog
 "Please specify date required option(s).","Prosimy o określenie wymaganych opcji daty.",module,Magento_Catalog
 "Please specify time required option(s).","Prosimy o określenie wymaganych opcji czasu.",module,Magento_Catalog
-"Please specify product\'s required option(s).","Please specify product\'s required option(s).",module,Magento_Catalog
+"Please specify product\'s required option(s).","Prosimy o określenie wymaganych opcji produktu.",module,Magento_Catalog
 "The option instance type in options group is incorrect.","Instancja typu opcji w grupie opcji jest niepoprawna.",module,Magento_Catalog
 "The product instance type in options group is incorrect.","Instancja typu produktu w grupie opcji jest niepoprawna.",module,Magento_Catalog
 "The configuration item option instance in options group is incorrect.","Instancja elementu konfiguracji opcji w grupie opcji jest niepoprawna.",module,Magento_Catalog
@@ -8288,7 +8288,7 @@ RMA,RMA,module,Magento_Rma
 Ordered,Zamówiony,module,Magento_Rma
 Customer,Klient,module,Magento_Rma
 View,Zobacz,module,Magento_Rma
-"You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?",module,Magento_Rma
+"You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Wybrano opcję zmiany statusu\ów wybranych zleceń RMA na zamknięte. Czy jesteś pewnien, że chcesz kontynuować?",module,Magento_Rma
 "Return Item Attribute","Return Item Attribute",module,Magento_Rma
 "Add New Attribute","Dodaj nową cechę",module,Magento_Rma
 "Save Attribute","Zapisz cechę",module,Magento_Rma
@@ -8333,24 +8333,24 @@ Price,Cena,module,Magento_Rma
 "The wrong RMA was requested.","The wrong RMA was requested.",module,Magento_Rma
 "This is the wrong RMA order ID.","This is the wrong RMA order ID.",module,Magento_Rma
 "Invalid RMA","Błędne zlecenie RMA",module,Magento_Rma
-"Please enter a valid message.","Please enter a valid message.",module,Magento_Rma
-"We cannot add the RMA history.","We cannot add the RMA history.",module,Magento_Rma
+"Please enter a valid message.","proszę wprowadź poprawną wiadomość",module,Magento_Rma
+"We cannot add the RMA history.","Nie można dodać historii zleceń RMA.",module,Magento_Rma
 "Invalid order","Nieprawidłowe zamówienie",module,Magento_Rma
-"We can\'t retrieve the product list right now.","We can\'t retrieve the product list right now.",module,Magento_Rma
+"We can\'t retrieve the product list right now.","Nie można pobrać teraz listy produktu.",module,Magento_Rma
 "Please specify a carrier.","Proszę określić dostawcę.",module,Magento_Rma
-"Please enter a tracking number.","Please enter a tracking number.",module,Magento_Rma
+"Please enter a tracking number.","Proszę wprowadzić kod śledzenia.",module,Magento_Rma
 "We cannot initialize an RMA to add a tracking number.","We cannot initialize an RMA to add a tracking number.",module,Magento_Rma
-"We can\'t add a message right now.","We can\'t add a message right now.",module,Magento_Rma
+"We can\'t add a message right now.","Nie można dodać teraz wiadomości.",module,Magento_Rma
 "New Return","Nowy zwrot",module,Magento_Rma
 "%1 RMA(s) cannot be closed","%1 zleceń RMA nie może zostać zamkniętych",module,Magento_Rma
 "We cannot close the RMA request(s).","We cannot close the RMA request(s).",module,Magento_Rma
 "%1 RMA (s) have been closed.","%1 zleceń RMA zostało zamkniętych.",module,Magento_Rma
 "You created a shipping label.","Utworzyłeś adres dostawy.",module,Magento_Rma
-"We can\'t create a shipping label right now.","We can\'t create a shipping label right now.",module,Magento_Rma
+"We can\'t create a shipping label right now.","Nie można utworzyć tera etykiety wysyłki.",module,Magento_Rma
 "Manage RMA Item Attributes","Zarządzaj atrybutami produktów zleceń RMA",module,Magento_Rma
 "You cannot delete this attribute.","Nie można usunąć tego atrybutu.",module,Magento_Rma
 "You deleted the RMA attribute.","Usunięty atrybut RMA.",module,Magento_Rma
-"We can\'t delete the RMA item attribute right now.","We can\'t delete the RMA item attribute right now.",module,Magento_Rma
+"We can\'t delete the RMA item attribute right now.","Nie można teraz usunąć cechy produktu RMA.",module,Magento_Rma
 "This attribute no longer exists.","Taki atrybut nie istnieje.",module,Magento_Rma
 "You cannot edit this attribute.","Nie można edytować tego atrybutu.",module,Magento_Rma
 "Edit Return Item Attribute","Edytuj atrybut zwrotu towaru",module,Magento_Rma
@@ -8360,7 +8360,7 @@ Price,Cena,module,Magento_Rma
 "Something went wrong while saving the RMA item attribute.","Something went wrong while saving the RMA item attribute.",module,Magento_Rma
 "An attribute with the same code already exists.","Cecha o podanym kodzie już istnieje.",module,Magento_Rma
 "The wrong RMA item was requested.","The wrong RMA item was requested.",module,Magento_Rma
-"We cannot display the item attributes.","We cannot display the item attributes.",module,Magento_Rma
+"We cannot display the item attributes.","Nie można wyświetlić atrybutów produktu.",module,Magento_Rma
 "There are no applicable items for return in this order.","Nie ma odpowiednich produktów dla zwrotu tego zamówienia.",module,Magento_Rma
 "We don't recognize or support the file extension in shipment %1.","Nie możemy rozpoznać lub wesprzeć rozszerzenia pliku tej wysyłki: %1.",module,Magento_Rma
 "Something went wrong creating a shipping label.","Coś się zepsuło, tworząc etykietę wysyłkową.",module,Magento_Rma
@@ -8371,7 +8371,7 @@ Price,Cena,module,Magento_Rma
 "We cannot display the available shipping methods.","We cannot display the available shipping methods.",module,Magento_Rma
 "We cannot initialize an RMA to delete a tracking number.","We cannot initialize an RMA to delete a tracking number.",module,Magento_Rma
 "We can\'t delete the tracking number right now.","We can\'t delete the tracking number right now.",module,Magento_Rma
-"We can\'t save this RMA.","We can\'t save this RMA.",module,Magento_Rma
+"We can\'t save this RMA.","nie można zapisać tego RMA.",module,Magento_Rma
 "You saved the RMA request.","You saved the RMA request.",module,Magento_Rma
 "You did not email your customer. Please check your email settings.","You did not email your customer. Please check your email settings.",module,Magento_Rma
 "You submitted the RMA request.","You submitted the RMA request.",module,Magento_Rma
