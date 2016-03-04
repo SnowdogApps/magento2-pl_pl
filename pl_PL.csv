@@ -9756,11 +9756,11 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "Clean Now","Czyść teraz",module,Magento_ScheduledImportExport
 "Scheduled Imports/Exports","Zaplanowany import/eksport",module,Magento_ScheduledImportExport
 "The operation ran.","The operation ran.",module,Magento_ScheduledImportExport
-"We can\'t run the operation right now, see error log for details.","We can\'t run the operation right now, see error log for details.",module,Magento_ScheduledImportExport
-"We can\'t delete the scheduled operation right now.","We can\'t delete the scheduled operation right now.",module,Magento_ScheduledImportExport
+"We can\'t run the operation right now, see error log for details.","Nie można uruchomić operacji teraz, zobacz szczegóły w dzienniku błędów.",module,Magento_ScheduledImportExport
+"We can\'t delete the scheduled operation right now.","Nie można teraz usunąć zaplanowanej operacji.",module,Magento_ScheduledImportExport
 "No valid data sent","Nie przesłano poprawnych danych",module,Magento_ScheduledImportExport
 "You deleted the history files.","Pliki historii zostały usunięte.",module,Magento_ScheduledImportExport
-"We can\'t delete the history files right now.","We can\'t delete the history files right now.",module,Magento_ScheduledImportExport
+"We can\'t delete the history files right now.","Nie można teraz usunąć plików historii.",module,Magento_ScheduledImportExport
 "A total of %1 record(s) have been updated.","Zaktualizowano %1 rekordów.",module,Magento_ScheduledImportExport
 "We cannot change status for all items.","Nie można zmienić stanu wszystkich produktów.",module,Magento_ScheduledImportExport
 "You deleted a total of %1 record(s).","Usunięto w sumie %1 rekord(ów).",module,Magento_ScheduledImportExport
@@ -9869,7 +9869,7 @@ Store,Sklep,module,Magento_Search
 "ex. http://domain.com","np. http://domena.pl",module,Magento_Search
 "Display in Suggested Terms","Wyświetlaj w sugerowanych frazach",module,Magento_Search
 Marketing,Marketing,module,Magento_Search
-"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won\'t be used.","Search synonyms are not supported by the %1 search engine. Any synonyms you enter won\'t be used.",module,Magento_Search
+"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won\'t be used.","Wyszukiwanie synonimów nie jest obsługiwane przez wyszukiwarkę %1. Żaden z wprowadzonych synonimów nie będzie użyty.",module,Magento_Search
 "The synonym group has been deleted.","Usunięto grupę synonimów.",module,Magento_Search
 "We can\'t find a synonym group to delete.","Nie możemy znaleźć grupy synonimów do usunięcia.",module,Magento_Search
 "This synonyms group no longer exists.","Ta grupa synonimów już nie istnieje.",module,Magento_Search
@@ -9879,10 +9879,10 @@ Marketing,Marketing,module,Magento_Search
 "A total of %1 synonym group(s) have been deleted.","W sumie usunięto %1 grup synonimów.",module,Magento_Search
 "This synonym group no longer exists.","Ta grupa synonimów już nie istnieje.",module,Magento_Search
 "You saved the synonym group.","Zapisane grupy synonimów.",module,Magento_Search
-"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the \"Merge existing synonyms\" checkbox so the terms can be merged.","The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the \"Merge existing synonyms\" checkbox so the terms can be merged.",module,Magento_Search
-"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the \"Merge existing synonyms\" checkbox so the terms can be merged.","The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the \"Merge existing synonyms\" checkbox so the terms can be merged.",module,Magento_Search
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the \"Merge existing synonyms\" checkbox so the terms can be merged.","Wprowadzony termin, (%1), należy do jednej z istniejących grup synonimów - %2. Zaznacz pole \"Połącz istniejące synonimy\", aby terminy mogły zostać połączone.",module,Magento_Search
+"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the \"Merge existing synonyms\" checkbox so the terms can be merged.","Wprowadzony termin, (%1), należy do %2 istniejących grup synonimów - %3 oraz %4. Zaznacz pole \"Połącz istniejące synonimy\", aby terminy mogły zostać połączone.",module,Magento_Search
 "You deleted the search.","Usunąłeś wyszukiwanie.",module,Magento_Search
-"We can\'t find a search term to delete.","We can\'t find a search term to delete.",module,Magento_Search
+"We can\'t find a search term to delete.","Nie możemy znaleźć wyszukiwanej frazy do usunięcia.",module,Magento_Search
 "This search no longer exists.","To wyszukiwanie już nie istnieje.",module,Magento_Search
 "Edit Search","Edycja wyszukiwania",module,Magento_Search
 "Please select searches.","Proszę wybrać wyszukiwanie.",module,Magento_Search
@@ -9892,7 +9892,7 @@ Reports,Raporty,module,Magento_Search
 "You saved the search term.","Zapisałeś frazę wyszukiwania.",module,Magento_Search
 "Something went wrong while saving the search query.","Coś się zepsuło podczas zapisywania kolejki wyszukiwania.",module,Magento_Search
 "You already have an identical search term query.","Masz już identyczne frazy wyszukiwania.",module,Magento_Search
-"Your search query can\'t be longer than %1, so we shortened your query.","Your search query can\'t be longer than %1, so we shortened your query.",module,Magento_Search
+"Your search query can\'t be longer than %1, so we shortened your query.","Twoje zapytanie nie może być dłuższe niż %1, więc je skróciliśmy.",module,Magento_Search
 "Synonym group with id %1 cannot be deleted. %2","Grupa synonimów o id %1 nie może zostać usunięta. %2",module,Magento_Search
 "Merge conflict with existing synonym group(s): %1","Wystąpił konflikt łączenia z istniejącą grupą lub grupami synonimów: %1",module,Magento_Search
 "All Websites","Wszystkie witryny",module,Magento_Search
@@ -9936,7 +9936,7 @@ Website,Witryna,module,Magento_Search
 "By Email","Przez E-mail",module,Magento_Security
 None,Brak,module,Magento_Security
 "Security module: Unknown security event type","Security module: Unknown security event type",module,Magento_Security
-"Too many password reset requests. Please wait and try again or contact %1.","Zbyt wiele próśb o reset hasła. Proszę poczekać i spróbować ponownie później, lub skontaktować się z %1.",module,Magento_Security
+"Too many password reset requests. Please wait and try again or contact %1.","Zbyt wiele żądań zresetowania hasła. Proszę poczekać i spróbować ponownie później, lub skontaktować się z %1.",module,Magento_Security
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Incorrect Security Checker class. It has to implement SecurityCheckerInterface",module,Magento_Security
 "some error","jakiś błąd",module,Magento_Security
 "This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","To konto administratorskie jest otwarte w więcej niż jedna lokalizacja. Miej na uwadze, iż inne lokacje obejmują także różne przeglądarki czy sesje na tym samym komputerze.",module,Magento_Security
@@ -9950,9 +9950,9 @@ None,Brak,module,Magento_Security
 "If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Jeśli ustawiona na tak, możesz zalogować się z wielu komputerów do tego samego konta. Domyślne ustawienie nie jest bezpieczne.",module,Magento_Security
 "Limit Password Reset Requests Method","Limit Password Reset Requests Method",module,Magento_Security
 "Limit Number of Password Reset Requests","Ogranicz liczbę żądań zresetowania hasła",module,Magento_Security
-"Limit the number of password reset request per hour. Use 0 to disable.","Limit the number of password reset request per hour. Use 0 to disable.",module,Magento_Security
+"Limit the number of password reset request per hour. Use 0 to disable.","Ogranicz liczbę żądań zresetowania hasła na godzinę. Użyj 0 by wyłączyć limit.",module,Magento_Security
 "Limit Time Between Password Reset Requests","Odstęp pomiędzy żądaniami zresetowania hasła",module,Magento_Security
-"Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable.",module,Magento_Security
+"Delay in minutes between password reset requests. Use 0 to disable.","Opóźnienie w minutach między żądaniami zresetowania hasła. Użyj 0 by wyłączyć opóźnienie.",module,Magento_Security
 "Page not found.","Nie znaleziono strony.",module,Magento_SendFriend
 "You can\'t send messages more than %1 times an hour.","Maksymalna liczba wiadomości na godzinę: %1.",module,Magento_SendFriend
 "The link to a friend was sent.","Link został wysłany do znajomego.",module,Magento_SendFriend
