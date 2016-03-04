@@ -2682,7 +2682,7 @@ Home,"Strona główna",module,Magento_Cms
 "Go to Home Page","Przejdź na stronę główną",module,Magento_Cms
 CMS,CMS,module,Magento_Cms
 "You deleted the block.","Usunąłeś blok.",module,Magento_Cms
-"We can\'t find a block to delete.","We can\'t find a block to delete.",module,Magento_Cms
+"We can\'t find a block to delete.","Nie możemy odnaleźć bloku do usunięcia.",module,Magento_Cms
 "This block no longer exists.","Ten blok już nie istnieje",module,Magento_Cms
 "Edit Block","Edytuj blok",module,Magento_Cms
 "New Block","Nowy blok",module,Magento_Cms
@@ -2730,7 +2730,7 @@ Delete,Usuń,module,Magento_Cms
 "Delete ${ $.$data.title }","Usuń ${ $.$data.title }",module,Magento_Cms
 "Are you sure you wan\'t to delete a ${ $.$data.title } record?","Czy na pewno chcesz usunąć rekord ${ $.$data.title }?",module,Magento_Cms
 "Delete ""${ $.$data.title }""","Usuń ${ $.$data.title }",module,Magento_Cms
-"Are you sure you wan\'t to delete a \\${ $.$data.title }\\ record?""""""","Are you sure you wan\'t to delete a \\${ $.$data.title }\\ record?""""""",module,Magento_Cms
+"Are you sure you wan\'t to delete a \\${ $.$data.title }\\ record?""""""","Czy na pewno chcesz usunąć rekord \"${ $.$data.title }\"",module,Magento_Cms
 View,Zobacz,module,Magento_Cms
 px.,px.,module,Magento_Cms
 "No files found","Nie znaleziono plików",module,Magento_Cms
@@ -2797,9 +2797,9 @@ Enable,Włącz,module,Magento_Cms
 "You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_CmsStaging
 "You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_CmsStaging
 "Required parameters are missing.","Required parameters are missing.",module,Magento_CmsStaging
-"You saved this %1 update.","You saved this %1 update.",module,Magento_CmsStaging
-"Something went wrong while saving the %1.","Something went wrong while saving the %1.",module,Magento_CmsStaging
-"Something went wrong","Something went wrong",module,Magento_CmsStaging
+"You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_CmsStaging
+"Something went wrong while saving the %1.","Coś się zepsuło podczas zapisywania %1.",module,Magento_CmsStaging
+"Something went wrong","Coś poszło nie tak",module,Magento_CmsStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_CmsStaging
 "Start Date","Data rozpoczęcia",module,Magento_CmsStaging
 "Start Time","Czas rozpoczęcia",module,Magento_CmsStaging
@@ -10966,9 +10966,9 @@ Theme,Temat,module,Magento_Theme
 "We cannot find the theme.","Nie możemy znaleźć motywu.",module,Magento_Theme
 "This theme is not editable.","Ten motyw nie jest edytowalny.",module,Magento_Theme
 "You saved the theme.","Zapisałeś motyw.",module,Magento_Theme
-"We can\'t upload the CSS file right now.","We can\'t upload the CSS file right now.",module,Magento_Theme
+"We can\'t upload the CSS file right now.","W tej chwili nie możemy wgrać pliku CSS.",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","Nie możemy znaleźć motywu o id ""%1"".",module,Magento_Theme
-"We can\'t upload the JS file right now.","We can\'t upload the JS file right now.",module,Magento_Theme
+"We can\'t upload the JS file right now.","W tej chwili nie możemy wgrać pliku JS.",module,Magento_Theme
 "Sorry, something went wrong. That\'s all we know.","Przepraszamy, coś poszło nie tak.",module,Magento_Theme
 "Invalid type","Nieprawidłowy typ",module,Magento_Theme
 "Exception does not contain field \'%1\'","Exception does not contain field \'%1\'",module,Magento_Theme
@@ -10982,11 +10982,11 @@ Copy,Kopia,module,Magento_Theme
 "Circular-reference in theme inheritance detected for ""%1""","Circular-reference in theme inheritance detected for ""%1""",module,Magento_Theme
 "The CSS file must be less than %1M.","Plik CSS, musi być mniejsza niż %1M.",module,Magento_Theme
 "The JS file must be less than %1M.","Plik JS, musi być mniejsza niż %1M.",module,Magento_Theme
-"We can\'t upload the file right now.","We can\'t upload the file right now.",module,Magento_Theme
+"We can\'t upload the file right now.","W tej chwili nie możemy wgrać tego pliku.",module,Magento_Theme
 "Use only standard alphanumeric, dashes and underscores.","Użyj tylko standardowych znaków alfanumerycznych, myślników i podkreśleń.",module,Magento_Theme
 "We found a directory with the same name.","Znaleźliśmy katalog o tej samej nazwie.",module,Magento_Theme
 "We cannot find a directory with this name.","Nie możemy znaleźć katalogu o podanej nazwie.",module,Magento_Theme
-"We can\'t delete root directory %1 right now.","We can\'t delete root directory %1 right now.",module,Magento_Theme
+"We can\'t delete root directory %1 right now.","W tej chwili nie możemy usunąć katalogu głównego %1.",module,Magento_Theme
 "Theme isn\'t deletable.","Motywu nie można usunąć.",module,Magento_Theme
 "localized exception","zlokalizowany wyjątek",module,Magento_Theme
 Message,Wiadomość,module,Magento_Theme
@@ -11010,7 +11010,7 @@ Remove,Usuń,module,Magento_Theme
 "%1 Item(s)","%1 produkt(ów)",module,Magento_Theme
 Page,Strona,module,Magento_Theme
 Previous,Poprzedni,module,Magento_Theme
-"You\'re currently reading page","You\'re currently reading page",module,Magento_Theme
+"You\'re currently reading page","Aktualnie czytasz stronę",module,Magento_Theme
 Next,Następne,module,Magento_Theme
 Show,Pokaż,module,Magento_Theme
 "per page","na stronę",module,Magento_Theme
@@ -11101,7 +11101,7 @@ Off,Wyłączone,module,Magento_Ui
 "New View","Nowy widok",module,Magento_Ui
 "Default View","Widok domyślny",module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible",module,Magento_Ui
-"You have successfully saved your edits.","You have successfully saved your edits.",module,Magento_Ui
+"You have successfully saved your edits.","Zmiany zostały pomyślnie zapisane.",module,Magento_Ui
 "You haven\'t selected any items!","You haven\'t selected any items!",module,Magento_Ui
 "Search by keyword","Wyszukiwanie wg słów kluczowych",module,Magento_Ui
 Keyword,"Słowo kluczowe",module,Magento_Ui
@@ -11137,7 +11137,7 @@ Keyword,"Słowo kluczowe",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Prosimy o wprowadzenie poprawnego numeru telefonu. Dla przykładu: (012) 345 67 89 lub 012 345 6789.",module,Magento_Ui
 "Please enter a valid fax number (Ex: 123-456-7890).","Prosimy o wprowadzenie poprawnego numer faksu. przykład: +48 123-456-7890.",module,Magento_Ui
 "Please enter a valid email address (Ex: johndoe@domain.com).","Podaj poprawny adres email (Ex: johndoe@domain.com).",module,Magento_Ui
-"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",module,Magento_Ui
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Prosimy o wprowadzenie 6 lub więcej znaków. Początkowe lub końcowe spacje zostaną zignorowane.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","Proszę wpisać 7 lub więcej znaków, zarówno litery i cyfry.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Prosimy o wprowadzenie poprawnego URL. Wymagany jest protokół (http://, https:// lub ftp://).",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Prosimy o wprowadzenie poprawnego URL. Dla przykładu: http://www.strona.pl lub www.strona.pl.",module,Magento_Ui
