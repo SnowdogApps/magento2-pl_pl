@@ -1128,13 +1128,13 @@ Debug,"Tryb debug",module,Magento_BraintreeTwo
 Select...,Wybierz...,module,Magento_BraintreeTwo
 Status,Status,module,Magento_BraintreeTwo
 "Transaction Type","Rodzaj transakcji",module,Magento_BraintreeTwo
-"PayPal Payment ID","PayPal Payment ID",module,Magento_BraintreeTwo
+"PayPal Payment ID","Identyfikator płatności PayPal",module,Magento_BraintreeTwo
 "Transaction ID","Identyfikator transakcji",module,Magento_BraintreeTwo
 "Order ID","Identyfikator zamówienia",module,Magento_BraintreeTwo
 "Payment Type","Rodzaj płatności",module,Magento_BraintreeTwo
 Type,Rodzaj,module,Magento_BraintreeTwo
 "Created At",Utworzono,module,Magento_BraintreeTwo
-Amount,Amount,module,Magento_BraintreeTwo
+Amount,Kwota,module,Magento_BraintreeTwo
 "Settlement Code","Settlement Code",module,Magento_BraintreeTwo
 "Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
 "Refund Ids","Refund Ids",module,Magento_BraintreeTwo
@@ -1568,7 +1568,7 @@ Bottom/Right,Dół/prawo,module,Magento_Catalog
 Center,Środek,module,Magento_Catalog
 "%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 nie rozszerza \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Nieznany typ indeksu EAV ""%1"".",module,Magento_Catalog
-"We can\'t rebuild the index for an undefined product.","We can\'t rebuild the index for an undefined product.",module,Magento_Catalog
+"We can\'t rebuild the index for an undefined product.","Nie można przebudować indeksu dla niezdefiniowanego produktu.",module,Magento_Catalog
 "Bad value was supplied.","Podano błędną wartość.",module,Magento_Catalog
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","Moduł płaskiego katalogu ma ograniczenie do %2$d filtrowalnych i/lub sortowalnych cech. Aktualnie masz tam %1$d z nich. Prosimy zredukować liczbę filtrowalnych/sortowalnych cech w celu użycia tego modułu",module,Magento_Catalog
 "Unsupported product type ""%1"".","Typ produktu ""%1"" nie jest wspierany.",module,Magento_Catalog
