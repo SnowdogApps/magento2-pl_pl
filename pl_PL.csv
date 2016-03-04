@@ -5209,8 +5209,8 @@ Active,Aktywny,module,Magento_GiftRegistry
 "We cannot specify the product.","Nie można dokładnie określić produkt.",module,Magento_GiftRegistry
 "Please correct the  gift registry item quantity.","Proszę popraw ilość pozycji rejestru prezentu.",module,Magento_GiftRegistry
 "Please correct the gift registry item ID.","Proszę popraw ID produktu rejestru prezentu.",module,Magento_GiftRegistry
-"The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.",module,Magento_GiftRegistry
-"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.",module,Magento_GiftRegistry
+"The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","Ilość produktu ""%1"" dodanego do koszyka przekracza ustawioną ilość przez właściciela rejestru upominków. Dodana ilość została dostosowana do spełnienia pozostałych ilości %2.",module,Magento_GiftRegistry
+"Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","Istniejących ilości produktu ""%1"" w koszyku zastąpiono %2 wymagana ilością.",module,Magento_GiftRegistry
 "This product(s) is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_GiftRegistry
 "Please correct the product for adding the item to the quote.","Please correct the product for adding the item to the quote.",module,Magento_GiftRegistry
 "Please correct the item option format.","Proszę popraw format opcji produktu. ",module,Magento_GiftRegistry
@@ -5223,10 +5223,10 @@ New,Nowy,module,Magento_GiftRegistry
 "-- All --",--Wszystkie--,module,Magento_GiftRegistry
 "Unknown gift registry identifier","Nieznany identyfikator rejestru prezentów.",module,Magento_GiftRegistry
 "All Forms","Wszystkie formularze",module,Magento_GiftRegistry
-"Registrant Name Search","Registrant Name Search",module,Magento_GiftRegistry
-"Registrant Email Search","Registrant Email Search",module,Magento_GiftRegistry
+"Registrant Name Search","Wyszukiwanie nazwy odbiorcy",module,Magento_GiftRegistry
+"Registrant Email Search","Wyszukiwanie adresu e-mail odbiorcy",module,Magento_GiftRegistry
 "Gift Registry ID Search","Wyszukiwarka ID rejestru prezentów",module,Magento_GiftRegistry
-"some name","some name",module,Magento_GiftRegistry
+"some name",nazwa,module,Magento_GiftRegistry
 Type,Typ,module,Magento_GiftRegistry
 Owner,Właściciel,module,Magento_GiftRegistry
 "Created on",Utworzono,module,Magento_GiftRegistry
@@ -5254,7 +5254,7 @@ Country,Kraj,module,Magento_GiftRegistry
 Fax,Faks,module,Magento_GiftRegistry
 "Add All To Gift Registry","Dodaj wszystko do rejestru prezentów",module,Magento_GiftRegistry
 "Ship to registrant\'s address","Ship to registrant\'s address",module,Magento_GiftRegistry
-"Use the gift registry shipping address","Use the gift registry shipping address",module,Magento_GiftRegistry
+"Use the gift registry shipping address","Użyj adresu dostawy z rejestru prezentów",module,Magento_GiftRegistry
 "Added On",Dodane,module,Magento_GiftRegistry
 Qty,Ilość,module,Magento_GiftRegistry
 "Qty Fulfilled","Spełnione ilości",module,Magento_GiftRegistry
@@ -5280,9 +5280,9 @@ Invitee,Zaproszony,module,Magento_GiftRegistry
 "Please select a gift registry type.","Wybierz typ rejestru prezentów.",module,Magento_GiftRegistry
 Next,Następne,module,Magento_GiftRegistry
 "Last Name",Nazwisko,module,Magento_GiftRegistry
-"Registrant Information","Registrant Information",module,Magento_GiftRegistry
+"Registrant Information","Informacje o rewizjach",module,Magento_GiftRegistry
 "Maximum %1 registrants.","Maximum %1 registrants.",module,Magento_GiftRegistry
-"Add Registrant","Add Registrant",module,Magento_GiftRegistry
+"Add Registrant",Rejestrujący,module,Magento_GiftRegistry
 Type:,Typ:,module,Magento_GiftRegistry
 "Privacy Settings","Ustawienia prywatności",module,Magento_GiftRegistry
 Status,Status,module,Magento_GiftRegistry
@@ -5323,13 +5323,13 @@ View,Zobacz,module,Magento_GiftRegistry
 "Or you can email the following link and gift registry ID to them:","Or you can email the following link and gift registry ID to them:",module,Magento_GiftRegistry
 "Registry Location:","Registry Location:",module,Magento_GiftRegistry
 "Registry ID:","Identyfikator rejestru:",module,Magento_GiftRegistry
-"You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.",module,Magento_GiftRegistry
+"You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","Można zobaczyć i kupić przedmioty z tego rejestru prezentowego w <a href='%account_url'>%store_name</a>.",module,Magento_GiftRegistry
 "Gift Registry:","Rejestr prezentów:",module,Magento_GiftRegistry
 "Created For:","Stworzony dla:",module,Magento_GiftRegistry
 "You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Możesz utworzyć własny rejestr prezentów <a href='%account_url'>%store_name</a>  i udostępnić go dla przyjaciół i rodziny",module,Magento_GiftRegistry
 "The following items have been purchased from your gift registry \"%registry_name\":","The following items have been purchased from your gift registry \"%registry_name\":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","Możesz zalogować się na swoje konto, aby wyświetlić więcej szczegółów o tej liście prezentowej.",module,Magento_GiftRegistry
-"Ship to Recipient Address","Ship to Recipient Address",module,Magento_GiftRegistry
+"Ship to Recipient Address","Dostawa pod adres odbiorcy",module,Magento_GiftRegistry
 "Ship Here","Wysyłamy Tutaj",module,Magento_GiftRegistry
 "Recipient Address","Adres odbiorcy",module,Magento_GiftRegistry
 "Use gift registry shipping address","Użyj adresu dostawy z rejestru prezentów",module,Magento_GiftRegistry
@@ -5539,8 +5539,7 @@ Import,Import,module,Magento_ImportExport
 "Select File to Import","Wybierz plik do importu",module,Magento_ImportExport
 "Images File Directory","Katalog plików obrazów",module,Magento_ImportExport
 "For Type ""Local Server"" use relative path to Magento installation,
-                                e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation,
-                                e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
+                                e.g. var/export, var/import, var/export/some/dir","Dla typu ""Lokalnego serwera"" użyć ścieżki względnej do instalacji Magento, np. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "Download Sample File","Pobierz plik przykładowy",module,Magento_ImportExport
 "Please correct the data sent value.","Popraw wartość wysyłanych danych.",module,Magento_ImportExport
 Import/Export,Import/eksport,module,Magento_ImportExport
@@ -5549,15 +5548,15 @@ History,Historia,module,Magento_ImportExport
 "Import history","Importowanie historii",module,Magento_ImportExport
 "There is no sample file for this entity.","Nie istnieje przykładowy plik dla tego obiektu.",module,Magento_ImportExport
 Status,Status,module,Magento_ImportExport
-"Maximum error count has been reached or system error is occurred!","Maximum error count has been reached or system error is occurred!",module,Magento_ImportExport
+"Maximum error count has been reached or system error is occurred!","Osiągnięto maksymalną liczbę błędów lub wystąpił błąd systemu!",module,Magento_ImportExport
 "Import successfully done","Import pomyślnie zakończony",module,Magento_ImportExport
 "This file is empty. Please try another one.","Ten plik jest pusty. Proszę spróbować z innym.",module,Magento_ImportExport
-"Data validation is failed. Please fix errors and re-upload the file..","Data validation is failed. Please fix errors and re-upload the file..",module,Magento_ImportExport
+"Data validation is failed. Please fix errors and re-upload the file..","Walidacja danych nie powiodła się. Proszę poprawić błędy i spróbować ponownie przesłać plik..",module,Magento_ImportExport
 "File is valid! To start import process press ""Import"" button","Plik jest poprawny! Naciśnij przycisk Import"" aby rozpocząć proces importu """,module,Magento_ImportExport
 "The file is valid, but we can\'t import it for some reason.","Plik jest poprawny, ale z jakiegoś powodu nie możemy go zaimportować.",module,Magento_ImportExport
 "Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Zaznaczone rzędy: %1, zaznaczone elementy %2, nieprawidłowe rzędy: %3, łącznie błędów: %4",module,Magento_ImportExport
 "The file was not uploaded.","Plik nie został przesłany.",module,Magento_ImportExport
-"Sorry, but the data is invalid or the file is not uploaded.","Sorry, but the data is invalid or the file is not uploaded.",module,Magento_ImportExport
+"Sorry, but the data is invalid or the file is not uploaded.","Przepraszamy, ale dane są nieprawidłowa, lub plik nie jest wgrany.",module,Magento_ImportExport
 "Show more","Pokaż więcej",module,Magento_ImportExport
 "Additional data","Dodatkowe dane",module,Magento_ImportExport
 "Following Error(s) has been occurred during importing process:","Podczas importowania wystąpiły następujące problemy:",module,Magento_ImportExport
@@ -5571,23 +5570,23 @@ Status,Status,module,Magento_ImportExport
 "The entity adapter object must be an instance of %1 or %2.","The entity adapter object must be an instance of %1 or %2.",module,Magento_ImportExport
 "The input entity code is not equal to entity adapter code.","Kod wejścia jednostki nie jest równy kodowi adaptera jednostki.",module,Magento_ImportExport
 "Please enter a correct entity.","Proszę podać poprawny obiekt.",module,Magento_ImportExport
-"The adapter object must be an instance of %1.","The adapter object must be an instance of %1.",module,Magento_ImportExport
+"The adapter object must be an instance of %1.","Obiekt adaptera musi być instancją %1.",module,Magento_ImportExport
 "Please correct the file format.","Proszę poprawić format pliku.",module,Magento_ImportExport
 "Begin export of %1","Rozpocznij eksport %1",module,Magento_ImportExport
 "There is no data for the export.","Nie ma żadnych danych na export.",module,Magento_ImportExport
 "Exported %1 rows.","Wyeksportowane rzędy: %1.",module,Magento_ImportExport
 "The export is finished.","Eksport zakończony.",module,Magento_ImportExport
-"Please provide filter data.","Please provide filter data.",module,Magento_ImportExport
-"We can\'t determine the attribute filter type.","We can\'t determine the attribute filter type.",module,Magento_ImportExport
+"Please provide filter data.","Proszę podać dane filtrowania.",module,Magento_ImportExport
+"We can\'t determine the attribute filter type.","Nie można określić typu filtra cech.",module,Magento_ImportExport
 "Entity is unknown","Jednostka jest nieznana",module,Magento_ImportExport
 "We can\'t identify this file format.","Nie możemy rozpoznać formatu tego pliku.",module,Magento_ImportExport
-"Please correct the value for ""%1"" column.","Please correct the value for ""%1"" column.",module,Magento_ImportExport
+"Please correct the value for ""%1"" column.","Popraw wartość kolumny ""%1"".",module,Magento_ImportExport
 "Please specify the writer.","Proszę określić autora.",module,Magento_ImportExport
-"The destination file path must be a string.","The destination file path must be a string.",module,Magento_ImportExport
+"The destination file path must be a string.","Docelowa ścieżka pliku musi być tekstem.",module,Magento_ImportExport
 "The destination directory is not writable.","Katalog docelowy nie jest zapisywalny.",module,Magento_ImportExport
 "Destination file is not writable","Plik docelowy nie ma praw do zapisu",module,Magento_ImportExport
-"The header column names are already set.","The header column names are already set.",module,Magento_ImportExport
-"Data validation is failed. Please fix errors and re-upload the file.","Data validation is failed. Please fix errors and re-upload the file.",module,Magento_ImportExport
+"The header column names are already set.","Nazwy kolumn nagłówka już są ustawione.",module,Magento_ImportExport
+"Data validation is failed. Please fix errors and re-upload the file.","Walidacja danych nie powiodła się. Proszę poprawić błędy i spróbować ponownie przesłać plik.",module,Magento_ImportExport
 "in rows","w rzędach:",module,Magento_ImportExport
 "The validation is complete.","Zakończono sprawdzanie poprawności.",module,Magento_ImportExport
 "This file does not contain any data.","Ten plik nie zawiera żadnych danych.",module,Magento_ImportExport
@@ -5601,9 +5600,9 @@ Status,Status,module,Magento_ImportExport
 "Please enter a correct entity model","Podaj poprawny obiekt modelu",module,Magento_ImportExport
 "Source file coping failed","Nie udało się przenieść źródłowego pliku",module,Magento_ImportExport
 "The source is not set.","Źródło nie jest ustawione.",module,Magento_ImportExport
-"The adapter type must be a non-empty string.","The adapter type must be a non-empty string.",module,Magento_ImportExport
-"\'%1\' file extension is not supported","\'%1\' file extension is not supported",module,Magento_ImportExport
-"Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource",module,Magento_ImportExport
+"The adapter type must be a non-empty string.","Adapter musi być tekstem niepustym.",module,Magento_ImportExport
+"\'%1\' file extension is not supported","rozszerzenie pliku \'%1\' nie jest obsługiwane",module,Magento_ImportExport
+"Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","Adapter musi być instancją Mage\ImportExport\Model\Import\Adapter\AbstractSource",module,Magento_ImportExport
 "Please specify a source.","Prosimy o podanie źródła.",module,Magento_ImportExport
 "ImportExport: Import Data validation - Validation strategy not found","ImportExport: Poprawność danych importu - nie znaleziono strategi sprawdzania poprawności",module,Magento_ImportExport
 "Cannot get autoincrement value","Nie można pobrać wartości automatycznego zwiększania",module,Magento_ImportExport
