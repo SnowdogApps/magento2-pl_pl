@@ -1622,8 +1622,8 @@ Disabled,Wyłączone,module,Magento_Catalog
 "The configuration item option instance in options group is incorrect.","Instancja elementu konfiguracji opcji w grupie opcji jest niepoprawna.",module,Magento_Catalog
 "The configuration item instance in options group is incorrect.","Instancja elementu konfiguracji w grupie opcji jest nieprawidłowa.",module,Magento_Catalog
 "The BuyRequest instance in options group is incorrect.","Instancja BuyRequest w grupie opcji jest niepoprawna.",module,Magento_Catalog
-"We can\'t add the product to the cart because of an option validation issue.","We can\'t add the product to the cart because of an option validation issue.",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 doesn\'t extends \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
+"We can\'t add the product to the cart because of an option validation issue.","Nie można dodać produkt do koszyka z powodu problemu opcji sprawdzania poprawności.",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 nie rozszerza \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
 "The file options format is not valid.","Format opcji pliku jest nieprawidłowy.",module,Magento_Catalog
 px.,px.,module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","Plik '%1' dla '%2' ma nieprawidłowe rozszerzenie.",module,Magento_Catalog
@@ -1639,7 +1639,7 @@ px.,px.,module,Magento_Catalog
 "Some of the selected item options are not currently available.","Niektóre wybrane opcje nie są dostępne.",module,Magento_Catalog
 "The text is too long.","Tekst jest za długi.",module,Magento_Catalog
 "This product doesn\'t have tier price","This product doesn\'t have tier price",module,Magento_Catalog
-"Product hasn\'t group price with such data: customerGroupId = \'%1\', website = %2, qty = %3","Product hasn\'t group price with such data: customerGroupId = \'%1\', website = %2, qty = %3",module,Magento_Catalog
+"Product hasn\'t group price with such data: customerGroupId = \'%1\', website = %2, qty = %3","Produkt nie posiada grup cen z takimi danymi: customerGroupId = ""%1"", strona = %2, ilość = %3",module,Magento_Catalog
 "Invalid data provided for tier_price","Nieprawidłowe dane podane dla tier_price",module,Magento_Catalog
 "Please provide valid data","Podaj poprawne dane",module,Magento_Catalog
 "Values of following attributes are invalid: %1","Wartości następujących atrybutów są nieprawidłowe: %1",module,Magento_Catalog
@@ -1688,7 +1688,7 @@ Select...,Wybierz...,module,Magento_Catalog
 "Advanced Pricing","Advanced Pricing",module,Magento_Catalog
 "Tier Price","Tier Price",module,Magento_Catalog
 "Customer Group","Grupa klienta",module,Magento_Catalog
-"Special Price From","Special Price From",module,Magento_Catalog
+"Special Price From","Cena Promocyjna od",module,Magento_Catalog
 To,Do,module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
 Done,Zrobione,module,Magento_Catalog
@@ -1713,27 +1713,27 @@ Required,Wymagane,module,Magento_Catalog
 "Set Product as New From","Set Product as New From",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells",module,Magento_Catalog
 "Related products are shown to shoppers in addition to the item the shopper is looking at.","Related products are shown to shoppers in addition to the item the shopper is looking at.",module,Magento_Catalog
-"Add Related Products","Add Related Products",module,Magento_Catalog
+"Add Related Products","Dodaj produkty powiązane",module,Magento_Catalog
 "An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.",module,Magento_Catalog
-"Add Up-Sell Products","Add Up-Sell Products",module,Magento_Catalog
-"Up-Sell Products","Up-Sell Products",module,Magento_Catalog
+"Add Up-Sell Products","Dodaj produkty Up-Sell",module,Magento_Catalog
+"Up-Sell Products","Produkty Up-Sell ",module,Magento_Catalog
 "These \"impulse-buy\" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","These \"impulse-buy\" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.",module,Magento_Catalog
-"Add Cross-Sell Products","Add Cross-Sell Products",module,Magento_Catalog
-"Cross-Sell Products","Cross-Sell Products",module,Magento_Catalog
-"Add Selected Products","Add Selected Products",module,Magento_Catalog
+"Add Cross-Sell Products","Dodaj produkty Cross-Sell",module,Magento_Catalog
+"Cross-Sell Products","Produkty Cross-sell",module,Magento_Catalog
+"Add Selected Products","Dodaj wybrane produkty",module,Magento_Catalog
 Remove,Usuń,module,Magento_Catalog
 Thumbnail,Miniaturka,module,Magento_Catalog
 Actions,Operacje,module,Magento_Catalog
 "Schedule Update From","Ustaw aktualizację od",module,Magento_Catalog
 "Product in Websites","Product in Websites",module,Magento_Catalog
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view.",module,Magento_Catalog
-name,name,module,Magento_Catalog
-"Copy Data from","Copy Data from",module,Magento_Catalog
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakres do zastosowania dla określonego widoku.",module,Magento_Catalog
+name,nazwa,module,Magento_Catalog
+"Copy Data from","Kopiowanie danych z",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products &gt; Categories</a>.","Jeśli nie ma zdefiniowanych kategorii nadrzędnych, proszę użyć kategorii domyślnej. W każdej chwili można zmienić przypisaną kategorię w <a href=\"%1\" target=\"_blank\">Produkty &gt; Kategorie</a>.",module,Magento_Catalog
 "This operation can take a long time","Ta operacja może zająć dużo czasu",module,Magento_Catalog
 "Collapse All","Zwiń wszystko",module,Magento_Catalog
 "Expand All","Rozwiń wszystko",module,Magento_Catalog
-"Please confirm site switching. All data that hasn\'t been saved will be lost.","Please confirm site switching. All data that hasn\'t been saved will be lost.",module,Magento_Catalog
+"Please confirm site switching. All data that hasn\'t been saved will be lost.","Potwierdź proszę przełączenie strony. Wszystkie niezapisane dane zostaną utracone.",module,Magento_Catalog
 "Use Default Value","Użyj wartości domyślnej",module,Magento_Catalog
 "Manage Titles (Size, Color, etc.)","Zarządzaj tytułami (rozmiar, kolor itp.)",module,Magento_Catalog
 "Manage Options (Values of Your Attribute)","Zarządzaj opcjami (wartościami cechy)",module,Magento_Catalog
@@ -2347,11 +2347,11 @@ Description,Opis,module,Magento_CatalogStaging
 "Something went wrong while saving the category.","Coś poszło nie tak podczas zapisywania kategorii",module,Magento_CatalogStaging
 "Attribute ""%1"" is required.","Cecha %1 jest wymagana",module,Magento_CatalogStaging
 "This product no longer exists.","Ten produkt już nie istnieje.",module,Magento_CatalogStaging
-"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CatalogStaging
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
 Delete,Usuń,module,Magento_CatalogStaging
 Preview,Podgląd,module,Magento_CatalogStaging
-"Scheduled Changes","Scheduled Changes",module,Magento_CatalogStaging
+"Scheduled Changes","Planowane zmiany",module,Magento_CatalogStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogStaging
 Action,Operacja,module,Magento_CatalogStaging
 "End Date","Data zakończenia",module,Magento_CatalogStaging
@@ -2718,7 +2718,7 @@ Pages,Strony,module,Magento_Cms
 "We cannot create a new directory.","Nie możemy utworzyć nowego katalogu.",module,Magento_Cms
 "We cannot delete directory %1.","Nie możemy usunąć katalogu %1.",module,Magento_Cms
 "We can\'t upload the file right now.","We can\'t upload the file right now.",module,Magento_Cms
-"We can\'t delete root directory %1 right now.","We can\'t delete root directory %1 right now.",module,Magento_Cms
+"We can\'t delete root directory %1 right now.","W tej chwili nie możemy usunąć katalogu głównego %1.",module,Magento_Cms
 "Directory %1 is not under storage root path.","Katalog %1 jest w ścieżce katalogu głównego magazynu.",module,Magento_Cms
 LocalizedException,LocalizedException,module,Magento_Cms
 RuntimeException,RuntimeException,module,Magento_Cms
