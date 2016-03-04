@@ -1137,7 +1137,7 @@ Type,Rodzaj,module,Magento_BraintreeTwo
 Amount,Kwota,module,Magento_BraintreeTwo
 "Settlement Code","Settlement Code",module,Magento_BraintreeTwo
 "Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
-"Refund Ids","Refund Ids",module,Magento_BraintreeTwo
+"Refund Ids",Zwroty,module,Magento_BraintreeTwo
 "Settlement Batch ID","Settlement Batch ID",module,Magento_BraintreeTwo
 Currency,Waluta,module,Magento_BraintreeTwo
 "Percent Discount","Zniżka procentowa",module,Magento_Bundle
@@ -1166,7 +1166,7 @@ Delete,Usuń,module,Magento_Bundle
 "Product with specified sku: ""%1"" does not contain option: ""%2""","Produkt o sku: ""%1"" nie zawiera opcji: ""%2""",module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Dziecko z określonym sku: ""%1"" już przypisane do produktu: ""%2""",module,Magento_Bundle
 "Product with specified sku: %1 is not a bundle product","Produkt o sku: %1 nie jest pakietem produktów",module,Magento_Bundle
-"Requested bundle option product doesn\'t exist","Requested bundle option product doesn\'t exist",module,Magento_Bundle
+"Requested bundle option product doesn\'t exist","Żądany pakiet opcji produktu nie istnieje",module,Magento_Bundle
 "Requested option doesn\'t exist","Żądana opcja nie istnieje",module,Magento_Bundle
 "Cannot delete option with id %1","Nie można usunąć opcji z id %1",module,Magento_Bundle
 "Could not save option","Nie można zapisać opcji",module,Magento_Bundle
@@ -1182,7 +1182,7 @@ Separately,Oddzielnie,module,Magento_Bundle
 N/A,N/D,module,Magento_Bundle
 Percent,Procent,module,Magento_Bundle
 "Ship Bundle Items","Dostawa powiązanych produktów",module,Magento_Bundle
-"We can\'t save custom-defined options for bundles with dynamic pricing.","We can\'t save custom-defined options for bundles with dynamic pricing.",module,Magento_Bundle
+"We can\'t save custom-defined options for bundles with dynamic pricing.","Nie można zapisać opcji niestandardowych dla grup produktów z dynamicznymi cenami.",module,Magento_Bundle
 Cancel,Anuluj,module,Magento_Bundle
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_Bundle
 [GLOBAL],[GLOBALNY],module,Magento_Bundle
@@ -2070,13 +2070,13 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Category ""%1"" has not been created.","Kategoria ""%1"" nie została utworzona.",module,Magento_CatalogImportExport
 "File directory \'%1\' is not readable.","Katalog \'%1\' nie jest do odczytu.",module,Magento_CatalogImportExport
 "File directory \'%1\' is not writable.","Katalog \'%1\' nie jest zapisywalny.",module,Magento_CatalogImportExport
-"Value for \'price\' sub attribute in \'store\' attribute contains incorrect value","Value for \'price\' sub attribute in \'store\' attribute contains incorrect value",module,Magento_CatalogImportExport
-"Value for \'type\' sub attribute in \'custom_options\' attribute contains incorrect value, acceptable values are: \'dropdown\', \'checkbox\'","Value for \'type\' sub attribute in \'custom_options\' attribute contains incorrect value, acceptable values are: \'dropdown\', \'checkbox\'",module,Magento_CatalogImportExport
+"Value for \'price\' sub attribute in \'store\' attribute contains incorrect value","Wartość atrybutu 'cena' w 'sklep' zawiera nieprawidłową wartość",module,Magento_CatalogImportExport
+"Value for \'type\' sub attribute in \'custom_options\' attribute contains incorrect value, acceptable values are: \'dropdown\', \'checkbox\'","Wartość 'Typ' w 'custom_options' zawiera nieprawidłową wartość, dopuszczalne wartości to: ""rozwijanej"", ""checkbox""",module,Magento_CatalogImportExport
 "Please enter a value for title.","Wprowadź wartości dla tytułu.",module,Magento_CatalogImportExport
 "Value for \'price\' sub attribute in \'custom_options\' attribute contains incorrect value","Wartość cechy 'price' w atrybucie 'custom_options' zawiera nieprawidłową wartość",module,Magento_CatalogImportExport
-"Value for \'maximum characters\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'maximum characters\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
+"Value for \'maximum characters\' sub attribute in \'custom_options\' attribute contains incorrect value","Wartość atrybutu 'Maksymalna znaków' w 'custom_options' zawiera nieprawidłową wartość",module,Magento_CatalogImportExport
 "Value for \'sort order\' sub attribute in \'custom_options\' attribute contains incorrect value","Wartość cechy 'sort order' w atrybucie 'custom_options' zawiera nieprawidłową wartość",module,Magento_CatalogImportExport
-"Value for \'value price\' sub attribute in \'custom_options\' attribute contains incorrect value","Value for \'value price\' sub attribute in \'custom_options\' attribute contains incorrect value",module,Magento_CatalogImportExport
+"Value for \'value price\' sub attribute in \'custom_options\' attribute contains incorrect value","Wartość atrybutu 'cena' w 'custom_options' zawiera nieprawidłową wartość",module,Magento_CatalogImportExport
 "This name is already being used for custom option. Please enter a different name.","Ta nazwa jest już używana dla niestandardowych opcji. Podaj inną nazwę.",module,Magento_CatalogImportExport
 "Custom options have different types.","Niestandardowe opcje mają różne typy.",module,Magento_CatalogImportExport
 "Every option entity must have a parent product entity.","Każda opcja musi mieć obiekt produktu nadrzędnego.",module,Magento_CatalogImportExport
@@ -2109,8 +2109,8 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "The fewest you may purchase is %1.","Najmniej, ile możesz zakupić to %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Proszę poprawić ilość dla niektórych produktów.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Najwięcej, ile możnesz kupic to %1.",module,Magento_CatalogInventory
-"We don\'t have as many \\%1\\ as you requested.""""""","We don\'t have as many \\%1\\ as you requested.""""""",module,Magento_CatalogInventory
-"We don\'t have as many \\%1\\ as you requested""","We don\'t have as many \\%1\\ as you requested""","We don\'t have as many \\%1\\ as you requested"""," but we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
+"We don\'t have as many \\%1\\ as you requested.""""""","Nie mamy tyle \\%1\\ ile zamawiasz.""""""",module,Magento_CatalogInventory
+"We don\'t have as many \\%1\\ as you requested""","Nie mamy tyle \\%1\\ ile zamawiasz.""""""","We don\'t have as many \\%1\\ as you requested"""," but we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
 "We don\'t have \\%1\\ in the requested quantity""","We don\'t have \\%1\\ in the requested quantity""","We don\'t have \\%1\\ in the requested quantity"""," so we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Możesz kupić %1 tylko w ilościach po %2 na raz.",module,Magento_CatalogInventory
 "You can buy this product only in quantities of %1 at a time.","Możesz kupić ten produkt tylko w ilościach po %1 na raz.",module,Magento_CatalogInventory
@@ -3053,8 +3053,8 @@ Actions,Operacje,module,Magento_ConfigurableProduct
 Confirm,Potwierdź,module,Magento_ConfigurableProduct
 Cancel,Anuluj,module,Magento_ConfigurableProduct
 "New Product Review","Nowa recenzja produktu",module,Magento_ConfigurableProduct
-"Here are the products you\'re about to create.","Here are the products you\'re about to create.",module,Magento_ConfigurableProduct
-"You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
+"Here are the products you\'re about to create.","Oto produkty, które zamierzasz utworzyć.",module,Magento_ConfigurableProduct
+"You created these products for this configuration.","Te produkty zostały stworzone dla tej konfiguracji.",module,Magento_ConfigurableProduct
 "Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
 "These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
 "Disable Product","Wyłącz produkt",module,Magento_ConfigurableProduct
@@ -3124,7 +3124,7 @@ Contacts,Kontakty,module,Magento_Contact
 "Cookie Domain","Domena dla cookie",module,Magento_Cookie
 "Use HTTP Only","Użyj tylko HTTP",module,Magento_Cookie
 "Cookie Restriction Mode","Tryb ograniczenia cookie",module,Magento_Cookie
-"We can\'t save the cron expression.","We can\'t save the cron expression.",module,Magento_Cron
+"We can\'t save the cron expression.","Nie możemy zapisać wyrażenia cron.",module,Magento_Cron
 Daily,Codziennie,module,Magento_Cron
 Weekly,"Co tydzień",module,Magento_Cron
 Monthly,"Co miesiąc",module,Magento_Cron
@@ -3458,7 +3458,7 @@ Female,Kobieta,module,Magento_Customer
 message,wiadomość,module,Magento_Customer
 NoSuchEntityException,NoSuchEntityException,module,Magento_Customer
 Exception,Wyjątek,module,Magento_Customer
-"This account is not confirmed. <a href=\"%1\">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=\"%1\">Click here</a> to resend confirmation email.",module,Magento_Customer
+"This account is not confirmed. <a href=\"%1\">Click here</a> to resend confirmation email.","To konto nie jest potwierdzone. <a href=\"%1\"> Kliknij tutaj</a> aby wysłać e-mail z potwierdzeniem.",module,Magento_Customer
 InputException.,InputException.,module,Magento_Customer
 InputException,InputException,module,Magento_Customer
 "Exception message","Komunikat wyjątku",module,Magento_Customer
@@ -3590,10 +3590,10 @@ Password:,Hasło:,module,Magento_Customer
 "Email Address","Adres e-mail",module,Magento_Customer
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Customer
 "Are you sure you want to delete this address?","Czy na pewno chcesz usunąć ten adres?",module,Magento_Customer
-"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
+"Guest checkout is disabled.","Możliwość składania zamówień przez użytkowników niezalogowanych jest wyłączona.",module,Magento_Customer
 "All Customers","Wszyscy klienci",module,Magento_Customer
 "Now Online","Teraz zalogowani",module,Magento_Customer
-"Customers Section","Customers Section",module,Magento_Customer
+"Customers Section","Sekcja klientów",module,Magento_Customer
 "Customer Configuration","Konfiguracja klienta",module,Magento_Customer
 "Account Sharing Options","Opcje udostępniania konta",module,Magento_Customer
 "Share Customer Accounts","Udostępniaj konta klientów",module,Magento_Customer
@@ -3644,7 +3644,7 @@ Ten email zostanie wysłany zamiast Domyślnego Emaila Przywitalnego, po potwier
 "Minimum Password Length","minimalna długość hasła",module,Magento_Customer
 "Maximum Login Failures to Lockout Account","Maxymalna liczba nieudanych prób logowania do blokady konta",module,Magento_Customer
 "Use 0 to disable account locking.","Use 0 to disable account locking.",module,Magento_Customer
-"Lockout Time (minutes)","Lockout Time (minutes)",module,Magento_Customer
+"Lockout Time (minutes)","Czas blokady (w minutach)",module,Magento_Customer
 "Name and Address Options","Opcje nazwy i adresu",module,Magento_Customer
 "Number of Lines in a Street Address","Ilość linii w polu adresu",module,Magento_Customer
 "Leave empty for default (2). Valid range: 1-4","Pozostaw puste dla domyślnej wartości (2). Dozwolone wartości: 1-4",module,Magento_Customer
@@ -4581,7 +4581,7 @@ Preview,Podgląd,module,Magento_Email
 Unknown,Nieznany,module,Magento_Email
 "You deleted the email template.","Usunąłeś szablon wiadomości email.",module,Magento_Email
 "The email template is currently being used.","Szablon wiadomości e-mail jest aktualnie używany.",module,Magento_Email
-"We can\'t delete email template data right now. Please review log and try again.","We can\'t delete email template data right now. Please review log and try again.",module,Magento_Email
+"We can\'t delete email template data right now. Please review log and try again.","W tej chwili nie możemy usunąć szablonu e-mail. Przejrzyj logi i spróbuj ponownie.",module,Magento_Email
 "We can\'t find an email template to delete.","Nie możemy znaleźć szablonu wiadomości e-mail do usunięcia.",module,Magento_Email
 "Edit Template","Edycja szablonu",module,Magento_Email
 "Edit System Template","Edycja szablonu systemowego",module,Magento_Email
@@ -7645,7 +7645,7 @@ quantity,ilość,module,Magento_Reminder
 "base price","cena bazowa",module,Magento_Reminder
 "base cost","podstawowy koszt",module,Magento_Reminder
 "Item %1 %2 %3:","Produkt %1 %2 %3:",module,Magento_Reminder
-"Unknown attribute specified","Unknown attribute specified",module,Magento_Reminder
+"Unknown attribute specified","Nieznane określenie cechy",module,Magento_Reminder
 "Items Subselection","Items Subselection",module,Magento_Reminder
 "Coupon Code","Kod kuponu",module,Magento_Reminder
 "Shopping cart %1 a coupon applied","Shopping cart %1 a coupon applied",module,Magento_Reminder
@@ -7665,7 +7665,7 @@ found,znaleziono,module,Magento_Reminder
 "Items Quantity","Ilość produktów",module,Magento_Reminder
 "Total shopping cart items quantity %1 %2:","Total shopping cart items quantity %1 %2:",module,Magento_Reminder
 "Virtual Only","Tylko wirtualne",module,Magento_Reminder
-"Shopping cart %1 only virtual items","Shopping cart %1 only virtual items",module,Magento_Reminder
+"Shopping cart %1 only virtual items","koszyk %1 tylko wirtualne przedmioty",module,Magento_Reminder
 "Wish List","Lista życzeń",module,Magento_Reminder
 "Shopping Cart",Koszyk,module,Magento_Reminder
 "The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:",module,Magento_Reminder
@@ -7675,17 +7675,17 @@ found,znaleziono,module,Magento_Reminder
 "Number of Items","Ilość produktów",module,Magento_Reminder
 "Number of wish list items %1 %2 ","Number of wish list items %1 %2 ",module,Magento_Reminder
 Sharing,Udostępnianie,module,Magento_Reminder
-"Wish List %1 shared","Wish List %1 shared",module,Magento_Reminder
+"Wish List %1 shared","Lista życzeń %1 udostępniona",module,Magento_Reminder
 is,jest,module,Magento_Reminder
 "is not","nie jest",module,Magento_Reminder
-"The item was added to wish list %1, store view %2.","The item was added to wish list %1, store view %2.",module,Magento_Reminder
-"If an item is %1 in the wish list and %2 of these conditions match:","If an item is %1 in the wish list and %2 of these conditions match:",module,Magento_Reminder
-"Condition type is unexpected","Condition type is unexpected",module,Magento_Reminder
+"The item was added to wish list %1, store view %2.","Produkt został dodany do listy życzeń %1, widok sklepu %2 ",module,Magento_Reminder
+"If an item is %1 in the wish list and %2 of these conditions match:","Jeśli produkt jest %1 w liście życzeń i %2 jedne z tych warunków daje prawdę:",module,Magento_Reminder
+"Condition type is unexpected","Typ warunku jest nieakceptowany",module,Magento_Reminder
 "Please specify a valid number of minute.","Please specify a valid number of minute.",module,Magento_Reminder
 "Unable to save Cron expression","Nie można zapisać wyrażenia cron.",module,Magento_Reminder
 "<b>Important</b>: If you select \"Use Auto Generation\", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Important</b>: If you select \"Use Auto Generation\", this rule will no longer be used in any automated email reminder rules for abandoned carts",module,Magento_Reminder
-"Validate error 1","Validate error 1",module,Magento_Reminder
-"Validate error 2","Validate error 2",module,Magento_Reminder
+"Validate error 1","Błąd walidacji 1",module,Magento_Reminder
+"Validate error 2","Błąd walidacji 2",module,Magento_Reminder
 LocalizedException,LocalizedException,module,Magento_Reminder
 text,tekst,module,Magento_Reminder
 "%name,","%name,",module,Magento_Reminder
@@ -7931,9 +7931,9 @@ Action,Operacja,module,Magento_Reports
 "Last Credit Memo Created Date","Data utworzenie ostatniej faktury korygującej",module,Magento_Reports
 "First Invoice Created Date","Data wystawienia pierwszej faktury",module,Magento_Reports
 "Refresh Lifetime Statistics","Odśwież całkowite statystyki",module,Magento_Reports
-"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.",module,Magento_Reports
-"Refresh Statistics for the Last Day","Odświerz statystyki dla ostatniego dnia",module,Magento_Reports
-"Are you sure you want to refresh statistics for the last day?","Are you sure you want to refresh statistics for the last day?",module,Magento_Reports
+"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Czy na pewno chcesz odświeżania statystyki teraz? Ta operacja może spowalniać zakupy twoim klientom.",module,Magento_Reports
+"Refresh Statistics for the Last Day","Odśwież statystyki dla ostatniego dnia",module,Magento_Reports
+"Are you sure you want to refresh statistics for the last day?","Czy na pewno chcesz odświeżyć statystyki za ostatni dzień?",module,Magento_Reports
 Report,Raport,module,Magento_Reports
 Description,Opis,module,Magento_Reports
 undefined,niezdefiniowany,module,Magento_Reports
