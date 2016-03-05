@@ -1263,7 +1263,7 @@ CAPTCHA,CAPTCHA,module,Magento_Captcha
 "Enable CAPTCHA in Admin","Włącz CAPTCHA w panelu admina",module,Magento_Captcha
 Font,Czcionka,module,Magento_Captcha
 Forms,Formularze,module,Magento_Captcha
-"Displaying Mode","Tryb wyświetlania",module,Magento_Captcha
+"Displaying Mode","Sposób wyświetlania",module,Magento_Captcha
 "Number of Unsuccessful Attempts to Login","Ilość nieudanych prób logowania",module,Magento_Captcha
 "If 0 is specified, CAPTCHA on the Login form will be always available.","Jeśli wybrane jest 0, CAPTCHA na formularzu logowania będzie zawsze włączona.",module,Magento_Captcha
 "CAPTCHA Timeout (minutes)","Timeout CAPTCHA (minuty)",module,Magento_Captcha
@@ -1281,7 +1281,7 @@ Root,Baza,module,Magento_Catalog
 Delete,Usuń,module,Magento_Catalog
 Save,Zapisz,module,Magento_Catalog
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_Catalog
-"Use All Available Attributes","Użyj wszystkie dostępne cechy",module,Magento_Catalog
+"Use All Available Attributes","Używaj wszystkich dostępnych cech",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
 Name,Nazwa,module,Magento_Catalog
 SKU,SKU,module,Magento_Catalog
@@ -1912,7 +1912,7 @@ Watermark,"Znak wodny",module,Magento_Catalog
 "Reorganize EAV product structure to flat structure","Przeorganizuj strukturę EAV produktów do płaskiej struktury",module,Magento_Catalog
 "Category Flat Data","Płaskie dane kategorii",module,Magento_Catalog
 "Reorganize EAV category structure to flat structure","Przeorganizuj strukturę EAV kategorii do płaskiej struktury",module,Magento_Catalog
-"Category Products","Produkty kategorii",module,Magento_Catalog
+"Category Products",Produkty,module,Magento_Catalog
 "Indexed category/products association","Zaindeksowane powiązania kategorii/produktów",module,Magento_Catalog
 "Product Categories","Kategorie produktu",module,Magento_Catalog
 "Indexed product/categories association","Indeksowane produktu/kategorii skojarzeń",module,Magento_Catalog
@@ -1959,7 +1959,7 @@ Content,Zawartość,module,Magento_Catalog
 "Category Image","Obraz kategorii",module,Magento_Catalog
 "Delete Image","Usuń obraz",module,Magento_Catalog
 "Add CMS Block","Dodaj blok CMS",module,Magento_Catalog
-"Display Settings","Ustawienia wyświetlania",module,Magento_Catalog
+"Display Settings",Wyświetlanie,module,Magento_Catalog
 Anchor,"Zakotwiczona (wyświetla filtry atrybutów)",module,Magento_Catalog
 "Sort Products By","Sortuj produkty wg",module,Magento_Catalog
 "Use All","Użyj wszystkie",module,Magento_Catalog
@@ -1969,7 +1969,7 @@ Anchor,"Zakotwiczona (wyświetla filtry atrybutów)",module,Magento_Catalog
 "Meta Title","Meta tytuł",module,Magento_Catalog
 "Meta Keywords","Słowa kluczowe",module,Magento_Catalog
 "Meta Description","Opis strony META",module,Magento_Catalog
-"Products in Category","Produkty w kategorii",module,Magento_Catalog
+"Products in Category",Produkty,module,Magento_Catalog
 Design,Wygląd,module,Magento_Catalog
 "Use Parent Category Settings","Użyj ustawień kategorii nadrzędnego",module,Magento_Catalog
 Theme,Temat,module,Magento_Catalog
@@ -2199,8 +2199,8 @@ Reset,Resetuj,module,Magento_CatalogRule
 "Save and Apply","Zapisz i zastosuj",module,Magento_CatalogRule
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_CatalogRule
 Save,Zapisz,module,Magento_CatalogRule
-"Catalog Price Rule","Reguła cenowa katalogu",module,Magento_CatalogRule
-"Add New Rule","Dodaj nową regułę",module,Magento_CatalogRule
+"Catalog Price Rule","Reguły cenowe katalogu",module,Magento_CatalogRule
+"Add New Rule","Dodaj regułę",module,Magento_CatalogRule
 "Apply Rules","Zastosuj reguły",module,Magento_CatalogRule
 Conditions,Warunki,module,Magento_CatalogRule
 "Conditions (don\'t add conditions if rule is applied to all products)","Warunki (nie dodawaj warunków, jeśli reguła obejmuje wszystkie produkty)",module,Magento_CatalogRule
@@ -2367,7 +2367,7 @@ Content,Zawartość,module,Magento_CatalogStaging
 "Category Image","Obraz kategorii",module,Magento_CatalogStaging
 "Delete Image","Usuń obraz",module,Magento_CatalogStaging
 "Add CMS Block","Dodaj blok CMS",module,Magento_CatalogStaging
-"Display Settings","Ustawienia wyświetlania",module,Magento_CatalogStaging
+"Display Settings",Wyświetlanie,module,Magento_CatalogStaging
 Anchor,"Zakotwiczona (wyświetla filtry atrybutów)",module,Magento_CatalogStaging
 "Sort Products By","Sortuj produkty wg",module,Magento_CatalogStaging
 "Use All","Użyj wszystkie",module,Magento_CatalogStaging
@@ -2765,7 +2765,7 @@ Template,Szablon,module,Magento_Cms
 Block,Blok,module,Magento_Cms
 "Select Block...","Wybierz blok...",module,Magento_Cms
 "CMS Static Block Default Template","Domyślny szablon blokowy statycznego bloku CMS",module,Magento_Cms
-"General Information","Informacje ogólne",module,Magento_Cms
+"General Information",Ogólne,module,Magento_Cms
 "Enable Block","Włącz blok",module,Magento_Cms
 "Block Title","Tytuł bloku",module,Magento_Cms
 "Delete items","Usuń pozycje",module,Magento_Cms
@@ -2814,7 +2814,7 @@ Action,Operacja,module,Magento_CmsStaging
 "Update Name","Zaktualizowana nazwa",module,Magento_CmsStaging
 "Start date","Data rozpoczęcia",module,Magento_CmsStaging
 "End date","Data zakończenia",module,Magento_CmsStaging
-"General Information","Ogólne informacje",module,Magento_CmsStaging
+"General Information",Ogólne,module,Magento_CmsStaging
 "Enable Block","Włącz blok",module,Magento_CmsStaging
 "Block Title","Tytuł bloku",module,Magento_CmsStaging
 Identifier,Identyfikator,module,Magento_CmsStaging
@@ -3220,9 +3220,9 @@ Action,Operacja,module,Magento_Customer
 Configure,Konfiguruj,module,Magento_Customer
 Delete,Usuń,module,Magento_Customer
 "Shopping Cart from %1","Koszyk od %1",module,Magento_Customer
-Newsletter,Biuletyn,module,Magento_Customer
+Newsletter,Newsletter,module,Magento_Customer
 "Newsletter Information","Informacje o newsletterze",module,Magento_Customer
-"Subscribed to Newsletter","Subskrybujesz newsletter",module,Magento_Customer
+"Subscribed to Newsletter","Zamówiona subskrypcja newslettera",module,Magento_Customer
 "Last Date Subscribed","Data ostatniej subskrypcji",module,Magento_Customer
 "Last Date Unsubscribed","Data ostatniego wypisania z newslettera",module,Magento_Customer
 "No Newsletter Found","Nie znaleziono newslettera",module,Magento_Customer
@@ -3482,7 +3482,7 @@ Customer,Klient,module,Magento_Customer
 "Account Created on (%1):","Konto utworzono (%1):",module,Magento_Customer
 "Account Created in:","Konto utworzono w:",module,Magento_Customer
 "Customer Group:","Grupa klienta:",module,Magento_Customer
-"Default Billing Address","Podstawowy adres rozliczeniowy",module,Magento_Customer
+"Default Billing Address","Domyślny adres rozliczeniowy",module,Magento_Customer
 "Sales Statistics","Statystyki sprzedaży",module,Magento_Customer
 "Web Site",Witryna,module,Magento_Customer
 Store,Sklep,module,Magento_Customer
@@ -3591,8 +3591,8 @@ Password:,Hasło:,module,Magento_Customer
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Customer
 "Are you sure you want to delete this address?","Czy na pewno chcesz usunąć ten adres?",module,Magento_Customer
 "Guest checkout is disabled.","Możliwość składania zamówień przez użytkowników niezalogowanych jest wyłączona.",module,Magento_Customer
-"All Customers","Wszyscy klienci",module,Magento_Customer
-"Now Online","Teraz zalogowani",module,Magento_Customer
+"All Customers","Lista klientów",module,Magento_Customer
+"Now Online","Obecnie zalogowani",module,Magento_Customer
 "Customers Section","Sekcja klientów",module,Magento_Customer
 "Customer Configuration","Konfiguracja klienta",module,Magento_Customer
 "Account Sharing Options","Opcje udostępniania konta",module,Magento_Customer
@@ -3674,7 +3674,7 @@ Wartości oddzielone średnikiem (;). <br/>Umieść średnik na początku dla pi
 "Customer Grid","Siatka klientów",module,Magento_Customer
 "Rebuild Customer grid index","Odbuduj indeks siatki klientów",module,Magento_Customer
 Group,Grupa,module,Magento_Customer
-"Add New Customer","Dodaj nowego klienta",module,Magento_Customer
+"Add New Customer","Dodaj klienta",module,Magento_Customer
 "Delete items","Usuń pozycje",module,Magento_Customer
 "Are you sure to delete selected customers?","Czy na pewno chcesz usunąć zaznaczonych klientów?",module,Magento_Customer
 "Subscribe to Newsletter","Subskrybuj newsletter",module,Magento_Customer
@@ -3700,7 +3700,7 @@ Type,Rodzaj,module,Magento_Customer
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakresu do zastosowania dla określonego widoku.",module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Wyłącz automatyczne zmiany grup w oparciu o VAT ID",module,Magento_Customer
 "Send Welcome Email From","Wyślij wiadomość powitalną z tego emaila",module,Magento_Customer
-Addresses,Adresy,module,Magento_Customer
+Addresses,"Książka adresowa",module,Magento_Customer
 "Are you sure you want to delete this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Customer
 "Account Dashboard","Panel konta",module,Magento_Customer
 "Edit Account Information","Edytuj informacje o koncie",module,Magento_Customer
@@ -3815,7 +3815,7 @@ Yes,Tak,module,Magento_CustomerCustomAttributes
 "Manage Form Types","Zarządzanie rodzajami formularzy",module,Magento_CustomerCustomAttributes
 "New Form Type","Nowy typ formularza",module,Magento_CustomerCustomAttributes
 "Edit Form Type ""%1""","Edycja typu formularza: %1",module,Magento_CustomerCustomAttributes
-"General Information","Informacje ogólne",module,Magento_CustomerCustomAttributes
+"General Information",Ogólne,module,Magento_CustomerCustomAttributes
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_CustomerCustomAttributes
 "Based On","Bazujący na",module,Magento_CustomerCustomAttributes
 "Form Label","Etykieta formularza",module,Magento_CustomerCustomAttributes
@@ -5110,7 +5110,7 @@ Long,Długie,module,Magento_GiftRegistry
 Full,Pełne,module,Magento_GiftRegistry
 "Add New Option","Dodaj nową opcję",module,Magento_GiftRegistry
 "Delete Option","Usuń opcję",module,Magento_GiftRegistry
-"General Information","Informacje ogólne",module,Magento_GiftRegistry
+"General Information",Ogólne,module,Magento_GiftRegistry
 Code,Kod,module,Magento_GiftRegistry
 Label,Etykieta,module,Magento_GiftRegistry
 "Sort Order","Kolejność sortowania",module,Magento_GiftRegistry
@@ -6456,7 +6456,7 @@ Action,Operacja,module,Magento_Newsletter
 "Please correct the newsletter template and try again.","Proszę poprawić szablon newslettera i spróbuj ponownie.",module,Magento_Newsletter
 "You saved the newsletter queue.","Zapisana kolejka newslettera.",module,Magento_Newsletter
 "Newsletter Subscribers","Subskrybenci newslettera",module,Magento_Newsletter
-Newsletter,Biuletyn,module,Magento_Newsletter
+Newsletter,Newsletter,module,Magento_Newsletter
 Subscribers,Subskrybenci,module,Magento_Newsletter
 "Please select one or more subscribers.","Wybierz jedną lub więcej subskrybentów.",module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","Usunięto %1 wpis(ów).",module,Magento_Newsletter
@@ -6715,7 +6715,7 @@ Back,Powrót,module,Magento_Paypal
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Paypal
 Cancel,Anuluj,module,Magento_Paypal
 "Billing Agreement #%1","Umowa rozliczeniowa nr %1",module,Magento_Paypal
-"General Information","Informacje ogólne",module,Magento_Paypal
+"General Information",Ogólne,module,Magento_Paypal
 "Related Orders","Powiązane zamówienia",module,Magento_Paypal
 Order,Zamówienie,module,Magento_Paypal
 Purchased,Zakupiono,module,Magento_Paypal
@@ -7558,7 +7558,7 @@ Carts,Koszyki,module,Magento_Quote
 "Manage carts","Zarządzaj koszykami",module,Magento_Quote
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Powiązane reguły automatycznego przypomnienia: %1. Usunięcie pozycji spowoduje usunięcie tych powiązań.",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Automated Email Marketing Reminder Rules",module,Magento_Reminder
-"Add New Rule","Dodaj nową regułę",module,Magento_Reminder
+"Add New Rule","Dodaj regułę",module,Magento_Reminder
 "Are you sure you want to match this rule now?","Are you sure you want to match this rule now?",module,Magento_Reminder
 "No more than %1 customers may receive the reminder email after this action.","Liczba klientów, która może otrzymać e-mail z przypomnieniem po tej akcji: %1.",module,Magento_Reminder
 "Run Now","Uruchom teraz",module,Magento_Reminder
@@ -7581,11 +7581,11 @@ N/A,N/D,module,Magento_Reminder
 "Emails Sent","E-mail Wysłany",module,Magento_Reminder
 "Emails Failed","E-maile nie powiodły się",module,Magento_Reminder
 "Last Sent","Ostatnio wysłane",module,Magento_Reminder
-"General Information","Informacje ogólne",module,Magento_Reminder
+"General Information",Ogólne,module,Magento_Reminder
 "Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","E-mail z przypomnieniem może promować regułę cenową koszyka z kuponem lub bez. Jeśli taka reguła definiuje automatycznie generowany kupon, przypomnienie wygeneruje kod kuponu dla każdego klienta.",module,Magento_Reminder
 "Rule Name","Nazwa reguły",module,Magento_Reminder
 Description,Opis,module,Magento_Reminder
-"Cart Price Rule","Zasady koszyka cen",module,Magento_Reminder
+"Cart Price Rule","Reguły cenowe koszyka",module,Magento_Reminder
 "Promotion rule this reminder will advertise.","Reguły promocyjne, które to przypomnienie będzie reklamowało.",module,Magento_Reminder
 "Assigned to Website","Przypisane do witryny",module,Magento_Reminder
 Status,Status,module,Magento_Reminder
@@ -7728,7 +7728,7 @@ No,Nie,module,Magento_Reports
 "Invalid date specified","Wybrana data jest nieprawidłowa",module,Magento_Reports
 Refresh,Odśwież,module,Magento_Reports
 "We can\'t find records for this period.","Nie udało się znaleźć wpisów z tego okresu.",module,Magento_Reports
-"Show Reviews","Pokaż recenzje",module,Magento_Reports
+"Show Reviews","Pokaż opinie",module,Magento_Reports
 "Products Report","Raport produktów",module,Magento_Reports
 Downloads,Pobrania,module,Magento_Reports
 Product,Produkt,module,Magento_Reports
@@ -7747,13 +7747,13 @@ Total,Łącznie,module,Magento_Reports
 Price,Cena,module,Magento_Reports
 Views,Widoki,module,Magento_Reports
 "Refresh Statistics","Odśwież statystyki",module,Magento_Reports
-"Customers Reviews","Recenzje klientów",module,Magento_Reports
-"Reviews for %1","Recenzje dla %1",module,Magento_Reports
+"Customers Reviews","Opinie klientów",module,Magento_Reports
+"Reviews for %1","Opinie %1",module,Magento_Reports
 Customer,Klient,module,Magento_Reports
 Title,Tytuł,module,Magento_Reports
 Detail,Szczegół,module,Magento_Reports
 Created,Utworzono,module,Magento_Reports
-"Products Reviews","Recenzje produktów",module,Magento_Reports
+"Products Reviews","Opinie produktów",module,Magento_Reports
 "Products Bestsellers Report","Raport bestsellerów",module,Magento_Reports
 "Order Quantity","Ilość zamawień",module,Magento_Reports
 "Coupons Usage Report","Raport wykorzystania kuponów",module,Magento_Reports
@@ -7971,10 +7971,10 @@ Delete,Usuń,module,Magento_Review
 "Update Status","Aktualizuj status",module,Magento_Review
 Customer,Klient,module,Magento_Review
 "Pending Reviews of Customer `%1`","Oczekujące opinie Klienta `%1`",module,Magento_Review
-"Pending Reviews","Oczekujące recenzje",module,Magento_Review
+"Pending Reviews","Niezatwierdzone opinie",module,Magento_Review
 "All Reviews of Customer `%1`","Wszystkie opinie Klienta `%1`",module,Magento_Review
 "All Reviews of Product `%1`","Wszystkie opinie produktu `%1`",module,Magento_Review
-"All Reviews","Wszystkie recenzje",module,Magento_Review
+"All Reviews","Lista opinii",module,Magento_Review
 Name,Nazwa,module,Magento_Review
 "Product Store Name","Product Store Name",module,Magento_Review
 Price,Cena,module,Magento_Review
@@ -7993,7 +7993,7 @@ Websites,Witryny,module,Magento_Review
 "Sort Order","Kolejność sortowania",module,Magento_Review
 "Rating Information","Informacje o ocenie",module,Magento_Review
 "Product Reviews",Opinie,module,Magento_Review
-"Pending product review(s)","Oczekujące recenzje produktów",module,Magento_Review
+"Pending product review(s)","Niezatwierdzone opinie",module,Magento_Review
 "Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produkt: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
 "Summary of review: %1 <br/>","Podsumowanie opinii: %1 <br/>",module,Magento_Review
 "Review: %1 <br/>","Opinia: %1 <br/>",module,Magento_Review
@@ -8064,8 +8064,8 @@ Summary,Podsumowanie,module,Magento_Review
 "Product Rating:","Ocena produktu:",module,Magento_Review
 "Product Review (submitted on %1):","Recenzja produktu (zgłoszona %1):",module,Magento_Review
 "Back to Product Reviews","Wróć do recenzji produktu",module,Magento_Review
-"By Customers","By Customers",module,Magento_Review
-"By Products","By Products",module,Magento_Review
+"By Customers",Klienci,module,Magento_Review
+"By Products",Produkty,module,Magento_Review
 "Allow Guests to Write Reviews","Pozwól gościom na pisanie recenzji",module,Magento_Review
 Active,Aktywny,module,Magento_Review
 Inactive,Nieaktywny,module,Magento_Review
@@ -8261,7 +8261,7 @@ OK,OK,module,Magento_Rma
 Cancel,Anuluj,module,Magento_Rma
 "Delete Image","Usuń obraz",module,Magento_Rma
 "View Full Size","Zobacz pełen rozmiar",module,Magento_Rma
-"General Information","Informacje ogólne",module,Magento_Rma
+"General Information",Ogólne,module,Magento_Rma
 "Submit Comment","Dodaj komentarz",module,Magento_Rma
 Add,Dodaj,module,Magento_Rma
 "Custom Value","Niestandardowa wartość",module,Magento_Rma
@@ -9476,8 +9476,8 @@ Shipment,Dostawa,module,Magento_SalesArchive
 "Ship Date","Data wysyłki",module,Magento_SalesArchive
 "Total Quantity","Całkowita ilość",module,Magento_SalesArchive
 "Go to Archive","Przejdź do archiwum",module,Magento_SalesArchive
-"Cart Price Rules","Zasady koszyka cen",module,Magento_SalesRule
-"Add New Rule","Dodaj nową regułę",module,Magento_SalesRule
+"Cart Price Rules","Reguły cenowe koszyka",module,Magento_SalesRule
+"Add New Rule","Dodaj regułę",module,Magento_SalesRule
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_SalesRule
 "Edit Rule '%1'","Edytuj regułę '%1'",module,Magento_SalesRule
 "New Rule","Nowa reguła",module,Magento_SalesRule
@@ -9512,7 +9512,7 @@ CSV,CSV,module,Magento_SalesRule
 "Are you sure you want to delete the selected coupon(s)?","Czy na pewno chcesz usunąć wybrany kupon(y)?",module,Magento_SalesRule
 Labels,Etykiey,module,Magento_SalesRule
 "Store View Specific Labels","Etykiey specyficzne dla widoku sklepu",module,Magento_SalesRule
-"General Information","Informacje ogólne",module,Magento_SalesRule
+"General Information",Ogólne,module,Magento_SalesRule
 "Rule Name","Nazwa reguły",module,Magento_SalesRule
 Description,Opis,module,Magento_SalesRule
 Status,Status,module,Magento_SalesRule
@@ -9530,7 +9530,7 @@ From,Od,module,Magento_SalesRule
 To,Do,module,Magento_SalesRule
 Priority,Priorytet,module,Magento_SalesRule
 "Public In RSS Feed","Publiczne w kanale RSS",module,Magento_SalesRule
-"Cart Price Rule","Zasady koszyka cen",module,Magento_SalesRule
+"Cart Price Rule","Reguły cenowe koszyka",module,Magento_SalesRule
 ID,ID,module,Magento_SalesRule
 Rule,Reguła,module,Magento_SalesRule
 Start,Start,module,Magento_SalesRule
@@ -9855,7 +9855,7 @@ Search,Szukaj,module,Magento_Search
 "Edit Search '%1'","Edycja wyszukiwania '%1'",module,Magento_Search
 "New Search","Nowe wyszukiwanie",module,Magento_Search
 "Search Information","Informacje o wyszukiwaniu",module,Magento_Search
-"General Information","Informacje ogólne",module,Magento_Search
+"General Information",Ogólne,module,Magento_Search
 No,Nie,module,Magento_Search
 Yes,Tak,module,Magento_Search
 "Search Query","Fraza wyszukiwania",module,Magento_Search
@@ -10631,7 +10631,7 @@ Options,Opcje,module,Magento_Swatches
 "Products to Display","Produkty do wyświetlania",module,Magento_TargetRule
 "Product Match Conditions (leave blank for matching all products)","Warunki dopasowania produktu (zostaw puste, aby dopasować wszystkie produkty)",module,Magento_TargetRule
 "Products to Match","Produkty do dopasowania",module,Magento_TargetRule
-"General Rule Information","Informacje o regule ogólnej",module,Magento_TargetRule
+"General Rule Information",Ogólne,module,Magento_TargetRule
 "Rule Name","Nazwa reguły",module,Magento_TargetRule
 Priority,Priorytet,module,Magento_TargetRule
 Status,Status,module,Magento_TargetRule
@@ -10735,7 +10735,7 @@ Reset,Resetuj,module,Magento_Tax
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Tax
 "Save Rate","Zapisz stawkę",module,Magento_Tax
 "Manage Tax Rules","Zarządzaj regułami podatków",module,Magento_Tax
-"Add New Tax Rule","Dodaj nową regułę dla podatku",module,Magento_Tax
+"Add New Tax Rule","Dodaj regułę dla podatku",module,Magento_Tax
 "Save Rule","Zapisz regułę",module,Magento_Tax
 "Delete Rule","Usuń regułę",module,Magento_Tax
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Tax
