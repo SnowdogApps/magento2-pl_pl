@@ -1280,7 +1280,7 @@ Proszę używać tylko liter (a-z lub A-Z) lub liczb (0-9) w tej dziedzinie. Doz
 Root,Baza,module,Magento_Catalog
 Delete,Usuń,module,Magento_Catalog
 Save,Zapisz,module,Magento_Catalog
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_Catalog
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_Catalog
 "Use All Available Attributes","Użyj wszystkie dostępne cechy",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
 Name,Nazwa,module,Magento_Catalog
@@ -1382,7 +1382,7 @@ Empty,Pusty,module,Magento_Catalog
 "Save & Close","Zapisz i zamknij",module,Magento_Catalog
 Attributes,Cechy,module,Magento_Catalog
 Change,Zmień,module,Magento_Catalog
-"Advanced Inventory","Zaawansowane stany magazynowe",module,Magento_Catalog
+"Advanced Inventory","Stan magazynowy",module,Magento_Catalog
 Websites,Witryny,module,Magento_Catalog
 "Products Information","Informacje o produktach",module,Magento_Catalog
 "Create Category","Stwórz Kategorię",module,Magento_Catalog
@@ -1428,7 +1428,7 @@ Edit,Edytuj,module,Magento_Catalog
 "Change Status","Zmień status",module,Magento_Catalog
 "Update Attributes","Aktualizuj cechy",module,Magento_Catalog
 "Images and Videos","Zdjęcia i filmy",module,Magento_Catalog
-"Click here or drag and drop to add images.","Kliknij tu lub przeciągnij element(y) aby dodać zdjęcia.",module,Magento_Catalog
+"Click here or drag and drop to add images.","Kliknij tutaj, lub przeciągnij i upuść nowe zdjęcia.",module,Magento_Catalog
 "Delete image","Usuń obraz",module,Magento_Catalog
 "Make Base","Ustaw jako bazę",module,Magento_Catalog
 Hidden,ukryty,module,Magento_Catalog
@@ -1755,15 +1755,15 @@ Groups,Grupy,module,Magento_Catalog
 "Maximum image width","Maksymalna szerokość obrazka",module,Magento_Catalog
 "Maximum image height","Maksymalna wysokość obrazka",module,Magento_Catalog
 "Maximum number of characters:","Maksymalna ilość znaków:",module,Magento_Catalog
-"start typing to search template","rozpocznij wpisywanie, aby wyszukać szablon",module,Magento_Catalog
+"start typing to search template","Zacznij pisać, aby wyszukać szablon",module,Magento_Catalog
 "Product online","Produkt włączony",module,Magento_Catalog
 "Product offline","Produkt wyłączony",module,Magento_Catalog
 "Product online status","Status online produktu",module,Magento_Catalog
 "Manage Stock","Zarządzaj stanami",module,Magento_Catalog
 Qty,Ilość,module,Magento_Catalog
 "Out-of-Stock Threshold","Przedział dla braku w magazynie",module,Magento_Catalog
-"Minimum Qty Allowed in Shopping Cart","Minimalna ilość dozwolona w koszyku",module,Magento_Catalog
-"Maximum Qty Allowed in Shopping Cart","Maksymalna ilość dozwolona w koszyku",module,Magento_Catalog
+"Minimum Qty Allowed in Shopping Cart","Minimalna ilość w koszyku",module,Magento_Catalog
+"Maximum Qty Allowed in Shopping Cart","Maksymalna ilość w koszyku",module,Magento_Catalog
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_Catalog
 Backorders,Rezerwacje,module,Magento_Catalog
 "Notify for Quantity Below","Powiadamiaj o ujemnej ilości",module,Magento_Catalog
@@ -1797,8 +1797,8 @@ Role,Rola,module,Magento_Catalog
 "Hide from Product Page","Ukryj na stronie produktu",module,Magento_Catalog
 "Product Alerts","Alerty produktów",module,Magento_Catalog
 "Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_Catalog
-"start typing to search attribute","rozpocznij wpisywanie żeby wyszukiwać atrybut",module,Magento_Catalog
-"Basic Settings","Ustawienia podstawowe",module,Magento_Catalog
+"start typing to search attribute","Zacznij pisać, aby wyszukać cechę",module,Magento_Catalog
+"Basic Settings","Podstawowe ustawienia",module,Magento_Catalog
 "Advanced Settings","Zaawansowane ustawienia",module,Magento_Catalog
 "Changes have been made to this section that have not been saved.","Wprowadzono zmiany do tej sekcji, które nie zostały zapisane.",module,Magento_Catalog
 "This tab contains invalid data. Please resolve this before saving.","Ta karta zawiera nieprawidłowe dane. Proszę rozwiązać ten problem przed zapisaniem.",module,Magento_Catalog
@@ -2013,7 +2013,7 @@ Closed,Zamknięty,module,Magento_CatalogEvent
 Status,Status,module,Magento_CatalogEvent
 [GLOBAL],[GLOBALNY],module,Magento_CatalogEvent
 [WEBSITE],[WITRYNA],module,Magento_CatalogEvent
-"[STORE VIEW]","[WIDOK SKLPEU]",module,Magento_CatalogEvent
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_CatalogEvent
 "Coming Soon",Wkrótce,module,Magento_CatalogEvent
 "Sale Ends In","Sprzedaż kończy się",module,Magento_CatalogEvent
 Catalog,Katalog,module,Magento_CatalogEvent
@@ -2116,7 +2116,7 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "You can buy this product only in quantities of %1 at a time.","Możesz kupić ten produkt tylko w ilościach po %1 na raz.",module,Magento_CatalogInventory
 "Decimal qty increments is not allowed.","Zwiększanie o wartości dziesiętne nie jest możliwe.",module,Magento_CatalogInventory
 "Stock Status","Stan magazynowy",module,Magento_CatalogInventory
-"Advanced Inventory","Zaawansowane stany magazynowe",module,Magento_CatalogInventory
+"Advanced Inventory","Stan magazynowy",module,Magento_CatalogInventory
 "%1 is available to buy in increments of %2","%1 jest do kupienia w przyrostach co %2",module,Magento_CatalogInventory
 "Only %1 left","Tylko %1 pozostał",module,Magento_CatalogInventory
 "Product availability","Dostępność produktu",module,Magento_CatalogInventory
@@ -2139,16 +2139,16 @@ Inventory,Magazyn,module,Magento_CatalogInventory
                 ",module,Magento_CatalogInventory
 "Manage Stock","Zarządzaj stanami",module,Magento_CatalogInventory
 Backorders,Rezerwacje,module,Magento_CatalogInventory
-"Maximum Qty Allowed in Shopping Cart","Maksymalna ilość dozwolona w koszyku",module,Magento_CatalogInventory
+"Maximum Qty Allowed in Shopping Cart","Maksymalna ilość w koszyku",module,Magento_CatalogInventory
 "Out-of-Stock Threshold","Przedział dla braku w magazynie",module,Magento_CatalogInventory
-"Minimum Qty Allowed in Shopping Cart","Minimalna ilość dozwolona w koszyku",module,Magento_CatalogInventory
+"Minimum Qty Allowed in Shopping Cart","Minimalna ilość w koszyku",module,Magento_CatalogInventory
 "Notify for Quantity Below","Powiadamiaj o ujemnej ilości",module,Magento_CatalogInventory
 "Automatically Return Credit Memo Item to Stock","Automatycznie zwróć produkt z faktury korygującej do magazynu",module,Magento_CatalogInventory
 "Enable Qty Increments","Włącz zwiększanie ilości",module,Magento_CatalogInventory
 "Qty Increments","Zwiększanie ilości",module,Magento_CatalogInventory
 Stock,Zapasy,module,Magento_CatalogInventory
 "Index stock","Indeksuj stany",module,Magento_CatalogInventory
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_CatalogInventory
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_CatalogInventory
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_CatalogInventory
 "Use deferred Stock update","Use deferred Stock update",module,Magento_CatalogInventory
@@ -2372,7 +2372,7 @@ Anchor,"Zakotwiczona (wyświetla filtry atrybutów)",module,Magento_CatalogStagi
 "Sort Products By","Sortuj produkty wg",module,Magento_CatalogStaging
 "Use All","Użyj wszystkie",module,Magento_CatalogStaging
 "Default Product Sorting","Domyślnie sortowanie produktów",module,Magento_CatalogStaging
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_CatalogStaging
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_CatalogStaging
 "Layered Navigation Price Step","Krok cen w nawigacji warstwowej",module,Magento_CatalogStaging
 "Search Engine Optimization","Optymalizacja dla wyszukiwarek",module,Magento_CatalogStaging
 "Meta Title","Meta tytuł",module,Magento_CatalogStaging
@@ -2393,7 +2393,7 @@ Layout,Układ,module,Magento_CatalogStaging
 50,50,module,Magento_CatalogStaging
 100,100,module,Magento_CatalogStaging
 200,200,module,Magento_CatalogStaging
-"Create Permanent Redirect for old URL","Utwórz stałe przekierowanie dla starych URL",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for old URL","Utwórz przekierowanie dla poprzedniego klucza URL",module,Magento_CatalogUrlRewrite
 "Category URL Suffix","Sufiks URL kategorii",module,Magento_CatalogUrlRewrite
 "You need to refresh the cache.","Musisz odświeżyć pamięć podręczną.",module,Magento_CatalogUrlRewrite
 "Product URL Suffix","Sufiks URL produktu",module,Magento_CatalogUrlRewrite
@@ -2856,7 +2856,7 @@ Status,Stan,module,Magento_CmsStaging
 "Save Config","Zapisz konfigurację",module,Magento_Config
 [GLOBAL],[GLOBALNY],module,Magento_Config
 [WEBSITE],[WITRYNA],module,Magento_Config
-"[STORE VIEW]","[WIDOK SKLPEU]",module,Magento_Config
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_Config
 "Use Default","Użyj domyślnych",module,Magento_Config
 "Use Website","Użyj witryny",module,Magento_Config
 Add,Dodaj,module,Magento_Config
@@ -3162,7 +3162,7 @@ System,System,module,Magento_CurrencySymbol
 Currency,Waluta,module,Magento_CurrencySymbol
 [GLOBAL],[GLOBALNY],module,Magento_CustomAttributeManagement
 [WEBSITE],[WITRYNA],module,Magento_CustomAttributeManagement
-"[STORE VIEW]","[WIDOK SKLPEU]",module,Magento_CustomAttributeManagement
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_CustomAttributeManagement
 "The current module XML block name is undefined.","Obecna nazwa bloku XML jest niezdefiniowana.",module,Magento_CustomAttributeManagement
 "The current module form model pathname is undefined.","Nazwa ścieżki modelu formularza aktualnego modułu jest niezdefiniowana.",module,Magento_CustomAttributeManagement
 No,Nie,module,Magento_CustomAttributeManagement
@@ -4350,7 +4350,7 @@ Samples,Przykłady,module,Magento_Downloadable
 "Use Default Value","Użyj wartości domyślnej",module,Magento_Downloadable
 sample,próbka,module,Magento_Downloadable
 "Add links to your product files here.","Dodaj linki do swoich produktów.",module,Magento_Downloadable
-"[STORE VIEW]","[WIDOK SKLPEU]",module,Magento_Downloadable
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_Downloadable
 [GLOBAL],[GLOBALNY],module,Magento_Downloadable
 "Sort Order","Kolejność sortowania",module,Magento_Downloadable
 "Attach File or Enter Link","Dodaj plik lub wklej linka",module,Magento_Downloadable
@@ -4823,7 +4823,7 @@ Amount,Kwota,module,Magento_GiftCard
 To,Do,module,Magento_GiftCard
 "Treat Balance as Store Credit","Traktowanie bilansu jako kredyt sklepu",module,Magento_GiftCard
 [GLOBAL],[GLOBALNY],module,Magento_GiftCard
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_GiftCard
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_GiftCard
 "Lifetime (days)","Okres ważności (dni)",module,Magento_GiftCard
 "Allow Message","Pozwól na wysłanie wiadomości",module,Magento_GiftCard
 "[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_GiftCard
@@ -5030,7 +5030,7 @@ End,Koniec,module,Magento_GiftCardAccount
 "Could not add gift message to order\'s item: \\%1\\""",Nie można dodać wiadomości podarunkowej to zamówionych produktów: %1""",module,Magento_GiftMessage
 "Unknown entity type","Nieznany rodzaj obiektu",module,Magento_GiftMessage
 "Test label","Etykieta testowa",module,Magento_GiftMessage
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_GiftMessage
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_GiftMessage
 From,Od,module,Magento_GiftMessage
 To,Do,module,Magento_GiftMessage
 Message,Wiadomość,module,Magento_GiftMessage
@@ -5118,7 +5118,7 @@ Label,Etykieta,module,Magento_GiftRegistry
 Attributes,Cechy,module,Magento_GiftRegistry
 [GLOBAL],[GLOBALNY],module,Magento_GiftRegistry
 [WEBSITE],[WITRYNA],module,Magento_GiftRegistry
-"[STORE VIEW]","[WIDOK SKLPEU]",module,Magento_GiftRegistry
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_GiftRegistry
 None,Brak,module,Magento_GiftRegistry
 "New Address","Nowy adres",module,Magento_GiftRegistry
 "Edit Gift Registry","Edytuj rejestr prezentów",module,Magento_GiftRegistry
@@ -5378,7 +5378,7 @@ Price,Cena,module,Magento_GiftWrapping
 Image,Obrazek,module,Magento_GiftWrapping
 [GLOBAL],[GLOBALNY],module,Magento_GiftWrapping
 [WEBSITE],[WITRYNA],module,Magento_GiftWrapping
-"[STORE VIEW]","[WIDOK SKLPEU]",module,Magento_GiftWrapping
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_GiftWrapping
 "Please request the correct gift wrapping.","Proszę zażądać prawidłowego pakowania prezentów.",module,Magento_GiftWrapping
 "You updated a total of %1 records.","Zaktualizowno w sumie %1 rekordów.",module,Magento_GiftWrapping
 "Something went wrong while updating the wrapping(s) status.","Coś się zepsuło podczas aktualizowania stanu pakowania.",module,Magento_GiftWrapping
@@ -5403,7 +5403,7 @@ None,Brak,module,Magento_GiftWrapping
 "Please enter valid currency code: %1","Podaj prawidłowy kod waluty: %1",module,Magento_GiftWrapping
 "Unable to remove gift wrapping %1","Nie można usunąć pakowania %1",module,Magento_GiftWrapping
 "Printed Card","Karty drukowane",module,Magento_GiftWrapping
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_GiftWrapping
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_GiftWrapping
 "Use Default Value","Użyj wartości domyślnej",module,Magento_GiftWrapping
 "Leave a box blank if you don\'t want to add gift wrapping for whole order.","Pozostaw pole puste jeżeli nie chcesz dodawać pakowania prezentu dla całego zamówienia.",module,Magento_GiftWrapping
 "Price Excl. Tax","Cena bez podatku",module,Magento_GiftWrapping
@@ -5669,7 +5669,7 @@ Email,E-mail,module,Magento_Integration
 "Current User Identity Verification","Weryfikacja tożsamości użytkownika",module,Magento_Integration
 "Your Password","Twoje hasło",module,Magento_Integration
 "Integration Details","Szczegóły integracji",module,Magento_Integration
-"Basic Settings","Ustawienia podstawowe",module,Magento_Integration
+"Basic Settings","Podstawowe ustawienia",module,Magento_Integration
 "Integration Tokens for Extensions","Integration Tokens for Extensions",module,Magento_Integration
 "Consumer Key","Klucz klienta",module,Magento_Integration
 "Consumer Secret","Klucz tajny konsumenta",module,Magento_Integration
@@ -6368,7 +6368,7 @@ Items,Pozycje,module,Magento_Multishipping
 "Multishipping Settings","Ustawienia multishipping",module,Magento_Multishipping
 Options,Opcje,module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","Pozwól na dostawę do wielu adresów",module,Magento_Multishipping
-"Maximum Qty Allowed for Shipping to Multiple Addresses","Maksymalna ilość dozwolona dla dostawy pod wiele adresów",module,Magento_Multishipping
+"Maximum Qty Allowed for Shipping to Multiple Addresses","Maksymalna ilość w koszyku dla dostawy pod wiele adresów",module,Magento_Multishipping
 "Review Order","Podgląd zamówienia",module,Magento_Multishipping
 "Select Shipping Method","Wybierz formę dostawy",module,Magento_Multishipping
 "We received your order!","Otrzymaliśmy zamówienie!",module,Magento_Multishipping
@@ -8449,7 +8449,7 @@ Closed,Zamknięty,module,Magento_Rma
 "We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Rma
 Message,Wiadomość,module,Magento_Rma
 "No detail for number \\' . . '\\""",No detail for number \\' . . '\\"""""""",module,Magento_Rma
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_Rma
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_Rma
 "All Items","Wszystkie produkty",module,Magento_Rma
 "Individual Items","Poszczególne pozycje",module,Magento_Rma
 "Account &amp; Shipping Information","Konta &amp; i informacje o wysyłce",module,Magento_Rma
@@ -9697,16 +9697,16 @@ Labels,Etykiety,module,Magento_SalesRuleStaging
 200,200,module,Magento_SalesRuleStaging
 "Entity Sequence profile not added to meta active profile","Entity Sequence profile not added to meta active profile",module,Magento_SalesSequence
 "Not enough arguments","Za mało argumentów",module,Magento_SalesSequence
-"Advanced Inventory","Zaawansowane stany magazynowe",module,Magento_ScalableInventory
+"Advanced Inventory","Stan magazynowy",module,Magento_ScalableInventory
 "Manage Stock","Zarządzaj stanami",module,Magento_ScalableInventory
 Yes,Tak,module,Magento_ScalableInventory
 No,Nie,module,Magento_ScalableInventory
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_ScalableInventory
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_ScalableInventory
 [GLOBAL],[GLOBALNY],module,Magento_ScalableInventory
 Qty,Ilość,module,Magento_ScalableInventory
 "Out-of-Stock Threshold","Przedział dla braku w magazynie",module,Magento_ScalableInventory
-"Minimum Qty Allowed in Shopping Cart","Minimalna ilość dozwolona w koszyku",module,Magento_ScalableInventory
-"Maximum Qty Allowed in Shopping Cart","Maksymalna ilość dozwolona w koszyku",module,Magento_ScalableInventory
+"Minimum Qty Allowed in Shopping Cart","Minimalna ilość w koszyku",module,Magento_ScalableInventory
+"Maximum Qty Allowed in Shopping Cart","Maksymalna ilość w koszyku",module,Magento_ScalableInventory
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_ScalableInventory
 "Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_ScalableInventory
 Backorders,Rezerwacje,module,Magento_ScalableInventory
@@ -10693,7 +10693,7 @@ Category,Kategoria,module,Magento_TargetRule
 Close,Zamknij,module,Magento_TargetRule
 "Rule-based Settings","Ustawienia oparte na regułach",module,Magento_TargetRule
 "Rule-based Positions","Pozycje oparte na regułach",module,Magento_TargetRule
-"Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_TargetRule
+"Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_TargetRule
 [GLOBAL],[GLOBALNY],module,Magento_TargetRule
 "Position Behavior","Zachowanie pozycji",module,Magento_TargetRule
 "Rule-Based Product Relations","Relacje między produktami oparte na regułach",module,Magento_TargetRule
