@@ -4654,7 +4654,7 @@ Updated,Zaktualizowano,module,Magento_Email
 Subject,Temat,module,Magento_Email
 "Template Type","Typ szablonu",module,Magento_Email
 Action,Operacja,module,Magento_Email
-"Change Encryption Key","Zmiana klucza szyfrowania",module,Magento_EncryptionKey
+"Change Encryption Key","Zmień klucz",module,Magento_EncryptionKey
 "Encryption Key","Klucz szyfrowania",module,Magento_EncryptionKey
 "New Encryption Key","Nowy klucz szyfrowania",module,Magento_EncryptionKey
 "The encryption key is used to protect passwords and other sensitive data.","Klucz szyfrowania jest używany do ochrony haseł i innych poufnych danych.",module,Magento_EncryptionKey
@@ -4667,7 +4667,7 @@ Yes,Tak,module,Magento_EncryptionKey
 "Please enter an encryption key.","Wprowadź klucz szyfrowania.",module,Magento_EncryptionKey
 "The encryption key has been changed.","Klucz szyfrowania został zmieniony.",module,Magento_EncryptionKey
 "This is your new encryption key: <span style=\"font-family:monospace;\">%1</span>. Be sure to write it down and take good care of it!","To jest twój nowy klucz szyfrowania: <span style=\"font-family:monospace;\">%1</span>. Pamiętaj by go zapisać i dobrze o niego dbać!",module,Magento_EncryptionKey
-"Manage Encryption Key","Klucze szyfrowe",module,Magento_EncryptionKey
+"Manage Encryption Key","Klucz szyfrowania",module,Magento_EncryptionKey
 "Private Sales","Sprzedaż prywatna",module,Magento_Enterprise
 "Payment Type","Rodzaj płatności",module,Magento_Eway
 "Transaction Type","Rodzaj transakcji",module,Magento_Eway
@@ -5544,8 +5544,8 @@ Import,Import,module,Magento_ImportExport
 "Please correct the data sent value.","Popraw wartość wysyłanych danych.",module,Magento_ImportExport
 Import/Export,Import/eksport,module,Magento_ImportExport
 History,Historia,module,Magento_ImportExport
-"Import History","Importowanie historii",module,Magento_ImportExport
-"Import history","Importowanie historii",module,Magento_ImportExport
+"Import History","Historia importowania",module,Magento_ImportExport
+"Import history","Historia importowania",module,Magento_ImportExport
 "There is no sample file for this entity.","Nie istnieje przykładowy plik dla tego obiektu.",module,Magento_ImportExport
 Status,Status,module,Magento_ImportExport
 "Maximum error count has been reached or system error is occurred!","Osiągnięto maksymalną liczbę błędów lub wystąpił błąd systemu!",module,Magento_ImportExport
@@ -5652,7 +5652,7 @@ Mode,Tryb,module,Magento_Indexer
 Status,Status,module,Magento_Indexer
 Updated,Zaktualizowano,module,Magento_Indexer
 Integrations,Integracje,module,Magento_Integration
-"Add New Integration","Dodaj nowe integracje",module,Magento_Integration
+"Add New Integration","Dodaj integrację",module,Magento_Integration
 API,API,module,Magento_Integration
 Save,Zapisz,module,Magento_Integration
 "Save & Activate","Zapisz i aktywuj",module,Magento_Integration
@@ -5942,7 +5942,7 @@ Back,Powrót,module,Magento_Logging
 "No changes","Bez zmian",module,Magento_Logging
 "The item was deleted","Produkt został usunięty",module,Magento_Logging
 N/A,N/D,module,Magento_Logging
-"All Users","Wszyscy użytkownicy",module,Magento_Logging
+"All Users","Lista użytkowników",module,Magento_Logging
 "Admin Actions Log","Dziennik akcji Admina",module,Magento_Logging
 "Admin Actions Archive","Archiwum Akcji Admina",module,Magento_Logging
 Report,Raport,module,Magento_Logging
@@ -7830,7 +7830,7 @@ Reports,Raporty,module,Magento_Reports
 "Product Views Report","Raport oglądanych produktów",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
 Review,Opinia,module,Magento_Reports
-Reviews,Recenzje,module,Magento_Reports
+Reviews,Opinie,module,Magento_Reports
 "Customers Report","Raporty klientów",module,Magento_Reports
 "Customer Reviews Report","Raport Opinii klientów",module,Magento_Reports
 "Product Reviews Report","Raport ocenianych produktów",module,Magento_Reports
@@ -8002,13 +8002,13 @@ Websites,Witryny,module,Magento_Review
 "Product: ""%1"" reviewed by: %2","Produkt: ""%1"" oceniony przez: %2",module,Magento_Review
 "Pending Reviews RSS","RSS oczekujących recenzji",module,Magento_Review
 "Reviews %1","Opinie %1",module,Magento_Review
-Reviews,Recenzje,module,Magento_Review
+Reviews,Opinie,module,Magento_Review
 "The review has been deleted.","Opinia została usunięta.",module,Magento_Review
 "Something went wrong  deleting this review.","Coś poszło nie tak, jak powinno, podczas usuwania opinii.",module,Magento_Review
-"Customer Reviews","Recenzje klientów",module,Magento_Review
+"Customer Reviews","Opinie klientów",module,Magento_Review
 "Edit Review","Edycja recenzji",module,Magento_Review
 "We can\'t retrieve the product ID.","We can\'t retrieve the product ID.",module,Magento_Review
-"Please select review(s).","Prosimy wybrać recenzje.",module,Magento_Review
+"Please select review(s).","Wybierz opinię.",module,Magento_Review
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Review
 "Something went wrong while deleting these records.","Coś poszło nie tak, jak powinno, podczas usuwania tych rekordów.",module,Magento_Review
 "A total of %1 record(s) have been updated.","Zaktualizowano %1 rekordów.",module,Magento_Review
@@ -8039,7 +8039,7 @@ Actions,Operacje,module,Magento_Review
 "See Details","Zobacz szczegóły",module,Magento_Review
 "You have submitted no reviews.","Nie masz jeszcze zgłoszonych żadnych recenzji.",module,Magento_Review
 Back,Powrót,module,Magento_Review
-"My Recent Reviews","Moje ostatnie recenzje",module,Magento_Review
+"My Recent Reviews","Moje ostatnie opinie",module,Magento_Review
 "View All","Zobacz wszystkie",module,Magento_Review
 "Average Customer Rating:","Średnia ocena klientów:",module,Magento_Review
 "Your Review","Twoja ocena",module,Magento_Review
@@ -11353,7 +11353,7 @@ Reset,Resetuj,module,Magento_User
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_User
 "Save Role","Zapisz rolę",module,Magento_User
 Roles,Role,module,Magento_User
-"Add New Role","Dodaj nową rolę",module,Magento_User
+"Add New Role","Dodaj rolę",module,Magento_User
 "Role Information","Informacje o roli",module,Magento_User
 "Role Users","Użytkownicy roli",module,Magento_User
 "User ID","ID użytkownika",module,Magento_User
@@ -11369,7 +11369,7 @@ Inactive,Nieaktywny,module,Magento_User
 "Role Name","Nazwa roli",module,Magento_User
 "Current User Identity Verification","Weryfikacja tożsamości użytkownika",module,Magento_User
 "Your Password","Twoje hasło",module,Magento_User
-"Add New User","Dodaj nowego użytkownika",module,Magento_User
+"Add New User","Dodaj użytkownika",module,Magento_User
 Users,Użytkownicy,module,Magento_User
 "Save User","Zapisz użytkownika",module,Magento_User
 "Delete User","Usuń użytkownika",module,Magento_User
@@ -11398,7 +11398,7 @@ Role,Rola,module,Magento_User
 "Please correct this email address:","Proszę poprawić adres e-mail:",module,Magento_User
 "Please enter an email address.","Podaj adres e-mail.",module,Magento_User
 "You updated your password.","Zaktualizowałeś swoje hasło.",module,Magento_User
-"Locked Users","Użytkownik zablokowany",module,Magento_User
+"Locked Users","Zablokowani użytkownicy",module,Magento_User
 "Unlocked %1 user(s).","Odblokowanie %1 użytkownik(ów).",module,Magento_User
 System,System,module,Magento_User
 Permissions,Uprawnienia,module,Magento_User
@@ -11468,7 +11468,7 @@ Resources,Zasoby,module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","Jeśli nie autoryzowałeś tej akcji, prosimy o natychmiastowy kontakt na adres %store_email",module,Magento_User
 "or call us at %store_phone","lub zadzwoń do nas na %store_phone",module,Magento_User
 "Thanks,","Dziękujemy,",module,Magento_User
-"All Users","Wszyscy użytkownicy",module,Magento_User
+"All Users","Lista użytkowników",module,Magento_User
 "User Roles","Role użytkownika",module,Magento_User
 "User Notification Template","Szablon Powiadamianie użytkownika",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_User
@@ -11618,7 +11618,7 @@ Debug,"Tryb debug",module,Magento_Usps
 "Show Method if Not Applicable","Pokaż metodę jeśli niedostępna",module,Magento_Usps
 "Sort Order","Kolejność sortowania",module,Magento_Usps
 "Custom Variables","Własne zmienne",module,Magento_Variable
-"Add New Variable","Dodaj nową zmienną",module,Magento_Variable
+"Add New Variable","Dodaj zmienną",module,Magento_Variable
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Variable
 "Custom Variable ""%1""","Własna zmienna ""%1""",module,Magento_Variable
 "New Custom Variable","Nowa własna zmienna",module,Magento_Variable
