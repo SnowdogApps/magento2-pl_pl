@@ -560,11 +560,11 @@ Minute,Minuta,module,Magento_Backend
 "Stores Configuration","Konfiguracja sklepów",module,Magento_Backend
 "Please confirm scope switching. All data that hasn\'t been saved will be lost.","Potwierdź zmianę poziomu. Wszystkie niezapisane dane zostaną utracone.",module,Magento_Backend
 "Additional Cache Management","Dodatkowe opcje",module,Magento_Backend
-"Flush Catalog Images Cache","Odśwież pamięć podręczną zdjęć katalogu",module,Magento_Backend
-"Pregenerated product images files","Wygenerowane pliki zdjęć produktu",module,Magento_Backend
-"Flush JavaScript/CSS Cache","Odśwież pamięć podręczną JavaScript/CSS",module,Magento_Backend
-"Themes JavaScript and CSS files combined to one file","Pliki JavaScript i CSS szablonu skompresowane w jeden plik",module,Magento_Backend
-"Flush Static Files Cache","Odśwież pamięć podręczną plików statycznych",module,Magento_Backend
+"Flush Catalog Images Cache","Odśwież zdjęcia produktów",module,Magento_Backend
+"Pregenerated product images files","Wygenerowane zdjęcia produktów",module,Magento_Backend
+"Flush JavaScript/CSS Cache","Odśwież style CSS i skrypty JS",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file","Pliki JavaScript i CSS szablonów skompresowane do jednego pliku",module,Magento_Backend
+"Flush Static Files Cache","Odśwież pliki statyczne",module,Magento_Backend
 "Preprocessed view files and static files","Przetworzone pliki szablonu i pliki statyczne",module,Magento_Backend
 Catalog,Katalog,module,Magento_Backend
 JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
