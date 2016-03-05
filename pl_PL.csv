@@ -194,7 +194,7 @@ File,Plik,module,Magento_AdvancedCheckout
 "View and modify Shopping Cart","Wyświetl i modyfikuj koszyk",module,Magento_AdvancedCheckout
 "Order by SKU Settings","Sortuj po ustawieniach SKU",module,Magento_AdvancedCheckout
 "Enable Order by SKU on My Account in Storefront","Włącz zamówienia przez SKU w moje konto w Witryne sklepowej",module,Magento_AdvancedCheckout
-"Customer Groups","Grupy klienta",module,Magento_AdvancedCheckout
+"Customer Groups","Grupy klientów",module,Magento_AdvancedCheckout
 "Apply Coupon","Zastosuj kupon",module,Magento_AdvancedCheckout
 "Order by SKU Description","Sortuj po opisie SKU",module,Magento_AdvancedCheckout
 "Display a Link to Loading a Spreadsheet","Wyświetl łącze do ładowania arkusza kalkulacyjnego",module,Magento_AdvancedCheckout
@@ -308,9 +308,9 @@ Debug,"Tryb debug",module,Magento_Authorizenet
 "Invalid Form Key. Please refresh the page.","Nieprawidłowy klucz formularza. Proszę odświeżyć stronę.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Podałeś nieprawidłowy tajny klucz. Proszę odświeżyć stronę.",module,Magento_Backend
 "Cache Storage Management","Zarządzanie przechowywaniem cache",module,Magento_Backend
-"Flush Magento Cache","Opróżnij składowanie cache Magento",module,Magento_Backend
+"Flush Magento Cache","Wyczyść pamięć podręczną Magento",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","W pamięci podręcznej mogą znajdować się dodatkowe dane. Czy na pewno chcesz wszystko wyczyścić?",module,Magento_Backend
-"Flush Cache Storage","Opróżnij składowanie cache",module,Magento_Backend
+"Flush Cache Storage","Wyczyść całą pamięć podręczną",module,Magento_Backend
 Invalidated,Unieważniony,module,Magento_Backend
 Orders,Zamówienia,module,Magento_Backend
 Amounts,Ilości,module,Magento_Backend
@@ -441,7 +441,7 @@ To,Do,module,Magento_Backend
 Export,Eksport,module,Magento_Backend
 "Please correct the column format and try again.","Popraw format kolumny i spróbuj ponownie.",module,Magento_Backend
 "Please select items.","Prosimy wybrać produkty.",module,Magento_Backend
-Submit,Prześlij,module,Magento_Backend
+Submit,Wyślij,module,Magento_Backend
 "Unknown block type","Nieznany typ bloku",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty","Proszę poprawić konfigurację karty i spróbować ponownie. Identyfikator karty nie może być pusty",module,Magento_Backend
 "Please correct the tab configuration and try again.","Popraw konfigurację karty i spróbuj ponownie.",module,Magento_Backend
@@ -559,10 +559,10 @@ Minute,Minuta,module,Magento_Backend
 "Store View:","Widok sklepu:",module,Magento_Backend
 "Stores Configuration","Konfiguracja sklepów",module,Magento_Backend
 "Please confirm scope switching. All data that hasn\'t been saved will be lost.","Potwierdź zmianę poziomu. Wszystkie niezapisane dane zostaną utracone.",module,Magento_Backend
-"Additional Cache Management","Dodatkowe zarządzanie cache",module,Magento_Backend
-"Flush Catalog Images Cache","Opróżnij cache obrazków katalogu",module,Magento_Backend
+"Additional Cache Management","Dodatkowe opcje",module,Magento_Backend
+"Flush Catalog Images Cache","Odśwież pamięć podręczną zdjęć katalogu",module,Magento_Backend
 "Pregenerated product images files","Wygenerowane pliki zdjęć produktu",module,Magento_Backend
-"Flush JavaScript/CSS Cache","Opróżnij cache JavaScript/CSS",module,Magento_Backend
+"Flush JavaScript/CSS Cache","Odśwież pamięć podręczną JavaScript/CSS",module,Magento_Backend
 "Themes JavaScript and CSS files combined to one file","Pliki JavaScript i CSS szablonu skompresowane w jeden plik",module,Magento_Backend
 "Flush Static Files Cache","Odśwież pamięć podręczną plików statycznych",module,Magento_Backend
 "Preprocessed view files and static files","Przetworzone pliki szablonu i pliki statyczne",module,Magento_Backend
@@ -605,7 +605,7 @@ Schedule,Zaplanuj,module,Magento_Backend
 Settings,Ustawienia,module,Magento_Backend
 "All Stores","Wszystkie sklepy",module,Magento_Backend
 Attributes,Cechy,module,Magento_Backend
-"Other Settings","Inne ustawienia",module,Magento_Backend
+"Other Settings",Inne,module,Magento_Backend
 "Data Transfer","Transfer danych",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
 "Connect Manager","Connect Manager",module,Magento_Backend
@@ -986,7 +986,7 @@ City,Miasto,module,Magento_Braintree
 State/Province,Województwo,module,Magento_Braintree
 "Please select region, state or province","Wybierz województwo",module,Magento_Braintree
 "Zip/Postal Code","Kod pocztowy",module,Magento_Braintree
-Submit,Prześlij,module,Magento_Braintree
+Submit,Wyślij,module,Magento_Braintree
 "Add Credit Card","Dodaj kartę kredytową",module,Magento_Braintree
 Type,Rodzaj,module,Magento_Braintree
 "Card Number","Numer karty",module,Magento_Braintree
@@ -1848,7 +1848,7 @@ Loading...,Ładuję...,module,Magento_Catalog
 "* Required Fields","* wymagane pola",module,Magento_Catalog
 Availability,Dostępność,module,Magento_Catalog
 "Warning message","Komunikat ostrzegawczy",module,Magento_Catalog
-Submit,Prześlij,module,Magento_Catalog
+Submit,Wyślij,module,Magento_Catalog
 "We don\'t recognize or support this file extension type.","Nie rozpoznajemy lub nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_Catalog
 "Configure Product","Konfiguruj produkt",module,Magento_Catalog
 OK,OK,module,Magento_Catalog
@@ -2185,7 +2185,7 @@ Enable,Włącz,module,Magento_CatalogPermissions
                         <strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.
                     ","                         <strong style=""color:red""> Ostrzeżenie!</strong> Domyślnie ta funkcja ogranicza wszystkie kategorie.                     ",module,Magento_CatalogPermissions
 "Allow Browsing Category","Umożliwia przeglądanie kategorii",module,Magento_CatalogPermissions
-"Customer Groups","Grupy klienta",module,Magento_CatalogPermissions
+"Customer Groups","Grupy klientów",module,Magento_CatalogPermissions
 "Allow Adding to Cart","Umożliwia dodawanie do koszyka",module,Magento_CatalogPermissions
 "Landing Page","Strona docelowa",module,Magento_CatalogPermissions
 "Disallow Catalog Search By","Zablokuj przeszukiwanie katalogów względem",module,Magento_CatalogPermissions
@@ -3097,7 +3097,7 @@ Name,Nazwa,module,Magento_Contact
 Email,E-mail,module,Magento_Contact
 "Phone Number","Numer telefonu",module,Magento_Contact
 "What’s on your mind?","Co masz na myśli?",module,Magento_Contact
-Submit,Prześlij,module,Magento_Contact
+Submit,Wyślij,module,Magento_Contact
 "Name: %name","Nazwa: %name",module,Magento_Contact
 "Email: %email","E-mail: %email",module,Magento_Contact
 "Phone Number: %telephone","Numer telefonu: %telephone",module,Magento_Contact
@@ -3269,7 +3269,7 @@ Download,Pobierz,module,Magento_Customer
 "Delete Image","Usuń obraz",module,Magento_Customer
 "View Full Size","Zobacz pełen rozmiar",module,Magento_Customer
 "All countries","Wszystkie kraje",module,Magento_Customer
-"Customer Groups","Grupy klienta",module,Magento_Customer
+"Customer Groups","Grupy klientów",module,Magento_Customer
 "Add New Customer Group","Dodaj nową grupę klientów",module,Magento_Customer
 "Save Customer Group","Zapisz grupę klienta",module,Magento_Customer
 "Delete Customer Group","Usuń grupę klientów",module,Magento_Customer
@@ -5635,7 +5635,7 @@ Summary,Podsumowanie,module,Magento_ImportExport
 Ready,Gotowe,module,Magento_Indexer
 Processing,Przetwarzam,module,Magento_Indexer
 Never,Nigdy,module,Magento_Indexer
-"Index Management","Zarządzanie indeksem",module,Magento_Indexer
+"Index Management",Indeksy,module,Magento_Indexer
 "Please select indexers.","Prosimy wybrać indeksy.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indeks(ów) jest w tryby ""Zaplanowanej aktualizacji"".",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","Nie można zmienić trybu indeksowania z powodu błędu.",module,Magento_Indexer
@@ -6018,7 +6018,7 @@ Create,Utwórz,module,Magento_Logging
 "CMS Pages","Strony CMS",module,Magento_Logging
 "CMS Blocks","Bloki CMS",module,Magento_Logging
 Customers,Klienci,module,Magento_Logging
-"Customer Groups","Grupy klienta",module,Magento_Logging
+"Customer Groups","Grupy klientów",module,Magento_Logging
 Reports,Raporty,module,Magento_Logging
 "System Configuration","Konfiguracja systemu",module,Magento_Logging
 "Catalog Price Rules","Reguły cenowe katalogu",module,Magento_Logging
@@ -8503,7 +8503,7 @@ Email,E-mail,module,Magento_Rma
 "Add Item To Return","Dodaj produkt, który ma zostać zwrócony",module,Magento_Rma
 Comments,Komentarze,module,Magento_Rma
 Save,Zapisz,module,Magento_Rma
-Submit,Prześlij,module,Magento_Rma
+Submit,Wyślij,module,Magento_Rma
 Back,Powrót,module,Magento_Rma
 "Return #","Zwrot #",module,Magento_Rma
 Date,Data,module,Magento_Rma
@@ -9519,7 +9519,7 @@ Status,Status,module,Magento_SalesRule
 Active,Aktywny,module,Magento_SalesRule
 Inactive,Nieaktywny,module,Magento_SalesRule
 Websites,Witryny,module,Magento_SalesRule
-"Customer Groups","Grupy klienta",module,Magento_SalesRule
+"Customer Groups","Grupy klientów",module,Magento_SalesRule
 Coupon,Kupon,module,Magento_SalesRule
 "Use Auto Generation","Użyj automatycznej generacji",module,Magento_SalesRule
 "If you select and save the rule you will be able to generate multiple coupon codes.","Jeśli wybierzesz i zapiszesz regułę, możesz wygenerować wiele kodów kuponów.",module,Magento_SalesRule
@@ -9675,7 +9675,7 @@ Description,Opis,module,Magento_SalesRuleStaging
 "Select from existing Scheduled Update","Wybierz z istniejących zaplanowanych aktualizacji",module,Magento_SalesRuleStaging
 "Rule Information","Informacje o regule",module,Magento_SalesRuleStaging
 Websites,Witryny,module,Magento_SalesRuleStaging
-"Customer Groups","Grupy klienta",module,Magento_SalesRuleStaging
+"Customer Groups","Grupy klientów",module,Magento_SalesRuleStaging
 "Public In RSS Feed","Publiczne w kanale RSS",module,Magento_SalesRuleStaging
 Conditions,Warunki,module,Magento_SalesRuleStaging
 Actions,Operacje,module,Magento_SalesRuleStaging
