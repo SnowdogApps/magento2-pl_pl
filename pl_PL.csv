@@ -179,7 +179,7 @@ Item,Produkt,module,Magento_AdvancedCheckout
 "Incl. Tax","Z podatkiem",module,Magento_AdvancedCheckout
 "Excl. Tax","Bez podatku",module,Magento_AdvancedCheckout
 "Edit item parameters","Edytuj parametry elementu",module,Magento_AdvancedCheckout
-Edit,Edytuj,module,Magento_AdvancedCheckout
+Edit,Zmień,module,Magento_AdvancedCheckout
 "Remove item","Usuń produkt",module,Magento_AdvancedCheckout
 "Products Requiring Attention","Produkty wymagające uwagi",module,Magento_AdvancedCheckout
 "Add to Cart","Dodaj do koszyka",module,Magento_AdvancedCheckout
@@ -233,7 +233,7 @@ Uses,Użyć,module,Magento_AdvancedSearch
 Yes,Tak,module,Magento_AdvancedSearch
 No,Nie,module,Magento_AdvancedSearch
 Action,Operacja,module,Magento_AdvancedSearch
-Edit,Edytuj,module,Magento_AdvancedSearch
+Edit,Zmień,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","Wywołanie RPC nie powiodło się, przekroczenie czasu połączenia %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Wiadomość została odrzucona: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Błąd podczas sprawdzania, czy temat jest synchroniczny",module,Magento_Amqp
@@ -994,7 +994,7 @@ Type,Rodzaj,module,Magento_Braintree
 Actions,Operacje,module,Magento_Braintree
 Yes,Tak,module,Magento_Braintree
 No,Nie,module,Magento_Braintree
-Edit,Edytuj,module,Magento_Braintree
+Edit,Zmień,module,Magento_Braintree
 "Place Order","Złóż zamówienie",module,Magento_Braintree
 "Credit Card Information","Informacje karty kredytowej",module,Magento_Braintree
 "An error occured with payment processing.","Wystąpił błąd z przetwarzania płatności.",module,Magento_Braintree
@@ -1412,8 +1412,8 @@ Import,Import,module,Magento_Catalog
 "Tier Pricing","Poziomy cen",module,Magento_Catalog
 "Default Price","Domyślna cena",module,Magento_Catalog
 "All Websites","Wszystkie witryny",module,Magento_Catalog
-"ALL GROUPS","WSZYSTKIE GRUPY",module,Magento_Catalog
-"Add Price","Dodać cena",module,Magento_Catalog
+"ALL GROUPS",WSZYSTKIE,module,Magento_Catalog
+"Add Price","Dodaj cenę",module,Magento_Catalog
 "Default Values","Wartości domyślne",module,Magento_Catalog
 "Related Products","Produkty powiązane",module,Magento_Catalog
 Up-sells,"Produkty alternatywne",module,Magento_Catalog
@@ -1423,7 +1423,7 @@ Cross-sells,"Sprzedaże krzyżowe",module,Magento_Catalog
 "Position of Watermark for %1","Pozycja znaku wodnego dla %1",module,Magento_Catalog
 "Name in %1","Nazwa w %1",module,Magento_Catalog
 Quantity,Ilość,module,Magento_Catalog
-Edit,Edytuj,module,Magento_Catalog
+Edit,Zmień,module,Magento_Catalog
 "Are you sure?","Czy na pewno tego chcesz?",module,Magento_Catalog
 "Change Status","Zmień status",module,Magento_Catalog
 "Update Attributes","Aktualizuj cechy",module,Magento_Catalog
@@ -1685,7 +1685,7 @@ fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
 Images,Zdjęcia,module,Magento_Catalog
 Select...,Wybierz...,module,Magento_Catalog
-"Advanced Pricing","Advanced Pricing",module,Magento_Catalog
+"Advanced Pricing",Cena,module,Magento_Catalog
 "Tier Price","Tier Price",module,Magento_Catalog
 "Customer Group","Grupa klienta",module,Magento_Catalog
 "Special Price From","Cena promocyjna od",module,Magento_Catalog
@@ -1916,7 +1916,7 @@ Watermark,"Znak wodny",module,Magento_Catalog
 "Indexed category/products association","Zaindeksowane powiązania kategorii/produktów",module,Magento_Catalog
 "Product Categories","Kategorie produktu",module,Magento_Catalog
 "Indexed product/categories association","Indeksowane produktu/kategorii skojarzeń",module,Magento_Catalog
-"Product Price","Cena produktu",module,Magento_Catalog
+"Product Price",Cena,module,Magento_Catalog
 "Index product prices","Indeksuj ceny produktów",module,Magento_Catalog
 "Product EAV","Produkt EAV",module,Magento_Catalog
 "Index product EAV","Indeks produktu EAV",module,Magento_Catalog
@@ -2062,7 +2062,7 @@ Start,Start,module,Magento_CatalogEvent
 End,Koniec,module,Magento_CatalogEvent
 "Countdown Ticker",Odliczanie,module,Magento_CatalogEvent
 Action,Operacja,module,Magento_CatalogEvent
-Edit,Edytuj,module,Magento_CatalogEvent
+Edit,Zmień,module,Magento_CatalogEvent
 "Entity type model \'%1\' is not found","Nie znaleziono modelu dla obiektów typu '%1'",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model obiektu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Brak rodzajów produktów możliwych do eksportu.",module,Magento_CatalogImportExport
@@ -2082,7 +2082,7 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "Every option entity must have a parent product entity.","Każda opcja musi mieć obiekt produktu nadrzędnego.",module,Magento_CatalogImportExport
 "Please correct the parameters.","Proszę poprawić parametry.",module,Magento_CatalogImportExport
 "File \'%1\' was not found or has read restriction.","Plik \'%1\' nie został odnaleziony lub posiada ograniczenia odczytu.",module,Magento_CatalogImportExport
-"ALL GROUPS","WSZYSTKIE GRUPY",module,Magento_CatalogInventory
+"ALL GROUPS",WSZYSTKIE,module,Magento_CatalogInventory
 "Customer Group","Grupa klienta",module,Magento_CatalogInventory
 "Minimum Qty","Minimalna ilość",module,Magento_CatalogInventory
 "Add Minimum Qty","Dodaj minimalną ilość",module,Magento_CatalogInventory
@@ -2275,7 +2275,7 @@ Rule,Reguła,module,Magento_CatalogRuleStaging
 Priority,Priorytet,module,Magento_CatalogRuleStaging
 "Web Site",Witryna,module,Magento_CatalogRuleStaging
 Action,Operacja,module,Magento_CatalogRuleStaging
-Edit,Edytuj,module,Magento_CatalogRuleStaging
+Edit,Zmień,module,Magento_CatalogRuleStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_CatalogRuleStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
 "Start Time","Czas rozpoczęcia",module,Magento_CatalogRuleStaging
@@ -2499,8 +2499,8 @@ Subtotal,"Suma częściowa",module,Magento_Checkout
 "Update Cart","Aktualizuj koszyk",module,Magento_Checkout
 "See price before order confirmation.","Zobacz cenę przed potwierdzeniem zamówienia.",module,Magento_Checkout
 "What's this?","Co to jest?",module,Magento_Checkout
-"Edit item parameters","Edytuj parametry elementu",module,Magento_Checkout
-Edit,Edytuj,module,Magento_Checkout
+"Edit item parameters","Zmień parametry",module,Magento_Checkout
+Edit,Zmień,module,Magento_Checkout
 "Remove item","Usuń produkt",module,Magento_Checkout
 "You have no items in your shopping cart.","Nie masz produktów w koszyku.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Checkout
@@ -2558,7 +2558,7 @@ Remove,Usuń,module,Magento_Checkout
 "Edit Your Cart","Edytuj koszyk",module,Magento_Checkout
 "Ship Here","Wysyłamy Tutaj",module,Magento_Checkout
 "Ship To:","Dostawa do:",module,Magento_Checkout
-edit,edytuj,module,Magento_Checkout
+edit,Zmień,module,Magento_Checkout
 "Shipping Address","Adres wysyłki",module,Magento_Checkout
 "New Address","Nowy adres",module,Magento_Checkout
 "Shipping Methods","Formy dostawy",module,Magento_Checkout
@@ -2725,7 +2725,7 @@ RuntimeException,RuntimeException,module,Magento_Cms
 Exception,Wyjątek,module,Magento_Cms
 "Could not create a directory.","Nie można utworzyć katalogu.",module,Magento_Cms
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Cms
-Edit,Edytuj,module,Magento_Cms
+Edit,Zmień,module,Magento_Cms
 Delete,Usuń,module,Magento_Cms
 "Delete ${ $.$data.title }","Usuń ${ $.$data.title }",module,Magento_Cms
 "Are you sure you wan\'t to delete a ${ $.$data.title } record?","Czy na pewno chcesz usunąć rekord ${ $.$data.title }?",module,Magento_Cms
@@ -3468,7 +3468,7 @@ InputException,InputException,module,Magento_Customer
 "Minimum different classes of characters in password are %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimalna różność klas w haśle to %1. Klasy postaci: małe znaki, wielkie znaki, cyfry, znaki specjalne.",module,Magento_Customer
 Label,Etykieta,module,Magento_Customer
 Select...,Wybierz...,module,Magento_Customer
-Edit,Edytuj,module,Magento_Customer
+Edit,Zmień,module,Magento_Customer
 Visitor,Odwiedzający,module,Magento_Customer
 Customer,Klient,module,Magento_Customer
 "No item specified.","Nie wybrano produktu.",module,Magento_Customer
@@ -5055,7 +5055,7 @@ From:,Z:,module,Magento_GiftMessage
 Message:,Wiadomość:,module,Magento_GiftMessage
 Update,Aktualizuj,module,Magento_GiftMessage
 "Gift options","opcje podarunkowe",module,Magento_GiftMessage
-Edit,Edytuj,module,Magento_GiftMessage
+Edit,Zmień,module,Magento_GiftMessage
 Delete,Usuń,module,Magento_GiftMessage
 "Allow Gift Messages on Order Level","Zezwól na wiadomość prezentową na poziomie zamówienia",module,Magento_GiftMessage
 "Allow Gift Messages for Order Items","Zezwól na wiadomość prezentową dla produktów zamówienia",module,Magento_GiftMessage
@@ -5099,7 +5099,7 @@ Save,Zapisz,module,Magento_GiftRegistry
 "If you delete this gift registry type, you also delete customer registries that use this type. Do you want to continue?","Jeżeli usuniesz ten typ rejestru prezentów, usuniesz także Klientów, którzy używają tego typu. Czy chcesz kontynuować?",module,Magento_GiftRegistry
 Delete,Usuń,module,Magento_GiftRegistry
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_GiftRegistry
-"Edit '%1' Gift Registry Type","Edytuj typ rejestru prezenów '%1'",module,Magento_GiftRegistry
+"Edit '%1' Gift Registry Type","Edytuj typ rejestru prezentów '%1'",module,Magento_GiftRegistry
 "New Gift Registry Type","Nowy typ rejestru prezentów",module,Magento_GiftRegistry
 "Add Attribute","Dodaj cechę",module,Magento_GiftRegistry
 "Delete Attribute","Usuń cechę",module,Magento_GiftRegistry
@@ -5264,7 +5264,7 @@ Back,Powrót,module,Magento_GiftRegistry
 "Created On",Utworzono,module,Magento_GiftRegistry
 "Manage Items","Zarządzaj produktami",module,Magento_GiftRegistry
 Share,Udostępnij,module,Magento_GiftRegistry
-Edit,Edytuj,module,Magento_GiftRegistry
+Edit,Zmień,module,Magento_GiftRegistry
 "You haven\'t created a gift registry yet.","Nie stworzyłeś rejestru produktów.",module,Magento_GiftRegistry
 "Add New","Dodaj nowe",module,Magento_GiftRegistry
 Remove,Usuń,module,Magento_GiftRegistry
@@ -5437,7 +5437,7 @@ Delete,Usuń,module,Magento_GiftWrapping
 ID,ID,module,Magento_GiftWrapping
 "Gift Wrap Design","Projekt opakowania prezentu",module,Magento_GiftWrapping
 Action,Operacja,module,Magento_GiftWrapping
-Edit,Edytuj,module,Magento_GiftWrapping
+Edit,Zmień,module,Magento_GiftWrapping
 Dynamic,Dynamiczny,module,Magento_GoogleAdwords
 Constant,Stała,module,Magento_GoogleAdwords
 "Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Wartość konwersji dla koloru nie jest poprawna ""%1"". Proszę ustawić szesnastkową wartość 6-cyfrową.",module,Magento_GoogleAdwords
@@ -5678,7 +5678,7 @@ Email,E-mail,module,Magento_Integration
 "Uninstall the extension to remove this integration","Odinstalować rozszerzenie do usunięcia tej integracji",module,Magento_Integration
 Remove,Usuń,module,Magento_Integration
 View,Zobacz,module,Magento_Integration
-Edit,Edytuj,module,Magento_Integration
+Edit,Zmień,module,Magento_Integration
 Activate,Aktywuj,module,Magento_Integration
 Reauthorize,Autoryzuj,module,Magento_Integration
 "Uninstall the extension to remove integration '%1'.","Odinstaluj rozszerzenie, aby zrezygnować z integracji '%1'.",module,Magento_Integration
@@ -5985,7 +5985,7 @@ Delete,Usuń,module,Magento_Logging
 "Mass Delete","Masowe usuwanie",module,Magento_Logging
 Export,Eksport,module,Magento_Logging
 Import,Import,module,Magento_Logging
-Edit,Edytuj,module,Magento_Logging
+Edit,Zmień,module,Magento_Logging
 "Mass Update","Masowa aktualizacja",module,Magento_Logging
 Move,Przenieś,module,Magento_Logging
 New,Nowy,module,Magento_Logging
@@ -6132,7 +6132,7 @@ Warehouse,Magazyn,module,Magento_MultipleLocationInventory
 "Please select a user","Wybierz użytkownika",module,Magento_MultipleLocationInventory
 "Requested warehouse doesn\'t exist","Żądany magazyn nie istnieje",module,Magento_MultipleLocationInventory
 "Test error message","Testowy komunikat o błędzie",module,Magento_MultipleLocationInventory
-Edit,Edytuj,module,Magento_MultipleLocationInventory
+Edit,Zmień,module,Magento_MultipleLocationInventory
 "Multiple Location Inventory","Wiele lokalizacji magazynów",module,Magento_MultipleLocationInventory
 "Change status of warehouse","Zmiana stanu magazynu",module,Magento_MultipleLocationInventory
 "Edit warehouse","Edycja magazynu",module,Magento_MultipleLocationInventory
@@ -6241,7 +6241,7 @@ View,Zobacz,module,Magento_MultipleWishlist
 "Your search returned no results.","Brak wyników wyszukiwania.",module,Magento_MultipleWishlist
 "Wish List","Lista życzeń",module,Magento_MultipleWishlist
 "Edit Wish List","Edytuj Listę Życzeń",module,Magento_MultipleWishlist
-Edit,Edytuj,module,Magento_MultipleWishlist
+Edit,Zmień,module,Magento_MultipleWishlist
 "Public Wish List","Publiczna Lista Życzeń",module,Magento_MultipleWishlist
 "Private Wish List","Prywatna Lista Życzeń",module,Magento_MultipleWishlist
 "Select all","Zaznacz wszystko",module,Magento_MultipleWishlist
@@ -6348,7 +6348,7 @@ Change,Zmień,module,Magento_Multishipping
 "Excl. Tax","Bez podatku",module,Magento_Multishipping
 "Order Review","Podgląd zamówienia",module,Magento_Multishipping
 Item,Produkt,module,Magento_Multishipping
-Edit,Edytuj,module,Magento_Multishipping
+Edit,Zmień,module,Magento_Multishipping
 Price,Cena,module,Magento_Multishipping
 Subtotal,"Suma częściowa",module,Magento_Multishipping
 Items,Pozycje,module,Magento_Multishipping
@@ -7086,7 +7086,7 @@ Create...,Utwórz,module,Magento_Paypal
 "Update Shipping Method","Zaktualizuj metodę dostawy",module,Magento_Paypal
 "Sorry, no quotes are available for this order right now.","Przepraszamy cudzysłowie nie jest dostępne dla tego zamówienia już teraz.",module,Magento_Paypal
 "Shipping Address","Adres wysyłki",module,Magento_Paypal
-Edit,Edytuj,module,Magento_Paypal
+Edit,Zmień,module,Magento_Paypal
 "Buy now with PayPal","Kup teraz z PayPal",module,Magento_Paypal
 "Edit Payment Information","Edytuj informacje o płatnościach",module,Magento_Paypal
 "Items in Your Shopping Cart","Produkty w koszyku",module,Magento_Paypal
@@ -7834,7 +7834,7 @@ Reviews,Recenzje,module,Magento_Reports
 "Customers Report","Raporty klientów",module,Magento_Reports
 "Customer Reviews Report","Raport Opinii klientów",module,Magento_Reports
 "Product Reviews Report","Raport ocenianych produktów",module,Magento_Reports
-"Product Reviews","Recenzje produktu",module,Magento_Reports
+"Product Reviews",Opinie,module,Magento_Reports
 Details,Szczegóły,module,Magento_Reports
 Sales,Sprzedaż,module,Magento_Reports
 "Bestsellers Report","Raport Bestsellerów ",module,Magento_Reports
@@ -7943,7 +7943,7 @@ Product,Produkt,module,Magento_Review
 "Product Rating","Ocena produktu",module,Magento_Review
 Status,Status,module,Magento_Review
 Visibility,Widoczność,module,Magento_Review
-Nickname,Pseudonim,module,Magento_Review
+Nickname,Autor,module,Magento_Review
 "Summary of Review","Podsumowanie recenzji",module,Magento_Review
 Review,Opinia,module,Magento_Review
 Previous,Poprzedni,module,Magento_Review
@@ -7965,7 +7965,7 @@ Title,Tytuł,module,Magento_Review
 Type,Rodzaj,module,Magento_Review
 SKU,SKU,module,Magento_Review
 Action,Operacja,module,Magento_Review
-Edit,Edytuj,module,Magento_Review
+Edit,Zmień,module,Magento_Review
 Delete,Usuń,module,Magento_Review
 "Are you sure?","Czy na pewno tego chcesz?",module,Magento_Review
 "Update Status","Aktualizuj status",module,Magento_Review
@@ -7992,7 +7992,7 @@ Websites,Witryny,module,Magento_Review
 "Is Active","Jest aktywna",module,Magento_Review
 "Sort Order","Kolejność sortowania",module,Magento_Review
 "Rating Information","Informacje o ocenie",module,Magento_Review
-"Product Reviews","Recenzje produktu",module,Magento_Review
+"Product Reviews",Opinie,module,Magento_Review
 "Pending product review(s)","Oczekujące recenzje produktów",module,Magento_Review
 "Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produkt: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
 "Summary of review: %1 <br/>","Podsumowanie opinii: %1 <br/>",module,Magento_Review
@@ -8742,7 +8742,7 @@ Capture,Przechwyć,module,Magento_Sales
 "Total Paid","Zapłacono w sumie",module,Magento_Sales
 "Total Refunded","Łącznie zwrócono",module,Magento_Sales
 "Total Due",Pozostało,module,Magento_Sales
-Edit,Edytuj,module,Magento_Sales
+Edit,Zmień,module,Magento_Sales
 "Are you sure you want to send an order email to customer?","Czy na pewno chcesz wysłać informację o zamówieniu do klienta?",module,Magento_Sales
 "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",module,Magento_Sales
 "Are you sure you want to void the payment?","Czy na pewno chcesz unieważnić tę płatność?",module,Magento_Sales
@@ -9658,7 +9658,7 @@ Active,Aktywny,module,Magento_SalesRuleStaging
 Inactive,Nieaktywny,module,Magento_SalesRuleStaging
 "Web Site",Witryna,module,Magento_SalesRuleStaging
 Action,Operacja,module,Magento_SalesRuleStaging
-Edit,Edytuj,module,Magento_SalesRuleStaging
+Edit,Zmień,module,Magento_SalesRuleStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_SalesRuleStaging
 "Start Date","Data rozpoczęcia",module,Magento_SalesRuleStaging
 "Start Time","Czas rozpoczęcia",module,Magento_SalesRuleStaging
@@ -9834,7 +9834,7 @@ Operation,Operacja,module,Magento_ScheduledImportExport
 "Last Run","Ostatnie uruchomienie",module,Magento_ScheduledImportExport
 "Last Outcome","Ostatni wynik",module,Magento_ScheduledImportExport
 Action,Operacja,module,Magento_ScheduledImportExport
-Edit,Edytuj,module,Magento_ScheduledImportExport
+Edit,Zmień,module,Magento_ScheduledImportExport
 Run,Uruchom,module,Magento_ScheduledImportExport
 "Search Term","Szukana fraza",module,Magento_Search
 Results,Rezultaty,module,Magento_Search
@@ -9912,7 +9912,7 @@ Hits,Kliknięcia,module,Magento_Search
 yes,tak,module,Magento_Search
 no,nie,module,Magento_Search
 Action,Operacja,module,Magento_Search
-Edit,Edytuj,module,Magento_Search
+Edit,Zmień,module,Magento_Search
 Scope,Zakres,module,Magento_Search
 "You can adjust the scope of this synonym group by selecting an option from the list.","Możesz dostosować zakres tej grupy synonimów, wybierając odpowiednią opcję z listy.",module,Magento_Search
 Synonyms,Synonimy,module,Magento_Search
@@ -11346,7 +11346,7 @@ No,Nie,module,Magento_UrlRewrite
 "Custom storage message","Magazyn niestandardowych wiadomości",module,Magento_UrlRewrite
 "Select Category","Wybierz kategorię",module,Magento_UrlRewrite
 Action,Operacja,module,Magento_UrlRewrite
-Edit,Edytuj,module,Magento_UrlRewrite
+Edit,Zmień,module,Magento_UrlRewrite
 Back,Powrót,module,Magento_User
 Reset,Resetuj,module,Magento_User
 "Delete Role","Skasuj rolę",module,Magento_User
@@ -12077,7 +12077,7 @@ Qty,Ilość,module,Magento_Wishlist
 Availability,Dostępność,module,Magento_Wishlist
 "In stock","W magazynie",module,Magento_Wishlist
 "Out of stock","Brak w magazynie",module,Magento_Wishlist
-Edit,Edytuj,module,Magento_Wishlist
+Edit,Zmień,module,Magento_Wishlist
 "Remove Item","Usuń produkt",module,Magento_Wishlist
 "Remove item","Usuń produkt",module,Magento_Wishlist
 "Add to Compare","Dodaj do porównania",module,Magento_Wishlist
