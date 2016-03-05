@@ -454,7 +454,7 @@ Submit,Prześlij,module,Magento_Backend
 "The static files cache has been cleaned.","Odświeżono pamięć podręczną plików statycznych.",module,Magento_Backend
 "You flushed the cache storage.","Odświeżono wszystkie pamięci podręczne.",module,Magento_Backend
 "The Magento cache storage has been flushed.","Składowanie cache Magento zostało opróżnione.",module,Magento_Backend
-"Cache Management","Zarządzanie cache",module,Magento_Backend
+"Cache Management","Pamięć podręczna",module,Magento_Backend
 "%1 cache type(s) disabled.","Pomyślnie wyłączone pamięci podręczne: %1.",module,Magento_Backend
 "An error occurred while disabling cache.","Wystąpił błąd podczas wyłączania pamięci podręcznej.",module,Magento_Backend
 "%1 cache type(s) enabled.","Pomyślnie włączone pamięci podręczne: %1.",module,Magento_Backend
@@ -771,7 +771,7 @@ Tags,Tagi,module,Magento_Backend
 "You need more free space to create a backup.","Potrzebujesz więcej wolnego miejsca, aby utworzyć kopię zapasową.",module,Magento_Backup
 "You need more permissions to create a backup.","Potrzebujesz więcej uprawnień, aby utworzyć kopię zapasową.",module,Magento_Backup
 "We can\'t create the backup right now.","W tej chwili nie możemy utworzyć kopii zapasowej.",module,Magento_Backup
-Backups,"Kopie zapasowe",module,Magento_Backup
+Backups,"Kopia zapasowa",module,Magento_Backup
 System,System,module,Magento_Backup
 Tools,Narzędzia,module,Magento_Backup
 Backup,"Kopia zapasowa",module,Magento_Backup
@@ -1209,8 +1209,8 @@ Quantity:,Ilość:,module,Magento_Bundle
 "Store View Title","Tytuł widoku sklepu",module,Magento_Bundle
 Position,Pozycja,module,Magento_Bundle
 "There are no products in this option.","Brak produktów w tej opcji.",module,Magento_Bundle
-Ordered,Zamówiony,module,Magento_Bundle
-Invoiced,Zafakturowano,module,Magento_Bundle
+Ordered,Zamówione,module,Magento_Bundle
+Invoiced,Zafakturowane,module,Magento_Bundle
 Shipped,Wysłane,module,Magento_Bundle
 Refunded,Zwrócono,module,Magento_Bundle
 Canceled,Anulowane,module,Magento_Bundle
@@ -1238,7 +1238,7 @@ To:,Do:,module,Magento_Bundle
 Message:,Wiadomość:,module,Magento_Bundle
 "Product Name","Nazwa produktu",module,Magento_Bundle
 Subtotal,"Suma częściowa",module,Magento_Bundle
-"Discount Amount","Wielkość zniżki",module,Magento_Bundle
+"Discount Amount",Zniżka,module,Magento_Bundle
 "Row Total",Razem,module,Magento_Bundle
 "Qty Invoiced","Zafakturowana ilość",module,Magento_Bundle
 "Qty Shipped","Ilość dostarczona",module,Magento_Bundle
@@ -4020,7 +4020,7 @@ subscribed,subskrybowało,module,Magento_CustomerSegment
 "Order Address %1","Adres zamówienia %1",module,Magento_CustomerSegment
 "Address Type","Typ adresu",module,Magento_CustomerSegment
 "Order Address %1 a %2 Address","Zamówienia adres %1 %2 adres",module,Magento_CustomerSegment
-"Order Status","Status zamówienia",module,Magento_CustomerSegment
+"Order Status","Stan zamówienia",module,Magento_CustomerSegment
 Any,Dowolny,module,Magento_CustomerSegment
 "Order Status %1 %2:","Status zamówienia %1 %2:",module,Magento_CustomerSegment
 "Product Attributes","Cechy produktu",module,Magento_CustomerSegment
@@ -4333,7 +4333,7 @@ URL,URL,module,Magento_Downloadable
 attachment,załącznik,module,Magento_Downloadable
 inline,liniowy,module,Magento_Downloadable
 Pending,Oczekujący,module,Magento_Downloadable
-Invoiced,Zafakturowano,module,Magento_Downloadable
+Invoiced,Zafakturowane,module,Magento_Downloadable
 "To enable the option set the weight to no","Aby włączyć opcję ustaw wagę na nie",module,Magento_Downloadable
 "Is this downloadable Product?","Jest to produkt do pobrania?",module,Magento_Downloadable
 Links,Linki,module,Magento_Downloadable
@@ -4383,10 +4383,10 @@ Message:,Wiadomość:,module,Magento_Downloadable
 "Product Name","Nazwa produktu",module,Magento_Downloadable
 Qty,Ilość,module,Magento_Downloadable
 Subtotal,"Suma częściowa",module,Magento_Downloadable
-"Discount Amount","Wielkość zniżki",module,Magento_Downloadable
+"Discount Amount",Zniżka,module,Magento_Downloadable
 "Row Total",Razem,module,Magento_Downloadable
 "Qty Invoiced","Zafakturowana ilość",module,Magento_Downloadable
-Ordered,Zamówiony,module,Magento_Downloadable
+Ordered,Zamówione,module,Magento_Downloadable
 Shipped,Wysłane,module,Magento_Downloadable
 Canceled,Anulowane,module,Magento_Downloadable
 Refunded,Zwrócono,module,Magento_Downloadable
@@ -4816,8 +4816,8 @@ N/A,N/D,module,Magento_GiftCard
 "Please specify a sender name.","Proszę podać nazwę nadawcy.",module,Magento_GiftCard
 "Please specify a recipient email.","Proszę podać adres e-mail odbiorcy.",module,Magento_GiftCard
 "Please specify a sender email.","Proszę podać adres e-mail nadawcy.",module,Magento_GiftCard
-Ordered,Zamówiony,module,Magento_GiftCard
-Invoiced,Zafakturowano,module,Magento_GiftCard
+Ordered,Zamówione,module,Magento_GiftCard
+Invoiced,Zafakturowane,module,Magento_GiftCard
 "Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Część kart podarunkowych nie została utworzona poprawnie. Możesz utworzyć je ręcznie <a href=""%1"">tutaj</a>.",module,Magento_GiftCard
 Amount,Kwota,module,Magento_GiftCard
 To,Do,module,Magento_GiftCard
@@ -5992,7 +5992,7 @@ New,Nowy,module,Magento_Logging
 "Forgot Password","Zapomniane hasło",module,Magento_Logging
 "Global Search","Globalne wyszukiwanie",module,Magento_Logging
 Apply,Zastosuj,module,Magento_Logging
-Reorder,"Ponowne zamówienia",module,Magento_Logging
+Reorder,"Zamów ponownie",module,Magento_Logging
 Print,Drukuj,module,Magento_Logging
 Email,E-mail,module,Magento_Logging
 Run,Uruchom,module,Magento_Logging
@@ -6049,7 +6049,7 @@ Reports,Raporty,module,Magento_Logging
 "Tax Rates","Stawki podatkowe",module,Magento_Logging
 "XML Sitemap","XML Mapa strony",module,Magento_Logging
 Widget,Widget,module,Magento_Logging
-"Cache Management","Zarządzanie cache",module,Magento_Logging
+"Cache Management","Pamięć podręczna",module,Magento_Logging
 "PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Logging
 "Archive File","Plik archiwum",module,Magento_Logging
 Date,Data,module,Magento_Logging
@@ -6583,7 +6583,7 @@ Region/State,Region/województwo,module,Magento_OfflineShipping
 "Price vs. Destination","Cena w zależności od lokalizacji",module,Magento_OfflineShipping
 "# of Items vs. Destination","Ilość produktów w zależności od lokalizacji",module,Magento_OfflineShipping
 "Weight (and above)","Waga (i powyżej)",module,Magento_OfflineShipping
-"Order Subtotal (and above)","Suma częsciowa zamówienia (i powyżej)",module,Magento_OfflineShipping
+"Order Subtotal (and above)","Suma częściowa zamówienia (i powyżej)",module,Magento_OfflineShipping
 "# of Items (and above)","Ilość produktów (i powyżej)",module,Magento_OfflineShipping
 "Please correct Table Rate code type: %1.","Proszę poprawić tabelę stawek kod typu: %1.",module,Magento_OfflineShipping
 "Please correct Table Rate code for type %1: %2.","Proszę poprawić kod tabeli stawek dla typu %1: %2.",module,Magento_OfflineShipping
@@ -7069,7 +7069,7 @@ Updated:,Zaktualizowano:,module,Magento_Paypal
 "Order #","Zamówienie #",module,Magento_Paypal
 Date,Data,module,Magento_Paypal
 "Ship To","Dostawa do",module,Magento_Paypal
-"Order Status","Status zamówienia",module,Magento_Paypal
+"Order Status","Stan zamówienia",module,Magento_Paypal
 "View Order","Zobacz zamówienie",module,Magento_Paypal
 "Back to Billing Agreements","Powrót do umów rozliczeniowych",module,Magento_Paypal
 "Payment Method","Metoda płatności",module,Magento_Paypal
@@ -7781,7 +7781,7 @@ Orders,Zamówienia,module,Magento_Reports
 Items,Pozycje,module,Magento_Reports
 Revenue,Dochód,module,Magento_Reports
 Profit,Profit,module,Magento_Reports
-Invoiced,Zafakturowano,module,Magento_Reports
+Invoiced,Zafakturowane,module,Magento_Reports
 Paid,Zapłacono,module,Magento_Reports
 Refunded,Zwrócono,module,Magento_Reports
 "Sales Tax","Podatek sprzedaży",module,Magento_Reports
@@ -8237,7 +8237,7 @@ ID,ID,module,Magento_Reward
 Return,Zwrot,module,Magento_Rma
 Returns,Zwroty,module,Magento_Rma
 "Create Returns","Utworzyć zwroty",module,Magento_Rma
-"Select Items","Wybierz produkty",module,Magento_Rma
+"Select Items","Wybierz pozycje",module,Magento_Rma
 "New Return Request","Nowe żądanie zwrotu",module,Magento_Rma
 "Create New RMA for %1 in %2","Utwórz nowe zlecenie RMA dla %1 w %2",module,Magento_Rma
 "Create New RMA for %1","Utwórz nowe zlecenie RMA dla %1",module,Magento_Rma
@@ -8262,7 +8262,7 @@ Cancel,Anuluj,module,Magento_Rma
 "Delete Image","Usuń obraz",module,Magento_Rma
 "View Full Size","Zobacz pełen rozmiar",module,Magento_Rma
 "General Information","Informacje ogólne",module,Magento_Rma
-"Submit Comment","Zatwierdź komentarz",module,Magento_Rma
+"Submit Comment","Dodaj komentarz",module,Magento_Rma
 Add,Dodaj,module,Magento_Rma
 "Custom Value","Niestandardowa wartość",module,Magento_Rma
 "Print Shipping Label","Wydrukuj etykietę wysyłkową",module,Magento_Rma
@@ -8284,7 +8284,7 @@ Split,Podział,module,Magento_Rma
 Action,Operacja,module,Magento_Rma
 "Return Information","Informacje o zwrotach",module,Magento_Rma
 RMA,RMA,module,Magento_Rma
-Ordered,Zamówiony,module,Magento_Rma
+Ordered,Zamówione,module,Magento_Rma
 Customer,Klient,module,Magento_Rma
 View,Zobacz,module,Magento_Rma
 "You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Wybrano opcję zmiany statusu\ów wybranych zleceń RMA na zamknięte. Czy jesteś pewnien, że chcesz kontynuować?",module,Magento_Rma
@@ -8634,7 +8634,7 @@ Billing,Rozliczenie,module,Magento_Sales
 "Edit Order %1 %2 Address","Edycja adresu zamówienia %1 %2",module,Magento_Sales
 "Order Address Information","Informacje adresowe zamówienia",module,Magento_Sales
 "Please correct the parent block for this block.","Popraw blok nadrzędny tego bloku.",module,Magento_Sales
-"Submit Comment","Zatwierdź komentarz",module,Magento_Sales
+"Submit Comment","Dodaj komentarz",module,Magento_Sales
 "Submit Order","Wyślij zamówienie",module,Magento_Sales
 "Are you sure you want to cancel this order?","Czy na pewno chcesz anulować to zamówienie?",module,Magento_Sales
 Cancel,Anuluj,module,Magento_Sales
@@ -8685,7 +8685,7 @@ Quantity,Ilość,module,Magento_Sales
 "Recently Viewed","Ostatnio oglądane",module,Magento_Sales
 "Wish List","Lista życzeń",module,Magento_Sales
 "Please select a store","Prosimy wybrać sklep",module,Magento_Sales
-"Order Totals","Sumy zamówień",module,Magento_Sales
+"Order Totals","Sumy zamówienia",module,Magento_Sales
 "Shipping Incl. Tax (%1)","Dostawa z podatkiem (%1)",module,Magento_Sales
 "Shipping Excl. Tax (%1)","Dostawa bez podatku (%1)",module,Magento_Sales
 "New Credit Memo for Invoice #%1","Nowa nota do faktury #%1",module,Magento_Sales
@@ -8728,7 +8728,7 @@ Capture,Przechwyć,module,Magento_Sales
 "Save Status Assignment","Zapisz przypisanie statusu",module,Magento_Sales
 "Assign Order Status to State","Przypisz status zamówienia do stanu",module,Magento_Sales
 "Assignment Information","Informacje o przypisaniu",module,Magento_Sales
-"Order Status","Status zamówienia",module,Magento_Sales
+"Order Status","Stan zamówienia",module,Magento_Sales
 "Order State","Stan zamówienia",module,Magento_Sales
 "Use Order Status As Default","Uzyj status zamówienia jako domyślny",module,Magento_Sales
 "Visible On Storefront","Widoczne na sklepie",module,Magento_Sales
@@ -8739,7 +8739,7 @@ Capture,Przechwyć,module,Magento_Sales
 "Status Code","Kod statusu",module,Magento_Sales
 "Status Label","Etykieta statusu",module,Magento_Sales
 "Store View Specific Labels","Etykiey specyficzne dla widoku sklepu",module,Magento_Sales
-"Total Paid","Zapłacono w sumie",module,Magento_Sales
+"Total Paid","Łącznie zapłacono",module,Magento_Sales
 "Total Refunded","Łącznie zwrócono",module,Magento_Sales
 "Total Due",Pozostało,module,Magento_Sales
 Edit,Zmień,module,Magento_Sales
@@ -8758,7 +8758,7 @@ unhold,odblokuj,module,Magento_Sales
 "Invoice and Ship","Faktura i rachunek",module,Magento_Sales
 Invoice,Faktura,module,Magento_Sales
 Ship,Dostawa,module,Magento_Sales
-Reorder,"Ponowne zamówienia",module,Magento_Sales
+Reorder,"Zamów ponownie",module,Magento_Sales
 "Order # %1 %2 | %3","Zamówienie # %1 %2 | %3",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","To zamówienie zawiera (%1) produktów i dlatego nie może być teraz edytowane z poziomu panelu administracyjnego. Jeśli chcesz kontynuować edycję (%2) produktów zostanie usuniętych, aktualne zamówienie zostanie anulowane, a na jego miejsce zostanie utworzone nowe.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Czy jesteś pewien? To zamówienie zostanie usunięte a w miejsce niego zostanie utworzone nowe.",module,Magento_Sales
@@ -8948,9 +8948,9 @@ Paid,Zapłacono,module,Magento_Sales
 "We cannot register an existing invoice","Nie można zarejestrować istniejącej faktury",module,Magento_Sales
 "ID required","Wymagany identyfikator",module,Magento_Sales
 "Unknown Status","Nieznany status",module,Magento_Sales
-Ordered,Zamówiony,module,Magento_Sales
+Ordered,Zamówione,module,Magento_Sales
 Shipped,Wysłane,module,Magento_Sales
-Invoiced,Zafakturowano,module,Magento_Sales
+Invoiced,Zafakturowane,module,Magento_Sales
 Backordered,"Produkty brakujące do realizacji",module,Magento_Sales
 Returned,Zwrócony,module,Magento_Sales
 Partial,Częściowy,module,Magento_Sales
@@ -9102,7 +9102,7 @@ Apply,Zastosuj,module,Magento_Sales
 Remove,Usuń,module,Magento_Sales
 "Address Information","Informacje o adresie",module,Magento_Sales
 "Payment &amp; Shipping Information","Informacje o wysyłce i płatności",module,Magento_Sales
-"Order Total","Suma zamówienia",module,Magento_Sales
+"Order Total",Podsumowanie,module,Magento_Sales
 "Order Currency:","Waluta zamówienia:",module,Magento_Sales
 "Same As Billing Address","Taki sam jak adres rozliczeniowy",module,Magento_Sales
 "Select from existing customer addresses:","Wybierz spośród istniejących adresów klienta:",module,Magento_Sales
@@ -9147,7 +9147,7 @@ Item,Produkt,module,Magento_Sales
 "Return to Stock","Zwrot do magazynu",module,Magento_Sales
 "Qty to Refund","Ilość do zwrotu",module,Magento_Sales
 "Tax Amount","Wartość podatku",module,Magento_Sales
-"Discount Amount","Wielkość zniżki",module,Magento_Sales
+"Discount Amount",Zniżka,module,Magento_Sales
 "Row Total",Razem,module,Magento_Sales
 "No Items To Refund","Brak produktów do zwrotu",module,Magento_Sales
 "Credit Memo Comments","Komentarze do faktury korygującej",module,Magento_Sales
@@ -9188,8 +9188,8 @@ Status,Status,module,Magento_Sales
 Comment,Komentarz,module,Magento_Sales
 "Notification Not Applicable","Powiadomienie nie kwalifikuje się",module,Magento_Sales
 "Order & Account Information","Dane zamówienia i konta",module,Magento_Sales
-"The order confirmation email was sent","E-mail z potwierdzeniem zamówienia został wysłany",module,Magento_Sales
-"The order confirmation email is not sent","E-mail z potwierdzeniem zamówienia nie został wysłany",module,Magento_Sales
+"The order confirmation email was sent","Potwierdzenie zostało wysłane",module,Magento_Sales
+"The order confirmation email is not sent","Potwierdzenie nie zostało wysłane",module,Magento_Sales
 "Order Date","Data zamówienia",module,Magento_Sales
 "Order Date (%1)","Data zamówienia (%1)",module,Magento_Sales
 "Purchased From","Kupiono od",module,Magento_Sales
@@ -9378,14 +9378,14 @@ Website,Witryna,module,Magento_Sales
 order-header,"nagłówek zamówienia",module,Magento_Sales
 "Bill-to Name","Rachunek na dane",module,Magento_Sales
 Created,Utworzono,module,Magento_Sales
-"Invoice Date","Data wystawienia faktury",module,Magento_Sales
+"Invoice Date","Data wystawienia",module,Magento_Sales
 "Ship-to Name","Dostawa dla",module,Magento_Sales
 "Ship Date","Data wysyłki",module,Magento_Sales
 "Total Quantity","Całkowita ilość",module,Magento_Sales
 "Default Status","Domyślny status",module,Magento_Sales
 "State Code and Title","State Code and Title",module,Magento_Sales
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Sales
-"PDF Credit Memos","Faktury korygujące PDF",module,Magento_Sales
+"PDF Credit Memos","Pobierz fakturę korygującą",module,Magento_Sales
 "Purchase Point","Punkt zakupu",module,Magento_Sales
 "Print Invoices","Wydrukuj faktury",module,Magento_Sales
 "Print Packing Slips","Drukuj dokumenty dostawy",module,Magento_Sales
@@ -9397,7 +9397,7 @@ Created,Utworzono,module,Magento_Sales
 "Grand Total (Purchased)","Łączna suma (zakupu)",module,Magento_Sales
 "Customer Email","E-mail klienta",module,Magento_Sales
 "Shipping and Handling","Dostawa i obsługa",module,Magento_Sales
-"PDF Invoices","Faktury PDF",module,Magento_Sales
+"PDF Invoices","Pobierz fakturę",module,Magento_Sales
 "PDF Shipments","Wysyłki PDF",module,Magento_Sales
 "PDF Creditmemos","PDF korekty",module,Magento_Sales
 Refunds,Zwroty,module,Magento_Sales
@@ -9426,7 +9426,7 @@ Add,Dodaj,module,Magento_SalesArchive
 "Sales Archive","Archiwum sprzedaży",module,Magento_SalesArchive
 "All Store Views","Wszystkie widoki sklepu",module,Magento_SalesArchive
 "Purchased From","Kupiono od",module,Magento_SalesArchive
-"PDF Credit Memos","Faktury korygujące PDF",module,Magento_SalesArchive
+"PDF Credit Memos","Pobierz fakturę korygującą",module,Magento_SalesArchive
 "Credit Memo","Faktura korygująca",module,Magento_SalesArchive
 Created,Utworzono,module,Magento_SalesArchive
 Order,Zamówienie,module,Magento_SalesArchive
@@ -9434,7 +9434,7 @@ Order,Zamówienie,module,Magento_SalesArchive
 "Bill-to Name","Rachunek na dane",module,Magento_SalesArchive
 Status,Status,module,Magento_SalesArchive
 Refunded,Zwrócono,module,Magento_SalesArchive
-"Order Status","Status zamówienia",module,Magento_SalesArchive
+"Order Status","Stan zamówienia",module,Magento_SalesArchive
 "Billing Address","Adres rozliczeniowy",module,Magento_SalesArchive
 "Shipping Address","Adres wysyłki",module,Magento_SalesArchive
 "Customer Name","Nazwisko klienta",module,Magento_SalesArchive
@@ -9466,9 +9466,9 @@ ID,ID,module,Magento_SalesArchive
 "Customer Email","E-mail klienta",module,Magento_SalesArchive
 "Shipping and Handling","Dostawa i obsługa",module,Magento_SalesArchive
 "Total Refunded","Łącznie zwrócono",module,Magento_SalesArchive
-"PDF Invoices","Faktury PDF",module,Magento_SalesArchive
+"PDF Invoices","Pobierz fakturę",module,Magento_SalesArchive
 Invoice,Faktura,module,Magento_SalesArchive
-"Invoice Date","Data wystawienia faktury",module,Magento_SalesArchive
+"Invoice Date","Data wystawienia",module,Magento_SalesArchive
 "Order #","Zamówienie #",module,Magento_SalesArchive
 Amount,Kwota,module,Magento_SalesArchive
 "PDF Shipments","Wysyłki PDF",module,Magento_SalesArchive
@@ -9638,7 +9638,7 @@ Back,Powrót,module,Magento_SalesRule
                         Usage limit enforced for logged in customers only.
                     ",module,Magento_SalesRule
 Apply,Zastosuj,module,Magento_SalesRule
-"Discount Amount","Wielkość zniżki",module,Magento_SalesRule
+"Discount Amount",Zniżka,module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Maksymalna zniżka ilościowa jest stosowana dla",module,Magento_SalesRule
 "Discount Qty Step (Buy X)","Kroki ilości zniżek (kup X)",module,Magento_SalesRule
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRule
@@ -9680,7 +9680,7 @@ Websites,Witryny,module,Magento_SalesRuleStaging
 Conditions,Warunki,module,Magento_SalesRuleStaging
 Actions,Operacje,module,Magento_SalesRuleStaging
 Apply,Zastosuj,module,Magento_SalesRuleStaging
-"Discount Amount","Wielkość zniżki",module,Magento_SalesRuleStaging
+"Discount Amount",Zniżka,module,Magento_SalesRuleStaging
 "Maximum Qty Discount is Applied To","Maksymalna zniżka ilościowa jest stosowana dla",module,Magento_SalesRuleStaging
 "Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRuleStaging
@@ -11733,7 +11733,7 @@ Circle,Koło,module,Magento_VersionsCms
 Disc,Dysk,module,Magento_VersionsCms
 Square,Plac,module,Magento_VersionsCms
 Unordered,Nieuporządkowana,module,Magento_VersionsCms
-Ordered,Zamówiony,module,Magento_VersionsCms
+Ordered,Zamówione,module,Magento_VersionsCms
 "Use Parent","Użyj rodzica",module,Magento_VersionsCms
 Yes,Tak,module,Magento_VersionsCms
 "Use the parent node hierarchy.","Użyj hierarchii węzła nadrzędnego.",module,Magento_VersionsCms
