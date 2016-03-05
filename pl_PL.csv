@@ -5519,7 +5519,7 @@ Export,Eksport,module,Magento_ImportExport
 "Export File Format","Formal pliku eksportu",module,Magento_ImportExport
 From,Od,module,Magento_ImportExport
 To,Do,module,Magento_ImportExport
-"We can\'t filter an attribute with no attribute options.","We can\'t filter an attribute with no attribute options.",module,Magento_ImportExport
+"We can\'t filter an attribute with no attribute options.","Nie można filtrować atrybutów bez opcji atrybutów.",module,Magento_ImportExport
 Exclude,Wyłącz,module,Magento_ImportExport
 "Attribute Label","Etykieta cechy",module,Magento_ImportExport
 "Attribute Code","Kod cechy",module,Magento_ImportExport
@@ -6632,7 +6632,7 @@ Import,Import,module,Magento_OfflineShipping
 "Full Page Cache","Pamięć podręczna stron",module,Magento_PageCache
 "Caching Application","Aplikacja do buforowania",module,Magento_PageCache
 "Varnish Configuration","Konfiguracja Varnish",module,Magento_PageCache
-"Access list","Access list",module,Magento_PageCache
+"Access list","Dostęp do listy",module,Magento_PageCache
 "IPs access list separated with \',\' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","Lista adresów IP (rozdzielonych przecinkiem), które mają być uprawnione do odświeżania Varnisha przy generowaniu pliku konfiguracji. Jeżeli pole zostanie puste, będzie używana wartość ""localhost"".",module,Magento_PageCache
 "Backend host",Host,module,Magento_PageCache
@@ -6866,7 +6866,7 @@ Never,Nigdy,module,Magento_Paypal
 "AVS Street Match","AVS Street Match",module,Magento_Paypal
 "AVS zip","AVS zip",module,Magento_Paypal
 "International AVS response","International AVS response",module,Magento_Paypal
-"Buyer\'s Tax ID","Buyer\'s Tax ID",module,Magento_Paypal
+"Buyer\'s Tax ID","ID podatkowe klienta",module,Magento_Paypal
 "Buyer\'s Tax ID Type","Buyer\'s Tax ID Type",module,Magento_Paypal
 Chargeback,Zwrot,module,Magento_Paypal
 Complaint,Skarga,module,Magento_Paypal
@@ -7497,7 +7497,7 @@ Delete,Usuń,module,Magento_ProductVideo
 "Auto restart video","Powtarzanie filmu",module,Magento_ProductVideo
 "Images And Videos","Zdjęcia i filmy",module,Magento_ProductVideo
 "Edit Catalog Price Rules","Edytuj reguły cenowe katalogu",module,Magento_PromotionPermissions
-"Edit Cart Price Rules","Edit Cart Price Rules",module,Magento_PromotionPermissions
+"Edit Cart Price Rules","Edytuj reguły cenowe katalogu",module,Magento_PromotionPermissions
 "Edit Automated Email Reminder Rules","Edytuj zasady automatycznego przypominania",module,Magento_PromotionPermissions
 "Unable to save address. Please check input data.","Nie udało się zapisać adresu. Proszę sprawdź wpisane dane.",module,Magento_Quote
 "Cart %1 doesn\'t contain products","W koszyku %1 nie ma żadnych produktów",module,Magento_Quote
@@ -7694,8 +7694,8 @@ text,tekst,module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","Aby skorzystać z promocji musisz zalogować się na <a href=""%account_url"">%store_name</a>",module,Magento_Reminder
 "This coupon can be used only up to %coupon_limit time(s) by you or other customers.","This coupon can be used only up to %coupon_limit time(s) by you or other customers.",module,Magento_Reminder
 "You can use this coupon up to %coupon_limit time(s).","Możesz użyć tego kuponu do %coupon_limit razy.",module,Magento_Reminder
-"Promo Section","Promo Section",module,Magento_Reminder
-"Automated Email Reminder Rules","Automated Email Reminder Rules",module,Magento_Reminder
+"Promo Section","Sekcja promocji",module,Magento_Reminder
+"Automated Email Reminder Rules","Edytuj zasady automatycznego przypominania",module,Magento_Reminder
 "Enable Reminder Emails","Włącz przypomnienia e-mail",module,Magento_Reminder
 Frequency,Częstotliwość,module,Magento_Reminder
 Interval,Interwał,module,Magento_Reminder
@@ -7869,8 +7869,8 @@ Error,Błąd,module,Magento_Reports
 "Number of Wish Lists: %1","Liczba schowków: %1",module,Magento_Reports
 "Number of items bought from a Wish List: %1","Number of items bought from a Wish List: %1",module,Magento_Reports
 "Number of times Wish Lists have been shared (emailed): %1","Number of times Wish Lists have been shared (emailed): %1",module,Magento_Reports
-"Number of Wish List referrals: %1","Number of Wish List referrals: %1",module,Magento_Reports
-"Number of Wish List conversions: %1","Number of Wish List conversions: %1",module,Magento_Reports
+"Number of Wish List referrals: %1","Ilość osób poleconych za pośrednictwem schowka: %1",module,Magento_Reports
+"Number of Wish List conversions: %1","Ilość osób poleconych za pośrednictwem schowka: %1",module,Magento_Reports
 "Show Report For:","Pokaż raport dla:",module,Magento_Reports
 "All Websites","Wszystkie witryny",module,Magento_Reports
 "Recently Viewed","Ostatnio oglądane",module,Magento_Reports
@@ -7882,16 +7882,16 @@ Error,Błąd,module,Magento_Reports
 "Recently Compared","Ostatnio porównywane",module,Magento_Reports
 "Learn More","Dowiedz się więcej",module,Magento_Reports
 Marketing,Marketing,module,Magento_Reports
-"Products in Cart","Products in Cart",module,Magento_Reports
-"Abandoned Cart","Abandoned Cart",module,Magento_Reports
-"Search Terms","Search Terms",module,Magento_Reports
-"By Customers","By Customers",module,Magento_Reports
-"By Products","By Products",module,Magento_Reports
-Refunds,Refunds,module,Magento_Reports
-"Order Total","Order Total",module,Magento_Reports
-"Order Count","Order Count",module,Magento_Reports
+"Products in Cart","Produkty w koszyku",module,Magento_Reports
+"Abandoned Cart","Porzucone koszyki",module,Magento_Reports
+"Search Terms","Szukane frazy",module,Magento_Reports
+"By Customers",Klienci,module,Magento_Reports
+"By Products",Produkty,module,Magento_Reports
+Refunds,Zwroty,module,Magento_Reports
+"Order Total","Suma zamówienia",module,Magento_Reports
+"Order Count","Liczba zamówień",module,Magento_Reports
 New,Nowy,module,Magento_Reports
-Ordered,Ordered,module,Magento_Reports
+Ordered,Zamówień,module,Magento_Reports
 "Recently Viewed/Compared Products","Ostatnio oglądane/porównywane produkty",module,Magento_Reports
 "Show for Current","Pokazuj dla bieżącego",module,Magento_Reports
 "Default Recently Viewed Products Count","Domyślny licznik ostatnio oglądanych produktów",module,Magento_Reports
@@ -7921,10 +7921,10 @@ Average,Średnia,module,Magento_Reports
 "For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",module,Magento_Reports
 Guest,Gość,module,Magento_Reports
 Action,Operacja,module,Magento_Reports
-"Average (Approved)","Average (Approved)",module,Magento_Reports
+"Average (Approved)","Średnia (zatwierdzone)",module,Magento_Reports
 "Last Review","Ostatnia recenzja",module,Magento_Reports
-"Order Created","Order Created",module,Magento_Reports
-"Order Updated","Order Updated",module,Magento_Reports
+"Order Created","Data utworzenia zamówienia",module,Magento_Reports
+"Order Updated","Data aktualizacji zamówienia",module,Magento_Reports
 "The Order Updated report is created in real time and does not require a refresh.","The Order Updated report is created in real time and does not require a refresh.",module,Magento_Reports
 "Last Invoice Created Date","Data utworzenie ostatniej faktury",module,Magento_Reports
 "Last Credit Memo Created Date","Data utworzenie ostatniej faktury korygującej",module,Magento_Reports
@@ -8318,7 +8318,7 @@ Properties,Właściwości,module,Magento_Rma
 "Visible to Customer","Widoczny dla klienta",module,Magento_Rma
 No,Nie,module,Magento_Rma
 Yes,Tak,module,Magento_Rma
-"Submit Returns","Submit Returns",module,Magento_Rma
+"Submit Returns","Prześlij Odpowiedź",module,Magento_Rma
 "Add Products","Dodaj produkty",module,Magento_Rma
 "Add Selected Product(s) to returns","Add Selected Product(s) to returns",module,Magento_Rma
 "Product Name","Nazwa produktu",module,Magento_Rma
@@ -8549,8 +8549,8 @@ Answers,Odpowiedzi,module,Magento_Rma
 "Placed on %created_at","Placed on %created_at",module,Magento_Rma
 "Click Details for more required fields.","Kliknij przycisk Szczegóły po więcej wymaganych pól.",module,Magento_Rma
 Ok,Ok,module,Magento_Rma
-"Create Packages","Create Packages",module,Magento_Rma
-"Add Package","Add Package",module,Magento_Rma
+"Create Packages","Utwórz paczkę",module,Magento_Rma
+"Add Package","Dodaj paczkę",module,Magento_Rma
 "RMA Settings","Ustawienia RMA",module,Magento_Rma
 "Enable RMA on Storefront","Enable RMA on Storefront",module,Magento_Rma
 "Enable RMA on Product Level","Włącz RMA na poziomie produktu",module,Magento_Rma
