@@ -204,9 +204,9 @@ File,Plik,module,Magento_AdvancedCheckout
 "Load a list of SKUs","Załaduj listę SKU",module,Magento_AdvancedCheckout
 "Order by SKU Template","Sortuj po szablonie SKU",module,Magento_AdvancedCheckout
 "Please correct the data sent.","Proszę poprawić przesyłane dane.",module,Magento_AdvancedPricingImportExport
-"Entity type model \'%1\' is not found","Nie znaleziono typu modelu \'%1\'",module,Magento_AdvancedPricingImportExport
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Obiekt typu modelu musi występować w \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
-"There are no product types available for export","Brak typów produktów dostępnych do eksportu",module,Magento_AdvancedPricingImportExport
+"Entity type model \'%1\' is not found","Nie znaleziono modelu obiektu \'%1\'",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model obiektu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","Brak rodzajów produktów możliwych do eksportu",module,Magento_AdvancedPricingImportExport
 "%1 class doesn\'t implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","Klasa %1 nie implementuje \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
 "Sales Rule","Reguły sprzedaży",module,Magento_AdvancedSalesRule
 "Index sales rule","Indeks reguł sprzedaży",module,Magento_AdvancedSalesRule
@@ -272,7 +272,7 @@ void,unieważniony,module,Magento_Authorizenet
 "Authorize Only","Tylko autoryzacja",module,Magento_Authorizenet
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Nie udało się pobrać szczegółów transakcji. Spróbuj ponownie później.",module,Magento_Authorizenet
-"Credit Card Type","Typ karty kredytowej",module,Magento_Authorizenet
+"Credit Card Type","Rodzaj karty kredytowej",module,Magento_Authorizenet
 "Credit Card Number","Numer karty kredytowej",module,Magento_Authorizenet
 "Expiration Date","Data ważności",module,Magento_Authorizenet
 "Card Verification Number","Numer weryfikacyjny karty",module,Magento_Authorizenet
@@ -572,7 +572,7 @@ JavaScript/CSS,JavaScript/CSS,module,Magento_Backend
 "No records found.","Nie znaleziono wpisów.",module,Magento_Backend
 Images,Obrazki,module,Magento_Backend
 "Big Image","Duży obrazek",module,Magento_Backend
-Thumbnail,Miniaturka,module,Magento_Backend
+Thumbnail,Miniatura,module,Magento_Backend
 "Additional Settings","Ustawienia dodatkowe",module,Magento_Backend
 "records found","znalezione rekordy",module,Magento_Backend
 selected,wybrane,module,Magento_Backend
@@ -756,7 +756,7 @@ Web,Sieć,module,Magento_Backend
 "Validate HTTP_USER_AGENT","Waliduj HTTP_USER_AGENT",module,Magento_Backend
 "Use SID on Storefront","Użyj identyfikatora SID na sklepie",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Pozwól klientom zostawać zalogowanym podczas przechodzenia między sklepami.",module,Magento_Backend
-"Cache Type","Typy cache",module,Magento_Backend
+"Cache Type","Rodzaj pamięci podręcznej",module,Magento_Backend
 Description,Opis,module,Magento_Backend
 Tags,Tagi,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Błąd 404</h1><p>Strona nie została odnaleziona.</p>",module,Magento_Backend
@@ -836,7 +836,7 @@ Delete,Usuń,module,Magento_Backup
 Time,Czas,module,Magento_Backup
 Name,Nazwa,module,Magento_Backup
 Size(bytes),Rozmiar(Bajty),module,Magento_Backup
-Type,Typ,module,Magento_Backup
+Type,Rodzaj,module,Magento_Backup
 Download,Pobierz,module,Magento_Backup
 Action,Operacja,module,Magento_Backup
 Banners,Banery,module,Magento_Banner
@@ -862,12 +862,12 @@ Status,Status,module,Magento_Banner
 Active,Aktywny,module,Magento_Banner
 Inactive,Nieaktywny,module,Magento_Banner
 "Applies To",Dotyczy,module,Magento_Banner
-"Any Banner Type","Dowolny typ baneru",module,Magento_Banner
+"Any Banner Type","Dowolny rodzaj baneru",module,Magento_Banner
 "Specified Banner Types","Określone rodzaje banerów",module,Magento_Banner
 "Specify Types","Określ rodzaje",module,Magento_Banner
 "Banner Information","Informacje o banerze",module,Magento_Banner
 Banner,Baner,module,Magento_Banner
-"Banner Type","Typ baneru",module,Magento_Banner
+"Banner Type","Rodzaj baneru",module,Magento_Banner
 Visibility,Widoczność,module,Magento_Banner
 Delete,Usuń,module,Magento_Banner
 "Are you sure you want to delete these banners?","Czy na pewno chcesz usunąć te banery?",module,Magento_Banner
@@ -908,12 +908,12 @@ Error,Błąd,module,Magento_Banner
 "Banner Block Template","Szablon bloku banera",module,Magento_Banner
 "Banner Inline Template","Wbudowany szablon banera",module,Magento_Banner
 Country,Kraj,module,Magento_Braintree
-"Allowed Credit Card Types","Dopuszczone typy kart kredytowych",module,Magento_Braintree
+"Allowed Credit Card Types","Dopuszczone rodzaje kart kredytowych",module,Magento_Braintree
 "Add Rule","Dodaj regułę",module,Magento_Braintree
 Month,Miesiąc,module,Magento_Braintree
 Year,Rok,module,Magento_Braintree
 "Stored Card","Przechowywane karty",module,Magento_Braintree
-"Credit Card Type","Typ karty kredytowej",module,Magento_Braintree
+"Credit Card Type","Rodzaj karty kredytowej",module,Magento_Braintree
 "Credit Card Number","Numer karty kredytowej",module,Magento_Braintree
 "Credit card successfully added","Pomyślnie dodano kartę kredytową",module,Magento_Braintree
 "Something went wrong while saving the card.","Coś się zepsuło podczas zapisywania kart.",module,Magento_Braintree
@@ -988,7 +988,7 @@ State/Province,Województwo,module,Magento_Braintree
 "Zip/Postal Code","Kod pocztowy",module,Magento_Braintree
 Submit,Prześlij,module,Magento_Braintree
 "Add Credit Card","Dodaj kartę kredytową",module,Magento_Braintree
-Type,Typ,module,Magento_Braintree
+Type,Rodzaj,module,Magento_Braintree
 "Card Number","Numer karty",module,Magento_Braintree
 "Is Default","Jest domyślny",module,Magento_Braintree
 Actions,Operacje,module,Magento_Braintree
@@ -1038,7 +1038,7 @@ Debug,"Tryb debug",module,Magento_Braintree
 "3D Secure Verification","3D bezpieczna weryfikacja",module,Magento_Braintree
 "Edit My Credit Cards","Edytuj moje karty kredytowe",module,Magento_Braintree
 Country,Kraj,module,Magento_BraintreeTwo
-"Allowed Credit Card Types","Dopuszczone typy kart kredytowych",module,Magento_BraintreeTwo
+"Allowed Credit Card Types","Dopuszczone rodzaje kart kredytowych",module,Magento_BraintreeTwo
 "Add Rule","Dodaj regułę",module,Magento_BraintreeTwo
 "Braintree Settlement Report","Braintree Settlement Report",module,Magento_BraintreeTwo
 "Sorry, but something went wrong","Przepraszamy, coś poszło nie tak",module,Magento_BraintreeTwo
@@ -1297,7 +1297,7 @@ Year,Rok,module,Magento_Catalog
 [GLOBAL],[GLOBALNY],module,Magento_Catalog
 [WEBSITE],[WITRYNA],module,Magento_Catalog
 "[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_Catalog
-"WYSIWYG Editor","Edytor WYSIWYG",module,Magento_Catalog
+"WYSIWYG Editor",Edytor,module,Magento_Catalog
 "Add Product","Dodaj produkt",module,Magento_Catalog
 label,etykieta,module,Magento_Catalog
 "Product Attributes","Cechy produktu",module,Magento_Catalog
@@ -1399,7 +1399,7 @@ Email,E-mail,module,Magento_Catalog
 "Last Notified","Ostatnio zgłoszone",module,Magento_Catalog
 "Send Count","Wyślij licznik",module,Magento_Catalog
 "New Attribute","Nowa cecha",module,Magento_Catalog
-Type,Typ,module,Magento_Catalog
+Type,Rodzaj,module,Magento_Catalog
 "Attribute Set","Zestaw cech",module,Magento_Catalog
 Status,Status,module,Magento_Catalog
 Visibility,Widoczność,module,Magento_Catalog
@@ -1555,8 +1555,8 @@ Manual,Ręcznie,module,Magento_Catalog
 Fixed,Stały,module,Magento_Catalog
 Percent,Procent,module,Magento_Catalog
 "-- Please select --",--Wybierz--,module,Magento_Catalog
-"Product Thumbnail Itself","Miniaturka produktu",module,Magento_Catalog
-"Parent Product Thumbnail","Miniaturka nadrzędnego produktu",module,Magento_Catalog
+"Product Thumbnail Itself","Miniatura produktu",module,Magento_Catalog
+"Parent Product Thumbnail","Miniatura produktu nadrzędnego",module,Magento_Catalog
 "12h AM/PM","12h przed/po południu",module,Magento_Catalog
 24h,"24 godz.",module,Magento_Catalog
 Stretch,Rozciągnij,module,Magento_Catalog
@@ -1722,7 +1722,7 @@ Required,Wymagane,module,Magento_Catalog
 "Cross-Sell Products","Produkty Cross-sell",module,Magento_Catalog
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_Catalog
 Remove,Usuń,module,Magento_Catalog
-Thumbnail,Miniaturka,module,Magento_Catalog
+Thumbnail,Miniatura,module,Magento_Catalog
 Actions,Operacje,module,Magento_Catalog
 "Schedule Update From","Ustaw aktualizację od",module,Magento_Catalog
 "Product in Websites","Product in Websites",module,Magento_Catalog
@@ -1785,7 +1785,7 @@ Backorders,Rezerwacje,module,Magento_Catalog
 Action,Operacja,module,Magento_Catalog
 "and above","i powyżej",module,Magento_Catalog
 "Delete Tier","Usuń poziom",module,Magento_Catalog
-"Product In Websites","Produkty w witrynach",module,Magento_Catalog
+"Product In Websites","Produkt dostępny w witrynach",module,Magento_Catalog
 "(Copy data from: %1)","(Kopiuj dane z: %1)",module,Magento_Catalog
 "Browse to find or drag image here","Przeglądaj, aby znaleźć lub przeciągnij zdjęcie tutaj",module,Magento_Catalog
 "Alt Text","Tekst alternatywny",module,Magento_Catalog
@@ -1852,7 +1852,7 @@ Submit,Prześlij,module,Magento_Catalog
 "We don\'t recognize or support this file extension type.","Nie rozpoznajemy lub nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_Catalog
 "Configure Product","Konfiguruj produkt",module,Magento_Catalog
 OK,OK,module,Magento_Catalog
-"Select type of option.","Proszę wybrać typ opcji.",module,Magento_Catalog
+"Select type of option.","Proszę wybrać rodzaj opcji.",module,Magento_Catalog
 "Please add rows to option.","Dodaj rzędy do opcji.",module,Magento_Catalog
 "Please select items.","Prosimy wybrać produkty.",module,Magento_Catalog
 "Choose existing category.","Wybierz istniejącej kategorii.",module,Magento_Catalog
@@ -1905,7 +1905,7 @@ Comma-separated.,"Oddzielone przecinkami.",module,Magento_Catalog
 "Watermark Opacity, Percent","Przeźroczystość znaku wodnego, w procentach",module,Magento_Catalog
 Watermark,"Znak wodny",module,Magento_Catalog
 "Watermark Position","Pozycja znaku wodnego",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG for Catalog","Zastosuj statyczne URLe dla mediów w edytorze WYSIWYG dla kategorii",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG for Catalog","Zastosuj statyczne adresy URL dla multimediów w edytorze dla kategorii",module,Magento_Catalog
 "This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Dotyczy tylko katalogu produktów i kategorii. Treści graficzne będą wstawiane do edytora jako statyczne adresy URL. Treści graficzne nie są aktualizowane, jeśli bazowy adres URL jest zmieniony w konfiguracji.",module,Magento_Catalog
 "Top Level Category","Kategoria najwyższego poziomu",module,Magento_Catalog
 "Product Flat Data","Płaskie dane produktu",module,Magento_Catalog
@@ -2064,9 +2064,9 @@ End,Koniec,module,Magento_CatalogEvent
 Action,Operacja,module,Magento_CatalogEvent
 Edit,Edytuj,module,Magento_CatalogEvent
 "Entity type model \'%1\' is not found","Nie znaleziono modelu dla obiektów typu '%1'",module,Magento_CatalogImportExport
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Obiekt typu modelu musi występować w \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
-"There are no product types available for export.","Brak typów produktów dostępnych do eksportu.",module,Magento_CatalogImportExport
-"Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Typ obiektu modelu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model obiektu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"There are no product types available for export.","Brak rodzajów produktów możliwych do eksportu.",module,Magento_CatalogImportExport
+"Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Model obiektu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","Kategoria ""%1"" nie została utworzona.",module,Magento_CatalogImportExport
 "File directory \'%1\' is not readable.","Katalog \'%1\' nie jest do odczytu.",module,Magento_CatalogImportExport
 "File directory \'%1\' is not writable.","Katalog \'%1\' nie jest zapisywalny.",module,Magento_CatalogImportExport
@@ -2095,7 +2095,7 @@ Edit,Edytuj,module,Magento_CatalogEvent
 "This product is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_CatalogInventory
 "Some of the products are out of stock.","Niektóre produkty nie są obecnie na magazynie.",module,Magento_CatalogInventory
 "The stock item for Product in option is not valid.","Jednostka ilości dla produktu w opcji nie jest poprawna.",module,Magento_CatalogInventory
-"Undefined product type","Niezdefiniowany typ produktu",module,Magento_CatalogInventory
+"Undefined product type","Niezdefiniowany rodzaj produktu",module,Magento_CatalogInventory
 "%1 is not a correct comparison method.","%1 nie jest poprawną metodą porównania.",module,Magento_CatalogInventory
 "No Backorders","Bez rezerwacji",module,Magento_CatalogInventory
 "Allow Qty Below 0","Zezwól na ilość mniejszą od 0",module,Magento_CatalogInventory
@@ -2205,7 +2205,7 @@ Save,Zapisz,module,Magento_CatalogRule
 Conditions,Warunki,module,Magento_CatalogRule
 "Conditions (don\'t add conditions if rule is applied to all products)","Warunki (nie dodawaj warunków, jeśli reguła obejmuje wszystkie produkty)",module,Magento_CatalogRule
 ID,ID,module,Magento_CatalogRule
-Type,Typ,module,Magento_CatalogRule
+Type,Rodzaj,module,Magento_CatalogRule
 "Attribute Set","Zestaw cech",module,Magento_CatalogRule
 SKU,SKU,module,Magento_CatalogRule
 Product,Produkt,module,Magento_CatalogRule
@@ -2749,7 +2749,7 @@ px.,px.,module,Magento_Cms
 "Show Notice if JavaScript is Disabled","Pokaż komunikat jeśli JavaScript jest wyłączony",module,Magento_Cms
 "Show Notice if Local Storage is Disabled","Pokaż informację jeśli lokalna baza danych jest niedostępna",module,Magento_Cms
 "WYSIWYG Options","Opcje WYSIWYG",module,Magento_Cms
-"Enable WYSIWYG Editor","Włacz edytor WYSIWYG",module,Magento_Cms
+"Enable WYSIWYG Editor","Włącz edytor",module,Magento_Cms
 "CMS Page Link","Link strony CMS",module,Magento_Cms
 "Link to a CMS Page","Link do strony CMS",module,Magento_Cms
 "CMS Page","Strona CMS",module,Magento_Cms
@@ -3078,7 +3078,7 @@ Done,Zrobione,module,Magento_ConfigurableProduct
 Select...,Wybierz...,module,Magento_ConfigurableProduct
 Status,Status,module,Magento_ConfigurableProduct
 ID,ID,module,Magento_ConfigurableProduct
-Thumbnail,Miniaturka,module,Magento_ConfigurableProduct
+Thumbnail,Miniatura,module,Magento_ConfigurableProduct
 "Attribute Code","Kod cechy",module,Magento_ConfigurableProduct
 "Attribute Label","Etykieta cechy",module,Magento_ConfigurableProduct
 Required,Wymagane,module,Magento_ConfigurableProduct
@@ -3695,7 +3695,7 @@ ZIP,"Kod pocztowy",module,Magento_Customer
 "First Name",Imię,module,Magento_Customer
 "Last Name",Nazwisko,module,Magento_Customer
 "Last Activity","Ostatnia aktywność",module,Magento_Customer
-Type,Typ,module,Magento_Customer
+Type,Rodzaj,module,Magento_Customer
 "Customer Information","Informacje o kliencie",module,Magento_Customer
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakresu do zastosowania dla określonego widoku.",module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Wyłącz automatyczne zmiany grup w oparciu o VAT ID",module,Magento_Customer
@@ -4146,13 +4146,13 @@ Debug,"Tryb debug",module,Magento_Cybersource
 "Client side less compilation","Kompilacji less po stronie klienta",module,Magento_Developer
 "Server side less compilation","Kompilacji less po stronie serwera",module,Magento_Developer
 "Frontend Development Workflow","Przepływ pracy frontend",module,Magento_Developer
-"Workflow type","Typ przepływu pracy",module,Magento_Developer
+"Workflow type","Rodzaj przepływu pracy",module,Magento_Developer
 "Not available in production mode","Nie są dostępne w trybie produkcyjnym",module,Magento_Developer
 "Developer Client Restrictions","Ograniczenie dostępu programisty",module,Magento_Developer
 "Allowed IPs (comma separated)","Dozwolone IP (oddzielone przecinkami)",module,Magento_Developer
 "Leave empty for access from any location.","Pozostaw puste, aby umożliwić dostęp z każdej lokalizacji.",module,Magento_Developer
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Wybierz tę opcję, aby umożliwić DHL zoptymalizować koszty wysyłki przez dzielenie zamówienia, jeżeli przekracza ono %1 %2.",module,Magento_Dhl
-"Wrong Content Type","Nieprawidłowy typ zawartości",module,Magento_Dhl
+"Wrong Content Type","Nieprawidłowy rodzaj zawartości",module,Magento_Dhl
 Pounds,Funty,module,Magento_Dhl
 Kilograms,Kilogramy,module,Magento_Dhl
 Inches,Cale,module,Magento_Dhl
@@ -4669,8 +4669,8 @@ Yes,Tak,module,Magento_EncryptionKey
 "This is your new encryption key: <span style=\"font-family:monospace;\">%1</span>. Be sure to write it down and take good care of it!","To jest twój nowy klucz szyfrowania: <span style=\"font-family:monospace;\">%1</span>. Pamiętaj by go zapisać i dobrze o niego dbać!",module,Magento_EncryptionKey
 "Manage Encryption Key","Klucze szyfrowe",module,Magento_EncryptionKey
 "Private Sales","Sprzedaż prywatna",module,Magento_Enterprise
-"Payment Type","Typ płatności",module,Magento_Eway
-"Transaction Type","Typ transakcji",module,Magento_Eway
+"Payment Type","Rodzaj płatności",module,Magento_Eway
+"Transaction Type","Rodzaj transakcji",module,Magento_Eway
 "Transaction ID","ID transakcji",module,Magento_Eway
 BeagleScore,BeagleScore,module,Magento_Eway
 "CVV Verification","Weryfikacja CVV",module,Magento_Eway
@@ -4688,7 +4688,7 @@ BeagleScore,BeagleScore,module,Magento_Eway
 "Transaction has been declined. Please try again later.","Transakcja została odrzucona. Prosimy spróbować ponownie później.",module,Magento_Eway
 "Authorize Only","Tylko autoryzacja",module,Magento_Eway
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_Eway
-"Credit Card Type","Typ karty kredytowej",module,Magento_Eway
+"Credit Card Type","Rodzaj karty kredytowej",module,Magento_Eway
 "Credit Card Number","Numer karty kredytowej",module,Magento_Eway
 "Card Verification Number","Numer weryfikacyjny karty",module,Magento_Eway
 "Switch/Solo/Maestro Only","Tylko Switch/Solo/Maestro",module,Magento_Eway
@@ -4795,7 +4795,7 @@ Physical,Fizyczne,module,Magento_GiftCard
 Combined,Łącznie,module,Magento_GiftCard
 "Add Amount","Dodaj kwotę",module,Magento_GiftCard
 "All Websites","Wszystkie witryny",module,Magento_GiftCard
-"Gift Card Type","Typ karty podarunkowej",module,Magento_GiftCard
+"Gift Card Type","Rodzaj karty podarunkowej",module,Magento_GiftCard
 "Gift Card Sender","Nadawca karty podarunkowej",module,Magento_GiftCard
 "Gift Card Recipient","Odbiorca karty podarunkowej",module,Magento_GiftCard
 "Gift Card Message","Wiadomość dołączona do karty podarunkowej",module,Magento_GiftCard
@@ -5028,7 +5028,7 @@ End,Koniec,module,Magento_GiftCardAccount
 "There is no order with provided id","Nie ma zamówień z podanym ID",module,Magento_GiftMessage
 "Gift Messages are not applicable for empty order","Wiadomości podarunkowe nie mają zastosowania do pustego zamówienia.",module,Magento_GiftMessage
 "Could not add gift message to order\'s item: \\%1\\""",Nie można dodać wiadomości podarunkowej to zamówionych produktów: %1""",module,Magento_GiftMessage
-"Unknown entity type","Nieznany typ jednostki",module,Magento_GiftMessage
+"Unknown entity type","Nieznany rodzaj obiektu",module,Magento_GiftMessage
 "Test label","Etykieta testowa",module,Magento_GiftMessage
 "Use Config Settings","Użyj ustawień konfiguracyjnych",module,Magento_GiftMessage
 From,Od,module,Magento_GiftMessage
@@ -5227,7 +5227,7 @@ New,Nowy,module,Magento_GiftRegistry
 "Registrant Email Search","Wyszukiwanie adresu e-mail odbiorcy",module,Magento_GiftRegistry
 "Gift Registry ID Search","Wyszukiwarka ID rejestru prezentów",module,Magento_GiftRegistry
 "some name",nazwa,module,Magento_GiftRegistry
-Type,Typ,module,Magento_GiftRegistry
+Type,Rodzaj,module,Magento_GiftRegistry
 Owner,Właściciel,module,Magento_GiftRegistry
 "Created on",Utworzono,module,Magento_GiftRegistry
 "Shipping Address","Adres wysyłki",module,Magento_GiftRegistry
@@ -5283,7 +5283,7 @@ Next,Następne,module,Magento_GiftRegistry
 "Registrant Information","Informacje o rewizjach",module,Magento_GiftRegistry
 "Maximum %1 registrants.","Maximum %1 registrants.",module,Magento_GiftRegistry
 "Add Registrant",Rejestrujący,module,Magento_GiftRegistry
-Type:,Typ:,module,Magento_GiftRegistry
+Type:,Rodzaj:,module,Magento_GiftRegistry
 "Privacy Settings","Ustawienia prywatności",module,Magento_GiftRegistry
 Status,Status,module,Magento_GiftRegistry
 label,etykieta,module,Magento_GiftRegistry
@@ -5487,7 +5487,7 @@ Cancel,Zamknij,module,Magento_GroupedProduct
 "A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","Zgrupowane produkt składają się z wielu, samodzielnych produktów, które są przedstawiane jako Grupa. Można oferować odmiany pojedynczego produktu lub grupy przez stworzenie skoordynowanego zestawu czasu lub temat. Każdy produkt można nabyć oddzielnie lub jako część grupy.",module,Magento_GroupedProduct
 Remove,Usuń,module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
-Thumbnail,Miniaturka,module,Magento_GroupedProduct
+Thumbnail,Miniatura,module,Magento_GroupedProduct
 "Default Quantity","Domyślna ilość",module,Magento_GroupedProduct
 Actions,Operacje,module,Magento_GroupedProduct
 "Associated Products","Produkty składowe konfiguracji",module,Magento_GroupedProduct
@@ -5508,14 +5508,14 @@ Availability,Dostępność,module,Magento_GroupedProduct
 "Grouped Product Image","Obrazek grupowanego produktu",module,Magento_GroupedProduct
 Select...,Wybierz...,module,Magento_GroupedProduct
 Status,Status,module,Magento_GroupedProduct
-Type,Typ,module,Magento_GroupedProduct
+Type,Rodzaj,module,Magento_GroupedProduct
 Quantity,Ilość,module,Magento_GroupedProduct
 "Attribute Set","Zestaw cech",module,Magento_GroupedProduct
 AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
 StatusText,StatusText,module,Magento_GroupedProduct
 Export,Eksport,module,Magento_ImportExport
 "Export Settings","Ustawienia eksportu",module,Magento_ImportExport
-"Entity Type","Typ jednostki",module,Magento_ImportExport
+"Entity Type","Rodzaj obiektu",module,Magento_ImportExport
 "Export File Format","Formal pliku eksportu",module,Magento_ImportExport
 From,Od,module,Magento_ImportExport
 To,Do,module,Magento_ImportExport
@@ -6536,7 +6536,7 @@ Delete,Usuń,module,Magento_Newsletter
 CSV,CSV,module,Magento_Newsletter
 "Excel XML","Excel XML",module,Magento_Newsletter
 Email,E-mail,module,Magento_Newsletter
-Type,Typ,module,Magento_Newsletter
+Type,Rodzaj,module,Magento_Newsletter
 Guest,Gość,module,Magento_Newsletter
 Customer,Klient,module,Magento_Newsletter
 "Customer First Name","Imię klienta",module,Magento_Newsletter
@@ -6613,7 +6613,7 @@ Price,Cena,module,Magento_OfflineShipping
 "Handling Fee","Opłata manipulacyjna",module,Magento_OfflineShipping
 "Sort Order","Kolejność sortowania",module,Magento_OfflineShipping
 Title,Tytuł,module,Magento_OfflineShipping
-Type,Typ,module,Magento_OfflineShipping
+Type,Rodzaj,module,Magento_OfflineShipping
 "Ship to Applicable Countries","Dostawa do stosownych krajów",module,Magento_OfflineShipping
 "Ship to Specific Countries","Dostawa do wybranych krajów",module,Magento_OfflineShipping
 "Show Method if Not Applicable","Pokaż metodę jeśli niedostępna",module,Magento_OfflineShipping
@@ -6648,7 +6648,7 @@ Month,Miesiąc,module,Magento_Payment
 Year,Rok,module,Magento_Payment
 "We cannot retrieve the payment info model object.","Nie można pobrać informacji modelu obiektu płatności.",module,Magento_Payment
 N/A,N/D,module,Magento_Payment
-"Credit Card Type","Typ karty kredytowej",module,Magento_Payment
+"Credit Card Type","Rodzaj karty kredytowej",module,Magento_Payment
 "Credit Card Number","Numer karty kredytowej",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Numer wydania karty Switch/Solo/Maestro",module,Magento_Payment
 "Switch/Solo/Maestro Start Date","Data wydania karty Switch/Solo/Maestro",module,Magento_Payment
@@ -6666,14 +6666,14 @@ Shipping,Dostawa,module,Magento_Payment
 "The payment disallows storing objects.","Płatności nie zezwala na przechowywanie obiektów.",module,Magento_Payment
 "We cannot retrieve the payment method code.","Nie można pobrać kodu metody płatności.",module,Magento_Payment
 "We cannot retrieve the payment information object instance.","Nie można pobrać informacji instancji obiektu płatności.",module,Magento_Payment
-"You can\'t use the payment type you selected to make payments to the billing country.","Nie można użyć wybranego typu płatności do dokonania płatności w kraju rozliczeniowym.",module,Magento_Payment
+"You can\'t use the payment type you selected to make payments to the billing country.","Nie można użyć wybranego rodzaju płatności do dokonania płatności w kraju rozliczeniowym.",module,Magento_Payment
 "The order action is not available.","Kolejność działań nie jest dostępna.",module,Magento_Payment
 "The authorize action is not available.","Autoryzacja nie jest dostępna.",module,Magento_Payment
 "The capture action is not available.","Przechwytywanie nie jest dostępne.",module,Magento_Payment
 "The refund action is not available.","Zwrot nie jest dostępny.",module,Magento_Payment
 "The void action is not available.","Unieważnienie akcji nie jest dostępne.",module,Magento_Payment
 "The payment review action is unavailable.","Akci opini płatności jest niedostępna.",module,Magento_Payment
-"The credit card number doesn\'t match the credit card type.","Numer karty kredytowej nie pasuje do jej typu.",module,Magento_Payment
+"The credit card number doesn\'t match the credit card type.","Numer karty kredytowej nie pasuje do jej rodzaju.",module,Magento_Payment
 "Invalid Credit Card Number","Nieprawidłowy numer karty kredytowej",module,Magento_Payment
 "This credit card type is not allowed for this payment method.","Ten typ karty kredytowa nie jest dozwolony w tej metodzie płatności.",module,Magento_Payment
 "Please enter a valid credit card verification number.","Prosimy o wprowadzenie poprawnego weryfikacyjnego numeru karty kredytowej.",module,Magento_Payment
@@ -7354,7 +7354,7 @@ Basic Settings - PayPal Payments Pro Hosted Solution""",module,Magento_Paypal
 "Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Połącz swoje konto handlowe z w pełni dostosowywalną bramką płatności, która pozwoli klientom płacić bez opuszczania Twojej strony.",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Pro","Podstawowe ustawienia - PayPal Payflow Pro",module,Magento_Paypal
 "Credit Card Settings","Ustawienia kart kredytowych",module,Magento_Paypal
-"Allowed Credit Card Types","Dopuszczone typy kart kredytowych",module,Magento_Paypal
+"Allowed Credit Card Types","Dozwolone rodzaje kart kredytowych",module,Magento_Paypal
 "
                     Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
                 ","
@@ -7429,7 +7429,7 @@ Basic Settings - PayPal Payments Pro Hosted Solution""",module,Magento_Paypal
 "You will no longer receive stock alerts for this product.","Nie otrzymasz już więcej powiadomień o cenie tego produktu",module,Magento_ProductAlert
 "The product was not found.","Produkt nie został znaleziony.",module,Magento_ProductAlert
 "You will no longer receive stock alerts.","Nie otrzymasz już więcej powiadomień o dostępności",module,Magento_ProductAlert
-"Invalid block type: %1","Nieprawidłowy typ bloku: %1",module,Magento_ProductAlert
+"Invalid block type: %1","Nieprawidłowy rodzaj bloku: %1",module,Magento_ProductAlert
 "Price change alert! We wanted you to know that prices have changed for these products:","Powiadomienie o zmianie ceny. Nastąpiła zmiana cen dla następujących produktów:",module,Magento_ProductAlert
 Price:,Cena:,module,Magento_ProductAlert
 "Click here to stop alerts for this product.","Przejdź tutaj aby wyłączyć powiadomienia o tym produkcie.",module,Magento_ProductAlert
@@ -7962,7 +7962,7 @@ Author,Autor,module,Magento_Review
 ID,ID,module,Magento_Review
 Created,Utworzono,module,Magento_Review
 Title,Tytuł,module,Magento_Review
-Type,Typ,module,Magento_Review
+Type,Rodzaj,module,Magento_Review
 SKU,SKU,module,Magento_Review
 Action,Operacja,module,Magento_Review
 Edit,Edytuj,module,Magento_Review
@@ -8515,7 +8515,7 @@ Actions,Operacje,module,Magento_Rma
 Packages,Paczki,module,Magento_Rma
 "Close Window","Zamknij okno",module,Magento_Rma
 Package,Paczka,module,Magento_Rma
-Type,Typ,module,Magento_Rma
+Type,Rodzaj,module,Magento_Rma
 Length,Długość,module,Magento_Rma
 "Total Weight","Waga całkowita",module,Magento_Rma
 Width,Szerokość,module,Magento_Rma
@@ -8621,7 +8621,7 @@ FALSE,FAŁSZ,module,Magento_Rule
 Category,Kategoria,module,Magento_Rule
 "Open Chooser","Otwórz selektor",module,Magento_Rule
 "Unknown condition operator","Nieznany stan operatora",module,Magento_Rule
-"There is no information about associated entity type ""%1"".","Nie można pobrać informacji o powiązanym typie jednostki: ""%1"".",module,Magento_Rule
+"There is no information about associated entity type ""%1"".","Nie można pobrać informacji o powiązanym obiekcie: ""%1"".",module,Magento_Rule
 "This won\'t take long . . .","To nie potrwa długo . . .",module,Magento_Rule
 "Credit Memos","Faktury korygujące",module,Magento_Sales
 Orders,Zamówienia,module,Magento_Sales
@@ -9208,7 +9208,7 @@ Comment,Komentarz,module,Magento_Sales
 "Transaction ID","ID transakcji",module,Magento_Sales
 "Parent Transaction ID","ID nadrzędnej transakcji",module,Magento_Sales
 "Order ID","ID zamówienia",module,Magento_Sales
-"Transaction Type","Typ transakcji",module,Magento_Sales
+"Transaction Type","Rodzaj transakcji",module,Magento_Sales
 "Is Closed","Jest zamknięty",module,Magento_Sales
 "Created At",Utworzono,module,Magento_Sales
 "Child Transactions","Podrzędne transakcje",module,Magento_Sales
@@ -9718,10 +9718,10 @@ Backorders,Rezerwacje,module,Magento_ScalableInventory
 "Add Scheduled Export","Dodaj zaplanowany eksport",module,Magento_ScheduledImportExport
 "Add Scheduled Import","Dodaj zaplanowany import",module,Magento_ScheduledImportExport
 "Scheduled Import/Export","Zaplanowany import/eksport",module,Magento_ScheduledImportExport
-"Please correct the scheduled operation type.","Proszę poprawić typ zaplanowanej operacji.",module,Magento_ScheduledImportExport
+"Please correct the scheduled operation type.","Proszę poprawić rodzaj zaplanowanej operacji.",module,Magento_ScheduledImportExport
 Name,Nazwa,module,Magento_ScheduledImportExport
 Description,Opis,module,Magento_ScheduledImportExport
-"Entity Type","Typ jednostki",module,Magento_ScheduledImportExport
+"Entity Type","Rodzaj obiektu",module,Magento_ScheduledImportExport
 "Start Time","Czas rozpoczęcia",module,Magento_ScheduledImportExport
 Frequency,Częstotliwość,module,Magento_ScheduledImportExport
 Status,Status,module,Magento_ScheduledImportExport
@@ -10058,7 +10058,7 @@ Live,Produkcja,module,Magento_Shipping
 "Use origin weight (few requests)","Użyj oryginalnej wagi (kilka zapytań)",module,Magento_Shipping
 Packages,Paczki,module,Magento_Shipping
 Package,Paczka,module,Magento_Shipping
-Type,Typ,module,Magento_Shipping
+Type,Rodzaj,module,Magento_Shipping
 Length,Długość,module,Magento_Shipping
 "Signature Confirmation","Potwierdzenie podpisu",module,Magento_Shipping
 "Customs Value","Wartość celna",module,Magento_Shipping
@@ -10498,7 +10498,7 @@ SKU,SKU,module,Magento_Support
 Website,Witryna,module,Magento_Support
 "Duplicate Users By Email","Duplikuj użytkowników po e-mailu",module,Magento_Support
 Email,E-mail,module,Magento_Support
-Type,Typ,module,Magento_Support
+Type,Rodzaj,module,Magento_Support
 Parent,Rodzic,module,Magento_Support
 "Adminhtml Themes List","Lista tematów Adminhtml",module,Magento_Support
 "Frontend Themes List","Lista tematów frontend",module,Magento_Support
@@ -10652,10 +10652,10 @@ To,Do,module,Magento_TargetRule
 "You saved the rule.","Zapisałeś regułę.",module,Magento_TargetRule
 "We can\'t save the product rule right now.","W tej chwili nie możemy stworzyć reguły produktu.",module,Magento_TargetRule
 "Please specify a correct rule.","Proszę określić poprawną regułę.",module,Magento_TargetRule
-"Invalid product list type","Nieprawidłowy typ listy produktów",module,Magento_TargetRule
-"Invalid rotation mode type","Nieprawidłowy typ modelu obrotu",module,Magento_TargetRule
+"Invalid product list type","Nieprawidłowy rodzaj listy produktów",module,Magento_TargetRule
+"Invalid rotation mode type","Nieprawidłowy rodzaj modelu obrotu",module,Magento_TargetRule
 "Conditions Combination","Kombinacja warunków",module,Magento_TargetRule
-Type,Typ,module,Magento_TargetRule
+Type,Rodzaj,module,Magento_TargetRule
 "Product %1%2%3%4%5%6%7","Produkt %1%2%3%4%5%6%7",module,Magento_TargetRule
 "Constant Value","Stała wartość",module,Magento_TargetRule
 "the Same as Matched Product Categories","tylko dla dopasowanych kategorii produktów",module,Magento_TargetRule
@@ -11064,7 +11064,7 @@ Copyright,"Prawa autorskie",module,Magento_Theme
 "Translation Strategy","Strategia tłumaczenia",module,Magento_Translation
 Translations,Tłumaczenia,module,Magento_Translation
 "Translation files","Pliki z tłumaczeniami",module,Magento_Translation
-"Condition type ""%1"" is not allowed","Warunek typ ""%1"" nie jest dozwolony",module,Magento_Ui
+"Condition type ""%1"" is not allowed","Rodzaj warunku ""%1"" nie jest dozwolony",module,Magento_Ui
 "The configuration parameter ""formElement"" is a required for ""%1"" field.","Parametr konfiguracji ""formElement"" jest wymagane pola ""%1"".",module,Magento_Ui
 "Remove %1","Usuń %1",module,Magento_Ui
 "Add New %1","Dodaj nowy %1",module,Magento_Ui
@@ -11685,7 +11685,7 @@ Frame,Ramka,module,Magento_VersionsCms
 "Menu Detalization","Poziom szczegółowości menu",module,Magento_VersionsCms
 "Maximal Depth","Maksymalna głębokość",module,Magento_VersionsCms
 "Node Levels to Include","Poziomy węzła do uwzględnienia",module,Magento_VersionsCms
-"List Type","Typ listy",module,Magento_VersionsCms
+"List Type","Rodzaj listy",module,Magento_VersionsCms
 "List Style","Styl listy",module,Magento_VersionsCms
 "Main Navigation Menu Options","Opcje głównego menu nawigacyjnego",module,Magento_VersionsCms
 "Add selected page(s) to the tree","Dodaj wybrane strony",module,Magento_VersionsCms
@@ -11866,7 +11866,7 @@ Off,Włączone,module,Magento_VisualMerchandiser
 Sort,Sortuj,module,Magento_VisualMerchandiser
 "Automatic Sorting","Automatyczne sortowanie",module,Magento_VisualMerchandiser
 "Sort order","Kolejność sortowania",module,Magento_VisualMerchandiser
-Thumbnail,Miniaturka,module,Magento_VisualMerchandiser
+Thumbnail,Miniatura,module,Magento_VisualMerchandiser
 Name,Nazwa,module,Magento_VisualMerchandiser
 Price,Cena,module,Magento_VisualMerchandiser
 SKU,SKU,module,Magento_VisualMerchandiser
@@ -11955,7 +11955,7 @@ Widget,Widget,module,Magento_Widget
 "Page Layouts","Układ strony",module,Magento_Widget
 "Please Select Container First","Proszę wybrać kontener",module,Magento_Widget
 "Storefront Properties","Właściwości sklepu",module,Magento_Widget
-Type,Typ,module,Magento_Widget
+Type,Rodzaj,module,Magento_Widget
 "Design Package/Theme","Pakiet wyglądu/motyw",module,Magento_Widget
 "Widget Title","Tytuł widget'u",module,Magento_Widget
 "Assign to Store Views","Przypisz do widoków sklepu",module,Magento_Widget
@@ -11965,7 +11965,7 @@ Type,Typ,module,Magento_Widget
 Categories,Kategorie,module,Magento_Widget
 "Anchor Categories","Kategorie zakotwiczone",module,Magento_Widget
 "Non-Anchor Categories","Kategorie niezakotwiczone",module,Magento_Widget
-"All Product Types","Wszystkie typy produktów",module,Magento_Widget
+"All Product Types","Wszystkie rodzaje produktów",module,Magento_Widget
 Products,Produkty,module,Magento_Widget
 "Generic Pages","Ogólne strony",module,Magento_Widget
 "All Pages","Wszystkie strony",module,Magento_Widget
@@ -12125,7 +12125,7 @@ Action,Operacja,module,Magento_Wishlist
 Configure,Konfiguruj,module,Magento_Wishlist
 Delete,Usuń,module,Magento_Wishlist
 "Product Details and Comment","Szczegóły i komentarze produktu",module,Magento_Wishlist
-"Credit card type","Typ karty kredytowej",module,Magento_Worldpay
+"Credit card type","Rodzaj karty kredytowej",module,Magento_Worldpay
 "CVV result","Wynik CVV",module,Magento_Worldpay
 "Postcode AVS check","Sprawdzono kod pocztowy AVS",module,Magento_Worldpay
 "Address AVS check","Sprawdzono adres AVS",module,Magento_Worldpay
