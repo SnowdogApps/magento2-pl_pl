@@ -1301,7 +1301,7 @@ Year,Rok,module,Magento_Catalog
 "Add Product","Dodaj produkt",module,Magento_Catalog
 label,etykieta,module,Magento_Catalog
 "Product Attributes","Cechy produktu",module,Magento_Catalog
-"Add New Attribute","Dodaj nową cechę",module,Magento_Catalog
+"Add New Attribute","Dodaj cechę",module,Magento_Catalog
 "Save in New Attribute Set","Zapisz nowy zestaw atrybutów",module,Magento_Catalog
 "Enter Name for New Attribute Set","Wprowadź nazwę dla nowego zestawu atrybutów",module,Magento_Catalog
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Catalog
@@ -1358,7 +1358,7 @@ Visible,Widoczny,module,Magento_Catalog
 Searchable,"Widoczny w wynikach wyszukiwania",module,Magento_Catalog
 Comparable,Porównywalne,module,Magento_Catalog
 "Delete Selected Group","Usuń zaznaczoną grupę",module,Magento_Catalog
-"Add New","Dodaj nowe",module,Magento_Catalog
+"Add New","Dodaj nową",module,Magento_Catalog
 Back,Powrót,module,Magento_Catalog
 Reset,Resetuj,module,Magento_Catalog
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","Masz zamiar usunąć wszystkie produkty z tego zestawu atrybutów. Czy na pewno chcesz to zrobić?",module,Magento_Catalog
@@ -1366,13 +1366,13 @@ Reset,Resetuj,module,Magento_Catalog
 "Edit Attribute Set '%1'","Edytuj zestaw cech '%1'",module,Magento_Catalog
 Empty,Pusty,module,Magento_Catalog
 "Add Attribute","Dodaj cechę",module,Magento_Catalog
-"Add New Group","Dodaj nową grupę",module,Magento_Catalog
+"Add New Group","Dodaj grupę",module,Magento_Catalog
 "Add Group","Dodaj grupę",module,Magento_Catalog
 "Edit Attribute Set Name","Edytuj nazwę zestawu atrybutów",module,Magento_Catalog
 "For internal use","Do użytku wewnętrznego",module,Magento_Catalog
 "Based On","Bazujący na",module,Magento_Catalog
 "Add New Attribute Set","Dodaj nowy zestaw cech",module,Magento_Catalog
-"Add Attribute Set","Dodaj zestaw atrybutów",module,Magento_Catalog
+"Add Attribute Set","Dodaj zestaw cech",module,Magento_Catalog
 "Attribute Sets","Zestawy cech",module,Magento_Catalog
 "Close Window","Zamknij okno",module,Magento_Catalog
 "New Product","Nowy produkt",module,Magento_Catalog
@@ -2644,7 +2644,7 @@ Close,Zamknij,module,Magento_CheckoutAgreements
 "Terms & Conditions",Regulaminy,module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Włącz warunki sprzedaży",module,Magento_CheckoutAgreements
 "Static Blocks","Bloki statyczne",module,Magento_Cms
-"Add New Block","Dodaj nowy blok",module,Magento_Cms
+"Add New Block","Dodaj blok",module,Magento_Cms
 Back,Powrót,module,Magento_Cms
 "Delete Block","Usuń blok",module,Magento_Cms
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Cms
@@ -2658,7 +2658,7 @@ Status,Status,module,Magento_Cms
 Disabled,Wyłączone,module,Magento_Cms
 Enabled,Włączone,module,Magento_Cms
 "Manage Pages","Zarządzanie stronami",module,Magento_Cms
-"Add New Page","Dodaj nową stronę",module,Magento_Cms
+"Add New Page","Dodaj stronę",module,Magento_Cms
 "Delete Page","Usuń stronę",module,Magento_Cms
 "Save Page","Zapisz stronę",module,Magento_Cms
 "URL Key","Klucz URL",module,Magento_Cms
@@ -3052,7 +3052,7 @@ Actions,Operacje,module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set","Wybierz zestaw atrybutów",module,Magento_ConfigurableProduct
 Confirm,Potwierdź,module,Magento_ConfigurableProduct
 Cancel,Anuluj,module,Magento_ConfigurableProduct
-"New Product Review","Nowa recenzja produktu",module,Magento_ConfigurableProduct
+"New Product Review","Nowa opinia produktu",module,Magento_ConfigurableProduct
 "Here are the products you\'re about to create.","Oto produkty, które zamierzasz utworzyć.",module,Magento_ConfigurableProduct
 "You created these products for this configuration.","Te produkty zostały stworzone dla tej konfiguracji.",module,Magento_ConfigurableProduct
 "Disassociated Products","Produkty składowe konfiguracji",module,Magento_ConfigurableProduct
@@ -3270,7 +3270,7 @@ Download,Pobierz,module,Magento_Customer
 "View Full Size","Zobacz pełen rozmiar",module,Magento_Customer
 "All countries","Wszystkie kraje",module,Magento_Customer
 "Customer Groups","Grupy klientów",module,Magento_Customer
-"Add New Customer Group","Dodaj nową grupę klientów",module,Magento_Customer
+"Add New Customer Group","Dodaj grupę klientów",module,Magento_Customer
 "Save Customer Group","Zapisz grupę klienta",module,Magento_Customer
 "Delete Customer Group","Usuń grupę klientów",module,Magento_Customer
 "New Customer Group","Nowa grupa klienta",module,Magento_Customer
@@ -3770,7 +3770,7 @@ Remove,Usuń,module,Magento_CustomerBalance
 "Store Credit Update Email Sender","Nadawca wiadomości e-mail o aktualizacji kredytu kupieckiego",module,Magento_CustomerBalance
 "Store Credit Update Email Template","Szablon wiadomości e-mail o aktualizacji kredytu kupieckiego",module,Magento_CustomerBalance
 "Customer Address Attributes","Atrybuty adresu nabywcy",module,Magento_CustomerCustomAttributes
-"Add New Attribute","Dodaj nową cechę",module,Magento_CustomerCustomAttributes
+"Add New Attribute","Dodaj cechę",module,Magento_CustomerCustomAttributes
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_CustomerCustomAttributes
 "Save Attribute","Zapisz cechę",module,Magento_CustomerCustomAttributes
 "Delete Attribute","Usuń cechę",module,Magento_CustomerCustomAttributes
@@ -6022,7 +6022,7 @@ Customers,Klienci,module,Magento_Logging
 Reports,Raporty,module,Magento_Logging
 "System Configuration","Konfiguracja systemu",module,Magento_Logging
 "Catalog Price Rules","Reguły cenowe katalogu",module,Magento_Logging
-"Cart Price Rules","Zasady koszyka cen",module,Magento_Logging
+"Cart Price Rules","Reguły cenowe koszyka",module,Magento_Logging
 "Admin My Account","Admin Moje Konto",module,Magento_Logging
 "Newsletter Queue","Kolejka newslettera",module,Magento_Logging
 "Newsletter Templates","Szablony newslettera",module,Magento_Logging
@@ -7937,7 +7937,7 @@ Report,Raport,module,Magento_Reports
 Description,Opis,module,Magento_Reports
 undefined,niezdefiniowany,module,Magento_Reports
 "Save Review","Zapisz recenzję",module,Magento_Review
-"New Review","Nowa recenzja",module,Magento_Review
+"New Review","Nowa opinia",module,Magento_Review
 "Review Details","Szczegóły recenzji",module,Magento_Review
 Product,Produkt,module,Magento_Review
 "Product Rating","Ocena produktu",module,Magento_Review
@@ -8289,7 +8289,7 @@ Customer,Klient,module,Magento_Rma
 View,Zobacz,module,Magento_Rma
 "You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Wybrano opcję zmiany statusu\ów wybranych zleceń RMA na zamknięte. Czy jesteś pewnien, że chcesz kontynuować?",module,Magento_Rma
 "Return Item Attribute","Return Item Attribute",module,Magento_Rma
-"Add New Attribute","Dodaj nową cechę",module,Magento_Rma
+"Add New Attribute","Dodaj cechę",module,Magento_Rma
 "Save Attribute","Zapisz cechę",module,Magento_Rma
 "Delete Attribute","Usuń cechę",module,Magento_Rma
 "Edit Return Item Attribute ""%1""","Edit Return Item Attribute ""%1""",module,Magento_Rma
@@ -8738,7 +8738,7 @@ Capture,Przechwyć,module,Magento_Sales
 "Order Status Information","Informacje statusu zamówienia",module,Magento_Sales
 "Status Code","Kod statusu",module,Magento_Sales
 "Status Label","Etykieta statusu",module,Magento_Sales
-"Store View Specific Labels","Etykiey specyficzne dla widoku sklepu",module,Magento_Sales
+"Store View Specific Labels","Etykiety specyficzne dla widoku sklepu",module,Magento_Sales
 "Total Paid","Łącznie zapłacono",module,Magento_Sales
 "Total Refunded","Łącznie zwrócono",module,Magento_Sales
 "Total Due",Pozostało,module,Magento_Sales
@@ -8784,7 +8784,7 @@ Transactions,Transakcje,module,Magento_Sales
 Any,Dowolny,module,Magento_Sales
 Specified,Wybrane,module,Magento_Sales
 "Applies to Any of the Specified Order Statuses except canceled orders","Applies to Any of the Specified Order Statuses except canceled orders",module,Magento_Sales
-"Cart Price Rule","Zasady koszyka cen",module,Magento_Sales
+"Cart Price Rule","Reguły cenowe koszyka",module,Magento_Sales
 Yes,Tak,module,Magento_Sales
 No,Nie,module,Magento_Sales
 "Show Actual Values","Pokaż bieżące wartości",module,Magento_Sales
@@ -9491,7 +9491,7 @@ Actions,Operacje,module,Magento_SalesRule
 "Apply To","Zastosuj do",module,Magento_SalesRule
 Conditions,Warunki,module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","Zastosuj regułę tylko gdy następujące warunki są spełnione (pozostaw puste dla wszystkich produktów).",module,Magento_SalesRule
-"Manage Coupon Codes","Zarządzaj kodami kuponów",module,Magento_SalesRule
+"Manage Coupon Codes","Kody rabatowe",module,Magento_SalesRule
 "Coupon Qty","Ilość kodów",module,Magento_SalesRule
 "Code Length","Długość kodu",module,Magento_SalesRule
 "Excluding prefix, suffix and separators.","Bez prefiksu, sufiksu i separatorów.",module,Magento_SalesRule
@@ -9511,7 +9511,7 @@ CSV,CSV,module,Magento_SalesRule
 "Excel XML","Excel XML",module,Magento_SalesRule
 "Are you sure you want to delete the selected coupon(s)?","Czy na pewno chcesz usunąć wybrany kupon(y)?",module,Magento_SalesRule
 Labels,Etykiey,module,Magento_SalesRule
-"Store View Specific Labels","Etykiey specyficzne dla widoku sklepu",module,Magento_SalesRule
+"Store View Specific Labels","Etykiety specyficzne dla widoku sklepu",module,Magento_SalesRule
 "General Information",Ogólne,module,Magento_SalesRule
 "Rule Name","Nazwa reguły",module,Magento_SalesRule
 Description,Opis,module,Magento_SalesRule
@@ -9686,7 +9686,7 @@ Apply,Zastosuj,module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRuleStaging
 "Discard subsequent rules","Odrzuć kolejne reguły",module,Magento_SalesRuleStaging
 Labels,Etykiety,module,Magento_SalesRuleStaging
-"Default Rule Label for All Store Views","Domyślna etykieta reguły dla wszystkich widoków sklepu",module,Magento_SalesRuleStaging
+"Default Rule Label for All Store Views","Etykieta dla wszystkich widoków sklepu",module,Magento_SalesRuleStaging
 "Move to another scheduled change","Przenieś do innej zaplanowanej zmiany",module,Magento_SalesRuleStaging
 "Delete the scheduled change","Usuń zaplanowaną zmianę",module,Magento_SalesRuleStaging
 "Deleting the change will remove the sales rule from this update and all scheduled changes will be lost.","Usunięcie zmiany spowoduje usunięcie reguły sprzedaży z tej aktualizacji i wszystkie zaplanowane zmiany zostaną utracone.",module,Magento_SalesRuleStaging
@@ -10935,7 +10935,7 @@ Manage,Zarządzaj,module,Magento_Theme
 "Something is wrong with the file upload settings.","Coś jest nie tak z ustawieniami przesyłania plików.",module,Magento_Theme
 "CSS Editor","Edytor CSS",module,Magento_Theme
 "Theme Settings","Ustawienia motywu",module,Magento_Theme
-"Parent Theme","Rodzic motywu",module,Magento_Theme
+"Parent Theme","Motyw nadrzędny",module,Magento_Theme
 "Theme Path","Scieżka motywu",module,Magento_Theme
 "Theme Title","Tytuł motywu",module,Magento_Theme
 "Theme Preview Image","Zdjęcie podglądu motywu",module,Magento_Theme
