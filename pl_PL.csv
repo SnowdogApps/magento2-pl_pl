@@ -5440,7 +5440,7 @@ Action,Operacja,module,Magento_GiftWrapping
 Edit,Edytuj,module,Magento_GiftWrapping
 Dynamic,Dynamiczny,module,Magento_GoogleAdwords
 Constant,Stała,module,Magento_GoogleAdwords
-"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.",module,Magento_GoogleAdwords
+"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Wartość konwersji dla koloru nie jest poprawna ""%1"". Proszę ustawić szesnastkową wartość 6-cyfrową.",module,Magento_GoogleAdwords
 "Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","Conversion Id value is not valid ""%1"". Conversion Id should be an integer.",module,Magento_GoogleAdwords
 "Google AdWords","Google AdWords",module,Magento_GoogleAdwords
 Enable,Włącz,module,Magento_GoogleAdwords
@@ -5612,7 +5612,7 @@ label,etykieta,module,Magento_ImportExport
 Add/Update,Dodaj/Aktualizuj,module,Magento_ImportExport
 Replace,Zastąp,module,Magento_ImportExport
 Delete,Usuń,module,Magento_ImportExport
-"Note: Product IDs will be regenerated.","Note: Product IDs will be regenerated.",module,Magento_ImportExport
+"Note: Product IDs will be regenerated.","Informacja: Identyfikatory produktów zostaną zregenerowane.",module,Magento_ImportExport
 "Add/Update Complex Data","Dodaj/Aktualizuj dane złożone",module,Magento_ImportExport
 "Delete Entities","Usuń elementy",module,Magento_ImportExport
 "Custom Action","Akcja niestandardowa",module,Magento_ImportExport
