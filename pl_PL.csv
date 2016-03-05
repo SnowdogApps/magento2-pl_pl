@@ -1,7 +1,7 @@
 All,Wszystko,module,Magento_AdminGws
 None,Brak,module,Magento_AdminGws
 "Allowed Scopes","Dopuszczalne zakresy",module,Magento_AdminGws
-"You need more permissions to delete this item(s): %1.","Potrzebujesz więcej uprawnień, aby delegować te elementy: %1.",module,Magento_AdminGws
+"You need more permissions to delete this item(s): %1.","Potrzebujesz więcej uprawnień, aby usunąć te pozycje: %1.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Potrzebujesz więcej uprawnień do stosowania niektórych reguł aktualizacji.",module,Magento_AdminGws
 "Please assign this entity to a store view.","Przypisz obiekt do widoku sklepu.",module,Magento_AdminGws
 "You can create orders only in an active store.","Możesz tworzyć zamówienia tylko w aktywnym sklepie.",module,Magento_AdminGws
@@ -320,10 +320,10 @@ Bestsellers,Bestsellery,module,Magento_Backend
 Customers,Klienci,module,Magento_Backend
 Customer,Klient,module,Magento_Backend
 Guest,Gość,module,Magento_Backend
-Items,Elementy,module,Magento_Backend
+Items,Pozycje,module,Magento_Backend
 Total,Łącznie,module,Magento_Backend
-"Lifetime Sales","Całkowita sprzedaż",module,Magento_Backend
-"Average Order","Średnie zamówienia",module,Magento_Backend
+"Lifetime Sales","Całkowita wartość sprzedaży",module,Magento_Backend
+"Average Order","Średnia wartość zamówienia",module,Magento_Backend
 Average,Średnia,module,Magento_Backend
 Product,Produkt,module,Magento_Backend
 Price,Cena,module,Magento_Backend
@@ -527,7 +527,7 @@ password,hasło,module,Magento_Backend
 "Sign in","Zaloguj się",module,Magento_Backend
 "Select Range:","Wybierz zakres:",module,Magento_Backend
 "No Data Found","Nie znaleziono danych",module,Magento_Backend
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Wykres jest wyłączony. Kliknij <a href=""%1"">tutaj</a>, aby go włączyć.",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Kliknij <a href=""%1"">tutaj</a>, aby włączyć wykres.",module,Magento_Backend
 "Last Orders","Ostatnie zamówienia",module,Magento_Backend
 "Last Search Terms","Ostatnio wyszukiwane hasła",module,Magento_Backend
 "Top Search Terms","Najpopularniejsze wyszukiwania",module,Magento_Backend
@@ -1982,8 +1982,8 @@ StatusText,StatusText,module,Magento_Catalog
 "Attribute Label","Etykieta cechy",module,Magento_Catalog
 System,System,module,Magento_Catalog
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Catalog
-"Delete items","Usuń elementy",module,Magento_Catalog
-"Delete selected items?","Usunąć wybrane elementy?",module,Magento_Catalog
+"Delete items","Usuń pozycje",module,Magento_Catalog
+"Delete selected items?","Usunąć wybrane pozycje?",module,Magento_Catalog
 "Change status","Zmień status",module,Magento_Catalog
 Enable,Włącz,module,Magento_Catalog
 Disable,Wyłącz,module,Magento_Catalog
@@ -2519,7 +2519,7 @@ Loading...,Ładuję...,module,Magento_Checkout
 Reason,Powód,module,Magento_Checkout
 "Checkout Type","Typ transakcji",module,Magento_Checkout
 Customer:,Klient:,module,Magento_Checkout
-Items,Elementy,module,Magento_Checkout
+Items,Pozycje,module,Magento_Checkout
 Total:,Razem:,module,Magento_Checkout
 "Billing Address:","Adres rozliczeniowy:",module,Magento_Checkout
 "Shipping Address:","Adres dla dostawy:",module,Magento_Checkout
@@ -2768,7 +2768,7 @@ Block,Blok,module,Magento_Cms
 "General Information","Informacje ogólne",module,Magento_Cms
 "Enable Block","Włącz blok",module,Magento_Cms
 "Block Title","Tytuł bloku",module,Magento_Cms
-"Delete items","Usuń elementy",module,Magento_Cms
+"Delete items","Usuń pozycje",module,Magento_Cms
 "Are you sure you wan't to delete selected items?","Czy na pewno chcesz usunąć wszystkie zaznaczone towary?",module,Magento_Cms
 "Page Information","Informacje o stronie",module,Magento_Cms
 "Enable Page","Włącz stronę",module,Magento_Cms
@@ -3487,7 +3487,7 @@ Customer,Klient,module,Magento_Customer
 "Web Site",Witryna,module,Magento_Customer
 Store,Sklep,module,Magento_Customer
 "Store View","Widok sklepu",module,Magento_Customer
-"Lifetime Sales","Całkowita sprzedaż",module,Magento_Customer
+"Lifetime Sales","Całkowita wartość sprzedaży",module,Magento_Customer
 "Average Sale","Średnia sprzedaż",module,Magento_Customer
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Customer
 Change,Zmień,module,Magento_Customer
@@ -3675,7 +3675,7 @@ Wartości oddzielone średnikiem (;). <br/>Umieść średnik na początku dla pi
 "Rebuild Customer grid index","Odbuduj indeks siatki klientów",module,Magento_Customer
 Group,Grupa,module,Magento_Customer
 "Add New Customer","Dodaj nowego klienta",module,Magento_Customer
-"Delete items","Usuń elementy",module,Magento_Customer
+"Delete items","Usuń pozycje",module,Magento_Customer
 "Are you sure to delete selected customers?","Czy na pewno chcesz usunąć zaznaczonych klientów?",module,Magento_Customer
 "Subscribe to Newsletter","Subskrybuj newsletter",module,Magento_Customer
 "Unsubscribe from Newsletter","Wypisz z newslettera",module,Magento_Customer
@@ -6351,7 +6351,7 @@ Item,Produkt,module,Magento_Multishipping
 Edit,Edytuj,module,Magento_Multishipping
 Price,Cena,module,Magento_Multishipping
 Subtotal,"Suma częściowa",module,Magento_Multishipping
-Items,Elementy,module,Magento_Multishipping
+Items,Pozycje,module,Magento_Multishipping
 "Grand Total:",Łącznie:,module,Magento_Multishipping
 "Submitting order information...","Przetwarzanie zamówienia...",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Przepraszamy cudzysłowie nie jest dostępne dla tego zamówienia już teraz.",module,Magento_Multishipping
@@ -7778,7 +7778,7 @@ Orders,Zamówienia,module,Magento_Reports
 "Offline Refunds","Zwroty offline",module,Magento_Reports
 "Total Ordered Report","Raport łącznie zamówionych",module,Magento_Reports
 "Sales Items","Produkty sprzedaży",module,Magento_Reports
-Items,Elementy,module,Magento_Reports
+Items,Pozycje,module,Magento_Reports
 Revenue,Dochód,module,Magento_Reports
 Profit,Profit,module,Magento_Reports
 Invoiced,Zafakturowano,module,Magento_Reports
@@ -8267,7 +8267,7 @@ Add,Dodaj,module,Magento_Rma
 "Custom Value","Niestandardowa wartość",module,Magento_Rma
 "Print Shipping Label","Wydrukuj etykietę wysyłkową",module,Magento_Rma
 "Show Packages","Pokaż paczki",module,Magento_Rma
-Items,Elementy,module,Magento_Rma
+Items,Pozycje,module,Magento_Rma
 "Return Items","Zwróć produkty",module,Magento_Rma
 Product,Produkt,module,Magento_Rma
 SKU,SKU,module,Magento_Rma
@@ -9213,7 +9213,7 @@ Comment,Komentarz,module,Magento_Sales
 "Created At",Utworzono,module,Magento_Sales
 "Child Transactions","Podrzędne transakcje",module,Magento_Sales
 "Transaction Details","Szczegóły transakcji",module,Magento_Sales
-Items,Elementy,module,Magento_Sales
+Items,Pozycje,module,Magento_Sales
 "Gift Message for this Order","Wiadomość prezentowa dla tego zamówienia",module,Magento_Sales
 "Shipped By","Wysłane przez",module,Magento_Sales
 "Tracking Number","Numer śledzenia",module,Magento_Sales
@@ -9921,7 +9921,7 @@ Synonyms,Synonimy,module,Magento_Search
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.",module,Magento_Search
 "Store View","Widok sklepu",module,Magento_Search
 Website,Witryna,module,Magento_Search
-"Delete items","Usuń elementy",module,Magento_Search
+"Delete items","Usuń pozycje",module,Magento_Search
 "Are you sure you want to delete the selected synonym groups?","Czy na pewno chcesz usunąć wybrane grupy synonimów?",module,Magento_Search
 "Account Activity","Aktywność na koncie",module,Magento_Security
 "All other open sessions for this account were terminated.","Wszystkie inne otwarte sesje dla tego konta zostały zakończone.",module,Magento_Security
@@ -10584,7 +10584,7 @@ Design,Wygląd,module,Magento_Support
 Stores,Sklepy,module,Magento_Support
 "Refresh Status","Odśwież Status",module,Magento_Support
 "New Backup","Nowa kopia zapasowa",module,Magento_Support
-"Delete items","Usuń elementy",module,Magento_Support
+"Delete items","Usuń pozycje",module,Magento_Support
 "Are you sure you want to delete selected item(s)?","Czy na pewno chcesz usunąć wszystkie zaznaczone towary?",module,Magento_Support
 "Code Dump","Kopia kodu",module,Magento_Support
 "DB Dump","Kopia bazy danych",module,Magento_Support
