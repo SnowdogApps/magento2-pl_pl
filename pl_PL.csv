@@ -9622,8 +9622,8 @@ is,jest,module,Magento_SalesRule
 "Apply Discount","Zastosuj zniżkę",module,Magento_SalesRule
 "Cancel coupon","Anuluj kupon",module,Magento_SalesRule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
-"Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
-Promotion,Promotion,module,Magento_SalesRule
+"Your coupon was successfully applied."," Twój kupon został pomyślnie zastosowany.",module,Magento_SalesRule
+Promotion,Promocja,module,Magento_SalesRule
 "Auto Generated Specific Coupon Codes","Automatycznie wygenerowane kody kuponów",module,Magento_SalesRule
 "Web Site",Witryna,module,Magento_SalesRule
 Back,Powrót,module,Magento_SalesRule
