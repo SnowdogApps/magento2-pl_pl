@@ -8816,7 +8816,7 @@ Unassign,Odepnij,module,Magento_Sales
 Sales,Sprzedaż,module,Magento_Sales
 "This order no longer exists.","Takie zamówienie już nie istnieje.",module,Magento_Sales
 "Please enter a comment.","Wpisz treść komentarza.",module,Magento_Sales
-"We cannot add order history.","We cannot add order history.",module,Magento_Sales
+"We cannot add order history.","Nie można dodać historii zamówienia.",module,Magento_Sales
 "You updated the order address.","Adres zamówienia został zaktualizowany.",module,Magento_Sales
 "We can\'t update the order address right now.","W tej chwili nie możemy zaktualizować adresu tego zamówienia.",module,Magento_Sales
 "You have not canceled the item.","Nie posiadasz anulowanych produktów.",module,Magento_Sales
