@@ -5441,7 +5441,7 @@ Edit,Zmień,module,Magento_GiftWrapping
 Dynamic,Dynamiczny,module,Magento_GoogleAdwords
 Constant,Stała,module,Magento_GoogleAdwords
 "Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Wartość konwersji dla koloru nie jest poprawna ""%1"". Proszę ustawić szesnastkową wartość 6-cyfrową.",module,Magento_GoogleAdwords
-"Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","Conversion Id value is not valid ""%1"". Conversion Id should be an integer.",module,Magento_GoogleAdwords
+"Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","Id konwersji nie jest poprawne ""%1"". Powinno być nieujemną liczną całkowitą.",module,Magento_GoogleAdwords
 "Google AdWords","Google AdWords",module,Magento_GoogleAdwords
 Enable,Włącz,module,Magento_GoogleAdwords
 "Conversion ID","ID konwersji",module,Magento_GoogleAdwords
