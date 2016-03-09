@@ -10032,7 +10032,7 @@ Shipments,Dostawy,module,Magento_Shipping
 "Cannot send shipment information.","Nie można wysłać informacji o dostawie.",module,Magento_Shipping
 "There are no shipping labels related to selected orders.","Brak etykiet adresowych powiązanych z wybranymi zamówieniami.",module,Magento_Shipping
 "New Shipment","Nowa dostawa",module,Magento_Shipping
-"We don\'t recognize or support the file extension in this shipment: %1.","We don\'t recognize or support the file extension in this shipment: %1.",module,Magento_Shipping
+"We don\'t recognize or support the file extension in this shipment: %1.","Nie możemy rozpoznać lub wesprzeć rozszerzenia pliku tej wysyłki: %1.",module,Magento_Shipping
 "We can\'t initialize shipment for delete tracking number.","We can\'t initialize shipment for delete tracking number.",module,Magento_Shipping
 "We can\'t delete tracking number.","We can\'t delete tracking number.",module,Magento_Shipping
 "We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Shipping
@@ -10265,7 +10265,7 @@ Preview,Podgląd,module,Magento_Staging
 Done,Zrobione,module,Magento_Staging
 "Remove from Update","Usuń z aktualizacji",module,Magento_Staging
 Save,Zapisz,module,Magento_Staging
-"Schedule New Update","Schedule New Update",module,Magento_Staging
+"Schedule New Update","Zaplanuj nową aktualizację",module,Magento_Staging
 "View Specific Date","Zobacz określoną datę",module,Magento_Staging
 "Date & Time","Data i czas",module,Magento_Staging
 "Something went wrong while removing the %1.","Coś się zepsuło podczas usuwania %1.",module,Magento_Staging
@@ -10526,7 +10526,7 @@ Method,Metoda,module,Magento_Support
 "Custom Global Events","Custom Global Events",module,Magento_Support
 "Custom REST Events","Custom REST Events",module,Magento_Support
 "Custom SOAP Events","Custom SOAP Events",module,Magento_Support
-"Log Files","Log Files",module,Magento_Support
+"Log Files","Pliki logów",module,Magento_Support
 File,Plik,module,Magento_Support
 Size,Rozmiar,module,Magento_Support
 "Log Entries","Log Entries",module,Magento_Support
@@ -10576,7 +10576,7 @@ Top,"Na górze",module,Magento_Support
 "System Report","Raport systemu",module,Magento_Support
 Data,Dane,module,Magento_Support
 Modules,Moduły,module,Magento_Support
-Logs,Logs,module,Magento_Support
+Logs,Logi,module,Magento_Support
 Attributes,Cechy,module,Magento_Support
 Events,Zdarzenia,module,Magento_Support
 Cron,Cron,module,Magento_Support
