@@ -7885,26 +7885,26 @@ Dashboard,Panel,module,Magento_Reports
 "Viewed Products Grid Template","Szablon siatki oglądanych produktów",module,Magento_Reports
 "Viewed Products List Template","Szablon listy oglądanych produktów",module,Magento_Reports
 "Viewed Products Images and Names Template","Nowe zdjęcia produktów i nazw szablonów",module,Magento_Reports
-"Viewed Products Names Only Template","Viewed Products Names Only Template",module,Magento_Reports
-"Viewed Products Images Only Template","Viewed Products Images Only Template",module,Magento_Reports
+"Viewed Products Names Only Template","Szablon tylko wyświetlanych nazw produktów",module,Magento_Reports
+"Viewed Products Images Only Template","Szablon tylko wyświetlanych zdjęć produktów",module,Magento_Reports
 "Recently Compared Products","Ostatnio porównywane produkty",module,Magento_Reports
 "List of Products Recently Compared and Removed from the Compare List by Visitor","Lista produktów ostatnio porównywanych i usuniętych z porównania przez ogwiedzającego",module,Magento_Reports
 "Compared Products Grid Template","Szablon siatki porównywanych produktów",module,Magento_Reports
 "Compared Products List Template","Szablon listy porównywanych produktów",module,Magento_Reports
-"Compared Products Images and Names Template","Compared Products Images and Names Template",module,Magento_Reports
-"Compared Product Names Only Template","Compared Product Names Only Template",module,Magento_Reports
-"Compared Product Images Only Template","Compared Product Images Only Template",module,Magento_Reports
+"Compared Products Images and Names Template","Porównanie zdjęcia produktów i nazw szablonów",module,Magento_Reports
+"Compared Product Names Only Template","Szablon tylko nazwy produktu w porównaniu",module,Magento_Reports
+"Compared Product Images Only Template","Zdjęcia produktów w porównaniu tylko szablon",module,Magento_Reports
 Average,Średnia,module,Magento_Reports
 "Stock Quantity","Ilość w magazynie",module,Magento_Reports
 "Ordered Quantity","Zamówiona ilość",module,Magento_Reports
-"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",module,Magento_Reports
+"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","Dla dokładnego raportowania, należy odświeżyć życia statystyki po zmianie strefy czasowej.",module,Magento_Reports
 Guest,Gość,module,Magento_Reports
 Action,Operacja,module,Magento_Reports
 "Average (Approved)","Średnia (zatwierdzone)",module,Magento_Reports
 "Last Review","Ostatnia recenzja",module,Magento_Reports
 "Order Created","Data utworzenia zamówienia",module,Magento_Reports
 "Order Updated","Data aktualizacji zamówienia",module,Magento_Reports
-"The Order Updated report is created in real time and does not require a refresh.","The Order Updated report is created in real time and does not require a refresh.",module,Magento_Reports
+"The Order Updated report is created in real time and does not require a refresh.","Kolejność zaktualizowany raport jest tworzony w czasie rzeczywistym i nie wymagają odświeżenia.",module,Magento_Reports
 "Last Invoice Created Date","Data utworzenie ostatniej faktury",module,Magento_Reports
 "Last Credit Memo Created Date","Data utworzenie ostatniej faktury korygującej",module,Magento_Reports
 "First Invoice Created Date","Data wystawienia pierwszej faktury",module,Magento_Reports
@@ -7955,7 +7955,7 @@ Customer,Klient,module,Magento_Review
 "All Reviews of Product `%1`","Wszystkie opinie produktu `%1`",module,Magento_Review
 "All Reviews","Lista opinii",module,Magento_Review
 Name,Nazwa,module,Magento_Review
-"Product Store Name","Product Store Name",module,Magento_Review
+"Product Store Name","Nazwa produktu sklepu",module,Magento_Review
 Price,Cena,module,Magento_Review
 Quantity,Ilość,module,Magento_Review
 Websites,Witryny,module,Magento_Review
@@ -7986,7 +7986,7 @@ Reviews,Opinie,module,Magento_Review
 "Something went wrong  deleting this review.","Coś poszło nie tak, jak powinno, podczas usuwania opinii.",module,Magento_Review
 "Customer Reviews","Opinie klientów",module,Magento_Review
 "Edit Review","Edycja recenzji",module,Magento_Review
-"We can\'t retrieve the product ID.","We can\'t retrieve the product ID.",module,Magento_Review
+"We can\'t retrieve the product ID.","Nie możemy pobrać ID produktu.",module,Magento_Review
 "Please select review(s).","Wybierz opinię.",module,Magento_Review
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Review
 "Something went wrong while deleting these records.","Coś poszło nie tak, jak powinno, podczas usuwania tych rekordów.",module,Magento_Review
@@ -7995,21 +7995,21 @@ Reviews,Opinie,module,Magento_Review
 "You saved the review.","Opinia została zapisana.",module,Magento_Review
 "Something went wrong while saving this review.","Coś poszło nie tak, jak powinno, podczas zapisywania tej opinii.",module,Magento_Review
 "The review was removed by another user or does not exist.","Opinia została usunięta przez innego użytkownika lub nie istnieje.",module,Magento_Review
-"You deleted the rating.","You deleted the rating.",module,Magento_Review
+"You deleted the rating.","Możesz usunąć ocenę.",module,Magento_Review
 Ratings,Oceny,module,Magento_Review
-"You saved the rating.","You saved the rating.",module,Magento_Review
+"You saved the rating.","Zapisano ocenę.",module,Magento_Review
 "My Product Reviews","Moje opinie do produktów",module,Magento_Review
-"You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
-"We can\'t post your review right now.","We can\'t post your review right now.",module,Magento_Review
-"Storage key was not set","Storage key was not set",module,Magento_Review
+"You submitted your review for moderation.","Dodano swoją recenzję do moderacji.",module,Magento_Review
+"We can\'t post your review right now.","Nie można teraz wysłać oceny.",module,Magento_Review
+"Storage key was not set","Nie został ustawiony klucz pamięci",module,Magento_Review
 Approved,"Zwrot zakończony",module,Magento_Review
 Pending,Oczekujący,module,Magento_Review
 "Not Approved",Odrzucona,module,Magento_Review
-"Please enter a review summary.","Please enter a review summary.",module,Magento_Review
+"Please enter a review summary.","Proszę wpisać treść podsumowania opinii.",module,Magento_Review
 "Please enter a nickname.","Proszę podaj nick.",module,Magento_Review
 "Please enter a review.","Proszę wpisać treść opinii.",module,Magento_Review
 "Rating isn't Available","Ocenianie niedostępne",module,Magento_Review
-"Please specify a rating title for a store, or we\'ll just use the default value.","Please specify a rating title for a store, or we\'ll just use the default value.",module,Magento_Review
+"Please specify a rating title for a store, or we\'ll just use the default value.","Proszę podać Tytuł w sklepie lub użyjemy wartości domyślnej.",module,Magento_Review
 "Assigned Options","Przypisane opcje",module,Magento_Review
 "Option Title:","Tytuł opcji:",module,Magento_Review
 "Product Name","Nazwa produktu",module,Magento_Review
@@ -8033,7 +8033,7 @@ Back,Powrót,module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 Summary,Podsumowanie,module,Magento_Review
 "Submit Review","Dodaj recenzję",module,Magento_Review
-"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Recenzje. Proszę <a href=""%1""> Zaloguj się</a> lub <a href=""%2""> Załóż konto</a>",module,Magento_Review
 "Add Your Review","Dodaj swoją recenzję",module,Magento_Review
 "%1 Review(s)","%1 recenzja(i)",module,Magento_Review
 "Review by","Recenzowany przez",module,Magento_Review
@@ -8049,7 +8049,7 @@ Summary,Podsumowanie,module,Magento_Review
 Active,Aktywny,module,Magento_Review
 Inactive,Nieaktywny,module,Magento_Review
 "Reward Points","Punkty lojalnościowe",module,Magento_Reward
-"Reward Points History","Reward Points History",module,Magento_Reward
+"Reward Points History","Punkty Zwrotne Historii",module,Magento_Reward
 "Expired reward","Wygasłe nagrody",module,Magento_Reward
 Unlimited,Nielimitowany,module,Magento_Reward
 "No Data","Brak danych",module,Magento_Reward
@@ -8857,17 +8857,17 @@ Sales,Sprzedaż,module,Magento_Sales
 "There are no printable documents related to selected orders.","Brak dokumentów do wydruku powiązanych z wybranymi zamówieniami",module,Magento_Sales
 "The payment has been accepted.","Płatność została zaakceptowana.",module,Magento_Sales
 "The payment has been denied.","Płatność została odrzucona.",module,Magento_Sales
-"Transaction has been approved.","Transaction has been approved.",module,Magento_Sales
-"Transaction has been voided/declined.","Transaction has been voided/declined.",module,Magento_Sales
-"There is no update for the transaction.","There is no update for the transaction.",module,Magento_Sales
+"Transaction has been approved.","Transakcja została zatwierdzona.",module,Magento_Sales
+"Transaction has been voided/declined.","Transakcja została unieważniona / odrzucona.",module,Magento_Sales
+"There is no update for the transaction.","Nie ma żadnej aktualizacji dla tej transakcji.",module,Magento_Sales
 "We can\'t update the payment right now.","We can\'t update the payment right now.",module,Magento_Sales
-"You assigned the order status.","You assigned the order status.",module,Magento_Sales
-"Something went wrong while assigning the order status.","Something went wrong while assigning the order status.",module,Magento_Sales
-"We can\'t find this order status.","We can\'t find this order status.",module,Magento_Sales
+"You assigned the order status.","Status został przypisany do zamówienia.",module,Magento_Sales
+"Something went wrong while assigning the order status.","Coś poszło nie tak podczas przypisywania statusu do zamówienia.",module,Magento_Sales
+"We can\'t find this order status.","Nie możemy znaleźć statusu zamówienia.",module,Magento_Sales
 "Create New Order Status","Utwórz nowy status zamówienia",module,Magento_Sales
-"We found another order status with the same order status code.","We found another order status with the same order status code.",module,Magento_Sales
-"You saved the order status.","You saved the order status.",module,Magento_Sales
-"We can\'t add the order status right now.","We can\'t add the order status right now.",module,Magento_Sales
+"We found another order status with the same order status code.","Znaleźliśmy inny status zamówienia o tym samym kodzie.",module,Magento_Sales
+"You saved the order status.","Zapisałeś status zamówienia.",module,Magento_Sales
+"We can\'t add the order status right now.","W tej chili nie możemy dodać tego statusu zamówienia.",module,Magento_Sales
 "You have unassigned the order status.","You have unassigned the order status.",module,Magento_Sales
 "Something went wrong while unassigning the order.","Something went wrong while unassigning the order.",module,Magento_Sales
 "Can\'t unhold order.","Can\'t unhold order.",module,Magento_Sales
@@ -9049,7 +9049,7 @@ State/Province,Województwo,module,Magento_Sales
 "Could not cancel creditmemo","Nie można anulować creditmemo",module,Magento_Sales
 "We cannot register an existing credit memo.","Nie udało się zarejestrować istniejącej faktury korygującej.",module,Magento_Sales
 "The most money available to refund is %1.","Większość pieniędzy do zwrotu to %1.",module,Magento_Sales
-"We found an invalid quantity to invoice item ""%1"".","We found an invalid quantity to invoice item ""%1"".",module,Magento_Sales
+"We found an invalid quantity to invoice item ""%1"".","Znaleźliśmy niewłaściwą ilość zafakturowanego produktu ""%1"".",module,Magento_Sales
 "The Order State ""%1"" must not be set manually.","Nie wolno ustawić stanu zamówienia ""%1"" ręcznie.",module,Magento_Sales
 "VAT Request Identifier","Identyfikator zapytania o VAT",module,Magento_Sales
 "VAT Request Date","Data zapytania o VAT",module,Magento_Sales
@@ -9087,7 +9087,7 @@ Remove,Usuń,module,Magento_Sales
 "Select from existing customer addresses:","Wybierz spośród istniejących adresów klienta:",module,Magento_Sales
 "Add New Address","Dodaj nowy adres",module,Magento_Sales
 "Save in address book","Zapisz w książce adresowej",module,Magento_Sales
-"You don\'t need to select a shipping address.","You don\'t need to select a shipping address.",module,Magento_Sales
+"You don\'t need to select a shipping address.","Nie musisz wybierać adresu wysyłki.",module,Magento_Sales
 "Gift Message for the Entire Order","Opcje prezentowe dla całego zamówienia",module,Magento_Sales
 "Leave this box blank if you don\'t want to leave a gift message for the entire order.","Leave this box blank if you don\'t want to leave a gift message for the entire order.",module,Magento_Sales
 "Row Subtotal","Suma częściowa rzędu",module,Magento_Sales
@@ -9105,8 +9105,8 @@ Subtotal:,"Suma częściowa:",module,Magento_Sales
 "Click to change shipping method","Kliknij, aby zmienić metodę wysyłki",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Przepraszamy cudzysłowie nie jest dostępne dla tego zamówienia.",module,Magento_Sales
 "Get shipping methods and rates","Pobierz sposoby dostawy i stawki",module,Magento_Sales
-"You don\'t need to select a shipping method.","You don\'t need to select a shipping method.",module,Magento_Sales
-"Customer\'s Activities","Customer\'s Activities",module,Magento_Sales
+"You don\'t need to select a shipping method.","Nie musisz wybierać metody wysyłki.",module,Magento_Sales
+"Customer\'s Activities","Działalności klienta",module,Magento_Sales
 Refresh,Odśwież,module,Magento_Sales
 Item,Produkt,module,Magento_Sales
 "Add To Order","Dodaj do zamówienia",module,Magento_Sales
@@ -9256,8 +9256,8 @@ Create,Utwórz,module,Magento_Sales
 "Send Order Email","Send Order Email",module,Magento_Sales
 "Accept or Deny Payment","Accept or Deny Payment",module,Magento_Sales
 "Send Sales Emails","Send Sales Emails",module,Magento_Sales
-"Sales Section","Sales Section",module,Magento_Sales
-"Sales Emails Section","Sales Emails Section",module,Magento_Sales
+"Sales Section","Sekcja sprzedaży",module,Magento_Sales
+"Sales Emails Section","Sekcja e-maili sprzedażowych",module,Magento_Sales
 General,Ogólne,module,Magento_Sales
 "Hide Customer IP","Ukryj IP klienta",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Zdecyduj czy adres IP klienta ma być widoczny w zamówieniach, fakturach, wysyłkach i fakturach korygujących.",module,Magento_Sales
@@ -9716,7 +9716,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "Failed Email Sender","Nadanie wiadomości E-mail nie powiodło się",module,Magento_ScheduledImportExport
 "Failed Email Template","Niepowodzenie szablonu Email",module,Magento_ScheduledImportExport
 "Send Failed Email Copy To","Wyślij kopię e-maila do",module,Magento_ScheduledImportExport
-"Send Failed Email Copy Method","Send Failed Email Copy Method",module,Magento_ScheduledImportExport
+"Send Failed Email Copy Method","Metoda błędnej wysyłki kopii e-maila",module,Magento_ScheduledImportExport
 "Export Settings","Ustawienia eksportu",module,Magento_ScheduledImportExport
 "Export File Information","Informacje o pliku eksportu",module,Magento_ScheduledImportExport
 "Export Failed Emails","Eksport wiadomości E-mail nie powiódł się",module,Magento_ScheduledImportExport
@@ -9733,7 +9733,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "Images File Directory","Katalog plików obrazów",module,Magento_ScheduledImportExport
 "Clean Now","Czyść teraz",module,Magento_ScheduledImportExport
 "Scheduled Imports/Exports","Zaplanowany import/eksport",module,Magento_ScheduledImportExport
-"The operation ran.","The operation ran.",module,Magento_ScheduledImportExport
+"The operation ran.","Uruchomione operacje.",module,Magento_ScheduledImportExport
 "We can\'t run the operation right now, see error log for details.","Nie można uruchomić operacji teraz, zobacz szczegóły w dzienniku błędów.",module,Magento_ScheduledImportExport
 "We can\'t delete the scheduled operation right now.","Nie można teraz usunąć zaplanowanej operacji.",module,Magento_ScheduledImportExport
 "No valid data sent","Nie przesłano poprawnych danych",module,Magento_ScheduledImportExport
