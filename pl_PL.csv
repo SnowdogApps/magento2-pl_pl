@@ -1040,11 +1040,11 @@ Debug,"Tryb debug",module,Magento_Braintree
 Country,Kraj,module,Magento_BraintreeTwo
 "Allowed Credit Card Types","Dopuszczone rodzaje kart kredytowych",module,Magento_BraintreeTwo
 "Add Rule","Dodaj regułę",module,Magento_BraintreeTwo
-"Braintree Settlement Report","Braintree Settlement Report",module,Magento_BraintreeTwo
+"Braintree Settlement Report","Raport dotyczący likwidacji Braintree",module,Magento_BraintreeTwo
 "Sorry, but something went wrong","Przepraszamy, coś poszło nie tak",module,Magento_BraintreeTwo
 "We can\'t initialize checkout.","Nie można zainicjować zamówienia.",module,Magento_BraintreeTwo
 "No authorization transaction to proceed capture.","Nie ma autoryzacji transakcji do kontynuowanie przechwytywania.",module,Magento_BraintreeTwo
-"Braintree error response.","Braintree error response.",module,Magento_BraintreeTwo
+"Braintree error response.","Braintree błąd odpowiedzi.",module,Magento_BraintreeTwo
 "Payment method nonce can\'t be retrieved.","Odpowiedź metody płatności nie może być pobrany.",module,Magento_BraintreeTwo
 "Wrong transaction status","Zły stan transakcji",module,Magento_BraintreeTwo
 Authorize,Autoryzujautoryzuj,module,Magento_BraintreeTwo
@@ -1052,7 +1052,7 @@ Authorize,Autoryzujautoryzuj,module,Magento_BraintreeTwo
 "--Please Select--","-- Prosimy wybrać --",module,Magento_BraintreeTwo
 "Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_BraintreeTwo
 "Paypal account","Konto Paypal",module,Magento_BraintreeTwo
-"Coinbase account","Coinbase account",module,Magento_BraintreeTwo
+"Coinbase account","Coinbase konto",module,Magento_BraintreeTwo
 "Europe bank account","Rachunek bankowy w Europie",module,Magento_BraintreeTwo
 "Credit card","Karta kredytowa",module,Magento_BraintreeTwo
 "Apple pay card","Apple pay card",module,Magento_BraintreeTwo
@@ -1062,15 +1062,15 @@ Authorizing,Autoryzowanie,module,Magento_BraintreeTwo
 Authorized,Autoryzowany,module,Magento_BraintreeTwo
 "Gateway rejected","Odrzucona brama",module,Magento_BraintreeTwo
 Failed,Nieudane,module,Magento_BraintreeTwo
-"Processor declined","Processor declined",module,Magento_BraintreeTwo
+"Processor declined","Procesor spadł",module,Magento_BraintreeTwo
 Settled,Rozstrzygnięty,module,Magento_BraintreeTwo
 Settling,Rozliczanie,module,Magento_BraintreeTwo
 "Submitted for settlement","Przedstawione do rozstrzygnięcia",module,Magento_BraintreeTwo
 Voided,Unieważniony,module,Magento_BraintreeTwo
 Unrecognized,Nierozpoznane,module,Magento_BraintreeTwo
-"Settlement declined","Settlement declined",module,Magento_BraintreeTwo
-"Settlement pending","Settlement pending",module,Magento_BraintreeTwo
-"Settlement confirmed","Settlement confirmed",module,Magento_BraintreeTwo
+"Settlement declined","Rozliczenie spadła",module,Magento_BraintreeTwo
+"Settlement pending","Rozliczenie czasu",module,Magento_BraintreeTwo
+"Settlement confirmed","Rozliczenie potwierdzone",module,Magento_BraintreeTwo
 Sale,Sprzedaż,module,Magento_BraintreeTwo
 Credit,Kredyt,module,Magento_BraintreeTwo
 "Credit Card Type","Typ karty kredytowej",module,Magento_BraintreeTwo
@@ -1116,7 +1116,7 @@ Debug,"Tryb debug",module,Magento_BraintreeTwo
 "Country Specific Credit Card Types","Rodzaj karty kredytowej kraju",module,Magento_BraintreeTwo
 "PayPal through Braintree","PayPal za pośrednictwem Braintree",module,Magento_BraintreeTwo
 "Override Merchant Name","Zastąp nazwę sprzedawcy",module,Magento_BraintreeTwo
-"Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_BraintreeTwo
+"Require Customer's Billing Address","Wymagania Adres Rozliczeniowy Klienta",module,Magento_BraintreeTwo
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Pozwala edytować adres dostawy podczas realizacji transakcji na stronie PayPal",module,Magento_BraintreeTwo
 "Display on Shopping Cart","Wyświetl w koszyk",module,Magento_BraintreeTwo
 "3D Secure Verification Settings","Ustawienia bezpiecznej weryfikacji 3D",module,Magento_BraintreeTwo
@@ -1124,7 +1124,7 @@ Debug,"Tryb debug",module,Magento_BraintreeTwo
 "Threshold Amount","Wysokość progu",module,Magento_BraintreeTwo
 "Verify for Applicable Countries","Weryfikuj wyszczególnione kraje",module,Magento_BraintreeTwo
 "Verify for Specific Countries","Weryfikuj wybrane kraje",module,Magento_BraintreeTwo
-"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_BraintreeTwo
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Stosować filtry w celu uzyskania wyników. Wyświetlane są tylko pierwsze 100 rekordów w siatce, będzie można pobrać pełną wersję raportu w formacie .csv.",module,Magento_BraintreeTwo
 Select...,Wybierz...,module,Magento_BraintreeTwo
 Status,Status,module,Magento_BraintreeTwo
 "Transaction Type","Rodzaj transakcji",module,Magento_BraintreeTwo
@@ -1135,10 +1135,10 @@ Status,Status,module,Magento_BraintreeTwo
 Type,Rodzaj,module,Magento_BraintreeTwo
 "Created At",Utworzono,module,Magento_BraintreeTwo
 Amount,Kwota,module,Magento_BraintreeTwo
-"Settlement Code","Settlement Code",module,Magento_BraintreeTwo
-"Settlement Response Text","Settlement Response Text",module,Magento_BraintreeTwo
+"Settlement Code","Rozliczenie kod",module,Magento_BraintreeTwo
+"Settlement Response Text","Tekst odpowiedzi na rozliczenia",module,Magento_BraintreeTwo
 "Refund Ids",Zwroty,module,Magento_BraintreeTwo
-"Settlement Batch ID","Settlement Batch ID",module,Magento_BraintreeTwo
+"Settlement Batch ID","Partia Rozliczeń ID",module,Magento_BraintreeTwo
 Currency,Waluta,module,Magento_BraintreeTwo
 "Percent Discount","Zniżka procentowa",module,Magento_Bundle
 "-- Select --",--Wybierz--,module,Magento_Bundle
@@ -1711,13 +1711,13 @@ Required,Wymagane,module,Magento_Catalog
 "This item has weight","Ta pozycja ma przypisaną wagę",module,Magento_Catalog
 "This item has no weight","Ta pozycja nie ma przypisanej wagi",module,Magento_Catalog
 "Set Product as New From","Ustaw produkt jako Nowy z",module,Magento_Catalog
-"Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells",module,Magento_Catalog
-"Related products are shown to shoppers in addition to the item the shopper is looking at.","Related products are shown to shoppers in addition to the item the shopper is looking at.",module,Magento_Catalog
+"Related Products, Up-Sells, and Cross-Sells","Powiązae produkty, Up-Sells i Cross- Sells",module,Magento_Catalog
+"Related products are shown to shoppers in addition to the item the shopper is looking at.","Produkty powiązane są wyświetlane dla kupujących oprócz elementu, który patrzy sprzedawca.",module,Magento_Catalog
 "Add Related Products","Dodaj produkty powiązane",module,Magento_Catalog
-"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.",module,Magento_Catalog
+"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Up-sell towaru jest oferowany klientowi droższy lub wyższej jakości alternatywa dla produktu, który klient patrzy.",module,Magento_Catalog
 "Add Up-Sell Products","Dodaj produkty Up-Sell",module,Magento_Catalog
 "Up-Sell Products","Produkty Up-Sell ",module,Magento_Catalog
-"These \"impulse-buy\" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","These \"impulse-buy\" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.",module,Magento_Catalog
+"These \"impulse-buy\" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Te \"impulse-buy\" produkty pojawiają się obok koszyka jako cross-sells elementy już w koszyku.",module,Magento_Catalog
 "Add Cross-Sell Products","Dodaj produkty Cross-Sell",module,Magento_Catalog
 "Cross-Sell Products","Produkty Cross-sell",module,Magento_Catalog
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_Catalog
@@ -1725,7 +1725,7 @@ Remove,Usuń,module,Magento_Catalog
 Thumbnail,Miniatura,module,Magento_Catalog
 Actions,Operacje,module,Magento_Catalog
 "Schedule Update From","Ustaw aktualizację od",module,Magento_Catalog
-"Product in Websites","Product in Websites",module,Magento_Catalog
+"Product in Websites","Produkt dostępny w witrynach",module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakres do zastosowania dla określonego widoku.",module,Magento_Catalog
 name,nazwa,module,Magento_Catalog
 "Copy Data from","Kopiowanie danych z",module,Magento_Catalog
@@ -1827,7 +1827,7 @@ Compare,Porównaj,module,Magento_Catalog
 "Clear All","Wyczyść wszystko",module,Magento_Catalog
 Prev,Poprzedni,module,Magento_Catalog
 Next,Następne,module,Magento_Catalog
-"We can\'t find products matching the selection.","We can\'t find products matching the selection.",module,Magento_Catalog
+"We can\'t find products matching the selection.","Nie możemy odnaleźć pasujących produktów do zaznaczenia.",module,Magento_Catalog
 "Add to Compare","Dodaj do porównania",module,Magento_Catalog
 "Learn More","Dowiedz się więcej",module,Magento_Catalog
 "We found other products you might like!","Znaleźliśmy inne produkty, które mogą Cię zainteresować!",module,Magento_Catalog
@@ -2151,7 +2151,7 @@ Stock,Zapasy,module,Magento_CatalogInventory
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_CatalogInventory
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_CatalogInventory
-"Use deferred Stock update","Use deferred Stock update",module,Magento_CatalogInventory
+"Use deferred Stock update","Za pomocą odroczonego czas aktualizacji",module,Magento_CatalogInventory
 Quantity,Ilość,module,Magento_CatalogInventory
 "New Permission","Nowe uprawnienie",module,Magento_CatalogPermissions
 "You already have a permission with this scope.","Masz już uprawnienia z tego zakresu.",module,Magento_CatalogPermissions
@@ -4951,7 +4951,7 @@ Sent,Wysłano,module,Magento_GiftCardAccount
 "Please assign a gift card account.","Przypisz konto karty podarunkowej.",module,Magento_GiftCardAccount
 "Unknown history action.","Nieznana historia działań.",module,Magento_GiftCardAccount
 "We were unable to create full code pool size. Please check settings and try again.","Nie udało nam się stworzyć pełny rozmiar puli kodu. Proszę sprawdzić ustawienia i spróbuj ponownie.",module,Magento_GiftCardAccount
-"No codes left in the pool.","No codes left in the pool.",module,Magento_GiftCardAccount
+"No codes left in the pool.","Nie ma kodów.",module,Magento_GiftCardAccount
 "Cart %1 doesn\'t contain products","Karta %1 nie zawiera produktów.",module,Magento_GiftCardAccount
 "Could not delete gift card from quote","Nie można usunąć karty podarunkowej z koszyka",module,Magento_GiftCardAccount
 "Could not add gift card code","Nie można dodać kod karty prezentowej",module,Magento_GiftCardAccount
@@ -5212,7 +5212,7 @@ Active,Aktywny,module,Magento_GiftRegistry
 "The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","Ilość produktu ""%1"" dodanego do koszyka przekracza ustawioną ilość przez właściciela rejestru upominków. Dodana ilość została dostosowana do spełnienia pozostałych ilości %2.",module,Magento_GiftRegistry
 "Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","Istniejących ilości produktu ""%1"" w koszyku zastąpiono %2 wymagana ilością.",module,Magento_GiftRegistry
 "This product(s) is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_GiftRegistry
-"Please correct the product for adding the item to the quote.","Please correct the product for adding the item to the quote.",module,Magento_GiftRegistry
+"Please correct the product for adding the item to the quote.","Proszę poprawić produktu do dodawania elementu do oferty.",module,Magento_GiftRegistry
 "Please correct the item option format.","Proszę popraw format opcji produktu. ",module,Magento_GiftRegistry
 "An item option with code %1 already exists.","Opcja produktu z kodem %1 już istnieje.",module,Magento_GiftRegistry
 New,Nowy,module,Magento_GiftRegistry
@@ -5237,7 +5237,7 @@ Owner,Właściciel,module,Magento_GiftRegistry
 "Attribute Group","Grupa cech",module,Magento_GiftRegistry
 "Is Required","Jest wymagane",module,Magento_GiftRegistry
 "Is Searcheable","Jest wyszukiwalne",module,Magento_GiftRegistry
-"We found an attribute with this static input type already in the gift registry type. Please select a different input type.","We found an attribute with this static input type already in the gift registry type. Please select a different input type.",module,Magento_GiftRegistry
+"We found an attribute with this static input type already in the gift registry type. Please select a different input type.","Znaleźliśmy atrybut z tego typu statycznego wejściowe już w typie rejestru prezent. Proszę wybrać inny typ danych wejściowych.",module,Magento_GiftRegistry
 "Show Region","Pokaż Region",module,Magento_GiftRegistry
 "Date Format","Format daty",module,Magento_GiftRegistry
 "Is Default","Jest domyślny",module,Magento_GiftRegistry
@@ -5253,7 +5253,7 @@ Country,Kraj,module,Magento_GiftRegistry
 "Phone Number","Numer telefonu",module,Magento_GiftRegistry
 Fax,Faks,module,Magento_GiftRegistry
 "Add All To Gift Registry","Dodaj wszystko do rejestru prezentów",module,Magento_GiftRegistry
-"Ship to registrant\'s address","Ship to registrant\'s address",module,Magento_GiftRegistry
+"Ship to registrant\'s address","Wysyłka rejestrowana na adres",module,Magento_GiftRegistry
 "Use the gift registry shipping address","Użyj adresu dostawy z rejestru prezentów",module,Magento_GiftRegistry
 "Added On",Dodane,module,Magento_GiftRegistry
 Qty,Ilość,module,Magento_GiftRegistry
@@ -5275,13 +5275,13 @@ Email,E-mail,module,Magento_GiftRegistry
 Sender,Nadawca,module,Magento_GiftRegistry
 Invitee,Zaproszony,module,Magento_GiftRegistry
 "Maximum %1 email addresses.","Maksymalnie %1 adresów e-mail.",module,Magento_GiftRegistry
-"Add Invitee","Add Invitee",module,Magento_GiftRegistry
+"Add Invitee","Dodaj zaproszoną osobę",module,Magento_GiftRegistry
 "Gift Registry Type","Typ rejestru prezentów",module,Magento_GiftRegistry
 "Please select a gift registry type.","Wybierz typ rejestru prezentów.",module,Magento_GiftRegistry
 Next,Następne,module,Magento_GiftRegistry
 "Last Name",Nazwisko,module,Magento_GiftRegistry
 "Registrant Information","Informacje o rewizjach",module,Magento_GiftRegistry
-"Maximum %1 registrants.","Maximum %1 registrants.",module,Magento_GiftRegistry
+"Maximum %1 registrants.","Maksymalna %1 rejestrujących.",module,Magento_GiftRegistry
 "Add Registrant",Rejestrujący,module,Magento_GiftRegistry
 Type:,Rodzaj:,module,Magento_GiftRegistry
 "Privacy Settings","Ustawienia prywatności",module,Magento_GiftRegistry
@@ -5301,7 +5301,7 @@ Quantity:,Ilość:,module,Magento_GiftRegistry
 "For better search results, first choose a gift registry type. By default, we search all registry types.","Dla lepszego wyszukiwania, wybierz typ rejestru prezentów. Domyślnie wyszukiwane są wszystkie typy rejestru.",module,Magento_GiftRegistry
 "Type Specific Options","Specyficzne opcje typu",module,Magento_GiftRegistry
 Search,Szukaj,module,Magento_GiftRegistry
-"Registrant Email","Registrant Email",module,Magento_GiftRegistry
+"Registrant Email","E-mail Rejestrującego",module,Magento_GiftRegistry
 "Gift Registry ID","ID rejestru prezentów",module,Magento_GiftRegistry
 "Search Results","Wyniki wyszukiwania",module,Magento_GiftRegistry
 Location,Lokalizacja,module,Magento_GiftRegistry
@@ -5320,14 +5320,14 @@ View,Zobacz,module,Magento_GiftRegistry
 "Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Po prostu przejdź do <a href=""%store_url""> %store_name</a> i dodaj produkty, które chcesz w twoim koszyku lub liście życzeń.",module,Magento_GiftRegistry
 "You can then add the products to your registry from your shopping cart or wish list page.","Możesz potem dodać produkty do listy prezentowej z koszyka lub schowka.",module,Magento_GiftRegistry
 "You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.","Można także udostępnić go znajomym i rodzinie logując się na swoje konto i przechodząc do rejestru prezentów.",module,Magento_GiftRegistry
-"Or you can email the following link and gift registry ID to them:","Or you can email the following link and gift registry ID to them:",module,Magento_GiftRegistry
-"Registry Location:","Registry Location:",module,Magento_GiftRegistry
+"Or you can email the following link and gift registry ID to them:","Albo możesz napisać na poniższy link i rejestru upominków identyfikatora do nich:",module,Magento_GiftRegistry
+"Registry Location:","Lokalizacji rejestru:",module,Magento_GiftRegistry
 "Registry ID:","Identyfikator rejestru:",module,Magento_GiftRegistry
 "You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","Można zobaczyć i kupić przedmioty z tego rejestru prezentowego w <a href='%account_url'>%store_name</a>.",module,Magento_GiftRegistry
 "Gift Registry:","Rejestr prezentów:",module,Magento_GiftRegistry
 "Created For:","Stworzony dla:",module,Magento_GiftRegistry
 "You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Możesz utworzyć własny rejestr prezentów <a href='%account_url'>%store_name</a>  i udostępnić go dla przyjaciół i rodziny",module,Magento_GiftRegistry
-"The following items have been purchased from your gift registry \"%registry_name\":","The following items have been purchased from your gift registry \"%registry_name\":",module,Magento_GiftRegistry
+"The following items have been purchased from your gift registry \"%registry_name\":","Następujące elementy zostały zakupione z twojego rejestru upominku \"%registry_name\":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","Możesz zalogować się na swoje konto, aby wyświetlić więcej szczegółów o tej liście prezentowej.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Dostawa pod adres odbiorcy",module,Magento_GiftRegistry
 "Ship Here","Wysyłamy Tutaj",module,Magento_GiftRegistry
@@ -5345,7 +5345,7 @@ Role,Rola,module,Magento_GiftRegistry
 "Gift Registry Section","Sekcja rejestru prezentów",module,Magento_GiftRegistry
 "General Options","Opcje ogólne",module,Magento_GiftRegistry
 "Enable Gift Registry","Włącz rejestr prezentów",module,Magento_GiftRegistry
-"Maximum Registrants","Maximum Registrants",module,Magento_GiftRegistry
+"Maximum Registrants","Maksymalna ilość rejestrujących",module,Magento_GiftRegistry
 "Owner Notification","Powiadomienie właściciela",module,Magento_GiftRegistry
 "Email Template","Szablon e-mail",module,Magento_GiftRegistry
 "Email Sender",Nadawca,module,Magento_GiftRegistry
@@ -5563,8 +5563,8 @@ Status,Status,module,Magento_ImportExport
 "Only first 100 errors are displayed here. ","Tutaj wyświetlane są tylko pierwsze 100 błędy. ",module,Magento_ImportExport
 "Download full report","Pobierz pełny raport",module,Magento_ImportExport
 "in rows:","w rzędach:",module,Magento_ImportExport
-"Make sure your file isn\'t more than %1M.","Make sure your file isn\'t more than %1M.",module,Magento_ImportExport
-"We can\'t provide the upload settings right now.","We can\'t provide the upload settings right now.",module,Magento_ImportExport
+"Make sure your file isn\'t more than %1M.","Upewnij się, że twój plik nie ma więcej niż %1M.",module,Magento_ImportExport
+"We can\'t provide the upload settings right now.","Nie można dostarczyć ustawienia wysyłania w tej chwili.",module,Magento_ImportExport
 "Created: %1, Updated: %2, Deleted: %3","Utworzone: %1, Zaktualizowane: %2, Usunięte: %3",module,Magento_ImportExport
 "Please enter a correct entity model.","Podaj poprawny obiekt modelu.",module,Magento_ImportExport
 "The entity adapter object must be an instance of %1 or %2.","Obiekt adaptera musi być instancją %1 lub %2.",module,Magento_ImportExport
@@ -5727,13 +5727,13 @@ Reset,Resetuj,module,Magento_Integration
 "Verifier is invalid","Weryfikator jest nieprawidłowy",module,Magento_Integration
 "Verifier is not the correct length","Nieprawidłowa długość weryfikatora",module,Magento_Integration
 "Token verifier and verifier token do not match","Token verifier and verifier token do not match",module,Magento_Integration
-"A consumer with the ID %1 does not exist","A consumer with the ID %1 does not exist",module,Magento_Integration
+"A consumer with the ID %1 does not exist","Klient z ID %1 nie istnieje",module,Magento_Integration
 "Token is not the correct length","Nieprawidłowa długość tokenu",module,Magento_Integration
 "Specified token does not exist","Wybrany token nie istnieje",module,Magento_Integration
 "A token with consumer ID %1 does not exist","A token with consumer ID %1 does not exist",module,Magento_Integration
 "Unexpected error. Unable to create oAuth consumer account.","Unexpected error. Unable to create oAuth consumer account.",module,Magento_Integration
 "Unexpected error. Unable to load oAuth consumer account.","Unexpected error. Unable to load oAuth consumer account.",module,Magento_Integration
-"A consumer with ID %1 does not exist","A consumer with ID %1 does not exist",module,Magento_Integration
+"A consumer with ID %1 does not exist","Klient z ID %1 nie istnieje",module,Magento_Integration
 "Unable to post data to consumer due to an unexpected error","Unable to post data to consumer due to an unexpected error",module,Magento_Integration
 "Consumer with ID \'%1\' does not exist.","Użytkownik z ID \'%1\' nie istnieje.",module,Magento_Integration
 "Invalid token to except","Invalid token to except",module,Magento_Integration
@@ -5800,7 +5800,7 @@ Customers,Klienci,module,Magento_Invitation
 "Please specify at least one email address.","Określ co najmniej jeden adres e-mail.",module,Magento_Invitation
 "We sent %1 invitation(s).","Wysłaliśmy zaproszenia. Ilość: %1.",module,Magento_Invitation
 "Something went wrong while sending %1 of %2 invitations.","Coś się zepsuło podczas wysyłania %1 z %2 zaproszeń.",module,Magento_Invitation
-"%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.",module,Magento_Invitation
+"%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","%1 zaproszeń nie zostało wysłanych, ponieważ konta klientów o takich adresach e-mail już istnieją.",module,Magento_Invitation
 "The invitation has been saved.","Zaproszenie zostało zapisane.",module,Magento_Invitation
 Reports,Raporty,module,Magento_Invitation
 "Invitation Report by Customers","Invitation Report by Customers",module,Magento_Invitation
@@ -5830,7 +5830,7 @@ Reports,Raporty,module,Magento_Invitation
 "Please correct the invitation code.","Proszę poprawić kod zaproszenia.",module,Magento_Invitation
 "You need to specify a customer ID group.","Musisz określić identyfikator grupy klienta.",module,Magento_Invitation
 "The wrong store is specified.","Określono niepoprawny sklep.",module,Magento_Invitation
-"You can\'t update this message.","You can\'t update this message.",module,Magento_Invitation
+"You can\'t update this message.","Nie możesz uaktualnić tej wiadomości.",module,Magento_Invitation
 "We can\'t generate encrypted code.","We can\'t generate encrypted code.",module,Magento_Invitation
 "We can\'t find an ID for this invitation.","Nie udało się znaleźć ID dla tego zaproszenia.",module,Magento_Invitation
 "You can\'t send an invitation with status \\%1\\.""""""","You can\'t send an invitation with status \\%1\\.""""""",module,Magento_Invitation
@@ -5838,7 +5838,7 @@ Reports,Raporty,module,Magento_Invitation
 "We can\'t identify the proper website.","We can\'t identify the proper website.",module,Magento_Invitation
 "Please specify an email.","Proszę podać e-mail.",module,Magento_Invitation
 "This invitation is addressed to a current customer: ""%1"".","This invitation is addressed to a current customer: ""%1"".",module,Magento_Invitation
-"This invitation is not valid.","This invitation is not valid.",module,Magento_Invitation
+"This invitation is not valid.","To zaproszenie nie jest poprawne.",module,Magento_Invitation
 "Please correct the invitation email.","Proszę poprawić email zaproszenia.",module,Magento_Invitation
 "Invitation for same email address","Invitation for same email address",module,Magento_Invitation
 "Not Sent","Nie wysłane",module,Magento_Invitation
