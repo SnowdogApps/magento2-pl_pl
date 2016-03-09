@@ -1600,7 +1600,7 @@ Category,Kategoria,module,Magento_Catalog
 Enabled,Włączone,module,Magento_Catalog
 Disabled,Wyłączone,module,Magento_Catalog
 "Attribute Set already exists.","Zestaw atrybutów już istnieje.",module,Magento_Catalog
-"We couldn\'t copy file %1. Please delete media with non-existing images and try again.","We couldn\'t copy file %1. Please delete media with non-existing images and try again.",module,Magento_Catalog
+"We couldn\'t copy file %1. Please delete media with non-existing images and try again.","Nie udało się skopiować pliku %1. Proszę usunąć media z nie istniejącym obrazem i spróbować ponownie.",module,Magento_Catalog
 "The image content is not valid.","Zawartość zdjęcia jest niepoprawna.",module,Magento_Catalog
 "Cannot save product.","Nie można zapisać produktu.",module,Magento_Catalog
 "Failed to save new media gallery entry.","Nie udało się zapisać nowej wartości do galerii.",module,Magento_Catalog
@@ -1662,7 +1662,7 @@ Search,Szukaj,module,Magento_Catalog
 "Provided link type ""%1"" does not exist","Nie istnieje łącze typu ""%1""",module,Magento_Catalog
 "Invalid data provided for linked products","Nieprawidłowe dane podane dla powiązanych produktów",module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","Produkt z SKU %1 nie jest związany z produktem z SKU %2",module,Magento_Catalog
-"Product %1 doesn\'t have linked %2 as %3","Product %1 doesn\'t have linked %2 as %3",module,Magento_Catalog
+"Product %1 doesn\'t have linked %2 as %3","Produkt %1 nie jest połączony %2 jako %3",module,Magento_Catalog
 "Requested product doesn\'t exist","Żądany produkt nie istnieje",module,Magento_Catalog
 "Requested product does not support images.","Podany produkt nie obsługuje obrazków.",module,Magento_Catalog
 "Product with SKU ""%1"" does not exist","Produkt z SKU ""%1"" nie istnieje",module,Magento_Catalog
@@ -1686,15 +1686,15 @@ fl,fl,module,Magento_Catalog
 Images,Zdjęcia,module,Magento_Catalog
 Select...,Wybierz...,module,Magento_Catalog
 "Advanced Pricing",Cena,module,Magento_Catalog
-"Tier Price","Tier Price",module,Magento_Catalog
+"Tier Price","Poziomy cen",module,Magento_Catalog
 "Customer Group","Grupa klienta",module,Magento_Catalog
 "Special Price From","Cena promocyjna od",module,Magento_Catalog
 To,Do,module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
 Done,Zrobione,module,Magento_Catalog
 "Add Selected","Dodaj wybrane",module,Magento_Catalog
-"Customizable Options","Customizable Options",module,Magento_Catalog
-"Custom options let shoppers choose the product variations they want.","Custom options let shoppers choose the product variations they want.",module,Magento_Catalog
+"Customizable Options","Indywidualne opcje",module,Magento_Catalog
+"Custom options let shoppers choose the product variations they want.","Niestandardowe opcje które kupujący wybiera odmiany produktu które chce.",module,Magento_Catalog
 "Add Option","Dodaj opcję",module,Magento_Catalog
 "New Option","Nowa opcja",module,Magento_Catalog
 "Select Product","Wybierz produkt",module,Magento_Catalog
@@ -1710,7 +1710,7 @@ Required,Wymagane,module,Magento_Catalog
 "Please leave blank if it is not an image.","Proszę zostawić puste, jeśli nie jest to obraz.",module,Magento_Catalog
 "This item has weight","Ta pozycja ma przypisaną wagę",module,Magento_Catalog
 "This item has no weight","Ta pozycja nie ma przypisanej wagi",module,Magento_Catalog
-"Set Product as New From","Set Product as New From",module,Magento_Catalog
+"Set Product as New From","Ustaw produkt jako Nowy z",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells",module,Magento_Catalog
 "Related products are shown to shoppers in addition to the item the shopper is looking at.","Related products are shown to shoppers in addition to the item the shopper is looking at.",module,Magento_Catalog
 "Add Related Products","Dodaj produkty powiązane",module,Magento_Catalog
@@ -2264,7 +2264,7 @@ Back,Powrót,module,Magento_CatalogRule
 Actions,Operacje,module,Magento_CatalogRule
 "Create new","Utwórz nowy",module,Magento_CatalogRuleStaging
 "Assign to update","Przypisz do aktualizacji",module,Magento_CatalogRuleStaging
-"Smth went to exception","Smth went to exception",module,Magento_CatalogRuleStaging
+"Smth went to exception","Smth udał do wyjątków",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update and saved it in a new one.","Możesz usunąć ten %1 z aktualizacji i zapisać w innym nowym.",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update and saved it in the other one.","Możesz usunąć ten %1 z aktualizacji i zapisać w innym.",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update.","Usunąć ten %1 z aktualizacji.",module,Magento_CatalogRuleStaging
@@ -2399,7 +2399,7 @@ Layout,Układ,module,Magento_CatalogStaging
 "Product URL Suffix","Sufiks URL produktu",module,Magento_CatalogUrlRewrite
 "Use Categories Path for Product URLs","Użyj ścieżek kategorii dla adresów produktów",module,Magento_CatalogUrlRewrite
 "Create Permanent Redirect for URLs if URL Key Changed","Utwórz stałe przekierowanie dla adresów jeśli klucz URL sie zmienił",module,Magento_CatalogUrlRewrite
-"Catalog Url Rewrite Staging","Catalog Url Rewrite Staging",module,Magento_CatalogUrlRewriteStaging
+"Catalog Url Rewrite Staging","Katalog Url Rewrite Staging",module,Magento_CatalogUrlRewriteStaging
 "Conditions Combination","Kombinacja warunków",module,Magento_CatalogWidget
 "Product Attribute","Cecha produktu",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
