@@ -5793,22 +5793,22 @@ Customers,Klienci,module,Magento_Invitation
 "We discarded %1 of %2 invitations.","Odrzuciliśmy %1 z %2 zaproszeń.",module,Magento_Invitation
 "We skipped %1 of the selected invitations.","Pomineliśmy %1 z wybranych zaproszeń.",module,Magento_Invitation
 "Something went wrong while sending invitations.","Coś się zepsuło podczas wysyłania zaproszeń.",module,Magento_Invitation
-"No invitations have been resent.","No invitations have been resent.",module,Magento_Invitation
+"No invitations have been resent.","Zaproszenia nie zostały ponownie wysłane.",module,Magento_Invitation
 "You sent %1 of %2 invitation(s).","Wysłano %1 z %2 zaproszeń.",module,Magento_Invitation
 "Something went wrong while sending %1 invitations.","Coś się zepsuło podczas wysyłania %1 zaproszeń.",module,Magento_Invitation
 "We discarded %1 invitation(s) addressed to current customers.","Odrzuciliśmy %1 zaproszenie skierowane do obecnych klientów.",module,Magento_Invitation
 "Please specify at least one email address.","Określ co najmniej jeden adres e-mail.",module,Magento_Invitation
 "We sent %1 invitation(s).","Wysłaliśmy zaproszenia. Ilość: %1.",module,Magento_Invitation
 "Something went wrong while sending %1 of %2 invitations.","Coś się zepsuło podczas wysyłania %1 z %2 zaproszeń.",module,Magento_Invitation
-"%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","%1 zaproszeń nie zostało wysłanych, ponieważ konta klientów o takich adresach e-mail już istnieją.",module,Magento_Invitation
+"%1 invitation(s) were not sent, because customer accounts already exist for these email addresses.","%1 zaproszenia nie zostały wysłane, bo rachunki klientów już istnieje dla tych adresów e-mail.",module,Magento_Invitation
 "The invitation has been saved.","Zaproszenie zostało zapisane.",module,Magento_Invitation
 Reports,Raporty,module,Magento_Invitation
-"Invitation Report by Customers","Invitation Report by Customers",module,Magento_Invitation
-"Invited Customers Report","Invited Customers Report",module,Magento_Invitation
+"Invitation Report by Customers","Raport zaproszeń przez klientów",module,Magento_Invitation
+"Invited Customers Report","Raport Zaproszonych Klientów",module,Magento_Invitation
 "General Report","Sprawozdanie ogólne",module,Magento_Invitation
 "Invitations Report","Raport zaproszeń",module,Magento_Invitation
-"Invitation Report by Order Conversion Rate","Invitation Report by Order Conversion Rate",module,Magento_Invitation
-"Conversion Rate Report","Conversion Rate Report",module,Magento_Invitation
+"Invitation Report by Order Conversion Rate","Raport zaproszenie przez współczynnik konwersji zamówienia",module,Magento_Invitation
+"Conversion Rate Report","Raport szybkość konwersji",module,Magento_Invitation
 "The wrong customer account is specified.","Określono nieprawidłowe konto klienta.",module,Magento_Invitation
 "Please enter a correct confirmation key.","Wprowadź poprawny klucz potwierdzający.",module,Magento_Invitation
 "Bad request.","Złe zapytanie.",module,Magento_Invitation
@@ -5824,23 +5824,23 @@ Reports,Raporty,module,Magento_Invitation
 "Max Invitations Allowed to be Sent at One Time","Maksymalna liczba wysłanych zaproszeń jednocześnie",module,Magento_Invitation
 "Please correct the value for \\%1\\ parameter""","Popraw wartość parametru \\%1\\",Please correct the value for \\%1\\" parameter"""," otherwise we\'ll use the saved value instead.""",module,Magento_Invitation
 "Same as Inviter","Tak samo jak zapraszający",module,Magento_Invitation
-"Default Customer Group from System Configuration","Default Customer Group from System Configuration",module,Magento_Invitation
+"Default Customer Group from System Configuration","Domyślne grupy klientów od konfiguracji systemu",module,Magento_Invitation
 "By Invitation Only","Tylko na zaproszenie",module,Magento_Invitation
 "Available to All","Dostępne dla wszystkich",module,Magento_Invitation
 "Please correct the invitation code.","Proszę poprawić kod zaproszenia.",module,Magento_Invitation
 "You need to specify a customer ID group.","Musisz określić identyfikator grupy klienta.",module,Magento_Invitation
 "The wrong store is specified.","Określono niepoprawny sklep.",module,Magento_Invitation
 "You can\'t update this message.","Nie możesz uaktualnić tej wiadomości.",module,Magento_Invitation
-"We can\'t generate encrypted code.","We can\'t generate encrypted code.",module,Magento_Invitation
+"We can\'t generate encrypted code.","Nie można wygenerować zaszyfrowanego kodu.",module,Magento_Invitation
 "We can\'t find an ID for this invitation.","Nie udało się znaleźć ID dla tego zaproszenia.",module,Magento_Invitation
-"You can\'t send an invitation with status \\%1\\.""""""","You can\'t send an invitation with status \\%1\\.""""""",module,Magento_Invitation
+"You can\'t send an invitation with status \\%1\\.""""""","Nie można wysłać zaproszenie ze statusem \\ % 1 \\ "". """,module,Magento_Invitation
 "Please enter a valid invitation email.","Prosimy wpisać poprawny adres e-mail zaproszenia.",module,Magento_Invitation
-"We can\'t identify the proper website.","We can\'t identify the proper website.",module,Magento_Invitation
+"We can\'t identify the proper website.","Nie możemy wskazać właściwej strony.",module,Magento_Invitation
 "Please specify an email.","Proszę podać e-mail.",module,Magento_Invitation
-"This invitation is addressed to a current customer: ""%1"".","This invitation is addressed to a current customer: ""%1"".",module,Magento_Invitation
+"This invitation is addressed to a current customer: ""%1"".","To zaproszenie skierowane jest do obecnego klienta: ""%1"".",module,Magento_Invitation
 "This invitation is not valid.","To zaproszenie nie jest poprawne.",module,Magento_Invitation
 "Please correct the invitation email.","Proszę poprawić email zaproszenia.",module,Magento_Invitation
-"Invitation for same email address","Invitation for same email address",module,Magento_Invitation
+"Invitation for same email address","Zaproszenie dla tego samego adresu e-mail",module,Magento_Invitation
 "Not Sent","Nie wysłane",module,Magento_Invitation
 Sent,Wysłano,module,Magento_Invitation
 Accepted,Akceptowane,module,Magento_Invitation
@@ -5873,18 +5873,18 @@ Remove,Usuń,module,Magento_Invitation
 "You cannot send more invitations","Nie można wysłać więcej zaproszeń",module,Magento_Invitation
 "There are no sent invitations.","Brak wysłanych zaproszeń.",module,Magento_Invitation
 "Please accept this invitation to join %store_name.","Proszę przyjąć to zaproszenie by dołączyć do %store_name.",module,Magento_Invitation
-"%store_name offers limited time sales of products only to members.","%store_name offers limited time sales of products only to members.",module,Magento_Invitation
+"%store_name offers limited time sales of products only to members.","%store_name oferuje ograniczony czas sprzedaży produktów tylko dla członków.",module,Magento_Invitation
 "Please use the following link to create an account and view the deals:","Użyj następującego linku, aby utworzyć konto i zobacz oferty:",module,Magento_Invitation
 "Private Sales","Sprzedaż prywatna",module,Magento_Invitation
 "Invited Customers","Zaproszeni Klienci",module,Magento_Invitation
 Conversion,Dyskusja,module,Magento_Invitation
 "Invitation Section","Sekcja Zaproszenia",module,Magento_Invitation
 Conversions,Dyskusje,module,Magento_Invitation
-"Customer Invitation Email Sender","Customer Invitation Email Sender",module,Magento_Invitation
-"Customer Invitation Email Template","Customer Invitation Email Template",module,Magento_Invitation
-"Enable Invitations Functionality","Enable Invitations Functionality",module,Magento_Invitation
-"Enable Invitations on Storefront","Enable Invitations on Storefront",module,Magento_Invitation
-"Referred Customer Group","Referred Customer Group",module,Magento_Invitation
+"Customer Invitation Email Sender","Nadawca E-mail Zaproszenia Klienta",module,Magento_Invitation
+"Customer Invitation Email Template","Szablon E-mail Zaproszenia Klienta",module,Magento_Invitation
+"Enable Invitations Functionality","Włącz funkcję zaproszeń",module,Magento_Invitation
+"Enable Invitations on Storefront","Włącz zaproszenia w Witrynie sklepowej",module,Magento_Invitation
+"Referred Customer Group","Określonie grupy klientów",module,Magento_Invitation
 "New Accounts Registration","Rejestracja nowego konta",module,Magento_Invitation
 "Allow Customers to Add Custom Message to Invitation Email","Klienci mogli dodać niestandardowe wiadomości e-mail",module,Magento_Invitation
 "Customer Invitations","Zaproszenia klienta",module,Magento_Invitation
@@ -5894,7 +5894,7 @@ Conversions,Dyskusje,module,Magento_Invitation
 ID,ID,module,Magento_Invitation
 Invitee,Zaproszony,module,Magento_Invitation
 Registered,Zarejestrowany,module,Magento_Invitation
-"Valid Website","Valid Website",module,Magento_Invitation
+"Valid Website","Ważne strony internetowej",module,Magento_Invitation
 Name,Nazwa,module,Magento_Invitation
 Group,Grupa,module,Magento_Invitation
 "Invitations Sent","Zaproszenie zostało wysłane",module,Magento_Invitation
@@ -7353,15 +7353,15 @@ Podstawowe ustawienia - PayPal Payments Pro Hosted Solution",module,Magento_Payp
 "                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
 "                                from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
-"                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""",module,Magento_Paypal
+"                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
+"                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 ",",",",module,Magento_Paypal
 "                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
 "                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
 "                                from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
-"                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""",module,Magento_Paypal
+"                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
+"                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 "
 
 ",module,Magento_Paypal
@@ -7381,7 +7381,7 @@ Podstawowe ustawienia - PayPal Payments Pro Hosted Solution",module,Magento_Payp
 "Persistence Lifetime (seconds)","Czas trwałości (sekundy)",module,Magento_Persistent
 "Enable ""Remember Me""","Włącz Zapamiętaj mnie""""",module,Magento_Persistent
 """Remember Me"" Default Value","Domyślna wartość pola Zapamiętaj mnie""""",module,Magento_Persistent
-"Clear Persistence on Sign Out","Clear Persistence on Sign Out",module,Magento_Persistent
+"Clear Persistence on Sign Out","Wyczyść trwałą obecność przy wylogowaniu",module,Magento_Persistent
 "Persist Shopping Cart","Trwały koszyk",module,Magento_Persistent
 "Persist Wish List","Trwały schowek",module,Magento_PersistentHistory
 "Persist Recently Ordered Items","Zachowuj ostatnio zamówione produkty",module,Magento_PersistentHistory
@@ -7793,7 +7793,7 @@ Name,Nazwa,module,Magento_Reports
 "Wish Lists","Lista życzeń",module,Magento_Reports
 "Wish List Purchase","Lista życzeń zakupu",module,Magento_Reports
 "Wish List vs. Regular Order","Schowek względem zwykłego zamówienia",module,Magento_Reports
-"Times Deleted","Times Deleted",module,Magento_Reports
+"Times Deleted","Razy Usuwane",module,Magento_Reports
 "Index type is not valid","Typ indeksu nie jest prawidłowa",module,Magento_Reports
 Reports,Raporty,module,Magento_Reports
 "Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>""","Ostatnia aktualizacja: %1. Do odświeżenia ostatni dzień\ <a href=\\%2\\> statystyki</a>""","Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>"""," click <a href=\\%3\\">here</a>.""""""",module,Magento_Reports
@@ -7803,11 +7803,11 @@ Reports,Raporty,module,Magento_Reports
 "Order Total Report","Raport liczby zamówień",module,Magento_Reports
 "Downloads Report","Pobierz raport",module,Magento_Reports
 "Low Stock","Mało produktów",module,Magento_Reports
-"Low Stock Report","Low Stock Report",module,Magento_Reports
+"Low Stock Report","Niski zasób raportu",module,Magento_Reports
 "Ordered Products Report","Raport zamówionych produktów",module,Magento_Reports
 "Products Most Viewed Report","Raport najczęściej oglądanych produktów",module,Magento_Reports
 "Product Views Report","Raport oglądanych produktów",module,Magento_Reports
-"An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
+"An error occurred while showing the product views report. Please review the log and try again.","Wystąpił błąd podczas pokazywania raportów wyświetleń produku. Prosimy przejrzeć logi i spróbować ponownie.",module,Magento_Reports
 Review,Opinia,module,Magento_Reports
 Reviews,Opinie,module,Magento_Reports
 "Customers Report","Raporty klientów",module,Magento_Reports
@@ -7830,12 +7830,12 @@ Coupons,Kupony,module,Magento_Reports
 "Customer Shopping Carts","Koszyki klienta",module,Magento_Reports
 "Products in Carts","Produkty w koszyku",module,Magento_Reports
 Statistics,Statystyki,module,Magento_Reports
-"No report code is specified.","No report code is specified.",module,Magento_Reports
-"You refreshed lifetime statistics.","You refreshed lifetime statistics.",module,Magento_Reports
-"We can\'t refresh lifetime statistics.","We can\'t refresh lifetime statistics.",module,Magento_Reports
+"No report code is specified.","Nie wybrano kodu raportu.",module,Magento_Reports
+"You refreshed lifetime statistics.","Odświeżyłeś statystyki życia.",module,Magento_Reports
+"We can\'t refresh lifetime statistics.","Nie możemy odświeżyć statystyki życia.",module,Magento_Reports
 "Recent statistics have been updated.","Najnowsze statystyki zostały uaktualnione.",module,Magento_Reports
-"We can\'t refresh recent statistics.","We can\'t refresh recent statistics.",module,Magento_Reports
-"The product type filter specified is incorrect.","The product type filter specified is incorrect.",module,Magento_Reports
+"We can\'t refresh recent statistics.","Nie możemy odświeżyć świeżych statystyk.",module,Magento_Reports
+"The product type filter specified is incorrect.","Filtr typu produktu, jest niepoprawnie określony.",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates","Raport podatków zamówienia pogrupowany wg stawek podatku",module,Magento_Reports
 "Total Invoiced VS Paid Report","Raport łącznie zafakturowanych kontra opłacone",module,Magento_Reports
 "Promotion Coupons Usage Report","Raport wykorzystania kuponów promocyjnych",module,Magento_Reports
@@ -7844,10 +7844,10 @@ Bestsellers,Bestsellery,module,Magento_Reports
 Error,Błąd,module,Magento_Reports
 "Show By","Pokaż wg",module,Magento_Reports
 "Select Date","Wybierz datę",module,Magento_Reports
-"Customers that have Wish List: %1","Customers that have Wish List: %1",module,Magento_Reports
+"Customers that have Wish List: %1","Klienci posiadający schowek: %1",module,Magento_Reports
 "Number of Wish Lists: %1","Liczba schowków: %1",module,Magento_Reports
-"Number of items bought from a Wish List: %1","Number of items bought from a Wish List: %1",module,Magento_Reports
-"Number of times Wish Lists have been shared (emailed): %1","Number of times Wish Lists have been shared (emailed): %1",module,Magento_Reports
+"Number of items bought from a Wish List: %1","Ilość produktów zakupionych ze schowka: %1",module,Magento_Reports
+"Number of times Wish Lists have been shared (emailed): %1","Ilość razy kiedy zawartość schowka została wysłana do innych: %1",module,Magento_Reports
 "Number of Wish List referrals: %1","Ilość osób poleconych za pośrednictwem schowka: %1",module,Magento_Reports
 "Number of Wish List conversions: %1","Ilość osób poleconych za pośrednictwem schowka: %1",module,Magento_Reports
 "Show Report For:","Pokaż raport dla:",module,Magento_Reports
@@ -8827,14 +8827,14 @@ Sales,Sprzedaż,module,Magento_Sales
 "Edit Order","Edycja zamówienia",module,Magento_Sales
 "You sent the order email.","Wysłanie e-mail z zamówieniem.",module,Magento_Sales
 "We can\'t send the email order right now.","We can\'t send the email order right now.",module,Magento_Sales
-"You have not put the order on hold.","You have not put the order on hold.",module,Magento_Sales
-"You put the order on hold.","You put the order on hold.",module,Magento_Sales
-"You canceled the invoice.","You canceled the invoice.",module,Magento_Sales
+"You have not put the order on hold.","Zamówienie nie zostało wstrzymane.",module,Magento_Sales
+"You put the order on hold.","Zamówienie zostało wstrzymane.",module,Magento_Sales
+"You canceled the invoice.","Faktura została anulowana.",module,Magento_Sales
 "Invoice canceling error","Błąd anulowania faktury",module,Magento_Sales
 "The invoice has been captured.","Faktura została przechwycona.",module,Magento_Sales
 "Invoice capturing error","Błąd przechwytywania faktury",module,Magento_Sales
 "The order does not allow an invoice to be created.","The order does not allow an invoice to be created.",module,Magento_Sales
-"You can\'t create an invoice without products.","You can\'t create an invoice without products.",module,Magento_Sales
+"You can\'t create an invoice without products.","Nie można utworzyć faktury bez produktów.",module,Magento_Sales
 "New Invoice","Nowa faktura",module,Magento_Sales
 "We can\'t save the invoice right now.","W tej chwili nie możemy zapisać faktury.",module,Magento_Sales
 "The invoice and the shipment  have been created. The shipping label cannot be created now.","The invoice and the shipment  have been created. The shipping label cannot be created now.",module,Magento_Sales
@@ -8850,10 +8850,10 @@ Sales,Sprzedaż,module,Magento_Sales
 "We canceled %1 order(s).","Anulowano zlecenie %1.",module,Magento_Sales
 "%1 order(s) were not put on hold.","%1 zamówień nie zostało wstrzymanych.",module,Magento_Sales
 "No order(s) were put on hold.","Żadne zamówienie nie zostało wstrzymane.",module,Magento_Sales
-"You have put %1 order(s) on hold.","You have put %1 order(s) on hold.",module,Magento_Sales
-"%1 order(s) were not released from on hold status.","%1 order(s) were not released from on hold status.",module,Magento_Sales
-"No order(s) were released from on hold status.","No order(s) were released from on hold status.",module,Magento_Sales
-"%1 order(s) have been released from on hold status.","%1 order(s) have been released from on hold status.",module,Magento_Sales
+"You have put %1 order(s) on hold.","Wstrzymano %1 zamówień.",module,Magento_Sales
+"%1 order(s) were not released from on hold status.","%1 zamówień nie zostało uwolnionych ze statusu ""wstrzymano"".",module,Magento_Sales
+"No order(s) were released from on hold status.","Żadne zamówień nie zostało uwolnionych ze statusu ""wstrzymano"".",module,Magento_Sales
+"%1 order(s) have been released from on hold status.","%1 zamówień zostało uwolnionych ze statusu ""wstrzymano"".",module,Magento_Sales
 "There are no printable documents related to selected orders.","Brak dokumentów do wydruku powiązanych z wybranymi zamówieniami",module,Magento_Sales
 "The payment has been accepted.","Płatność została zaakceptowana.",module,Magento_Sales
 "The payment has been denied.","Płatność została odrzucona.",module,Magento_Sales
@@ -8872,7 +8872,7 @@ Sales,Sprzedaż,module,Magento_Sales
 "Something went wrong while unassigning the order.","Something went wrong while unassigning the order.",module,Magento_Sales
 "Can\'t unhold order.","Can\'t unhold order.",module,Magento_Sales
 "You released the order from holding status.","You released the order from holding status.",module,Magento_Sales
-"The order was not on hold.","The order was not on hold.",module,Magento_Sales
+"The order was not on hold.","Zamówienie nie było wstrzymane.",module,Magento_Sales
 "Exception occurred during order load","Exception occurred during order load",module,Magento_Sales
 "Something went wrong while saving the gift message.","Coś się zepsuło podczas zapisywania wiadomości prezentowych.",module,Magento_Sales
 "You saved the gift card message.","Zapisałeś wiadomość karty prezentowej.",module,Magento_Sales
@@ -9545,7 +9545,7 @@ Discount,Zniżka,module,Magento_SalesRule
 "No Coupon",Nie,module,Magento_SalesRule
 "Specific Coupon","Wybrany kupon",module,Magento_SalesRule
 Auto,Auto,module,Magento_SalesRule
-"Can\'t acquire coupon.","Can\'t acquire coupon.",module,Magento_SalesRule
+"Can\'t acquire coupon.","Nie można pobrać kuponu.",module,Magento_SalesRule
 "Update the Product","Aktualizuj produkt",module,Magento_SalesRule
 "Special Price","Nasza cena",module,Magento_SalesRule
 "To Fixed Value","Do stałej wartości",module,Magento_SalesRule
@@ -9623,9 +9623,9 @@ Apply,Zastosuj,module,Magento_SalesRule
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRule
 "Discard subsequent rules","Odrzuć kolejne reguły",module,Magento_SalesRule
 "Default Rule Label for All Store Views","Domyślna etykiet reguły dla wszystkich widoków sklepu",module,Magento_SalesRule
-"You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_SalesRuleStaging
-"You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_SalesRuleStaging
-"You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_SalesRuleStaging
+"You removed this %1 from the update and saved it in a new one.","Usunięto ten %1 z aktualizacji i zapisano go w nowej.",module,Magento_SalesRuleStaging
+"You removed this %1 from the update and saved it in the other one.","Usunięto ten %1 z aktualizacji i zapisano go w innej.",module,Magento_SalesRuleStaging
+"You removed this %1 from the update.","Usunięto ten %1 z aktualizacji.",module,Magento_SalesRuleStaging
 "Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_SalesRuleStaging
 "You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
