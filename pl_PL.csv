@@ -5872,7 +5872,7 @@ Remove,Usuń,module,Magento_Invitation
 "Enter Email","Wprowadź adres E-mail",module,Magento_Invitation
 "You cannot send more invitations","Nie można wysłać więcej zaproszeń",module,Magento_Invitation
 "There are no sent invitations.","Brak wysłanych zaproszeń.",module,Magento_Invitation
-"Please accept this invitation to join %store_name.","Please accept this invitation to join %store_name.",module,Magento_Invitation
+"Please accept this invitation to join %store_name.","Proszę przyjąć to zaproszenie by dołączyć do %store_name.",module,Magento_Invitation
 "%store_name offers limited time sales of products only to members.","%store_name offers limited time sales of products only to members.",module,Magento_Invitation
 "Please use the following link to create an account and view the deals:","Użyj następującego linku, aby utworzyć konto i zobacz oferty:",module,Magento_Invitation
 "Private Sales","Sprzedaż prywatna",module,Magento_Invitation
@@ -6396,7 +6396,7 @@ General,Ogólne,module,Magento_NewRelicReporting
 "New Relic API Key","Klucz API New Relic",module,Magento_NewRelicReporting
 "This is located by navigating to Events -> Deployments from the New Relic APM website","To znajduje się przechodząc do wydarzeń -> wdrożeń ze strony nowych Relic APM",module,Magento_NewRelicReporting
 "Insights API Key","Insights klucz API",module,Magento_NewRelicReporting
-"Generated under Insights in Manage data -> API Keys -> Insert Keys","Generated under Insights in Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting
+"Generated under Insights in Manage data -> API Keys -> Insert Keys","Generowane wyglądu w zarządzanie danych-> Klucze API -> Wstawić Klucze",module,Magento_NewRelicReporting
 "New Relic Application Name","Nazwa aplikacji New Relic",module,Magento_NewRelicReporting
 "This is located by navigating to Settings from the New Relic APM website","To znajduje się przechodząc do ustawień ze strony nowych Relic APM",module,Magento_NewRelicReporting
 Cron,Cron,module,Magento_NewRelicReporting
@@ -6625,7 +6625,7 @@ Export,Eksport,module,Magento_OfflineShipping
 Import,Import,module,Magento_OfflineShipping
 "Minimum Order Amount","Minimalna wielkość zamówienia",module,Magento_OfflineShipping
 "-- Please Select --","-- Wybierz --",module,Magento_OfflineShipping
-"Export VCL for Varnish %1","Export VCL for Varnish %1",module,Magento_PageCache
+"Export VCL for Varnish %1","Eksport VCL do Varnish'u %1",module,Magento_PageCache
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Wartość Ttl ""%1"" nie jest prawidłowa. Proszę używać tylko cyfr większych lub równych zero.",module,Magento_PageCache
 "Built-in Cache","Wbudowana pamięć podręczna",module,Magento_PageCache
 "Varnish Cache (Recommended)","Varnish (Zalecane)",module,Magento_PageCache
@@ -6636,11 +6636,11 @@ Import,Import,module,Magento_OfflineShipping
 "IPs access list separated with \',\' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","Lista adresów IP (rozdzielonych przecinkiem), które mają być uprawnione do odświeżania Varnisha przy generowaniu pliku konfiguracji. Jeżeli pole zostanie puste, będzie używana wartość ""localhost"".",module,Magento_PageCache
 "Backend host",Host,module,Magento_PageCache
-"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Specify backend host for config file generation. If field is empty default value localhost will be saved.",module,Magento_PageCache
+"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Określ backend host do generowania pliku config. Jeśli pole jest puste domyślna wartość localhost zostanie zapisana.",module,Magento_PageCache
 "Backend port",Port,module,Magento_PageCache
-"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Specify backend port for config file generation. If field is empty default value 8080 will be saved.",module,Magento_PageCache
+"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Określ backend port do generowania pliku config. Jeśli pole jest puste domyślna wartość 8080 zostanie zapisana.",module,Magento_PageCache
 "TTL for public content","TTL dla publicznych treści",module,Magento_PageCache
-"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ",module,Magento_PageCache
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Publiczna zawartość pamięci podręcznej w sekundach. Jeśli pole jest puste wartość domyślna 86400 zostanie zapisana. ",module,Magento_PageCache
 "Page Cache","Cache strony",module,Magento_PageCache
 "Full page caching","Buforowanie stron",module,Magento_PageCache
 "We cannot retrieve the payment method model object.","Nie można pobrać informacji modelu obiektu płatności.",module,Magento_Payment
@@ -6759,10 +6759,10 @@ Sales,Sprzedaż,module,Magento_Paypal
 "We can\'t fetch reports from \\%1@%2.\\""",Nie możemy pobrać raportu z \\%1@%2.\\"""""""",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","Umowa rozliczeniowa ""%1"" została anulowana.",module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","Umowa rozliczeniowa ""%1"" została utworzona.",module,Magento_Paypal
-"We couldn\'t finish the billing agreement wizard.","We couldn\'t finish the billing agreement wizard.",module,Magento_Paypal
-"We can\'t start the billing agreement wizard.","We can\'t start the billing agreement wizard.",module,Magento_Paypal
+"We couldn\'t finish the billing agreement wizard.","Nie można zakończyć Kreatora umowy płatności.",module,Magento_Paypal
+"We can\'t start the billing agreement wizard.","Nie możemy uruchomić umowy rozliczeniowej.",module,Magento_Paypal
 "Billing Agreement # %1","Umowa rozliczeniowa nr %1",module,Magento_Paypal
-"We can\'t initialize Express Checkout.","We can\'t initialize Express Checkout.",module,Magento_Paypal
+"We can\'t initialize Express Checkout.","Nie można zainicjować Ekspresowej Realizacji.",module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.","PayPal Express Checkout Token does not exist.",module,Magento_Paypal
 "A wrong PayPal Express Checkout Token is specified.","Zły PayPal Express Checkout Token jest określony.",module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout i zamówienie zostały anulowane.",module,Magento_Paypal
@@ -6770,22 +6770,22 @@ Sales,Sprzedaż,module,Magento_Paypal
 "Unable to cancel Express Checkout","Nie można anulować zamówienia Express",module,Magento_Paypal
 "Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_Paypal
 "We can\'t place the order.","Nie możemy złożyć zamówienia.",module,Magento_Paypal
-"We can\'t process Express Checkout approval.","We can\'t process Express Checkout approval.",module,Magento_Paypal
-"We can\'t initialize Express Checkout review.","We can\'t initialize Express Checkout review.",module,Magento_Paypal
+"We can\'t process Express Checkout approval.","Nie możemy przetworzyć zgody Ekspresowej realizacji transakcji.",module,Magento_Paypal
+"We can\'t initialize Express Checkout review.","Nie można zainicjować recenzji Ekspresowej Realizacji.",module,Magento_Paypal
 "We can\'t update shipping method.","Nie możemy zaktualizować metody dostawy.",module,Magento_Paypal
-"We can\'t start Express Checkout.","We can\'t start Express Checkout.",module,Magento_Paypal
+"We can\'t start Express Checkout.","Nie można uruchomić Ekspresowej Realizacji.",module,Magento_Paypal
 "To check out, please sign in with your email address.","Aby sprawdzić, Proszę Zaloguj się przy użyciu adresu e-mail.",module,Magento_Paypal
 "Sorry, but something went wrong","Przepraszamy, coś poszło nie tak",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Twoja płatność została odrzucona. Proszę spróbować ponownie.",module,Magento_Paypal
 "Requested payment method does not match with order.","Żądana metoda płatności jest niezgodna z zamówieniem.",module,Magento_Paypal
 "Error processing payment, please try again later.","Błąd podczas przetwarzania płatności, prosimy spróbować ponownie później.",module,Magento_Paypal
-"Payment Gateway is unreachable at the moment. Please use another payment option.","Payment Gateway is unreachable at the moment. Please use another payment option.",module,Magento_Paypal
-"PayPal response hasn\'t required fields.","PayPal response hasn\'t required fields.",module,Magento_Paypal
+"Payment Gateway is unreachable at the moment. Please use another payment option.","Bramka płatności jest nieosiągalna w tej chwili. Proszę użyć innej opcji płatności.",module,Magento_Paypal
+"PayPal response hasn\'t required fields.","PayPal response hasn't required fields.",module,Magento_Paypal
 "Something went wrong while processing your order.","Coś poszło nie tak podczas przetwarzania Twojego zamówienia.",module,Magento_Paypal
 "PayPal gateway has rejected request. %1","Bramka PayPal odrzuciła żądanie. %1",module,Magento_Paypal
 "The PayPal gateway rejected the request. %1","Brama PayPal odrzucił żądanie. %1",module,Magento_Paypal
 "I\'m sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Przepraszamy, ale nie byliśmy w stanie przetworzyć Twojej płatności. Proszę spróbować innej metody płatności lub skontaktuj się z nami - możemy pomóc.",module,Magento_Paypal
-"I\'m sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","I\'m sorry - but we are not able to complete your transaction. Please contact us so we can assist you.",module,Magento_Paypal
+"I\'m sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Przepraszamy - ale nie jesteśmy w stanie ukończyć transakcji. Skontaktuj się z nami, więc możemy pomóc.",module,Magento_Paypal
 "The payment method code is not set.","Kod metody płatności nie jest ustawiony.",module,Magento_Paypal
 "The reference ID is not set.","Identyfikator referencji nie jest ustawiony.",module,Magento_Paypal
 "Unable to save Billing Agreement:","Nie można zapisać umory rozliczeniowej:",module,Magento_Paypal
@@ -6819,18 +6819,18 @@ Never,Nigdy,module,Magento_Paypal
 "API Certificate","Certyfikat API",module,Magento_Paypal
 "The ordering amount of %1 is pending approval on the payment gateway.","Kwota zamówienia %1 oczekuje na zatwierdzenie na bramki płatności.",module,Magento_Paypal
 "Ordered amount of %1","Kwota zamówienia %1",module,Magento_Paypal
-"We\'ll authorize the amount of %1 as soon as the payment gateway approves it.","We\'ll authorize the amount of %1 as soon as the payment gateway approves it.",module,Magento_Paypal
+"We\'ll authorize the amount of %1 as soon as the payment gateway approves it.","Autoryzacja ilości %1 od razu jak bramka płatności go zatwierdzi.",module,Magento_Paypal
 "The authorized amount is %1.","Autoryzacja ilości %1.",module,Magento_Paypal
 "The maximum number of child authorizations is reached.","The maximum number of child authorizations is reached.",module,Magento_Paypal
-"PayPal can\'t process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal can\'t process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.",module,Magento_Paypal
+"PayPal can\'t process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal nie używa procesu zamówień z zerowym saldem należności. Aby zakończyć zakupu, proszę przejść przez standardowy proces.",module,Magento_Paypal
 "A payer is not identified.","Zleceniodawca nie jest zidentyfikowany.",module,Magento_Paypal
 "Cannot get secure form URL from PayPal","Nie można uzyskać adresu URL bezpiecznego formularza z PayPal",module,Magento_Paypal
 "Last Transaction ID","Ostatnie ID transakcji",module,Magento_Paypal
-"This customer didn\'t include a confirmed address.","This customer didn\'t include a confirmed address.",module,Magento_Paypal
+"This customer didn\'t include a confirmed address.","Klient nie załączył potwierdzonego adresu.",module,Magento_Paypal
 "The payment is authorized but not settled.","The payment is authorized but not settled.",module,Magento_Paypal
 "The payment eCheck is not cleared.","ECheck płatności nie jest czyszczony.",module,Magento_Paypal
-"The merchant holds a non-U.S. account and doesn\'t have a withdrawal mechanism.","The merchant holds a non-U.S. account and doesn\'t have a withdrawal mechanism.",module,Magento_Paypal
-"The payment currency doesn\'t match any of the merchant\'s balances currency.","The payment currency doesn\'t match any of the merchant\'s balances currency.",module,Magento_Paypal
+"The merchant holds a non-U.S. account and doesn\'t have a withdrawal mechanism.","Handlowiec posiada konto z poza Usa i nie ma mechanizmu wycofywania.",module,Magento_Paypal
+"The payment currency doesn\'t match any of the merchant\'s balances currency.","The payment curency does not match any of the merchant\'s balances currency.",module,Magento_Paypal
 "The payment is pending while it is being reviewed by PayPal for risk.","The payment is pending while it is being reviewed by PayPal for risk.",module,Magento_Paypal
 "The payment is pending because it was made to an email address that is not yet registered or confirmed.","The payment is pending because it was made to an email address that is not yet registered or confirmed.",module,Magento_Paypal
 "The merchant account is not yet verified.","Konto handlowca nie jest zweryfikowane.",module,Magento_Paypal
@@ -6865,9 +6865,9 @@ Never,Nigdy,module,Magento_Paypal
 "CVV2 Check Result by PayPal","Rezultat sprawdzenia CVV2 przez PayPal",module,Magento_Paypal
 "AVS Street Match","AVS Street Match",module,Magento_Paypal
 "AVS zip","AVS zip",module,Magento_Paypal
-"International AVS response","International AVS response",module,Magento_Paypal
+"International AVS response","Międzynarodowa odpowiedź AVS",module,Magento_Paypal
 "Buyer\'s Tax ID","ID podatkowe klienta",module,Magento_Paypal
-"Buyer\'s Tax ID Type","Buyer\'s Tax ID Type",module,Magento_Paypal
+"Buyer\'s Tax ID Type","Typ ID podatkowego klienta",module,Magento_Paypal
 Chargeback,Zwrot,module,Magento_Paypal
 Complaint,Skarga,module,Magento_Paypal
 Dispute,Dyskutuj,module,Magento_Paypal
@@ -6918,9 +6918,9 @@ CPF,CPF,module,Magento_Paypal
 "Error processing payment. Please try again later.","Błąd podczas przetwarzania płatności. Prosimy spróbować ponownie później.",module,Magento_Paypal
 "We cannot send the new order email.","Nie można wysłać nowego e-mailu zamówienia.",module,Magento_Paypal
 "You cannot void a verification transaction.","Nie można unieważnić weryfikacji transakcji.",module,Magento_Paypal
-"You need an authorization transaction to void.","You need an authorization transaction to void.",module,Magento_Paypal
-"We can\'t issue a refund transaction because there is no capture transaction.","We can\'t issue a refund transaction because there is no capture transaction.",module,Magento_Paypal
-"We cannot create a target file for reading reports.","We cannot create a target file for reading reports.",module,Magento_Paypal
+"You need an authorization transaction to void.","Potrzebujesz autoryzacji transakcji do unieważnienia.",module,Magento_Paypal
+"We can\'t issue a refund transaction because there is no capture transaction.","Nie można wydać transakcji zwrotu, z powodu braku transakcji przechwytywania.",module,Magento_Paypal
+"We cannot create a target file for reading reports.","Nie można utworzyć docelowego pliku dla odczytania raportów.",module,Magento_Paypal
 "Report Date","Data raportu",module,Magento_Paypal
 "Merchant Account","Konto handlowca",module,Magento_Paypal
 "Transaction ID","ID transakcji",module,Magento_Paypal
@@ -7023,7 +7023,7 @@ Void,Unieważniony,module,Magento_Paypal
 "The PayPal certificate file is empty.","Plik certyfikatu PayPal jest pusty.",module,Magento_Paypal
 "Header (center)","Nagłówek (centrum)",module,Magento_Paypal
 "Sidebar (right)","Pasek boczny (z prawej)",module,Magento_Paypal
-"Near PayPal Credit checkout button","Near PayPal Credit checkout button",module,Magento_Paypal
+"Near PayPal Credit checkout button","W pobliżu przycisku finalizacji transakcji kredytowej PayPal",module,Magento_Paypal
 "--Please Select--","-- Prosimy wybrać --",module,Magento_Paypal
 Daily,Codziennie,module,Magento_Paypal
 "Every 3 days","Co 3 dni",module,Magento_Paypal
@@ -7035,19 +7035,19 @@ Daily,Codziennie,module,Magento_Paypal
 "No Logo","Brak logo",module,Magento_Paypal
 "Yes (PayPal recommends this option)","Tak (PayPal zaleca tę opcję)",module,Magento_Paypal
 "Created billing agreement #%1.","Utworzono umowę rozliczeniową nr %1.",module,Magento_Paypal
-"We can\'t create a billing agreement for this order.","We can\'t create a billing agreement for this order.",module,Magento_Paypal
+"We can\'t create a billing agreement for this order.","Nie można utworzyć umowy rozliczeniowej dla tego zamówienia.",module,Magento_Paypal
 "Pending PayPal","Oczekujący PayPal",module,Magento_Paypal
-"PayPal Reversed","PayPal Reversed",module,Magento_Paypal
-"PayPal Canceled Reversal","PayPal Canceled Reversal",module,Magento_Paypal
+"PayPal Reversed","PayPal odwrócone",module,Magento_Paypal
+"PayPal Canceled Reversal","PayPal anulowane odwrócenie",module,Magento_Paypal
 Error,Błąd,module,Magento_Paypal
 "Billing Agreement","Umowa rozliczeniowa",module,Magento_Paypal
 "Please Select",Wybierz,module,Magento_Paypal
 Customer,Klient,module,Magento_Paypal
 "Created At",Utworzono,module,Magento_Paypal
 "Updated At",Zaktualizowano,module,Magento_Paypal
-ending,ending,module,Magento_Paypal
-expires,expires,module,Magento_Paypal
-"Not sure what PayPal payment method to use? Click ","Not sure what PayPal payment method to use? Click ",module,Magento_Paypal
+ending,końcówka,module,Magento_Paypal
+expires,wygasa,module,Magento_Paypal
+"Not sure what PayPal payment method to use? Click ","Nie wiesz jakie metody płatności PayPal użyć? Kliknij przycisk ",module,Magento_Paypal
 here,tutaj,module,Magento_Paypal
 " to learn more."," aby dowiedzieć się więcej.",module,Magento_Paypal
 "Important: ","Ważne: ",module,Magento_Paypal
@@ -7107,7 +7107,7 @@ Continue,Kontynuuj,module,Magento_Paypal
 "-- Please Select Billing Agreement--","-- Prosimy wybrać umowę rozliczeniową --",module,Magento_Paypal
 "Acceptance Mark","Znak akceptacji",module,Magento_Paypal
 "What is PayPal?","Co to jest PayPal?",module,Magento_Paypal
-"Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases  with PayPal.","Podpisz umowę rozliczeniową, aby przetwarzać dalsze zakupy z PayPal.",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases with PayPal.","Podpisz umowę rozliczeniową, aby przetwarzać dalsze zakupy z PayPal.",module,Magento_Paypal
 "Continue to PayPal","Przejdź do PayPal",module,Magento_Paypal
 "Save credit card info for future use.","Zapisz informacje o karcie kredytowej do przyszłego wykorzystania.",module,Magento_Paypal
@@ -10271,11 +10271,11 @@ Save,Zapisz,module,Magento_Staging
 "Something went wrong while removing the %1.","Coś się zepsuło podczas usuwania %1.",module,Magento_Staging
 "The 'mode' value is unexpected.","Wartość 'mode' nie jest obsługiwana.",module,Magento_Staging
 "Required parameters are missing.","Brakuje wymaganych parametrów.",module,Magento_Staging
-"You removed this %1 from the update and saved it in a new one.","You removed this %1 from the update and saved it in a new one.",module,Magento_Staging
-"You removed this %1 from the update and saved it in the other one.","You removed this %1 from the update and saved it in the other one.",module,Magento_Staging
-"You removed this %1 from the update.","You removed this %1 from the update.",module,Magento_Staging
+"You removed this %1 from the update and saved it in a new one.","Usunięto ten %1 z aktualizacji i zapisano go w nowej.",module,Magento_Staging
+"You removed this %1 from the update and saved it in the other one.","Usunięto ten %1 z aktualizacji i zapisano go w innej.",module,Magento_Staging
+"You removed this %1 from the update.","Usunięto ten %1 z aktualizacji.",module,Magento_Staging
 "Something went wrong while saving the %1.","Coś się zepsuło podczas zapisywania %1.",module,Magento_Staging
-"You saved this %1 update.","You saved this %1 update.",module,Magento_Staging
+"You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_Staging
 "New Campaign","Nowa Kampania",module,Magento_Staging
 "Staging Dashboard","Przejściowy panel",module,Magento_Staging
 "Edit existing update","Zmień istniejącą aktualizację",module,Magento_Staging
@@ -10285,7 +10285,7 @@ Save,Zapisz,module,Magento_Staging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_Staging
 entity_type,entity_type,module,Magento_Staging
 Active,Aktywny,module,Magento_Staging
-Upcoming,Upcoming,module,Magento_Staging
+Upcoming,Nadchodzące,module,Magento_Staging
 "Please select Name for Future Update.","Proszę wybrać nazwę przyszłej aktualizacji.",module,Magento_Staging
 "Please select Start Time for Future Update.","Proszę wybrać czas rozpoczęcia przyszłej aktualizacji.",module,Magento_Staging
 "Future Update Start Time cannot be earlier than current time.","Czas rozpoczęcia przyszłej aktualizacji nie może być wcześniejszy niż czas obecny.",module,Magento_Staging
