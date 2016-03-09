@@ -10036,7 +10036,7 @@ Shipments,Dostawy,module,Magento_Shipping
 "We can\'t initialize shipment for delete tracking number.","We can\'t initialize shipment for delete tracking number.",module,Magento_Shipping
 "We can\'t delete tracking number.","We can\'t delete tracking number.",module,Magento_Shipping
 "We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Shipping
-"We can\'t save the shipment right now.","We can\'t save the shipment right now.",module,Magento_Shipping
+"We can\'t save the shipment right now.","Nie możemy teraz zapisać tej wysyłki.",module,Magento_Shipping
 "The shipment has been created.","Dostawa została utworzona.",module,Magento_Shipping
 "Cannot save shipment.","Nie można zapisać dostawy.",module,Magento_Shipping
 "The order no longer exists.","To zamówienie już nie istnieje.",module,Magento_Shipping
@@ -10077,7 +10077,7 @@ Qty,Ilość,module,Magento_Shipping
 "Shipping labels is not available.","Adres wysyłki nie jest dostępny.",module,Magento_Shipping
 "Response info is not exist.","Odpowiedz informacji nie istnieje.",module,Magento_Shipping
 "Invalid carrier: %1","Nieprawidłowy przewoźnik: %1",module,Magento_Shipping
-"We don\'t have enough information to create shipping labels. Please make sure your store information and settings are complete.","We don\'t have enough information to create shipping labels. Please make sure your store information and settings are complete.",module,Magento_Shipping
+"We don\'t have enough information to create shipping labels. Please make sure your store information and settings are complete.","Nie mamy wystarczających informacji, aby utworzyć adres wysyłki. Upewnij się, że informacje i ustawienia twojego sklepu są kompletne.",module,Magento_Shipping
 "Per Order","Na zamówienie",module,Magento_Shipping
 "Per Package","Za paczkę",module,Magento_Shipping
 Fixed,Stały,module,Magento_Shipping
@@ -10110,7 +10110,7 @@ Cancel,Anuluj,module,Magento_Shipping
 Save,Zapisz,module,Magento_Shipping
 "Add Package","Dodaj pakiet",module,Magento_Shipping
 "Add Selected Product(s) to Package","Dodaj wybrane produkty do pakietu",module,Magento_Shipping
-"Add Products to Package","Add Products to Package",module,Magento_Shipping
+"Add Products to Package","Dodaj produkt do pakietu",module,Magento_Shipping
 "USPS domestic shipments don\'t use package types.","USPS domestic shipments don\'t use package types.",module,Magento_Shipping
 in,inW,module,Magento_Shipping
 cm,cm,module,Magento_Shipping
@@ -10163,10 +10163,10 @@ Description,Opis,module,Magento_Shipping
 "There is no tracking available for this shipment.","Śledzenie jest niedostępne dla tej dostawy.",module,Magento_Shipping
 "There is no tracking available.","Śledzenie jest niedostępne.",module,Magento_Shipping
 "Close Window","Zamknij okno",module,Magento_Shipping
-"See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
-"Shipping Settings Section","Shipping Settings Section",module,Magento_Shipping
-"Shipping Policy Parameters Section","Shipping Policy Parameters Section",module,Magento_Shipping
-"Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping
+"See our Shipping Policy","Zobacz nasze zasady wysyłki",module,Magento_Shipping
+"Shipping Settings Section","Sekcja ustawień wysyłek",module,Magento_Shipping
+"Shipping Policy Parameters Section","Sekcja parametrów zasad wysyłki",module,Magento_Shipping
+"Shipping Methods Section","Sekcja metod wysyłki",module,Magento_Shipping
 "Shipping Settings","Ustawienia dostawy",module,Magento_Shipping
 Origin,Pochodzenie,module,Magento_Shipping
 Country,Kraj,module,Magento_Shipping
@@ -10175,9 +10175,9 @@ Region/State,Region/województwo,module,Magento_Shipping
 City,Miasto,module,Magento_Shipping
 "Street Address","Adres pocztowy",module,Magento_Shipping
 "Street Address Line 2","Druga linia adresu pocztowego",module,Magento_Shipping
-"Shipping Policy Parameters","Shipping Policy Parameters",module,Magento_Shipping
+"Shipping Policy Parameters","Parametry zasad wysyłki",module,Magento_Shipping
 "Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
-"Shipping Policy","Shipping Policy",module,Magento_Shipping
+"Shipping Policy","Zasady wysyłki",module,Magento_Shipping
 "Shipping Methods","Formy dostawy",module,Magento_Shipping
 "Save & Generate","Zapisz i generuj",module,Magento_Sitemap
 "Edit Sitemap","Edytuj mapę",module,Magento_Sitemap
