@@ -8708,7 +8708,7 @@ Refund,Zwróć,module,Magento_Sales
 Void,Unieważniony,module,Magento_Sales
 Print,Drukuj,module,Magento_Sales
 "The credit memo email was sent.","E-mail z fakturą korygującą został wysłany.",module,Magento_Sales
-"The credit memo email wasn\'t sent.","The credit memo email wasn\'t sent.",module,Magento_Sales
+"The credit memo email wasn\'t sent.","E-mail z fakturą korygującą nie został wysłany.",module,Magento_Sales
 "Credit Memo #%1 | %3 | %2 (%4)","Faktura korygująca #%1 | %3 | %2 (%4)",module,Magento_Sales
 "Total Refund","Łączny zwrot",module,Magento_Sales
 "New Invoice and Shipment for Order #%1","Nowa faktura i dostawa dla zamówienia nr #%1",module,Magento_Sales
@@ -8744,7 +8744,7 @@ Capture,Przechwyć,module,Magento_Sales
 "Total Due",Pozostało,module,Magento_Sales
 Edit,Zmień,module,Magento_Sales
 "Are you sure you want to send an order email to customer?","Czy na pewno chcesz wysłać informację o zamówieniu do klienta?",module,Magento_Sales
-"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",module,Magento_Sales
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","To utworzy refundację offline. W celu utworzenia refundacji online, otwórz fakturę i utwórz dla niej fakturę korygującą. Czy chcesz kontynuować?",module,Magento_Sales
 "Are you sure you want to void the payment?","Czy na pewno chcesz unieważnić tę płatność?",module,Magento_Sales
 Hold,Wstrzymaj,module,Magento_Sales
 hold,wstrzymaj,module,Magento_Sales
@@ -9281,7 +9281,7 @@ Create,Utwórz,module,Magento_Sales
 "Sales Emails Section","Sales Emails Section",module,Magento_Sales
 General,Ogólne,module,Magento_Sales
 "Hide Customer IP","Ukryj IP klienta",module,Magento_Sales
-"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Zdecyduj czy adres IP klienta ma być widoczny w zamówieniach, fakturach, wysyłkach i fakturach korygujących.",module,Magento_Sales
 "Checkout Totals Sort Order","Kolejność wyświetlania sum zamówienia",module,Magento_Sales
 "Allow Reorder","Pozwól na ponowne zamówienie",module,Magento_Sales
 "Invoice and Packing Slip Design","Wygląd faktur i etykiet adresowych",module,Magento_Sales
