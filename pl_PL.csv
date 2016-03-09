@@ -9983,7 +9983,7 @@ Sender,Nadawca,module,Magento_SendFriend
 Message,Wiadomość,module,Magento_SendFriend
 Invitee,Zaproszony,module,Magento_SendFriend
 "Maximum %1 email addresses allowed.","Dopuszczalne maksymalnie %1 adresów e-mail.",module,Magento_SendFriend
-"Add Invitee","Add Invitee",module,Magento_SendFriend
+"Add Invitee","Dodaj zaproszoną osobę",module,Magento_SendFriend
 "Send Email","Wyślij e-mail",module,Magento_SendFriend
 Back,Powrót,module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
@@ -10045,7 +10045,7 @@ Shipments,Dostawy,module,Magento_Shipping
 "There are no shipping labels related to selected shipments.","Brak etykiet adresowych powiązanych z wybranymi dostawami.",module,Magento_Shipping
 "Page not found.","Nie znaleziono strony.",module,Magento_Shipping
 "Tracking Information","Informacje o stanie dostawy",module,Magento_Shipping
-"Sorry, but we can\'t deliver to the destination country with this shipping module.","Sorry, but we can\'t deliver to the destination country with this shipping module.",module,Magento_Shipping
+"Sorry, but we can\'t deliver to the destination country with this shipping module.","Przepraszamy, ale w tym module wysyłki nie możemy zrealizować dostawy do wybranego kraju.",module,Magento_Shipping
 "The shipping module is not available.","Moduł dostawy nie jest dostępny.",module,Magento_Shipping
 "This shipping method is not available. Please specify the zip code.","Ta metoda wysyłki nie jest dostępny. Proszę podać kod pocztowy.",module,Magento_Shipping
 "No packages for request","Brak paczki dla tego zapytania",module,Magento_Shipping
@@ -10176,7 +10176,7 @@ City,Miasto,module,Magento_Shipping
 "Street Address","Adres pocztowy",module,Magento_Shipping
 "Street Address Line 2","Druga linia adresu pocztowego",module,Magento_Shipping
 "Shipping Policy Parameters","Parametry zasad wysyłki",module,Magento_Shipping
-"Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
+"Apply custom Shipping Policy","Zastosuj niestandardowe zasady wysyłki",module,Magento_Shipping
 "Shipping Policy","Zasady wysyłki",module,Magento_Shipping
 "Shipping Methods","Formy dostawy",module,Magento_Shipping
 "Save & Generate","Zapisz i generuj",module,Magento_Sitemap
