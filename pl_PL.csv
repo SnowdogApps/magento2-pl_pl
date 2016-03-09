@@ -9621,7 +9621,7 @@ is,jest,module,Magento_SalesRule
 "Enter discount code","Wprowadź kod rabatowy",module,Magento_SalesRule
 "Apply Discount","Zastosuj zniżkę",module,Magento_SalesRule
 "Cancel coupon","Anuluj kupon",module,Magento_SalesRule
-"Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
+"Your coupon was successfully removed.","Twój kupon został pomyślnie usunięty.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Twój kupon został pomyślnie zastosowany.",module,Magento_SalesRule
 Promotion,Promocja,module,Magento_SalesRule
 "Auto Generated Specific Coupon Codes","Automatycznie wygenerowane kody kuponów",module,Magento_SalesRule
@@ -9820,7 +9820,7 @@ label,etykieta,module,Magento_ScheduledImportExport
 "Date & Time:","Data i czas:",module,Magento_ScheduledImportExport
 "Log trace:","Ślad błędu:",module,Magento_ScheduledImportExport
 "Scheduled Import/Export File History Cleanup Warnings","Scheduled Import/Export File History Cleanup Warnings",module,Magento_ScheduledImportExport
-"%operation_name - Scheduled Import Failed","%operation_name - Scheduled Import Failed",module,Magento_ScheduledImportExport
+"%operation_name - Scheduled Import Failed","%operation_name - zaplanowany import nie powiódł się",module,Magento_ScheduledImportExport
 "Scheduled Import/Export File History Cleaning","Scheduled Import/Export File History Cleaning",module,Magento_ScheduledImportExport
 "Save Files, Days","Save Files, Days",module,Magento_ScheduledImportExport
 "Enable Scheduled File History Cleaning","Enable Scheduled File History Cleaning",module,Magento_ScheduledImportExport
