@@ -8267,14 +8267,14 @@ Ordered,Zamówione,module,Magento_Rma
 Customer,Klient,module,Magento_Rma
 View,Zobacz,module,Magento_Rma
 "You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Wybrano opcję zmiany statusu\ów wybranych zleceń RMA na zamknięte. Czy jesteś pewnien, że chcesz kontynuować?",module,Magento_Rma
-"Return Item Attribute","Return Item Attribute",module,Magento_Rma
+"Return Item Attribute","Cecha pozycji zwrotu",module,Magento_Rma
 "Add New Attribute","Dodaj cechę",module,Magento_Rma
 "Save Attribute","Zapisz cechę",module,Magento_Rma
 "Delete Attribute","Usuń cechę",module,Magento_Rma
-"Edit Return Item Attribute ""%1""","Edit Return Item Attribute ""%1""",module,Magento_Rma
+"Edit Return Item Attribute ""%1""","Edytuj atrybut zwrotu towaru ""%1""",module,Magento_Rma
 "New Return Item Attribute","Nowa cecha pozycji zwrotu",module,Magento_Rma
 "Input Type","Typ pola",module,Magento_Rma
-"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","This is used internally. Make sure you don\'t use spaces or more than %1 symbols.",module,Magento_Rma
+"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","Ta wartość jest używana wewnętrznie. Upewnij się, że nie ma spacji lub więcej niż %1 symboli.",module,Magento_Rma
 "Lines Count","Liczba linii",module,Magento_Rma
 "Valid range 2-20","Prawidłowy zakres 2-20",module,Magento_Rma
 "Input Validation","Sprawdzanie poprawności danych wejściowych",module,Magento_Rma
@@ -9244,7 +9244,7 @@ Search,Szukaj,module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Kiedy twoja paczka będzie już w drodze wyślemy tobie numer do śledzenia transportu.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie <span class=""no-link""> #%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Umieszczony na <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Gdy Twoja przesyłka zostanie wysłane, prześlemy Ci e-mail z linkiem umożliwiającym śledzenie Twego zamówienia.",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",module,Magento_Sales
 "Gift Options for ","Opcje prezentowe dla ",module,Magento_Sales
@@ -9253,9 +9253,9 @@ Search,Szukaj,module,Magento_Sales
 Ok,Ok,module,Magento_Sales
 Operations,Operacje,module,Magento_Sales
 Create,Utwórz,module,Magento_Sales
-"Send Order Email","Send Order Email",module,Magento_Sales
-"Accept or Deny Payment","Accept or Deny Payment",module,Magento_Sales
-"Send Sales Emails","Send Sales Emails",module,Magento_Sales
+"Send Order Email","Wyślij e-mail zamówienia",module,Magento_Sales
+"Accept or Deny Payment","Akceptuj lub odrzuć płatność",module,Magento_Sales
+"Send Sales Emails","Wyślij e-mail sprzedażowy",module,Magento_Sales
 "Sales Section","Sekcja sprzedaży",module,Magento_Sales
 "Sales Emails Section","Sekcja e-maili sprzedażowych",module,Magento_Sales
 General,Ogólne,module,Magento_Sales
@@ -9268,13 +9268,13 @@ General,Ogólne,module,Magento_Sales
 "
                         Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
                     ","
-                        Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
+                        Twoje domyślne logo będzie używane w dokumentach PDF i HTML.<br />(jpeg, tiff, png) Jeśli zdjęcie w PDF będzie zniekształcone, spróbuj użyć obrazka o większej rozdzielczości.
                     ",module,Magento_Sales
 "Logo for HTML Print View","Logo do widoku HTML wydruku",module,Magento_Sales
 "
                         Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
                     ","
-                        Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
+                        Logo tylko dla dokumentów HTML. Jeśli puste to zostanie użyte domyślne.<br />(jpeg, gif, png)
                     ",module,Magento_Sales
 Address,Adres,module,Magento_Sales
 "Minimum Order Amount","Minimalna wielkość zamówienia",module,Magento_Sales
@@ -9399,7 +9399,7 @@ Archive,Archiwizuj,module,Magento_SalesArchive
 "Orders, Invoices, Shipments, Credit Memos Archiving","Archiwizacja zamówień, faktur, wysyłek, faktur korygujących",module,Magento_SalesArchive
 "Enable Archiving","Włącz archiwizowanie",module,Magento_SalesArchive
 "Archive Orders Purchased","Archiwum zamówień",module,Magento_SalesArchive
-"Order Statuses to be Archived","Order Statuses to be Archived",module,Magento_SalesArchive
+"Order Statuses to be Archived","Statusy zamówień zostaną zarchiwizowane",module,Magento_SalesArchive
 "Mass Add","Dodawanie masowe",module,Magento_SalesArchive
 Add,Dodaj,module,Magento_SalesArchive
 "Sales Archive","Archiwum sprzedaży",module,Magento_SalesArchive
@@ -9595,7 +9595,7 @@ is,jest,module,Magento_SalesRule
 "Some coupons are invalid.","Niektóre kupony są nieprawidłowe.",module,Magento_SalesRule
 "Item totals are not set for the rule.","Suma pozycji wierszy nie jest ustawiona dla reguły.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 zasada ceny koszyku na podstawie atrybutu ""%2"" zostały wyłączone.",module,Magento_SalesRule
-"To test exception","To test exception",module,Magento_SalesRule
+"To test exception","Testowy wyjątek",module,Magento_SalesRule
 "Apply Discount Code","Zastosuj kod rabatowy",module,Magento_SalesRule
 "Enter discount code","Wprowadź kod rabatowy",module,Magento_SalesRule
 "Apply Discount","Zastosuj zniżkę",module,Magento_SalesRule
@@ -9661,7 +9661,7 @@ Actions,Operacje,module,Magento_SalesRuleStaging
 Apply,Zastosuj,module,Magento_SalesRuleStaging
 "Discount Amount",Zniżka,module,Magento_SalesRuleStaging
 "Maximum Qty Discount is Applied To","Maksymalna zniżka ilościowa jest stosowana dla",module,Magento_SalesRuleStaging
-"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
+"Discount Qty Step (Buy X)","Kroki ilości zniżek (kup X)",module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRuleStaging
 "Discard subsequent rules","Odrzuć kolejne reguły",module,Magento_SalesRuleStaging
 Labels,Etykiety,module,Magento_SalesRuleStaging
@@ -9674,7 +9674,7 @@ Labels,Etykiety,module,Magento_SalesRuleStaging
 50,50,module,Magento_SalesRuleStaging
 100,100,module,Magento_SalesRuleStaging
 200,200,module,Magento_SalesRuleStaging
-"Entity Sequence profile not added to meta active profile","Entity Sequence profile not added to meta active profile",module,Magento_SalesSequence
+"Entity Sequence profile not added to meta active profile","Obiekt sekwencji profil nie dodał do aktywnego profilu meta",module,Magento_SalesSequence
 "Not enough arguments","Za mało argumentów",module,Magento_SalesSequence
 "Advanced Inventory","Stan magazynowy",module,Magento_ScalableInventory
 "Manage Stock","Zarządzaj stanami",module,Magento_ScalableInventory
@@ -9689,7 +9689,7 @@ Qty,Ilość,module,Magento_ScalableInventory
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_ScalableInventory
 "Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_ScalableInventory
 Backorders,Rezerwacje,module,Magento_ScalableInventory
-"Use deferred Stock update","Use deferred Stock update",module,Magento_ScalableInventory
+"Use deferred Stock update","Za pomocą odroczonego czas aktualizacji",module,Magento_ScalableInventory
 "Notify for Quantity Below","Powiadamiaj o ujemnej ilości",module,Magento_ScalableInventory
 "Enable Qty Increments","Włącz zwiększanie ilości",module,Magento_ScalableInventory
 "Qty Increments","Zwiększanie ilości",module,Magento_ScalableInventory
@@ -9759,20 +9759,20 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "Are you sure you want to delete this scheduled export?","Czy na pewno chcesz usunąć ten harmonogram exportu?",module,Magento_ScheduledImportExport
 "We were unable to save the cron expression.","Nie mogliśmy zapisać wyrażenia cron.",module,Magento_ScheduledImportExport
 "Unable to delete the cron task.","Nie można usunąć zadania cron.",module,Magento_ScheduledImportExport
-"Please correct the cron job task","Please correct the cron job task",module,Magento_ScheduledImportExport
+"Please correct the cron job task","Proszę poprawić zadanie działania cron",module,Magento_ScheduledImportExport
 "File has been not created","Nie utworzono pliku",module,Magento_ScheduledImportExport
 "Something went wrong and the operation failed.","Coś poszło nie tak i operacja nie powiodła się.",module,Magento_ScheduledImportExport
 "We can\'t read the file source because the file name is empty.","Nie możemy odczytać pliku źródłowego, ponieważ nazwa pliku jest pusta.",module,Magento_ScheduledImportExport
 "Connecting to server","Łączenie z serwerem",module,Magento_ScheduledImportExport
 "Reading import file","Czytanie pliku importu",module,Magento_ScheduledImportExport
 "We can\'t read the import file.","Nie można odczytać pliku importu.",module,Magento_ScheduledImportExport
-"Save history file content ""%1""","Save history file content ""%1""",module,Magento_ScheduledImportExport
-"We couldn\'t write file \\%1\\ to \\"%2\\" with the \\"%3\\" driver.""""""","We couldn\'t write file \\%1\\ to \\"%2\\" with the \\"%3\\" driver.""""""",module,Magento_ScheduledImportExport
+"Save history file content ""%1""","Zapisywanie zawartości pliku historii ""%1""",module,Magento_ScheduledImportExport
+"We couldn\'t write file \\%1\\ to \\"%2\\" with the \\"%3\\" driver.""""""","Nie można zapisać pliku \\%1\\ ""do \\%2\\ """"z \\"%3\\ """".""""""",module,Magento_ScheduledImportExport
 "Save file content","Zapisywanie zawartości pliku",module,Magento_ScheduledImportExport
 "Please correct the server type.","Popraw typ serwera.",module,Magento_ScheduledImportExport
 "Import path %1 not exists","Ścieżka %1 nie istnieje",module,Magento_ScheduledImportExport
 "We can\'t read the file.","Nie udało się odczytać pliku.",module,Magento_ScheduledImportExport
-"We can\'t save the file history file.","We can\'t save the file history file.",module,Magento_ScheduledImportExport
+"We can\'t save the file history file.","Nie można zapisać historii pliku.",module,Magento_ScheduledImportExport
 "Unknown file format","Nieznany format pliku",module,Magento_ScheduledImportExport
 Enabled,Włączone,module,Magento_ScheduledImportExport
 Disabled,Wyłączone,module,Magento_ScheduledImportExport
@@ -9801,7 +9801,7 @@ label,etykieta,module,Magento_ScheduledImportExport
 "Scheduled Import/Export File History Cleanup Warnings","Ostrzeżenia czyszczenia plików historii zaplanowanych importów/eksportów",module,Magento_ScheduledImportExport
 "%operation_name - Scheduled Import Failed","%operation_name - zaplanowany import nie powiódł się",module,Magento_ScheduledImportExport
 "Scheduled Import/Export File History Cleaning","Zaplanowane czyszczenie plików historii zaplanowanych importów/eksportów",module,Magento_ScheduledImportExport
-"Save Files, Days","Save Files, Days",module,Magento_ScheduledImportExport
+"Save Files, Days","Zapisz pliki, dni",module,Magento_ScheduledImportExport
 "Enable Scheduled File History Cleaning","Zezwól na zaplanowane czyszczenie plików historii",module,Magento_ScheduledImportExport
 "Error Email Recipient","Błąd e-mail: nieprawidłowy odbiorca",module,Magento_ScheduledImportExport
 "Error Email Sender","Błąd e-mail: nieprawidłowy nadawca",module,Magento_ScheduledImportExport
@@ -9913,9 +9913,9 @@ Website,Witryna,module,Magento_Search
 "By IP","Przez IP",module,Magento_Security
 "By Email","Przez E-mail",module,Magento_Security
 None,Brak,module,Magento_Security
-"Security module: Unknown security event type","Security module: Unknown security event type",module,Magento_Security
+"Security module: Unknown security event type","Modu³ zabezpieczeñ: nieznane zdarzenie zabezpieczeń typu",module,Magento_Security
 "Too many password reset requests. Please wait and try again or contact %1.","Zbyt wiele żądań zresetowania hasła. Proszę poczekać i spróbować ponownie później, lub skontaktować się z %1.",module,Magento_Security
-"Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Incorrect Security Checker class. It has to implement SecurityCheckerInterface",module,Magento_Security
+"Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Nieprawidłowe sprawdzanie zabezpieczeń klasy. Ma do wykonania SecurityCheckerInterface",module,Magento_Security
 "some error","jakiś błąd",module,Magento_Security
 "This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","To konto administratorskie jest otwarte w więcej niż jedna lokalizacja. Miej na uwadze, iż inne lokacje obejmują także różne przeglądarki czy sesje na tym samym komputerze.",module,Magento_Security
 "Concurrent session information:","Informacje o równoległej sesji:",module,Magento_Security
@@ -9926,7 +9926,7 @@ None,Brak,module,Magento_Security
 "This computer is using IP address %1.","Ten komputer używa adresu IP %1.",module,Magento_Security
 "Admin Account Sharing","Udostępnianie konta administratora",module,Magento_Security
 "If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Jeśli ustawiona na tak, możesz zalogować się z wielu komputerów do tego samego konta. Domyślne ustawienie nie jest bezpieczne.",module,Magento_Security
-"Limit Password Reset Requests Method","Limit Password Reset Requests Method",module,Magento_Security
+"Limit Password Reset Requests Method","Reset żądanej metoda limitu hasła",module,Magento_Security
 "Limit Number of Password Reset Requests","Ogranicz liczbę żądań zresetowania hasła",module,Magento_Security
 "Limit the number of password reset request per hour. Use 0 to disable.","Ogranicz liczbę żądań zresetowania hasła na godzinę. Użyj 0 by wyłączyć limit.",module,Magento_Security
 "Limit Time Between Password Reset Requests","Odstęp pomiędzy żądaniami zresetowania hasła",module,Magento_Security
