@@ -7350,14 +7350,14 @@ Podstawowe ustawienia - PayPal Payments Pro Hosted Solution",module,Magento_Payp
 "Payflow Pro and Express Checkout","Payflow Pro and Express Checkout",module,Magento_Paypal
 "
                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\ target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
+"                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
 "                                from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
 "                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
 "                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 ",",",",module,Magento_Paypal
 "                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
+"                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
 "                                from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
 "                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
@@ -8636,7 +8636,7 @@ Message,Wiadomość,module,Magento_Sales
 "This product is disabled.","Ten produkt jest wyłączony.",module,Magento_Sales
 "Buy %1 for price %2","Kup %1 za %2",module,Magento_Sales
 "Item ordered qty","Zamówiona ilość",module,Magento_Sales
-"%1 with %2 discount each","%1 with %2 discount each",module,Magento_Sales
+"%1 with %2 discount each","%1 z %2 zniżki na każdym",module,Magento_Sales
 "%1 for %2","%1 dla %2",module,Magento_Sales
 "* - Enter custom price including tax","* - Wprowadź własną cenę z podatkiem",module,Magento_Sales
 "* - Enter custom price excluding tax","* - Wprowadź własną cenę bez podatku",module,Magento_Sales
@@ -8762,7 +8762,7 @@ Transactions,Transakcje,module,Magento_Sales
 "Order View","Podgląd zamówienia",module,Magento_Sales
 Any,Dowolny,module,Magento_Sales
 Specified,Wybrane,module,Magento_Sales
-"Applies to Any of the Specified Order Statuses except canceled orders","Applies to Any of the Specified Order Statuses except canceled orders",module,Magento_Sales
+"Applies to Any of the Specified Order Statuses except canceled orders","Stosuje się do każdej z określonych Stanów zamówienia z wyjątkiem anulowanych zamówień",module,Magento_Sales
 "Cart Price Rule","Reguły cenowe koszyka",module,Magento_Sales
 Yes,Tak,module,Magento_Sales
 No,Nie,module,Magento_Sales
@@ -8779,7 +8779,7 @@ Fetch,Pobierz,module,Magento_Sales
 N/A,N/D,module,Magento_Sales
 Key,Klucz,module,Magento_Sales
 Value,Wartość,module,Magento_Sales
-"We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
+"We found an invalid entity model.","Znaleźliśmy nieprawidłową encję modelu.",module,Magento_Sales
 "Order # %1","Zamówienie #%1",module,Magento_Sales
 "Back to My Orders","Powrót do moich zamówień",module,Magento_Sales
 "View Another Order","Zobacz inne zamówienie",module,Magento_Sales
@@ -8813,8 +8813,8 @@ Sales,Sprzedaż,module,Magento_Sales
 "Credit memo has not been canceled.","Faktura korygująca nie została anulowana.",module,Magento_Sales
 "New Memo for #%1","Nowa faktura korygująca dla nr %1",module,Magento_Sales
 "New Memo","Nowa faktura korygująca",module,Magento_Sales
-"The credit memo\'s total must be positive.","The credit memo\'s total must be positive.",module,Magento_Sales
-"Cannot create online refund for Refund to Store Credit.","Cannot create online refund for Refund to Store Credit.",module,Magento_Sales
+"The credit memo\'s total must be positive.","Wartość faktury korygującej musi być dodatnia.",module,Magento_Sales
+"Cannot create online refund for Refund to Store Credit.","Nie można utworzyć online zwrotu refundacji na koncie sklepu.",module,Magento_Sales
 "You created the credit memo.","Faktura korygująca została stworzona.",module,Magento_Sales
 "We can\'t save the credit memo right now.","W tej chili nie możemy stworzyć faktury korygującej.",module,Magento_Sales
 "We can\'t update the item\'s quantity right now.","W tej chwili nie możemy uaktualnić ilości tego produktu.",module,Magento_Sales
@@ -8826,22 +8826,22 @@ Sales,Sprzedaż,module,Magento_Sales
 "We can\'t create credit memo for the order.","Nie możemy utworzyć faktury korygującej dla tego zamówienia.",module,Magento_Sales
 "Edit Order","Edycja zamówienia",module,Magento_Sales
 "You sent the order email.","Wysłanie e-mail z zamówieniem.",module,Magento_Sales
-"We can\'t send the email order right now.","We can\'t send the email order right now.",module,Magento_Sales
+"We can\'t send the email order right now.","W tej chwili nie możemy wysłać e-maila z zamówieniem.",module,Magento_Sales
 "You have not put the order on hold.","Zamówienie nie zostało wstrzymane.",module,Magento_Sales
 "You put the order on hold.","Zamówienie zostało wstrzymane.",module,Magento_Sales
 "You canceled the invoice.","Faktura została anulowana.",module,Magento_Sales
 "Invoice canceling error","Błąd anulowania faktury",module,Magento_Sales
 "The invoice has been captured.","Faktura została przechwycona.",module,Magento_Sales
 "Invoice capturing error","Błąd przechwytywania faktury",module,Magento_Sales
-"The order does not allow an invoice to be created.","The order does not allow an invoice to be created.",module,Magento_Sales
+"The order does not allow an invoice to be created.","Zamówienie nie pozwala na utworzenie faktury.",module,Magento_Sales
 "You can\'t create an invoice without products.","Nie można utworzyć faktury bez produktów.",module,Magento_Sales
 "New Invoice","Nowa faktura",module,Magento_Sales
 "We can\'t save the invoice right now.","W tej chwili nie możemy zapisać faktury.",module,Magento_Sales
-"The invoice and the shipment  have been created. The shipping label cannot be created now.","The invoice and the shipment  have been created. The shipping label cannot be created now.",module,Magento_Sales
-"You created the invoice and shipment.","You created the invoice and shipment.",module,Magento_Sales
+"The invoice and the shipment  have been created. The shipping label cannot be created now.","Faktura i dostawa zostały utworzone. Etykieta dostawy nie może być utworzona w tym momencie.",module,Magento_Sales
+"You created the invoice and shipment.","Utworzyłeś fakturę i wysyłki.",module,Magento_Sales
 "The invoice has been created.","Faktura została utworzona.",module,Magento_Sales
 "We can\'t send the invoice email right now.","W tej chwili nie możemy wysłać e-maila z fakturą.",module,Magento_Sales
-"We can\'t send the shipment right now.","We can\'t send the shipment right now.",module,Magento_Sales
+"We can\'t send the shipment right now.","Nie możemy teraz wysłać tej wysyłki.",module,Magento_Sales
 "Cannot update item quantity.","Nie można zaktualizować ilości produktów.",module,Magento_Sales
 "The invoice has been voided.","Faktura została unieważniona.",module,Magento_Sales
 "Invoice voiding error","Błąd unieważniania faktury",module,Magento_Sales
@@ -8860,7 +8860,7 @@ Sales,Sprzedaż,module,Magento_Sales
 "Transaction has been approved.","Transakcja została zatwierdzona.",module,Magento_Sales
 "Transaction has been voided/declined.","Transakcja została unieważniona / odrzucona.",module,Magento_Sales
 "There is no update for the transaction.","Nie ma żadnej aktualizacji dla tej transakcji.",module,Magento_Sales
-"We can\'t update the payment right now.","We can\'t update the payment right now.",module,Magento_Sales
+"We can\'t update the payment right now.","Nie można uaktualnić teraz płatności.",module,Magento_Sales
 "You assigned the order status.","Status został przypisany do zamówienia.",module,Magento_Sales
 "Something went wrong while assigning the order status.","Coś poszło nie tak podczas przypisywania statusu do zamówienia.",module,Magento_Sales
 "We can\'t find this order status.","Nie możemy znaleźć statusu zamówienia.",module,Magento_Sales
@@ -8868,24 +8868,24 @@ Sales,Sprzedaż,module,Magento_Sales
 "We found another order status with the same order status code.","Znaleźliśmy inny status zamówienia o tym samym kodzie.",module,Magento_Sales
 "You saved the order status.","Zapisałeś status zamówienia.",module,Magento_Sales
 "We can\'t add the order status right now.","W tej chili nie możemy dodać tego statusu zamówienia.",module,Magento_Sales
-"You have unassigned the order status.","You have unassigned the order status.",module,Magento_Sales
-"Something went wrong while unassigning the order.","Something went wrong while unassigning the order.",module,Magento_Sales
-"Can\'t unhold order.","Can\'t unhold order.",module,Magento_Sales
-"You released the order from holding status.","You released the order from holding status.",module,Magento_Sales
+"You have unassigned the order status.","Status nie został przypisany do zamówienia.",module,Magento_Sales
+"Something went wrong while unassigning the order.","Coś poszło nie tak podczas unieważnienia przypisywania zamówienia.",module,Magento_Sales
+"Can\'t unhold order.","Nie można wznowić zamówienia.",module,Magento_Sales
+"You released the order from holding status.","Wydany w kolejności od posiadania statusu.",module,Magento_Sales
 "The order was not on hold.","Zamówienie nie było wstrzymane.",module,Magento_Sales
-"Exception occurred during order load","Exception occurred during order load",module,Magento_Sales
+"Exception occurred during order load","Wystąpił wyjątek podczas kolejność ładowania",module,Magento_Sales
 "Something went wrong while saving the gift message.","Coś się zepsuło podczas zapisywania wiadomości prezentowych.",module,Magento_Sales
 "You saved the gift card message.","Zapisałeś wiadomość karty prezentowej.",module,Magento_Sales
 "The payment has been voided.","Płatność została unieważniona.",module,Magento_Sales
-"We can\'t void the payment right now.","We can\'t void the payment right now.",module,Magento_Sales
+"We can\'t void the payment right now.","Nie można teraz unieważnić płatności.",module,Magento_Sales
 "Please correct the transaction ID and try again.","Prosimy o poprawienie identyfikatora transakcji i spróbowanie ponownie.",module,Magento_Sales
 "The transaction details have been updated.","Dane transakcji zostały zaktualizowane.",module,Magento_Sales
-"We can\'t update the transaction details.","We can\'t update the transaction details.",module,Magento_Sales
+"We can\'t update the transaction details.","Nie można zaktualizować szczegółów transakcji.",module,Magento_Sales
 "Orders and Returns","Zamówienia i zwroty",module,Magento_Sales
 "You entered incorrect data. Please try again.","Wpisałeś nieprawidłowe dane. Proszę spróbować ponownie.",module,Magento_Sales
 Home,"Strona główna",module,Magento_Sales
 "Go to Home Page","Przejdź na stronę główną",module,Magento_Sales
-"We can\'t find this wish list.","We can\'t find this wish list.",module,Magento_Sales
+"We can\'t find this wish list.","Nie udało się odnaleźć tej listy życzeń.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","Nie można dodać produktu do koszyka przez ID ""%1"".",module,Magento_Sales
 "There is an error in one of the option rows.","W jednym z rzędów opcji jest błąd.",module,Magento_Sales
 "Shipping Address: ","Adres dla dostawy: ",module,Magento_Sales
@@ -8895,12 +8895,12 @@ Home,"Strona główna",module,Magento_Sales
 "Please specify a payment method.","Prosimy o wybór metody płatności.",module,Magento_Sales
 "This payment method is not available.","Ta metoda płatności nie jest dostępna.",module,Magento_Sales
 "Validation is failed.","Weryfikacja nie powiodła się.",module,Magento_Sales
-"You did not email your customer. Please check your email settings.","You did not email your customer. Please check your email settings.",module,Magento_Sales
-"Path ""%1"" is not part of allowed directory ""%2""","Path ""%1"" is not part of allowed directory ""%2""",module,Magento_Sales
+"You did not email your customer. Please check your email settings.","Nie utworzono emalia klienta. Proszę sprawdzić ustawienia e-mail.",module,Magento_Sales
+"Path ""%1"" is not part of allowed directory ""%2""","Ścieżka ""%1"" nie jest częścią dozwolonych katalogu ""%2""",module,Magento_Sales
 "Identifying Fields required","Określenie pola wymagane",module,Magento_Sales
 "Id required","Wymagany identyfikator",module,Magento_Sales
 "A hold action is not available.","Akcja odblokowania jest niedostępna.",module,Magento_Sales
-"You cannot remove the hold.","You cannot remove the hold.",module,Magento_Sales
+"You cannot remove the hold.","Nie można usunąć ładowania.",module,Magento_Sales
 "We cannot cancel this order.","Nie możemy anulować tego zamówienia.",module,Magento_Sales
 Guest,Gość,module,Magento_Sales
 "Please enter the first name.","Wpisz imię.",module,Magento_Sales
@@ -8911,7 +8911,7 @@ Guest,Gość,module,Magento_Sales
 "Please enter the zip/postal code.","Prosimy wpisać kod pocztowy.",module,Magento_Sales
 "Please enter the country.","Prosimy wpisać kraj.",module,Magento_Sales
 "Please enter the state/province.","Prosimy wpisać region/województwo.",module,Magento_Sales
-"Requested entity doesn\'t exist","Requested entity doesn\'t exist",module,Magento_Sales
+"Requested entity doesn\'t exist","Żądana jednostka nie istnieje",module,Magento_Sales
 "Could not delete order address","Nie można usunąć adresu zamówienia",module,Magento_Sales
 "Could not save order address","Nie można zapisać adresu zamówienia",module,Magento_Sales
 Pending,Oczekujący,module,Magento_Sales
@@ -8976,7 +8976,7 @@ Authorization,Autoryzacja,module,Magento_Sales
 "We found an unsupported transaction type ""%1"".","Znaleźliśmy nieobsługiwany typu transakcji ""%1"".",module,Magento_Sales
 "Please set a proper payment and order id.","Proszę ustawić właściwy identyfikator zamówienia i płatność.",module,Magento_Sales
 "Please enter a Transaction ID.","Podaj ID transakcji.",module,Magento_Sales
-"You can\'t do this without a transaction object.","You can\'t do this without a transaction object.",module,Magento_Sales
+"You can\'t do this without a transaction object.","Nie może tego zrobić bez obiektu transakcji.",module,Magento_Sales
 "Order # ","Zamówienie # ",module,Magento_Sales
 "Order Date: ","Data zamówienia: ",module,Magento_Sales
 "Sold to:",Sprzedano:,module,Magento_Sales
@@ -8988,7 +8988,8 @@ Title,Tytuł,module,Magento_Sales
 Number,Numer,module,Magento_Sales
 "We found an invalid renderer model.","Znaleźliśmy nieprawidłowo renderowany model.",module,Magento_Sales
 "Please define the PDF object before using.","Prosimy o zdefiniowanie obiektu PDF przed użyciem.",module,Magento_Sales
-"We don\'t recognize the draw line data. Please define the \\lines\\ array.""""""","We don\'t recognize the draw line data. Please define the \\lines\\ array.""""""",module,Magento_Sales
+"We don\'t recognize the draw line data. Please define the \\lines\\ array.""""""","
+Nie uznajemy dane kreślenia linii . Proszę zdefiniować \\lines\\ array.""""""",module,Magento_Sales
 Products,Produkty,module,Magento_Sales
 "Total (ex)","bez VAT",module,Magento_Sales
 Qty,Ilość,module,Magento_Sales
@@ -9008,11 +9009,11 @@ title,tytuł,module,Magento_Sales
 "The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","%1 całkowity wzór PDF musi znajdować się albo rozszerzyć po \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.",module,Magento_Sales
 "We cannot register an existing shipment","Nie można zarejestrować istniejącej wysyłki",module,Magento_Sales
 "We found an invalid quantity to ship for item ""%1"".","Nieprawidłową ilość produktów wysyłki ""%1"".",module,Magento_Sales
-"Please enter a tracking number.","Please enter a tracking number.",module,Magento_Sales
+"Please enter a tracking number.","Proszę wprowadzić kod śledzenia.",module,Magento_Sales
 "Could not delete shipment","Nie można usunąć dostawy",module,Magento_Sales
 "Could not save shipment","Nie można zapisać dostawy",module,Magento_Sales
-"The last status can\'t be unassigned from its current state.","The last status can\'t be unassigned from its current state.",module,Magento_Sales
-"Status can\'t be unassigned, because it is used by existing order(s).","Status can\'t be unassigned, because it is used by existing order(s).",module,Magento_Sales
+"The last status can\'t be unassigned from its current state.","Ostatni stan nie może być przypisany do jego bieżącego stanu.",module,Magento_Sales
+"Status can\'t be unassigned, because it is used by existing order(s).","Status nie może być nieprzypisany, ponieważ jest on używany przez istniejące zlecenia(e).",module,Magento_Sales
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","Total model należy rozszerzyć z \Magento\Sales\Model\Order\Total\AbstractTotal.",module,Magento_Sales
 "We cannot determine the field name.","Nie można określić nazwy pola.",module,Magento_Sales
 City,Miasto,module,Magento_Sales
@@ -9026,17 +9027,16 @@ State/Province,Województwo,module,Magento_Sales
 "Phone Number","Numer telefonu",module,Magento_Sales
 "Zip/Postal Code","Kod pocztowy",module,Magento_Sales
 "We can't save the address:
-%1","We can't save the address:
-%1",module,Magento_Sales
+%1","Nie można zapisać adresu:%1",module,Magento_Sales
 "Cannot save comment:
 %1","Nie można zapisać komentarza:
 %1",module,Magento_Sales
-"We don\'t have enough information to save the parent transaction ID.","We don\'t have enough information to save the parent transaction ID.",module,Magento_Sales
+"We don\'t have enough information to save the parent transaction ID.","Nie mamy wystarczających informacji, aby zapisać nadrzędny identyfikator transakcji.",module,Magento_Sales
 "We cannot create an empty shipment.","Nie można utworzyć pustej przesyłki.",module,Magento_Sales
 "Cannot save track:
 %1","Nie można zapisać ścieżki:
 %1",module,Magento_Sales
-"Cannot unassign status from state","Cannot unassign status from state",module,Magento_Sales
+"Cannot unassign status from state","Nie można cofnąć przypisania stanu od Państwa",module,Magento_Sales
 "New Orders","Nowe zamówienia",module,Magento_Sales
 "Order #%1 created at %2","Zamówienie #%1 utworzone %2",module,Magento_Sales
 "Details for %1 #%2","Szczegóły %1 #%2",module,Magento_Sales
@@ -9089,7 +9089,7 @@ Remove,Usuń,module,Magento_Sales
 "Save in address book","Zapisz w książce adresowej",module,Magento_Sales
 "You don\'t need to select a shipping address.","Nie musisz wybierać adresu wysyłki.",module,Magento_Sales
 "Gift Message for the Entire Order","Opcje prezentowe dla całego zamówienia",module,Magento_Sales
-"Leave this box blank if you don\'t want to leave a gift message for the entire order.","Leave this box blank if you don\'t want to leave a gift message for the entire order.",module,Magento_Sales
+"Leave this box blank if you don\'t want to leave a gift message for the entire order.","Pozostaw to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej do całego zamówienia.",module,Magento_Sales
 "Row Subtotal","Suma częściowa rzędu",module,Magento_Sales
 Action,Operacja,module,Magento_Sales
 "No ordered items","Brak zamówionych przedmiotów",module,Magento_Sales
@@ -9147,7 +9147,7 @@ Message:,Wiadomość:,module,Magento_Sales
 "Shipping &amp; Handling","Wysyłka &amp; Pakowanie",module,Magento_Sales
 "Gift Options","Opcje prezentowe",module,Magento_Sales
 "Create Shipment","Utwórz dostawę",module,Magento_Sales
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Rodzaj faktury i przesyłki nie pasują do niektórych elementów w tej kolejności. Można utworzyć wysyłkę tylko po utworzeniu faktury.",module,Magento_Sales
 %1,%1,module,Magento_Sales
 "Qty to Invoice","Ilość do zafakturowania",module,Magento_Sales
 "Invoice History","Historia faktur",module,Magento_Sales
@@ -9249,7 +9249,7 @@ Search,Szukaj,module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",module,Magento_Sales
 "Gift Options for ","Opcje prezentowe dla ",module,Magento_Sales
 "Add Products","Dodaj produkty",module,Magento_Sales
-"You have item changes","You have item changes",module,Magento_Sales
+"You have item changes","Masz zmiany pozycji",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
 Operations,Operacje,module,Magento_Sales
 Create,Utwórz,module,Magento_Sales
@@ -9283,17 +9283,17 @@ Enable,Włącz,module,Magento_Sales
 "Subtotal after discount","Suma cząstkowa po zniżce",module,Magento_Sales
 "Include Tax to Amount","Zawierają podatek od kwoty",module,Magento_Sales
 "Description Message","Wiadomość opisu",module,Magento_Sales
-"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.",module,Magento_Sales
+"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Ten komunikat pojawi się w koszyku po gdy suma częściowa (po Rabacie) jest niższa niż minimalna dozwolona kwota.",module,Magento_Sales
 "Error to Show in Shopping Cart","Błąd pokazywany w koszyku",module,Magento_Sales
 "Validate Each Address Separately in Multi-address Checkout","Podczas kupowania z wieloma adresami sprawdzaj każdy z nich oddzielnie",module,Magento_Sales
 "Multi-address Description Message","Wiadomość z opisem zamówienia z wieloma adresami",module,Magento_Sales
-"We'll use the default description above if you leave this empty.","We'll use the default description above if you leave this empty.",module,Magento_Sales
+"We'll use the default description above if you leave this empty.","Użyjemy powyższy opis domyślny, jeśli zostawisz puste.",module,Magento_Sales
 "Multi-address Error to Show in Shopping Cart","Błąd zamówienia z wieloma adresami do pokazania w koszyku",module,Magento_Sales
-"We'll use the default error above if you leave this empty.","We'll use the default error above if you leave this empty.",module,Magento_Sales
+"We'll use the default error above if you leave this empty.","Użyjemy powyższych błędów, jeśli zostawisz puste.",module,Magento_Sales
 Dashboard,Panel,module,Magento_Sales
-"Use Aggregated Data","Use Aggregated Data",module,Magento_Sales
+"Use Aggregated Data","Użyj połączonych danych",module,Magento_Sales
 "Orders Cron Settings","Zamówienia ustawienia Cron",module,Magento_Sales
-"Pending Payment Order Lifetime (minutes)","Pending Payment Order Lifetime (minutes)",module,Magento_Sales
+"Pending Payment Order Lifetime (minutes)","Oczekujące płatności porządku życia (w minutach)",module,Magento_Sales
 "Sales Emails","E-maile sprzedażowe",module,Magento_Sales
 "Asynchronous sending","Wysyłanie asynchroniczne",module,Magento_Sales
 Enabled,Włączone,module,Magento_Sales
@@ -9362,7 +9362,7 @@ Created,Utworzono,module,Magento_Sales
 "Ship Date","Data wysyłki",module,Magento_Sales
 "Total Quantity","Całkowita ilość",module,Magento_Sales
 "Default Status","Domyślny status",module,Magento_Sales
-"State Code and Title","State Code and Title",module,Magento_Sales
+"State Code and Title","Kod stanu i tytuł",module,Magento_Sales
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Sales
 "PDF Credit Memos","Pobierz fakturę korygującą",module,Magento_Sales
 "Purchase Point","Punkt zakupu",module,Magento_Sales
@@ -10571,15 +10571,15 @@ Stores,Sklepy,module,Magento_Support
 "New Report","Nowy raport",module,Magento_Support
 "Date Generated","Data wygenerowania",module,Magento_Support
 "Report Groups","Raport grupy",module,Magento_Support
-"Swatch Helper: not valid parameter for product instantiation","Swatch Helper: not valid parameter for product instantiation",module,Magento_Swatches
-"Admin is a required field in the each row","Admin is a required field in the each row",module,Magento_Swatches
+"Swatch Helper: not valid parameter for product instantiation","Próbka Helper: nie prawidłowy parametr produktu konkretyzacji",module,Magento_Swatches
+"Admin is a required field in the each row","Admin jest wymagane pola w każdym wierszu",module,Magento_Swatches
 "Update Product Preview Image","Zaktualizuj zdjęcie poglądowe produktu",module,Magento_Swatches
 "Filtering by this attribute will update the product image on catalog page","Filtrowanie według tej cechy zaktualizuje zdjęcie produktu na stronie katalogu",module,Magento_Swatches
 "Use Product Image for Swatch if Possible","Używaj zdjęć produktów do próbek jeżeli to możliwe",module,Magento_Swatches
-"Allows use fallback logic for replacing swatch image with product swatch or base image","Allows use fallback logic for replacing swatch image with product swatch or base image",module,Magento_Swatches
+"Allows use fallback logic for replacing swatch image with product swatch or base image","Umożliwia wykorzystanie rezerwowej logikę zastąpienie obrazu próbki produktu próbkę lub podstawy obrazu",module,Magento_Swatches
 "Visual Swatch","Graficzna próbka",module,Magento_Swatches
 "Text Swatch","Tekstowa próbka",module,Magento_Swatches
-"Manage Swatch (Values of Your Attribute)","Manage Swatch (Values of Your Attribute)",module,Magento_Swatches
+"Manage Swatch (Values of Your Attribute)","Zarządzać Swatch (wartości swojej atrybutu)",module,Magento_Swatches
 "Is Default","Jest domyślny",module,Magento_Swatches
 Swatch,Próbka,module,Magento_Swatches
 "Add Swatch","Dodaj próbkę",module,Magento_Swatches
@@ -10599,7 +10599,7 @@ Options,Opcje,module,Magento_Swatches
 "Remove Option","Usuń opcję",module,Magento_Swatches
 "Create New Value","Utwórz nową wartość",module,Magento_Swatches
 "These changes affect all related products.","Te zmiany wpływają na wszystkie powiązane produkty.",module,Magento_Swatches
-"Swatches per Product","Swatches per Product",module,Magento_Swatches
+"Swatches per Product","Próbki każdego produktu",module,Magento_Swatches
 "Related Products Rule","Powiązane reguły produktów",module,Magento_TargetRule
 "Add Rule","Dodaj regułę",module,Magento_TargetRule
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_TargetRule
