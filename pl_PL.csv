@@ -6447,8 +6447,8 @@ Sender,Nadawca,module,Magento_Newsletter
 "Template Type","Typ szablonu",module,Magento_Newsletter
 Action,Operacja,module,Magento_Newsletter
 "Queue Newsletter","Kolejki Newsletter",module,Magento_Newsletter
-"We unsubscribed the people you identified.","We unsubscribed the people you identified.",module,Magento_Newsletter
-"The problems you identified have been deleted.","The problems you identified have been deleted.",module,Magento_Newsletter
+"We unsubscribed the people you identified.","Możemy wypisać osoby zidentyfikowane.",module,Magento_Newsletter
+"The problems you identified have been deleted.","Problemy, które zidentyfikowałeś zostały usunięte.",module,Magento_Newsletter
 "Newsletter Problems Report","Raporty problemów z wysyłką newslettera",module,Magento_Newsletter
 "Newsletter Problem Reports","Raporty problemów z wysyłką newslettera",module,Magento_Newsletter
 "Newsletter Queue","Kolejka newslettera",module,Magento_Newsletter
@@ -8299,7 +8299,7 @@ No,Nie,module,Magento_Rma
 Yes,Tak,module,Magento_Rma
 "Submit Returns","Prześlij Odpowiedź",module,Magento_Rma
 "Add Products","Dodaj produkty",module,Magento_Rma
-"Add Selected Product(s) to returns","Add Selected Product(s) to returns",module,Magento_Rma
+"Add Selected Product(s) to returns","Dodaj wybrane produkty jako zwrot",module,Magento_Rma
 "Product Name","Nazwa produktu",module,Magento_Rma
 "Remaining Qty","Pozostała liczba",module,Magento_Rma
 "Requested Qty","Żądana liczba",module,Magento_Rma
@@ -8308,8 +8308,8 @@ Delete,Usuń,module,Magento_Rma
 "Add Details","Dodaj szczegóły",module,Magento_Rma
 Select,Wybierz,module,Magento_Rma
 Price,Cena,module,Magento_Rma
-"The wrong RMA was requested.","The wrong RMA was requested.",module,Magento_Rma
-"This is the wrong RMA order ID.","This is the wrong RMA order ID.",module,Magento_Rma
+"The wrong RMA was requested.","Został zgłoszony zły RMA.",module,Magento_Rma
+"This is the wrong RMA order ID.","Zły identyfikator zamówienia RMA.",module,Magento_Rma
 "Invalid RMA","Błędne zlecenie RMA",module,Magento_Rma
 "Please enter a valid message.","proszę wprowadź poprawną wiadomość",module,Magento_Rma
 "We cannot add the RMA history.","Nie można dodać historii zleceń RMA.",module,Magento_Rma
@@ -8317,11 +8317,11 @@ Price,Cena,module,Magento_Rma
 "We can\'t retrieve the product list right now.","Nie można pobrać teraz listy produktu.",module,Magento_Rma
 "Please specify a carrier.","Proszę określić dostawcę.",module,Magento_Rma
 "Please enter a tracking number.","Proszę wprowadzić kod śledzenia.",module,Magento_Rma
-"We cannot initialize an RMA to add a tracking number.","We cannot initialize an RMA to add a tracking number.",module,Magento_Rma
+"We cannot initialize an RMA to add a tracking number.","My nie może zainicjować RMA do dodania numeru śledzenia.",module,Magento_Rma
 "We can\'t add a message right now.","Nie można dodać teraz wiadomości.",module,Magento_Rma
 "New Return","Nowy zwrot",module,Magento_Rma
 "%1 RMA(s) cannot be closed","%1 zleceń RMA nie może zostać zamkniętych",module,Magento_Rma
-"We cannot close the RMA request(s).","We cannot close the RMA request(s).",module,Magento_Rma
+"We cannot close the RMA request(s).","Nie można zamknąć żądań RMA.",module,Magento_Rma
 "%1 RMA (s) have been closed.","%1 zleceń RMA zostało zamkniętych.",module,Magento_Rma
 "You created a shipping label.","Utworzyłeś adres dostawy.",module,Magento_Rma
 "We can\'t create a shipping label right now.","Nie można utworzyć tera etykiety wysyłki.",module,Magento_Rma
@@ -8335,9 +8335,9 @@ Price,Cena,module,Magento_Rma
 "Returns Attributes","Atrybuty zwrotów",module,Magento_Rma
 "New Return Attribute","Nowy atrybut zwrotu",module,Magento_Rma
 "You saved the RMA item attribute.","Atrybut produktu RMA został zapisany.",module,Magento_Rma
-"Something went wrong while saving the RMA item attribute.","Something went wrong while saving the RMA item attribute.",module,Magento_Rma
+"Something went wrong while saving the RMA item attribute.","Coś się zepsuło podczas zapisywania atrybutu element RMA.",module,Magento_Rma
 "An attribute with the same code already exists.","Cecha o podanym kodzie już istnieje.",module,Magento_Rma
-"The wrong RMA item was requested.","The wrong RMA item was requested.",module,Magento_Rma
+"The wrong RMA item was requested.","Niewłaściwy element RMA został zgłoszony.",module,Magento_Rma
 "We cannot display the item attributes.","Nie można wyświetlić atrybutów produktu.",module,Magento_Rma
 "There are no applicable items for return in this order.","Nie ma odpowiednich produktów dla zwrotu tego zamówienia.",module,Magento_Rma
 "We don't recognize or support the file extension in shipment %1.","Nie możemy rozpoznać lub wesprzeć rozszerzenia pliku tej wysyłki: %1.",module,Magento_Rma
@@ -8346,23 +8346,23 @@ Price,Cena,module,Magento_Rma
 "Products should be added to package(s)","Produkty powinny zostać dodane do paczek",module,Magento_Rma
 "Please enter a valid value.","Podaj prawidłową wartość.",module,Magento_Rma
 "This is the wrong RMA ID.","Zły identyfikator RMA.",module,Magento_Rma
-"We cannot display the available shipping methods.","We cannot display the available shipping methods.",module,Magento_Rma
-"We cannot initialize an RMA to delete a tracking number.","We cannot initialize an RMA to delete a tracking number.",module,Magento_Rma
-"We can\'t delete the tracking number right now.","We can\'t delete the tracking number right now.",module,Magento_Rma
+"We cannot display the available shipping methods.","Nie można wyświetlić dostępnych metod wysyłki.",module,Magento_Rma
+"We cannot initialize an RMA to delete a tracking number.","My nie może zainicjować RMA do usunięcia numeru śledzenia.",module,Magento_Rma
+"We can\'t delete the tracking number right now.","Nie można usunąć teraz numeru śledzenia.",module,Magento_Rma
 "We can\'t save this RMA.","nie można zapisać tego RMA.",module,Magento_Rma
-"You saved the RMA request.","You saved the RMA request.",module,Magento_Rma
-"You did not email your customer. Please check your email settings.","You did not email your customer. Please check your email settings.",module,Magento_Rma
-"You submitted the RMA request.","You submitted the RMA request.",module,Magento_Rma
+"You saved the RMA request.","Zapisano żądanie RMA.",module,Magento_Rma
+"You did not email your customer. Please check your email settings.","Nie utworzono emalia klienta. Proszę sprawdzić ustawienia e-mail.",module,Magento_Rma
+"You submitted the RMA request.","Zgłoszono żądanie RMA.",module,Magento_Rma
 "No items for bundle product","Brak przedmiotów dla tego produktu grupowanego",module,Magento_Rma
-"The wrong order ID or item ID was requested.","The wrong order ID or item ID was requested.",module,Magento_Rma
+"The wrong order ID or item ID was requested.","Nieprawidłowy identyfikator zamówienia lub produktu.",module,Magento_Rma
 "Page not found.","Nie znaleziono strony.",module,Magento_Rma
 "Shipping Labels are not allowed.","Etykiety wysyłkowe nie są dozwolone.",module,Magento_Rma
-"Please select a valid carrier.","Please select a valid carrier.",module,Magento_Rma
+"Please select a valid carrier.","Proszę wybrać prawidłowego przewoźnika.",module,Magento_Rma
 "Please enter a valid tracking number.","Proszę wprowadzić prawidłowy kod śledzenia przesyłki.",module,Magento_Rma
-"We can\'t add a label right now.","We can\'t add a label right now.",module,Magento_Rma
-"You selected the wrong RMA.","You selected the wrong RMA.",module,Magento_Rma
-"We can\'t create a return transaction for order #%1.","We can\'t create a return transaction for order #%1.",module,Magento_Rma
-"You submitted Return #%1.","You submitted Return #%1.",module,Magento_Rma
+"We can\'t add a label right now.","Nie można dodać etykiety teraz.",module,Magento_Rma
+"You selected the wrong RMA.","Wybrano niewłaściwy RMA.",module,Magento_Rma
+"We can\'t create a return transaction for order #%1.","Nie można utworzyć transakcji zwrotu dla zamówienia #%1.",module,Magento_Rma
+"You submitted Return #%1.","Dodano zwrot #%1.",module,Magento_Rma
 "We can\'t create a return right now. Please try again later.","W tej chwili nie możemy utworzyć zwrotu. Proszę spróbować później.",module,Magento_Rma
 "Create New Return","Utwórz nowe żądanie zwrotu",module,Magento_Rma
 "We can\'t delete the label right now.","Nie można usunąć teraz etykiety.",module,Magento_Rma
@@ -8371,7 +8371,7 @@ Price,Cena,module,Magento_Rma
 "My Returns","Moje zwroty",module,Magento_Rma
 "Tracking Information","Informacje o stanie dostawy",module,Magento_Rma
 "Page not found","Nie znaleziono strony",module,Magento_Rma
-"Please check this order for errors.","Please check this order for errors.",module,Magento_Rma
+"Please check this order for errors.","Prosimy o sprawdzenie tego nakazu błędy.",module,Magento_Rma
 "Contact Email Address","Kontaktowy adres e-mail",module,Magento_Rma
 "Text Field","Pole tekstowe",module,Magento_Rma
 "Text Area","Pole typu textarea",module,Magento_Rma
@@ -8398,7 +8398,7 @@ Qty,Ilość,module,Magento_Rma
 "You entered an invalid hostname: ""%1""","Wprowadzono nieprawidłową nazwę hosta: ""%1""",module,Magento_Rma
 """%1"" is longer than allowed.","""%1"" jest dłuższa niż dozwolono.",module,Magento_Rma
 "Unknown service","Nieznana usługa",module,Magento_Rma
-"We can\'t save this RMA. No items were specified.","We can\'t save this RMA. No items were specified.",module,Magento_Rma
+"We can\'t save this RMA. No items were specified.","Nie można zapisać tego RMA. Przedmioty nie zostały określone.",module,Magento_Rma
 Pending,Oczekujący,module,Magento_Rma
 "Partially Authorized","Częściowo autoryzowane",module,Magento_Rma
 "Return Received","Przesyłka otrzymana",module,Magento_Rma
@@ -8410,24 +8410,24 @@ Denied,"Zwrot odrzucony",module,Magento_Rma
 Closed,Zamknięty,module,Magento_Rma
 "Processed and Closed","Przetworzone i zamknięte",module,Magento_Rma
 "This is the wrong RMA item status.","To jest zły stan produktu RMA.",module,Magento_Rma
-"We received your Return request.","We received your Return request.",module,Magento_Rma
-"We authorized your Return request.","We authorized your Return request.",module,Magento_Rma
-"We partially authorized your Return request.","We partially authorized your Return request.",module,Magento_Rma
-"We partially received your Return request.","We partially received your Return request.",module,Magento_Rma
-"We partially approved your Return request.","We partially approved your Return request.",module,Magento_Rma
-"We partially rejected your Return request.","We partially rejected your Return request.",module,Magento_Rma
-"We closed your Return request.","We closed your Return request.",module,Magento_Rma
-"We processed and closed your Return request.","We processed and closed your Return request.",module,Magento_Rma
+"We received your Return request.","Otrzymaliśmy zwrot wniosku.",module,Magento_Rma
+"We authorized your Return request.","Upoważniono twoje żądanie zwrotu.",module,Magento_Rma
+"We partially authorized your Return request.","Możemy częściowo upoważnić twoje żądanie zwrotu.",module,Magento_Rma
+"We partially received your Return request.","Częściowo otrzymaliśmy zwrot wniosku.",module,Magento_Rma
+"We partially approved your Return request.","Przyjęliśmy częściowo żądanie zwrotu.",module,Magento_Rma
+"We partially rejected your Return request.","Możemy częściowo odrzucić żądanie zwrotu.",module,Magento_Rma
+"We closed your Return request.","Zamknęliśmy żądanie zwrotu.",module,Magento_Rma
+"We processed and closed your Return request.","Przetworzone i zamknięte żądania zwrotu.",module,Magento_Rma
 "ID cannot be an empty","Identyfikator nie może być pusty",module,Magento_Rma
-"Requested entity doesn\'t exist","Requested entity doesn\'t exist",module,Magento_Rma
-"Please enter a valid comment.","Please enter a valid comment.",module,Magento_Rma
+"Requested entity doesn\'t exist","Żądana jednostka nie istnieje",module,Magento_Rma
+"Please enter a valid comment.","Wprowadź prawidłowy komentarz.",module,Magento_Rma
 "Invalid carrier: %1","Nieprawidłowy przewoźnik: %1",module,Magento_Rma
 "We need more information to create your shipping label(s). Please verify your store information and shipping settings.","Brak wystarczających informacji do utworzenia etykiety wysyłkowej. Proszę sprawdzić informacje o sklepie oraz ustawienia wysyłki.",module,Magento_Rma
 "No detail for number ""%1""","Brak szczegółów dla numeru ""%1""",module,Magento_Rma
-"Shipment does not exists.","Shipment does not exists.",module,Magento_Rma
-"We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Rma
+"Shipment does not exists.","Przesyłka nie istnieje.",module,Magento_Rma
+"We can\'t load track with retrieving identifier right now.","Nie można teraz załadować trasy z odzyskiwaniem identyfikatora.",module,Magento_Rma
 Message,Wiadomość,module,Magento_Rma
-"No detail for number \\' . . '\\""",No detail for number \\' . . '\\"""""""",module,Magento_Rma
+"No detail for number \\' . . '\\""",Żaden szczegół dla numeru \ '. . '\\"""""""",module,Magento_Rma
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_Rma
 "All Items","Wszystkie produkty",module,Magento_Rma
 "Individual Items","Poszczególne pozycje",module,Magento_Rma
@@ -8455,7 +8455,7 @@ Weight,Waga,module,Magento_Rma
 "Customs Value","Wartość celna",module,Magento_Rma
 "Qty Ordered","Zamówiona ilość",module,Magento_Rma
 "Shipping Information","Informacje o dostawie",module,Magento_Rma
-"Change shipping method.","Change shipping method.",module,Magento_Rma
+"Change shipping method.","Zmień metodę wysyłki.",module,Magento_Rma
 "No authorized items or allowed shipping methods","Brak autoryzowanych produktów lub dozwolonych metod wysyłki",module,Magento_Rma
 Carrier,Przewoźnik,module,Magento_Rma
 Title,Tytuł,module,Magento_Rma
@@ -8504,7 +8504,7 @@ Height,Wysokość,module,Magento_Rma
 "Request Information","Informacje o zwrocie/wymianie",module,Magento_Rma
 "Date Requested","Wymagane dane",module,Magento_Rma
 "Shipping Address","Adres wysyłki",module,Magento_Rma
-"This won\'t take long . . .","This won\'t take long . . .",module,Magento_Rma
+"This won\'t take long . . .","To nie potrwa długo . . .",module,Magento_Rma
 "Shipping and Tracking Information","Informacje o wysyłce i śledzeniu paczki",module,Magento_Rma
 "Track this shipment","Śledź tę przesyłkę",module,Magento_Rma
 "Items Return Requested For","Zwrot żądanych produktów",module,Magento_Rma
@@ -8519,19 +8519,19 @@ Answers,Odpowiedzi,module,Magento_Rma
 "Customer %name has left a new comment:","Klienta %name zostawił nowy komentarz:",module,Magento_Rma
 "%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","Zgłoszenie zwrotu zostało zaktualizowane. Informacje poniżej.",module,Magento_Rma
-"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
+"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","Możesz sprawdzić stan zwrotu <a href=""%account_url""> logując się na swoje konto</a> lub <a href=""%form_url""> używając numeru zamówienia</a>.",module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Jeśli masz jakiekolwiek pytania, prosimy o kontakt na <a href=""mailto:%support_email""> %support_email</a> lub telefonicznie pod %store_phone",module,Magento_Rma
-"Your Return #%increment_id - %status_label","Your Return #%increment_id - %status_label",module,Magento_Rma
-"You can check the status of your return <a href=""%form_url"">using your order number</a>.","You can check the status of your return <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
-"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.",module,Magento_Rma
-"We received your return request. You will be notified when your request is reviewed.","We received your return request. You will be notified when your request is reviewed.",module,Magento_Rma
-"Placed on %created_at","Placed on %created_at",module,Magento_Rma
+"Your Return #%increment_id - %status_label","Twój zwrot #%increment_id - %status_label",module,Magento_Rma
+"You can check the status of your return <a href=""%form_url"">using your order number</a>.","Możesz sprawdzić stan zwrotu <a href=""%form_url""> przy użyciu numeru zamówienia</a>.",module,Magento_Rma
+"If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Jeśli masz jakiekolwiek pytania o zwrocie, prosimy o kontakt na <a href=""mailto:%support_email""> %support_email</a>.",module,Magento_Rma
+"We received your return request. You will be notified when your request is reviewed.","Otrzymaliśmy zwrot wniosku. Użytkownik będzie powiadamiany, gdy żądanie jest przeglądane.",module,Magento_Rma
+"Placed on %created_at","Umieszczony na %created_at",module,Magento_Rma
 "Click Details for more required fields.","Kliknij przycisk Szczegóły po więcej wymaganych pól.",module,Magento_Rma
 Ok,Ok,module,Magento_Rma
 "Create Packages","Utwórz paczkę",module,Magento_Rma
 "Add Package","Dodaj paczkę",module,Magento_Rma
 "RMA Settings","Ustawienia RMA",module,Magento_Rma
-"Enable RMA on Storefront","Enable RMA on Storefront",module,Magento_Rma
+"Enable RMA on Storefront","Włącz RMA na Sklepie",module,Magento_Rma
 "Enable RMA on Product Level","Włącz RMA na poziomie produktu",module,Magento_Rma
 "Use Store Address","Użyj adresu sklepu",module,Magento_Rma
 "Contact Name","Nazwisko klienta",module,Magento_Rma
@@ -9608,14 +9608,12 @@ Promotion,Promocja,module,Magento_SalesRule
 Back,Powrót,module,Magento_SalesRule
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
-                    ","
-                        If you select and save the rule you will be able to generate multiple coupon codes.
-                    ",module,Magento_SalesRule
+                    ","                         Jeśli zaznaczysz i zapiszesz regułę będziesz mógł generować wiele kodów kuponu.
+                     ",module,Magento_SalesRule
 "
                         Usage limit enforced for logged in customers only.
-                    ","
-                        Usage limit enforced for logged in customers only.
-                    ",module,Magento_SalesRule
+                    ","                         Użycie limit wymuszania tylko dla zalogowanych klientów.
+                     ",module,Magento_SalesRule
 Apply,Zastosuj,module,Magento_SalesRule
 "Discount Amount",Zniżka,module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Maksymalna zniżka ilościowa jest stosowana dla",module,Magento_SalesRule
