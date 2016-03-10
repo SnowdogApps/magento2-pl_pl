@@ -6652,8 +6652,8 @@ N/A,N/D,module,Magento_Payment
 "Credit Card Number","Numer karty kredytowej",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Numer wydania karty Switch/Solo/Maestro",module,Magento_Payment
 "Switch/Solo/Maestro Start Date","Data wydania karty Switch/Solo/Maestro",module,Magento_Payment
-"We cannot retrieve the transparent payment method model object.","We cannot retrieve the transparent payment method model object.",module,Magento_Payment
-"Command Executor for %1 is not defined.","Command Executor for %1 is not defined.",module,Magento_Payment
+"We cannot retrieve the transparent payment method model object.","Nie można pobrać przezroczystej informacji modelu obiektu płatności.",module,Magento_Payment
+"Command Executor for %1 is not defined.","Executor polecenia %1 nie jest zdefiniowana.",module,Magento_Payment
 "Command %1 does not exist.","Polecenie %1 nie istnieje.",module,Magento_Payment
 "Transaction has been declined. Please try again later.","Transakcja została odrzucona. Prosimy spróbować ponownie później.",module,Magento_Payment
 "Wrong gateway response format.","Nieprawidłowy format odpowiedzi bramki.",module,Magento_Payment
@@ -7168,18 +7168,18 @@ Manage,Zarządzaj,module,Magento_Paypal
 "Advertise PayPal Credit","Reklama PayPal Credit",module,Magento_Paypal
 "
                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\ target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
+"                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                        <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
 "                        from PayPal Credit&#174;. Your customers have more time to pay","                        z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                        Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
-"                        or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                        or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""",module,Magento_Paypal
+"                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
+"                        or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 ",",",",module,Magento_Paypal
 "                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
+"                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                        <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
 "                        from PayPal Credit&#174;. Your customers have more time to pay","                        z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                        Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
-"                        or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                        or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""",module,Magento_Paypal
+"                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
+"                        or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 "
 Publisher ID""","ID"" wydawcy",module,Magento_Paypal
 "Required to display a banner","Wymagane do wyświetlania banerów",module,Magento_Paypal
@@ -7198,9 +7198,9 @@ Title,Tytuł,module,Magento_Paypal
 "Payment Action","Akcja płatności",module,Magento_Paypal
 "Display on Product Details Page","Pokazuj na stronie produktu",module,Magento_Paypal
 "Authorization Honor Period (days)","Okres honorowania autoryzacji (dni)",module,Magento_Paypal
-"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
+"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Określa, co okresu cześć autoryzacji jest na konto PayPal handlowca. To musi odpowiadać ustawienia w PayPal.",module,Magento_Paypal
 "Order Valid Period (days)","Okres ważności zamówienia (dni)",module,Magento_Paypal
-"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
+"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Określa, co okresu prawidłową kolejność jest na konto PayPal handlowca. To musi odpowiadać ustawienia w PayPal.",module,Magento_Paypal
 "Number of Child Authorizations","Ilość podrzędnych autoryzacji",module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.",module,Magento_Paypal
 "Advanced Settings","Zaawansowane ustawienia",module,Magento_Paypal
@@ -7281,18 +7281,18 @@ User,Użytkownik,module,Magento_Paypal
 "Use Proxy","Używaj proxy",module,Magento_Paypal
 "
                     <a href=\\https://financing.paypal.com/ppfinportal/content/whyUseFinancing\\ target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                     <a href=\\https://financing.paypal.com/ppfinportal/content/whyUseFinancing\\target=\\"_blank\\"> Dlaczego reklama finansowana?</a> <br/>""",module,Magento_Paypal
-"                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
+"                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                            <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
 "                                            from PayPal Credit&#174;. Your customers have more time to pay","                                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
-"                                            or more. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                            or more. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""",module,Magento_Paypal
+"                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
+"                                            or more. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                            lub więcej. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 ",",",",module,Magento_Paypal
 "                    <a href=\\https://financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https://financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
+"                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                            <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
 "                                            from PayPal Credit&#174;. Your customers have more time to pay","                                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
-"                                            or more. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                            or more. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""",module,Magento_Paypal
+"                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
+"                                            or more. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                            lub więcej. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 "
 Basic Settings - PayPal Payments Advanced""","
 Podstawowe ustawienia - PayPal Payments Advanced""",module,Magento_Paypal
@@ -7303,7 +7303,7 @@ Podstawowe ustawienia - PayPal Payments Advanced""",module,Magento_Paypal
 "URL method for Cancel URL and Return URL","URL method for Cancel URL and Return URL",module,Magento_Paypal
 "Payflow Link (Includes Express Checkout)","Payflow Link (Includes Express Checkout)",module,Magento_Paypal
 "Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Połącz swoje konto handlowe ze zgodną z PCI bramką płatności, która pozwoli klientom płacić bez opuszczania Twojej strony.",module,Magento_Paypal
-"Payflow Link and Express Checkout","Payflow Link and Express Checkout",module,Magento_Paypal
+"Payflow Link and Express Checkout","Payflow Link i ekspresowa realizacja transakcji",module,Magento_Paypal
 "Email Associated with PayPal Merchant Account (Optional)","E-mail powiązany z kontem handlowca PayPal (opcjonalne)",module,Magento_Paypal
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.",module,Magento_Paypal
 "Enable Payflow Link","Włącz Payflow Link",module,Magento_Paypal
@@ -7314,18 +7314,18 @@ Podstawowe ustawienia - PayPal Payments Advanced""",module,Magento_Paypal
 "Payments Pro Hosted Solution","Payments Pro Hosted Solution",module,Magento_Paypal
 "
                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\ target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
+"                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                            <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
 "                            from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
-"                            or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                            or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""",module,Magento_Paypal
+"                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
+"                            or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 ",",",",module,Magento_Paypal
 "                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing",module,Magento_Paypal
+"                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                            <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
 "                            from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
 "                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
-"                            or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                            or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""",module,Magento_Paypal
+"                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
+"                            or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
 "
 Basic Settings - PayPal Payments Pro Hosted Solution""","
 Podstawowe ustawienia - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
@@ -10003,7 +10003,7 @@ Print,Drukuj,module,Magento_Shipping
 "Please specify a carrier.","Proszę określić dostawcę.",module,Magento_Shipping
 "Please enter a tracking number.","Proszę wprowadzić kod śledzenia przesyłki.",module,Magento_Shipping
 Shipments,Dostawy,module,Magento_Shipping
-"We can\'t initialize shipment for adding tracking number.","We can\'t initialize shipment for adding tracking number.",module,Magento_Shipping
+"We can\'t initialize shipment for adding tracking number.","Nie można zainicjować wysyłki po dodanie numeru śledzenia.",module,Magento_Shipping
 "Cannot add tracking number.","Nie można dodać numeru przesyłki.",module,Magento_Shipping
 "You created the shipping label.","Utworzyłeś adres dostawy.",module,Magento_Shipping
 "An error occurred while creating shipping label.","Wystąpił błąd podczas tworzenia etykiety wysyłkowej.",module,Magento_Shipping
@@ -10012,9 +10012,9 @@ Shipments,Dostawy,module,Magento_Shipping
 "There are no shipping labels related to selected orders.","Brak etykiet adresowych powiązanych z wybranymi zamówieniami.",module,Magento_Shipping
 "New Shipment","Nowa dostawa",module,Magento_Shipping
 "We don\'t recognize or support the file extension in this shipment: %1.","Nie możemy rozpoznać lub wesprzeć rozszerzenia pliku tej wysyłki: %1.",module,Magento_Shipping
-"We can\'t initialize shipment for delete tracking number.","We can\'t initialize shipment for delete tracking number.",module,Magento_Shipping
-"We can\'t delete tracking number.","We can\'t delete tracking number.",module,Magento_Shipping
-"We can\'t load track with retrieving identifier right now.","We can\'t load track with retrieving identifier right now.",module,Magento_Shipping
+"We can\'t initialize shipment for delete tracking number.","Nie można zainicjować przesyłki do usuwania numeru śledzenia.",module,Magento_Shipping
+"We can\'t delete tracking number.","Nie można usunąć numer przesyłki.",module,Magento_Shipping
+"We can\'t load track with retrieving identifier right now.","Nie można teraz załadować trasy z odzyskiwaniem identyfikatora.",module,Magento_Shipping
 "We can\'t save the shipment right now.","Nie możemy teraz zapisać tej wysyłki.",module,Magento_Shipping
 "The shipment has been created.","Dostawa została utworzona.",module,Magento_Shipping
 "Cannot save shipment.","Nie można zapisać dostawy.",module,Magento_Shipping
@@ -10090,7 +10090,7 @@ Save,Zapisz,module,Magento_Shipping
 "Add Package","Dodaj pakiet",module,Magento_Shipping
 "Add Selected Product(s) to Package","Dodaj wybrane produkty do pakietu",module,Magento_Shipping
 "Add Products to Package","Dodaj produkt do pakietu",module,Magento_Shipping
-"USPS domestic shipments don\'t use package types.","USPS domestic shipments don\'t use package types.",module,Magento_Shipping
+"USPS domestic shipments don\'t use package types.","USPS przesyłek krajowych nie obsługuje typów przesyłki.",module,Magento_Shipping
 in,inW,module,Magento_Shipping
 cm,cm,module,Magento_Shipping
 lb,lb,module,Magento_Shipping
@@ -10217,7 +10217,7 @@ Enabled,Włączone,module,Magento_Sitemap
 "Maximum No of URLs Per File","Maksymalna liczba adresów URL dla pliku",module,Magento_Sitemap
 "Maximum File Size","Maksymalny rozmiar pliku",module,Magento_Sitemap
 "File size in bytes.","Rozmiar pliku w bajtach.",module,Magento_Sitemap
-"Search Engine Submission Settings","Search Engine Submission Settings",module,Magento_Sitemap
+"Search Engine Submission Settings","Ustawienia wyszukiwania silnika",module,Magento_Sitemap
 "Enable Submission to Robots.txt","Włącz uzupełnianie Robots.txt",module,Magento_Sitemap
 ID,ID,module,Magento_Sitemap
 "Link for Google","Link dla Google",module,Magento_Sitemap
@@ -10300,7 +10300,7 @@ Name,Nazwa,module,Magento_Staging
 "Requested store is not found","Wybrany sklep nie został odnaleziony",module,Magento_Store
 "Environment emulation nesting is not allowed.","Zagnieżdżenie emulacji środowiska nie jest dozwolone.",module,Magento_Store
 "Only default scope allowed","Dozwolony jest jedynie zakres domyślny",module,Magento_Store
-"Invalid scope object","Invalid scope object",module,Magento_Store
+"Invalid scope object","Nieprawidłowy zakres obiektu",module,Magento_Store
 "Store with the same code","Sklep z takim samym kodem",module,Magento_Store
 "Website with the same code","Witryna z takim samym kodem",module,Magento_Store
 "Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Kod witryny powinien składać się jedynie z liter (a-z), cyfr (0-9) lub podkreślenia (_), pierwszy znak powinien być literą.",module,Magento_Store
@@ -10326,7 +10326,7 @@ Layouts,Szablony,module,Magento_Store
 "Collections Data","Zbiór danych",module,Magento_Store
 "Collection data files","Kolekcja plików danych",module,Magento_Store
 "Reflection Data","Zbiór danych",module,Magento_Store
-"API interfaces reflection data","API interfaces reflection data",module,Magento_Store
+"API interfaces reflection data","Interfejsy API refleksji danych",module,Magento_Store
 "Database DDL operations","Operacje DDL bazy danych",module,Magento_Store
 "Results of DDL queries, such as describing tables or indexes","Wyniki zapytania DDL, takich jak tabel lub indeksów",module,Magento_Store
 Back,Powrót,module,Magento_Support
@@ -10467,7 +10467,7 @@ Id,ID,module,Magento_Support
 "Duplicate Categories By URL Key","Duplikuj kategorie po kluczu URL",module,Magento_Support
 "URL key","Klucz URL",module,Magento_Support
 Store,Sklep,module,Magento_Support
-"Duplicate Orders By Increment Id","Duplicate Orders By Increment Id",module,Magento_Support
+"Duplicate Orders By Increment Id","Zduplikowane zamówienia przez przyrost Id",module,Magento_Support
 "Increment Id","Identyfikator przyrostowy",module,Magento_Support
 "Customer Id","Identyfikator klienta",module,Magento_Support
 "Duplicate Products By SKU","Duplikuj produkty po SKU",module,Magento_Support
@@ -10485,40 +10485,40 @@ Parent,Rodzic,module,Magento_Support
 "Observer Class","Klasa obserwatora",module,Magento_Support
 Method,Metoda,module,Magento_Support
 "All Admin Events","Wszystkie zdarzenia administracyjne",module,Magento_Support
-"All Crontab Events","All Crontab Events",module,Magento_Support
-"All Doc Events","All Doc Events",module,Magento_Support
-"All Frontend Events","All Frontend Events",module,Magento_Support
+"All Crontab Events","Wszystkie wydarzenia Crontab",module,Magento_Support
+"All Doc Events","Wydarzenia ""Cały dzień""",module,Magento_Support
+"All Frontend Events","Wszystkie wydarzenia Frontend",module,Magento_Support
 "All Global events","Wszystkie globalne zdarzenia",module,Magento_Support
 "All REST Events","Wszystkie zdarzenia dla REST",module,Magento_Support
-"All SOAP Events","All SOAP Events",module,Magento_Support
-"Core Admin Events","Core Admin Events",module,Magento_Support
-"Core Crontab Events","Core Crontab Events",module,Magento_Support
-"Core Doc Events","Core Doc Events",module,Magento_Support
-"Core Frontend Events","Core Frontend Events",module,Magento_Support
-"Core Global Events","Core Global Events",module,Magento_Support
-"Core REST Events","Core REST Events",module,Magento_Support
-"Core SOAP Events","Core SOAP Events",module,Magento_Support
-"Custom Admin Events","Custom Admin Events",module,Magento_Support
-"Custom Crontab Events","Custom Crontab Events",module,Magento_Support
-"Custom Doc Events","Custom Doc Events",module,Magento_Support
-"Custom Frontend Events","Custom Frontend Events",module,Magento_Support
-"Custom Global Events","Custom Global Events",module,Magento_Support
-"Custom REST Events","Custom REST Events",module,Magento_Support
-"Custom SOAP Events","Custom SOAP Events",module,Magento_Support
+"All SOAP Events","Wszystkie zdarzenia protokołu SOAP",module,Magento_Support
+"Core Admin Events","Rdzeń zdarzenia administracyjne",module,Magento_Support
+"Core Crontab Events","Rdzeń wydarzenia Crontab",module,Magento_Support
+"Core Doc Events","Rdzeń ""Cały dzień""",module,Magento_Support
+"Core Frontend Events","Rdzeń wydarzenia Frontend",module,Magento_Support
+"Core Global Events","Rdzeń wydarzenia Global",module,Magento_Support
+"Core REST Events","Rdzeµ zdarzeń dla REST",module,Magento_Support
+"Core SOAP Events","Rdzeń zdarzenia protokołu SOAP",module,Magento_Support
+"Custom Admin Events","Zdarzenia niestandardowe Admin",module,Magento_Support
+"Custom Crontab Events","Zdarzenia niestandardowe Crontab",module,Magento_Support
+"Custom Doc Events","Zdarzenia niestandardowe Doc",module,Magento_Support
+"Custom Frontend Events","Zdarzenia niestandardowe Frontend",module,Magento_Support
+"Custom Global Events","Zdarzenia niestandardowe Global",module,Magento_Support
+"Custom REST Events","Zdarzenia niestandardowe REST",module,Magento_Support
+"Custom SOAP Events","Zdarzenia niestandardowe SOAP",module,Magento_Support
 "Log Files","Pliki logów",module,Magento_Support
 File,Plik,module,Magento_Support
 Size,Rozmiar,module,Magento_Support
-"Log Entries","Log Entries",module,Magento_Support
+"Log Entries","Wpisy dziennika",module,Magento_Support
 "Last Update","Ostatnia aktualizacja",module,Magento_Support
-"Today\'s Top Debug Messages","Today\'s Top Debug Messages",module,Magento_Support
+"Today\'s Top Debug Messages","Dzisiaj górne komunikaty debugowania",module,Magento_Support
 Message,Wiadomość,module,Magento_Support
-"Last Occurrence","Last Occurrence",module,Magento_Support
-"Today\'s Top Exception Messages","Today\'s Top Exception Messages",module,Magento_Support
-"Stack Trace","Stack Trace",module,Magento_Support
-"Today\'s Top System Messages","Today\'s Top System Messages",module,Magento_Support
-"Top Debug Messages","Top Debug Messages",module,Magento_Support
-"Top Exception Messages","Top Exception Messages",module,Magento_Support
-"Top System Messages","Top System Messages",module,Magento_Support
+"Last Occurrence","Ostatnie wystąpienie",module,Magento_Support
+"Today\'s Top Exception Messages","Dziś wyjątek w górnej wiadomości",module,Magento_Support
+"Stack Trace","Zrzut stosu",module,Magento_Support
+"Today\'s Top System Messages","Dzisiaj górne komunikaty systemowe",module,Magento_Support
+"Top Debug Messages","Górny komunikaty Debugowania",module,Magento_Support
+"Top Exception Messages","Wyjątek w górnej wiadomości",module,Magento_Support
+"Top System Messages","Górne komunikaty systemowe",module,Magento_Support
 "Store Views List","Lista widoku sklepu",module,Magento_Support
 "Stores List","Lista sklepów",module,Magento_Support
 "Root Category","Kategoria bazowa",module,Magento_Support
@@ -10551,7 +10551,7 @@ Expand,Rozwiń,module,Magento_Support
 " (no data)"," (brak danych)",module,Magento_Support
 Top,"Na górze",module,Magento_Support
 "No data","Brak danych",module,Magento_Support
-"Support System Report","Support System Report",module,Magento_Support
+"Support System Report","System wsparcia raportu",module,Magento_Support
 "System Report","Raport systemu",module,Magento_Support
 Data,Dane,module,Magento_Support
 Modules,Moduły,module,Magento_Support
