@@ -5664,13 +5664,13 @@ Name,Nazwa,module,Magento_Integration
 Email,E-mail,module,Magento_Integration
 "Callback URL","Zwrotny adres URL",module,Magento_Integration
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Wprowadź adres URL gdzie Oauth poświadczenia mogą być wysyłane przy użyciu Oauth dla tokenu wymiany. Zdecydowanie zalecamy używanie https://.",module,Magento_Integration
-"Identity link URL","Identity link URL",module,Magento_Integration
-"URL to redirect user to link their 3rd party account with this Magento integration credentials.","URL to redirect user to link their 3rd party account with this Magento integration credentials.",module,Magento_Integration
+"Identity link URL","Tożsamość link URL",module,Magento_Integration
+"URL to redirect user to link their 3rd party account with this Magento integration credentials.","Adres URL, aby przekierować użytkownika do jego trzeciej strony konta z integracją Magento.",module,Magento_Integration
 "Current User Identity Verification","Weryfikacja tożsamości użytkownika",module,Magento_Integration
 "Your Password","Twoje hasło",module,Magento_Integration
 "Integration Details","Szczegóły integracji",module,Magento_Integration
 "Basic Settings","Podstawowe ustawienia",module,Magento_Integration
-"Integration Tokens for Extensions","Integration Tokens for Extensions",module,Magento_Integration
+"Integration Tokens for Extensions","Tokeny integracji dla rozszerzenia",module,Magento_Integration
 "Consumer Key","Klucz klienta",module,Magento_Integration
 "Consumer Secret","Klucz tajny konsumenta",module,Magento_Integration
 "Access Token","Token dostępu",module,Magento_Integration
@@ -5689,7 +5689,7 @@ Reauthorize,Autoryzuj,module,Magento_Integration
 "View ""%1"" Integration","Widok ""%1"" integracji",module,Magento_Integration
 "Edit ""%1"" Integration","Edytuj integrację ""%1""",module,Magento_Integration
 "Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Ostrzeżenie! Nie używaj integracji za pomocą HTTPS, są niebezpieczne i mogą narazić prywatne lub identyfikowalne informacje",module,Magento_Integration
-"Cannot edit integrations created via config file.","Cannot edit integrations created via config file.",module,Magento_Integration
+"Cannot edit integrations created via config file.","Nie można edytować integracji utworzony za pomocą pliku konfiguracyjnego.",module,Magento_Integration
 "The integration \'%1\' has been saved.","Integracja \'%1\' został zapisany.",module,Magento_Integration
 "The integration was not saved.","Integracja nie została zapisana.",module,Magento_Integration
 "The integration '%1' has been re-authorized.","Integracja ""%1"" została ponownie autoryzowana.",module,Magento_Integration
@@ -5707,45 +5707,45 @@ Active,Aktywny,module,Magento_Integration
 Reset,Resetuj,module,Magento_Integration
 "Integration with name \'%1\' exists.","Integracja o nazwie \'%1\' już istnieje.",module,Magento_Integration
 "Integration with ID \'%1\' does not exist.","Integracja z ID \'%1\' nie istnieje.",module,Magento_Integration
-"One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.",module,Magento_Integration
+"One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","Jeden lub więcej <a href=""%1""> integracji</a> zostały zresetowane ze zmiany ich configs xml.",module,Magento_Integration
 "Invalid Callback URL","Nieoprawny adres zwrotny",module,Magento_Integration
 "Invalid Rejected Callback URL","Odrzucone zwrotnego adresu URL",module,Magento_Integration
 "Incorrect timestamp value in the oauth_timestamp parameter","Nieprawidłowa wartość sygnatury czasowej w parametrze oauth_timestamp",module,Magento_Integration
 "The nonce is already being used by the consumer with ID %1","Chwilowo jest już używana przez konsumentów z ID %1",module,Magento_Integration
 "An error occurred validating the nonce","Wystąpił błąd podczas sprawdzania tymczasowej poprawności",module,Magento_Integration
-"Cannot convert to access token due to token is not request type","Cannot convert to access token due to token is not request type",module,Magento_Integration
+"Cannot convert to access token due to token is not request type","Nie można przekonwertować na dostęp tokenu z tokenu to nie jest typ żądania",module,Magento_Integration
 "Consumer key has expired","Klucz klienta wygasł",module,Magento_Integration
-"Cannot create request token because consumer token is not a verifier token","Cannot create request token because consumer token is not a verifier token",module,Magento_Integration
-"Request token is not associated with the specified consumer","Request token is not associated with the specified consumer",module,Magento_Integration
+"Cannot create request token because consumer token is not a verifier token","Nie można utworzyć tokenu żądania, ponieważ token konsumenta nie jest tokenem weryfikatora",module,Magento_Integration
+"Request token is not associated with the specified consumer","Żądania tokenu nie są skojarzone z określonym konsumentem",module,Magento_Integration
 "Token is already being used","Token został już użyty",module,Magento_Integration
-"Cannot get access token because consumer token is not a request token","Cannot get access token because consumer token is not a request token",module,Magento_Integration
-"Token is not associated with the specified consumer","Token is not associated with the specified consumer",module,Magento_Integration
+"Cannot get access token because consumer token is not a request token","Nie można uzyskać token dostępu, ponieważ token konsumenta nie jest tokenem żądania",module,Magento_Integration
+"Token is not associated with the specified consumer","Token nie jest skojarzony z określonym konsumentem",module,Magento_Integration
 "Token is not an access token","Token jest nie tokenem dostępu",module,Magento_Integration
-"Access token has been revoked","Access token has been revoked",module,Magento_Integration
+"Access token has been revoked","Token dostępu został odwołany",module,Magento_Integration
 "Consumer key is not the correct length","Nieprawidłowa długość kluza uzytkownika",module,Magento_Integration
 "A consumer having the specified key does not exist","Użytkownik o okreslonym kluzu nie istnieje",module,Magento_Integration
 "Verifier is invalid","Weryfikator jest nieprawidłowy",module,Magento_Integration
 "Verifier is not the correct length","Nieprawidłowa długość weryfikatora",module,Magento_Integration
-"Token verifier and verifier token do not match","Token verifier and verifier token do not match",module,Magento_Integration
+"Token verifier and verifier token do not match","Tokenu weryfikatora i weryfikator tokenu nie pasują",module,Magento_Integration
 "A consumer with the ID %1 does not exist","Klient z ID %1 nie istnieje",module,Magento_Integration
 "Token is not the correct length","Nieprawidłowa długość tokenu",module,Magento_Integration
 "Specified token does not exist","Wybrany token nie istnieje",module,Magento_Integration
-"A token with consumer ID %1 does not exist","A token with consumer ID %1 does not exist",module,Magento_Integration
-"Unexpected error. Unable to create oAuth consumer account.","Unexpected error. Unable to create oAuth consumer account.",module,Magento_Integration
-"Unexpected error. Unable to load oAuth consumer account.","Unexpected error. Unable to load oAuth consumer account.",module,Magento_Integration
+"A token with consumer ID %1 does not exist","Token z identyfikatorem konsumenta %1 nie istnieje",module,Magento_Integration
+"Unexpected error. Unable to create oAuth consumer account.","Nieoczekiwany błąd. Nie można utworzyć konto konsumentów oAuth.",module,Magento_Integration
+"Unexpected error. Unable to load oAuth consumer account.","Nieoczekiwany błąd. Nie można załadować konto konsumentów oAuth.",module,Magento_Integration
 "A consumer with ID %1 does not exist","Klient z ID %1 nie istnieje",module,Magento_Integration
-"Unable to post data to consumer due to an unexpected error","Unable to post data to consumer due to an unexpected error",module,Magento_Integration
+"Unable to post data to consumer due to an unexpected error","Nie można opublikować dane konsumenta ze względu na nieoczekiwany błąd",module,Magento_Integration
 "Consumer with ID \'%1\' does not exist.","Użytkownik z ID \'%1\' nie istnieje.",module,Magento_Integration
-"Invalid token to except","Invalid token to except",module,Magento_Integration
+"Invalid token to except","Nieprawidłowy token z wyjątkiem",module,Magento_Integration
 "Integration with ID '%1' doesn't exist.","Integracja z ID '%1' nie istnieje.",module,Magento_Integration
 "Your account is temporarily disabled.","Twoje konto jest tymczasowo wyłączone.",module,Magento_Integration
 "You have entered an invalid password for current user.","Wpisałeś nieprawidłowe hasło dla bieżącego użytkownika.",module,Magento_Integration
-"A token with consumer ID 0 does not exist","A token with consumer ID 0 does not exist",module,Magento_Integration
-"The integration you selected asks you to approve access to the following:","The integration you selected asks you to approve access to the following:",module,Magento_Integration
+"A token with consumer ID 0 does not exist","Token z identyfikatorem konsumenta 0 nie istnieje",module,Magento_Integration
+"The integration you selected asks you to approve access to the following:","Wybrana integracja prosi, aby zatwierdzić dostęp do następujących:",module,Magento_Integration
 "No permissions requested","Nie są wymagane żadne uprawnienia",module,Magento_Integration
 "Are you sure ?","Czy na pewno tego chcesz ?",module,Magento_Integration
-"Are you sure you want to delete this integration? You can't undo this action.","Are you sure you want to delete this integration? You can't undo this action.",module,Magento_Integration
-"Please setup or sign in into your 3rd party account to complete setup of this integration.","Please setup or sign in into your 3rd party account to complete setup of this integration.",module,Magento_Integration
+"Are you sure you want to delete this integration? You can't undo this action.","Czy na pewno chcesz usunąć tą integrację? Tej akcji nie można cofnąć.",module,Magento_Integration
+"Please setup or sign in into your 3rd party account to complete setup of this integration.","Proszę ustawić lub Zaloguj na konto zewnętrznej usługi aby zakończyć instalację tej integracji.",module,Magento_Integration
 "Available APIs","Dostępne API",module,Magento_Integration
 "Resource Access","Dostęp do zasobów",module,Magento_Integration
 Custom,Niestandardowe,module,Magento_Integration
@@ -5760,8 +5760,8 @@ OAuth,OAuth,module,Magento_Integration
 "Cleanup Probability","Prawdopodobieństwo czyszczenia",module,Magento_Integration
 "Expiration Period","Okres ważności",module,Magento_Integration
 "Consumer Settings","Ustawienia konsumentów",module,Magento_Integration
-"OAuth consumer credentials HTTP Post maxredirects","OAuth consumer credentials HTTP Post maxredirects",module,Magento_Integration
-"OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration
+"OAuth consumer credentials HTTP Post maxredirects","OAuth konsumentów poświadczenia HTTP Post maxredirects",module,Magento_Integration
+"OAuth consumer credentials HTTP Post timeout","OAuth konsumentów poświadczenia HTTP Post timeout",module,Magento_Integration
 "Integrations Configuration","Konfiguracja integracji",module,Magento_Integration
 "Integration configuration file","Plik konfiguracyjny integracji",module,Magento_Integration
 "Integrations API Configuration","Konfiguracja API integracji",module,Magento_Integration
@@ -7485,39 +7485,39 @@ Delete,Usuń,module,Magento_ProductVideo
 "Could not delete coupon code","Nie udało się usunąć kodu rabatowego",module,Magento_Quote
 "Shipping address is not set","Nie jest ustawiony adres dostawy",module,Magento_Quote
 "The requested Payment Method is not available.","Wybrana metoda płatności nie jest dostępna.",module,Magento_Quote
-"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Quote
-"This is the wrong quote item id to update configuration.","This is the wrong quote item id to update configuration.",module,Magento_Quote
+"We found an invalid request for adding product to quote.","Znaleźliśmy błędne polecenia dodania produktu do zapytania.",module,Magento_Quote
+"This is the wrong quote item id to update configuration.","To jest nieprawidłowe id produktu zapytania do aktualizacji konfiguracji.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki nie jest dostępna. By jej użyć skontaktuj się z nami.",module,Magento_Quote
 "The address model is not defined.","Model adresu nie został zdefiniowany.",module,Magento_Quote
 "The address total model should be extended from
-                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Adres całkowity modelu powinien zostać przedłużony z 
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
 "Grand Total",Łącznie,module,Magento_Quote
 "Shipping & Handling (%1)","Wysyłka i obsługa (%1)",module,Magento_Quote
 "Shipping & Handling","Wysyłka i obsługa",module,Magento_Quote
 Shipping,Dostawa,module,Magento_Quote
 Subtotal,"Suma częściowa",module,Magento_Quote
-"We found an invalid item option format.","We found an invalid item option format.",module,Magento_Quote
+"We found an invalid item option format.","Znaleźliśmy nieprawidłowy format opcji produktu.",module,Magento_Quote
 "An item option with code %1 already exists.","Opcja produktu z kodem %1 już istnieje.",module,Magento_Quote
 "Item qty declaration error","Błąd deklaracji ilości produktu",module,Magento_Quote
 "Some of the products below do not have all the required options.","Część produktów poniżej nie ma wszystkich wymaganych opcji.",module,Magento_Quote
-"Something went wrong during the item options declaration.","Something went wrong during the item options declaration.",module,Magento_Quote
-"We found an item options declaration error.","We found an item options declaration error.",module,Magento_Quote
+"Something went wrong during the item options declaration.","Coś się zepsuło podczas deklaracji Opcje produktu.",module,Magento_Quote
+"We found an item options declaration error.","Znaleźliśmy błąd deklaracji opcji produktu.",module,Magento_Quote
 "Some of the selected options are not currently available.","Niektóre wybrane opcje nie są aktualnie dostępne.",module,Magento_Quote
 "Selected option(s) or their combination is not currently available.","Wybrane opcje lub ich kombinacje nie są dostępne.",module,Magento_Quote
 "Some item options or their combination are not currently available.","Wybrane opcje lub ich kombinacje nie są dostępne.",module,Magento_Quote
 "Cart %1 doesn\'t contain item  %2","Koszyk %1 nie zawiera produktu %2",module,Magento_Quote
 "Could not save quote","Nie udało się zapisać koszyka",module,Magento_Quote
 "Could not remove item from quote","Nie udało się usunąć tej pozycji z koszyka",module,Magento_Quote
-"The qty value is required to update quote item.","The qty value is required to update quote item.",module,Magento_Quote
+"The qty value is required to update quote item.","Wartość ilość jest wymagana do aktualizacji pozycji qty.",module,Magento_Quote
 "Invalid customer id %1","Nieprawidłowy identyfikator klienta: %1",module,Magento_Quote
 "Invalid address id %1","Nieprawidłowy adres id %1",module,Magento_Quote
 "Cannot create quote","Nie udało się utworzyć koszyka",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart belongs to different store.","Cannot assign customer to the given cart. The cart belongs to different store.",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart is not anonymous.","Cannot assign customer to the given cart. The cart is not anonymous.",module,Magento_Quote
-"Cannot assign customer to the given cart. Customer already has active cart.","Cannot assign customer to the given cart. Customer already has active cart.",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart belongs to different store.","Nie można przypisać klienta do danego koszyka. Koszyk należy do innego sklepu.",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart is not anonymous.","Nie można przypisać klienta do danego koszyka. Koszyk nie jest anonimowy.",module,Magento_Quote
+"Cannot assign customer to the given cart. Customer already has active cart.","Nie można przypisać klienta do danego koszyka. Klient ma już aktywny koszyk.",module,Magento_Quote
 "Cannot place order.","Nie można złożyć zamówienia.",module,Magento_Quote
-"This item price or quantity is not valid for checkout.","This item price or quantity is not valid for checkout.",module,Magento_Quote
+"This item price or quantity is not valid for checkout.","Ta cena lub ilość nie jest ważna dla kasy.",module,Magento_Quote
 "Please check the shipping address information. %1","Proszę sprawdzić adres dostawy. %1",module,Magento_Quote
 "Please specify a shipping method.","Prosimy o wybór metody dostawy.",module,Magento_Quote
 "Please check the billing address information. %1","Proszę sprawdzić adres rozliczeniowy. %1",module,Magento_Quote
@@ -7536,7 +7536,7 @@ error345,błąd345,module,Magento_Quote
 Carts,Koszyki,module,Magento_Quote
 "Manage carts","Zarządzaj koszykami",module,Magento_Quote
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Powiązane reguły automatycznego przypomnienia: %1. Usunięcie pozycji spowoduje usunięcie tych powiązań.",module,Magento_Reminder
-"Automated Email Marketing Reminder Rules","Automated Email Marketing Reminder Rules",module,Magento_Reminder
+"Automated Email Marketing Reminder Rules","Edytuj zasady automatycznego przypominania reguł marketingowych email",module,Magento_Reminder
 "Add New Rule","Dodaj regułę",module,Magento_Reminder
 "Are you sure you want to match this rule now?","Are you sure you want to match this rule now?",module,Magento_Reminder
 "No more than %1 customers may receive the reminder email after this action.","Liczba klientów, która może otrzymać e-mail z przypomnieniem po tej akcji: %1.",module,Magento_Reminder
@@ -8342,7 +8342,7 @@ Price,Cena,module,Magento_Rma
 "There are no applicable items for return in this order.","Nie ma odpowiednich produktów dla zwrotu tego zamówienia.",module,Magento_Rma
 "We don't recognize or support the file extension in shipment %1.","Nie możemy rozpoznać lub wesprzeć rozszerzenia pliku tej wysyłki: %1.",module,Magento_Rma
 "Something went wrong creating a shipping label.","Coś się zepsuło, tworząc etykietę wysyłkową.",module,Magento_Rma
-"A quantity you\'re trying to add exceeds the number of products we shipped.","A quantity you\'re trying to add exceeds the number of products we shipped.",module,Magento_Rma
+"A quantity you\'re trying to add exceeds the number of products we shipped.","Ilość którą próbujesz dodać przekracza liczbę wysyłanych przez nas produktów.",module,Magento_Rma
 "Products should be added to package(s)","Produkty powinny zostać dodane do paczek",module,Magento_Rma
 "Please enter a valid value.","Podaj prawidłową wartość.",module,Magento_Rma
 "This is the wrong RMA ID.","Zły identyfikator RMA.",module,Magento_Rma
