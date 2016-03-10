@@ -8085,28 +8085,28 @@ Customers,Klienci,module,Magento_Reward
 "You saved the rate.","Zapisałeś stawkę.",module,Magento_Reward
 "We can\'t save this rate right now.","Nie możemy zapisać tej stawki.",module,Magento_Reward
 "Please enter all rate information.","Proszę podać wszystkie informacje stawki.",module,Magento_Reward
-"Please enter a positive integer number in the left rate field.","Please enter a positive integer number in the left rate field.",module,Magento_Reward
-"Please enter a positive number in the right-side rate field.","Please enter a positive number in the right-side rate field.",module,Magento_Reward
-"Please enter a positive integer number in the right-side rate field.","Please enter a positive integer number in the right-side rate field.",module,Magento_Reward
-"Please enter a positive number in the left-side rate field.","Please enter a positive number in the left-side rate field.",module,Magento_Reward
+"Please enter a positive integer number in the left rate field.","Wprowadź liczbę dodatnią liczbę całkowitą w polu po lewej.",module,Magento_Reward
+"Please enter a positive number in the right-side rate field.","Proszę wprowadzić liczbę dodatnią w polu po prawej stronie.",module,Magento_Reward
+"Please enter a positive integer number in the right-side rate field.","Wprowadź liczbę dodatnią całkowitą w polu po prawej stronie.",module,Magento_Reward
+"Please enter a positive number in the left-side rate field.","Proszę wprowadzić liczbę dodatnią w polu po lewej stronie.",module,Magento_Reward
 "Sorry, but a rate for the same website, customer group and direction or covering rate already exists.","Sorry, but a rate for the same website, customer group and direction or covering rate already exists.",module,Magento_Reward
-"You removed the reward points from this order.","You removed the reward points from this order.",module,Magento_Reward
-"Reward points will not be used in this order.","Reward points will not be used in this order.",module,Magento_Reward
+"You removed the reward points from this order.","Usunięte punkty nagrody z tego zamówienia.",module,Magento_Reward
+"Reward points will not be used in this order.","Nagroda punktów nie zostanie użyta się w tym zamówieniu.",module,Magento_Reward
 "Page not found.","Nie znaleziono strony.",module,Magento_Reward
 "You saved the settings.","Zapisano ustawienia.",module,Magento_Reward
 "You unsubscribed.","Możesz się wypisać.",module,Magento_Reward
-"You can\'t unsubscribed right now.","You can\'t unsubscribed right now.",module,Magento_Reward
-"%1 Reward points (%2)","%1 Reward points (%2)",module,Magento_Reward
-"%1 Reward points","%1 Reward points",module,Magento_Reward
+"You can\'t unsubscribed right now.","Nie możesz się teraz wypisać.",module,Magento_Reward
+"%1 Reward points (%2)","%1 nagroda punktów (%2)",module,Magento_Reward
+"%1 Reward points","%1 - Punkty lojalnościowe",module,Magento_Reward
 "Updated by moderator","Zaktualizowane przez moderatora",module,Magento_Reward
-"Refunded from order #%1","Refunded from order #%1",module,Magento_Reward
-"Points voided at order #%1 refund.","Points voided at order #%1 refund.",module,Magento_Reward
-"The invitation to %1 converted into a customer.","The invitation to %1 converted into a customer.",module,Magento_Reward
-"The invitation to %1 converted into an order.","The invitation to %1 converted into an order.",module,Magento_Reward
-"Signed up for newsletter with email %1","Signed up for newsletter with email %1",module,Magento_Reward
-"Redeemed for order #%1","Redeemed for order #%1",module,Magento_Reward
-"Earned points for order #%1","Earned points for order #%1",module,Magento_Reward
-"Reverted from incomplete order #%1","Reverted from incomplete order #%1",module,Magento_Reward
+"Refunded from order #%1","Zwrócone od zamówienia #%1",module,Magento_Reward
+"Points voided at order #%1 refund.","Unieważnione zamówienia #%1 zwrot punktów.",module,Magento_Reward
+"The invitation to %1 converted into a customer.","Zaproszenie do %1 prze konwertowana na odbiorcę.",module,Magento_Reward
+"The invitation to %1 converted into an order.","Zaproszenie do %1 zamienione na zamówienie.",module,Magento_Reward
+"Signed up for newsletter with email %1","Zapisano na newsletter z poczta elektroniczna %1",module,Magento_Reward
+"Redeemed for order #%1","Wykupiłem na zamówienie #%1",module,Magento_Reward
+"Earned points for order #%1","Zdobytych punktów przy zamówieniu #%1",module,Magento_Reward
+"Reverted from incomplete order #%1","Wróciła z niezrealizowanej części zamówienia #%1",module,Magento_Reward
 "Registered as customer","Zarejestrowany jako klient",module,Magento_Reward
 "For submitting a product review","For submitting a product review",module,Magento_Reward
 "Earned promotion extra points from order #%1","Earned promotion extra points from order #%1",module,Magento_Reward
@@ -8129,7 +8129,7 @@ First,Pierwszy,module,Magento_Reward
 "Customer earned promotion extra %1.","Customer earned promotion extra %1.",module,Magento_Reward
 "The customer earned %1 for this order.","The customer earned %1 for this order.",module,Magento_Reward
 "Add Reward Points","Dodaj punkty lojalnościowe",module,Magento_Reward
-"Reward Points Balance","Reward Points Balance",module,Magento_Reward
+"Reward Points Balance","Nagroda punktów równowagi",module,Magento_Reward
 "upper boundary","upper boundary",module,Magento_Reward
 "Refund Reward Points","Refund Reward Points",module,Magento_Reward
 "Reward Points refunded to customer","Reward Points refunded to customer",module,Magento_Reward
