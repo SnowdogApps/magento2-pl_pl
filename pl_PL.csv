@@ -7538,7 +7538,7 @@ Carts,Koszyki,module,Magento_Quote
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Powiązane reguły automatycznego przypomnienia: %1. Usunięcie pozycji spowoduje usunięcie tych powiązań.",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Edytuj zasady automatycznego przypominania reguł marketingowych email",module,Magento_Reminder
 "Add New Rule","Dodaj regułę",module,Magento_Reminder
-"Are you sure you want to match this rule now?","Are you sure you want to match this rule now?",module,Magento_Reminder
+"Are you sure you want to match this rule now?","Czy na pewno chcesz dopasować tę regułę?",module,Magento_Reminder
 "No more than %1 customers may receive the reminder email after this action.","Liczba klientów, która może otrzymać e-mail z przypomnieniem po tej akcji: %1.",module,Magento_Reminder
 "Run Now","Uruchom teraz",module,Magento_Reminder
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Reminder
@@ -7550,7 +7550,7 @@ Conditions,Warunki,module,Magento_Reminder
 ID,ID,module,Magento_Reminder
 Email,E-mail,module,Magento_Reminder
 "Matched At",Dopasowano,module,Magento_Reminder
-"Thread Active","Thread Active",module,Magento_Reminder
+"Thread Active","Wątek Aktywny",module,Magento_Reminder
 No,Nie,module,Magento_Reminder
 Yes,Tak,module,Magento_Reminder
 Coupon,Kupon,module,Magento_Reminder
@@ -7576,13 +7576,13 @@ To,Do,module,Magento_Reminder
 "Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter \"7, 14\" to trigger emails in 7 days, and then 14 days after that).","Wprowadź liczbę dni, po których przypomnienie e-mail zostanie ponownie wysłane, jeśli jej reguła jest nadal spełniana (Np.: Wprowadź \"7, 14\" by wysłać e-mail wpierw za 7 dni, a następnie 14 dni później).",module,Magento_Reminder
 "Select Rule...","Wybierz regułę...",module,Magento_Reminder
 "Email Templates","Szablony e-mail",module,Magento_Reminder
-"Only customers who have an account for a store view will receive emails related to that store view.","Only customers who have an account for a store view will receive emails related to that store view.",module,Magento_Reminder
+"Only customers who have an account for a store view will receive emails related to that store view.","Tylko klienci, którzy mają konto na widok sklepu otrzymają e-maile związane z tym widokiem sklepu.",module,Magento_Reminder
 "Default Titles and Description","Domyślne tytuły i opisy",module,Magento_Reminder
-"You can find and edit rule label and descriptions, per store view, in email templates.","You can find and edit rule label and descriptions, per store view, in email templates.",module,Magento_Reminder
+"You can find and edit rule label and descriptions, per store view, in email templates.","Można znaleźć i edytować reguły etykiet i opisów, w widoku sklepu, w szablonach wiadomości e-mail.",module,Magento_Reminder
 "Rule Title for All Store Views","Tytuł reguły dla wszystkich widoków sklepu",module,Magento_Reminder
-"Rule Description for All Store Views","Rule Description for All Store Views",module,Magento_Reminder
-"Titles and Descriptions Per Store View","Titles and Descriptions Per Store View",module,Magento_Reminder
-"Overrides default titles and descriptions. Note that if an email template is not specified for this store view, the respective variable values will be deleted.","Overrides default titles and descriptions. Note that if an email template is not specified for this store view, the respective variable values will be deleted.",module,Magento_Reminder
+"Rule Description for All Store Views","Opis reguły dla wszystkich widoków sklepu",module,Magento_Reminder
+"Titles and Descriptions Per Store View","Tytuły i opisy dla widoku sklepu",module,Magento_Reminder
+"Overrides default titles and descriptions. Note that if an email template is not specified for this store view, the respective variable values will be deleted.","Zastępuje domyślne tytuły i opisy. Należy zauważyć, że jeśli szablonu wiadomości e-mail nie jest określony dla tego widoku magazynu, odpowiednich wartości zmiennych zostaną usunięte.",module,Magento_Reminder
 "Rule Information","Informacje o regule",module,Magento_Reminder
 "Emails and Labels","E-maile i etykiety",module,Magento_Reminder
 "Matched Customers","Pasujący klienci",module,Magento_Reminder
@@ -7609,8 +7609,8 @@ Daily,Codziennie,module,Magento_Reminder
 for,dla,module,Magento_Reminder
 "for greater than","dla większych niż",module,Magento_Reminder
 "for or greater than","dla równego lub większego niż",module,Magento_Reminder
-"Shopping cart is not empty and abandoned %1 %2 days and %3 of these conditions match:","Shopping cart is not empty and abandoned %1 %2 days and %3 of these conditions match:",module,Magento_Reminder
-"The root shopping cart condition should have a days value of 0 or greater.","The root shopping cart condition should have a days value of 0 or greater.",module,Magento_Reminder
+"Shopping cart is not empty and abandoned %1 %2 days and %3 of these conditions match:","Koszyk jest pusty i został opuszczony %1 %2 dni i %3 tych warunków:",module,Magento_Reminder
+"The root shopping cart condition should have a days value of 0 or greater.","Stan koszyka zakupów korzeń powinien mieć wartość dni 0 lub większa.",module,Magento_Reminder
 "Total Amount","Łączna wartość",module,Magento_Reminder
 subtotal,"suma częściowa",module,Magento_Reminder
 "grand total",ogółem,module,Magento_Reminder
@@ -7624,9 +7624,9 @@ quantity,ilość,module,Magento_Reminder
 "base cost","podstawowy koszt",module,Magento_Reminder
 "Item %1 %2 %3:","Produkt %1 %2 %3:",module,Magento_Reminder
 "Unknown attribute specified","Nieznane określenie cechy",module,Magento_Reminder
-"Items Subselection","Items Subselection",module,Magento_Reminder
+"Items Subselection","Produkty Podselekcji",module,Magento_Reminder
 "Coupon Code","Kod kuponu",module,Magento_Reminder
-"Shopping cart %1 a coupon applied","Shopping cart %1 a coupon applied",module,Magento_Reminder
+"Shopping cart %1 a coupon applied","Zakupy koszyka %1 kupony zastosowane",module,Magento_Reminder
 has,ma,module,Magento_Reminder
 "does not have","nie ma",module,Magento_Reminder
 "Cart Line Items","Pozycje koszyka",module,Magento_Reminder
@@ -7634,24 +7634,24 @@ has,ma,module,Magento_Reminder
 SKU,SKU,module,Magento_Reminder
 "Item SKU %1 %2 ","Produkt SKU %1 %2 ",module,Magento_Reminder
 "Store View","Widok sklepu",module,Magento_Reminder
-"The item was added to shopping cart %1, store view %2.","The item was added to shopping cart %1, store view %2.",module,Magento_Reminder
+"The item was added to shopping cart %1, store view %2.","Element został dodany do koszyka zakupowego %1, widok sklepu %2.",module,Magento_Reminder
 from,od,module,Magento_Reminder
 "not from","nie stąd",module,Magento_Reminder
 found,znaleziono,module,Magento_Reminder
 "not found","nie znaleziono",module,Magento_Reminder
-"If an item is %1 in the shopping cart and %2 of these conditions match:","If an item is %1 in the shopping cart and %2 of these conditions match:",module,Magento_Reminder
+"If an item is %1 in the shopping cart and %2 of these conditions match:","Jeśli produkt jest %1 w koszyku zakupowym i %2 jedne z tych warunków daje prawdę:",module,Magento_Reminder
 "Items Quantity","Ilość produktów",module,Magento_Reminder
-"Total shopping cart items quantity %1 %2:","Total shopping cart items quantity %1 %2:",module,Magento_Reminder
+"Total shopping cart items quantity %1 %2:","Suma ilości koszyka zakupowego %1 %2:",module,Magento_Reminder
 "Virtual Only","Tylko wirtualne",module,Magento_Reminder
 "Shopping cart %1 only virtual items","koszyk %1 tylko wirtualne przedmioty",module,Magento_Reminder
 "Wish List","Lista życzeń",module,Magento_Reminder
 "Shopping Cart",Koszyk,module,Magento_Reminder
-"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:",module,Magento_Reminder
-"The root wish list condition should have a days value of 1 or greater.","The root wish list condition should have a days value of 1 or greater.",module,Magento_Reminder
+"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","Lista życzeń nie jest pusta i została opuszczona %1 %2 dni i %3 tych warunków:",module,Magento_Reminder
+"The root wish list condition should have a days value of 1 or greater.","Stan listy życzeń powinien mieć wartość dni 1 lub większą.",module,Magento_Reminder
 "Product Attributes","Cechy produktu",module,Magento_Reminder
 "Product %1","Produkt %1",module,Magento_Reminder
 "Number of Items","Ilość produktów",module,Magento_Reminder
-"Number of wish list items %1 %2 ","Number of wish list items %1 %2 ",module,Magento_Reminder
+"Number of wish list items %1 %2 ","Liczba elementów listy życzeń %1 %2 ",module,Magento_Reminder
 Sharing,Udostępnianie,module,Magento_Reminder
 "Wish List %1 shared","Lista życzeń %1 udostępniona",module,Magento_Reminder
 is,jest,module,Magento_Reminder
@@ -7661,7 +7661,7 @@ is,jest,module,Magento_Reminder
 "Condition type is unexpected","Typ warunku jest nieakceptowany",module,Magento_Reminder
 "Please specify a valid number of minute.","Proszę wprowadzić prawidłową liczbę minut.",module,Magento_Reminder
 "Unable to save Cron expression","Nie można zapisać wyrażenia cron.",module,Magento_Reminder
-"<b>Important</b>: If you select \"Use Auto Generation\", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Important</b>: If you select \"Use Auto Generation\", this rule will no longer be used in any automated email reminder rules for abandoned carts",module,Magento_Reminder
+"<b>Important</b>: If you select \"Use Auto Generation\", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Ważne</b>: Jeśli wybierzesz \"Use Auto Generation\", ta reguła będzie już używany w automatyczny e-mail przypomnienie zasad dla porzuconych wozów",module,Magento_Reminder
 "Validate error 1","Błąd walidacji 1",module,Magento_Reminder
 "Validate error 2","Błąd walidacji 2",module,Magento_Reminder
 LocalizedException,LocalizedException,module,Magento_Reminder
@@ -7671,19 +7671,19 @@ text,tekst,module,Magento_Reminder
 "Hurry up to take advantage of this promotion!","Pospiesz się, aby skorzystać z tej promocji!",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Aby skorzystać z promocji musisz zalogować się na <a href=""%account_url"">%store_name</a> i zastosować kupon ""%coupon_code"" w koszyku.",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","Aby skorzystać z promocji musisz zalogować się na <a href=""%account_url"">%store_name</a>",module,Magento_Reminder
-"This coupon can be used only up to %coupon_limit time(s) by you or other customers.","This coupon can be used only up to %coupon_limit time(s) by you or other customers.",module,Magento_Reminder
+"This coupon can be used only up to %coupon_limit time(s) by you or other customers.","Ten kupon może służyć tylko do %coupon_limit przedziały czasu przez Ciebie lub innych klientów.",module,Magento_Reminder
 "You can use this coupon up to %coupon_limit time(s).","Możesz użyć tego kuponu do %coupon_limit razy.",module,Magento_Reminder
 "Promo Section","Sekcja promocji",module,Magento_Reminder
 "Automated Email Reminder Rules","Edytuj zasady automatycznego przypominania",module,Magento_Reminder
 "Enable Reminder Emails","Włącz przypomnienia e-mail",module,Magento_Reminder
 Frequency,Częstotliwość,module,Magento_Reminder
 Interval,Interwał,module,Magento_Reminder
-"Set this value equal or greater to your Magento cron job launch period.","Set this value equal or greater to your Magento cron job launch period.",module,Magento_Reminder
-"Minute of the Hour","Minute of the Hour",module,Magento_Reminder
+"Set this value equal or greater to your Magento cron job launch period.","Ta wartość równa lub większa od twojego rozpoczęcia okresu Magento cron job.",module,Magento_Reminder
+"Minute of the Hour","Minuty, godziny",module,Magento_Reminder
 "Valid range: 0-59 (default 0).","Prawidłowy zakres: 0-59 (domyślnie 0).",module,Magento_Reminder
 "Start Time","Czas rozpoczęcia",module,Magento_Reminder
-"Maximum Emails per One Run","Maximum Emails per One Run",module,Magento_Reminder
-"Email Send Failure Threshold","Email Send Failure Threshold",module,Magento_Reminder
+"Maximum Emails per One Run","Maksymalna ilość e-maili na jednym uruchomieniu",module,Magento_Reminder
+"Email Send Failure Threshold","Próg awarii wysyłania e-mail",module,Magento_Reminder
 "Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.","Upewnij się, że wartość graniczna jest wprowadzona. W innym wypadku e-maile przypominające będą ponownie wysyłane do klientów w pętli.",module,Magento_Reminder
 "Reminder Email Sender","Nadawca e-maili przypominających",module,Magento_Reminder
 Rule,Reguła,module,Magento_Reminder
@@ -8056,35 +8056,35 @@ Unlimited,Nielimitowany,module,Magento_Reward
 Website,Witryna,module,Magento_Reward
 Balance,Bilans,module,Magento_Reward
 "Currency Amount",Wartość,module,Magento_Reward
-"Reward Points Threshold","Reward Points Threshold",module,Magento_Reward
-"Reward Points Cap","Reward Points Cap",module,Magento_Reward
+"Reward Points Threshold","Punkty zwrotne progu",module,Magento_Reward
+"Reward Points Cap","Punkty zwrotne",module,Magento_Reward
 "Delete Orphan Points","Usuń porzucone punkty",module,Magento_Reward
-"Update Reward Points Balance","Update Reward Points Balance",module,Magento_Reward
+"Update Reward Points Balance","Aktualizacja nagrody punktów równowagi",module,Magento_Reward
 Store,Sklep,module,Magento_Reward
 "Update Points","Aktualizuj Punkty",module,Magento_Reward
-"Enter a negative number to subtract from the balance.","Enter a negative number to subtract from the balance.",module,Magento_Reward
+"Enter a negative number to subtract from the balance.","Wprowadź liczbę ujemną, aby odjąć od salda.",module,Magento_Reward
 Comment,Komentarz,module,Magento_Reward
-"Reward Points Notifications","Reward Points Notifications",module,Magento_Reward
-"Subscribe for Balance Updates","Subscribe for Balance Updates",module,Magento_Reward
-"Subscribe for Points Expiration Notifications","Subscribe for Points Expiration Notifications",module,Magento_Reward
-"Reward Exchange Rates","Reward Exchange Rates",module,Magento_Reward
+"Reward Points Notifications","Nagroda punktów powiadomienia",module,Magento_Reward
+"Subscribe for Balance Updates","Zapisz się do bilansu aktualizacji",module,Magento_Reward
+"Subscribe for Points Expiration Notifications","Zapisz się do punktów ważności powiadomienia",module,Magento_Reward
+"Reward Exchange Rates","Kursy wymiany nagrody",module,Magento_Reward
 "Add New Rate","Dodaj nowy przelicznik",module,Magento_Reward
-"Edit Reward Exchange Rate","Edit Reward Exchange Rate",module,Magento_Reward
-"New Reward Exchange Rate","New Reward Exchange Rate",module,Magento_Reward
-"Reward Exchange Rate Information","Reward Exchange Rate Information",module,Magento_Reward
+"Edit Reward Exchange Rate","Edycja kursu wymiany nagrody",module,Magento_Reward
+"New Reward Exchange Rate","Nowy kurs wymiany nagrody",module,Magento_Reward
+"Reward Exchange Rate Information","Nagroda kurs wymiany informacji",module,Magento_Reward
 "Customer Group","Grupa klienta",module,Magento_Reward
 Direction,Kierunek,module,Magento_Reward
 Rate,Stawka,module,Magento_Reward
-"Use your reward points; %1 are available.","Use your reward points; %1 are available.",module,Magento_Reward
+"Use your reward points; %1 are available.","Wykorzystaj swoje punkty nagrody; %1 są dostępne.",module,Magento_Reward
 "Learn more","Dowiedz się więcej",module,Magento_Reward
-"This applies only to registered users and may vary when a user is logged in.","This applies only to registered users and may vary when a user is logged in.",module,Magento_Reward
-"You removed the orphan points.","You removed the orphan points.",module,Magento_Reward
+"This applies only to registered users and may vary when a user is logged in.","To dotyczy tylko zarejestrowanych użytkowników i mogą się różnić, gdy użytkownik jest zalogowany.",module,Magento_Reward
+"You removed the orphan points.","Usunięciu sierocych punktów.",module,Magento_Reward
 Customers,Klienci,module,Magento_Reward
-"Manage Reward Exchange Rates","Manage Reward Exchange Rates",module,Magento_Reward
+"Manage Reward Exchange Rates","Zarządzanie Nagrodą wymiany walut",module,Magento_Reward
 "You deleted the rate.","Możesz usunąć regułę.",module,Magento_Reward
-"You saved the rate.","You saved the rate.",module,Magento_Reward
-"We can\'t save this rate right now.","We can\'t save this rate right now.",module,Magento_Reward
-"Please enter all rate information.","Please enter all rate information.",module,Magento_Reward
+"You saved the rate.","Zapisałeś stawkę.",module,Magento_Reward
+"We can\'t save this rate right now.","Nie możemy zapisać tej stawki.",module,Magento_Reward
+"Please enter all rate information.","Proszę podać wszystkie informacje stawki.",module,Magento_Reward
 "Please enter a positive integer number in the left rate field.","Please enter a positive integer number in the left rate field.",module,Magento_Reward
 "Please enter a positive number in the right-side rate field.","Please enter a positive number in the right-side rate field.",module,Magento_Reward
 "Please enter a positive integer number in the right-side rate field.","Please enter a positive integer number in the right-side rate field.",module,Magento_Reward
@@ -8094,7 +8094,7 @@ Customers,Klienci,module,Magento_Reward
 "Reward points will not be used in this order.","Reward points will not be used in this order.",module,Magento_Reward
 "Page not found.","Nie znaleziono strony.",module,Magento_Reward
 "You saved the settings.","Zapisano ustawienia.",module,Magento_Reward
-"You unsubscribed.","You unsubscribed.",module,Magento_Reward
+"You unsubscribed.","Możesz się wypisać.",module,Magento_Reward
 "You can\'t unsubscribed right now.","You can\'t unsubscribed right now.",module,Magento_Reward
 "%1 Reward points (%2)","%1 Reward points (%2)",module,Magento_Reward
 "%1 Reward points","%1 Reward points",module,Magento_Reward
