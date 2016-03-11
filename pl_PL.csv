@@ -8109,12 +8109,12 @@ Customers,Klienci,module,Magento_Reward
 "Reverted from incomplete order #%1","Wróciła z niezrealizowanej części zamówienia #%1",module,Magento_Reward
 "Registered as customer","Zarejestrowany jako klient",module,Magento_Reward
 "For submitting a product review","For submitting a product review",module,Magento_Reward
-"Earned promotion extra points from order #%1","Earned promotion extra points from order #%1",module,Magento_Reward
+"Earned promotion extra points from order #%1","Zarobiono promocyjne punkty za zamówienie #%1",module,Magento_Reward
 "%1 store reward points available (%2)","%1 store reward points available (%2)",module,Magento_Reward
 "%1 store reward points available","%1 store reward points available",module,Magento_Reward
 "%1 was deducted because of refund.","%1 was deducted because of refund.",module,Magento_Reward
-"The action ID you enter must be a number.","The action ID you enter must be a number.",module,Magento_Reward
-"You don\'t have enough reward points to pay for this purchase.","You don\'t have enough reward points to pay for this purchase.",module,Magento_Reward
+"The action ID you enter must be a number.","ID wprowadzonej akcji musi być liczbą.",module,Magento_Reward
+"You don\'t have enough reward points to pay for this purchase.","Nie masz wystarczającej ilości punktów by zapłacić za ten zakup.",module,Magento_Reward
 "Points to Currency","Punkty do waluty",module,Magento_Reward
 "Currency to Points","Waluta na punkty",module,Magento_Reward
 "All Customer Groups","Wszystkie grupy klientów",module,Magento_Reward
