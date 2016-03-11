@@ -8146,7 +8146,7 @@ Date,Data,module,Magento_Reward
 "Your balance is %1.","Saldo jest %1.",module,Magento_Reward
 "Current exchange rates:","Dostosowanie listy walut, ich kursów wymiany i metod płatności:",module,Magento_Reward
 "%1 = %2","%1 = %2",module,Magento_Reward
-"%1 spent = %2 earned","%1 spent = %2 earned",module,Magento_Reward
+"%1 spent = %2 earned","%1 wydane = %2 zyskane",module,Magento_Reward
 None,Brak,module,Magento_Reward
 "Balance limit is %1.","Limitu salda jest %1.",module,Magento_Reward
 "Maximum balance is reached","Maksymalne saldo zostanie osiągnięte",module,Magento_Reward
