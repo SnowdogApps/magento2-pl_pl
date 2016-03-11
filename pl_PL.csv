@@ -8130,7 +8130,7 @@ First,Pierwszy,module,Magento_Reward
 "The customer earned %1 for this order.","The customer earned %1 for this order.",module,Magento_Reward
 "Add Reward Points","Dodaj punkty lojalnościowe",module,Magento_Reward
 "Reward Points Balance","Nagroda punktów równowagi",module,Magento_Reward
-"upper boundary","upper boundary",module,Magento_Reward
+"upper boundary","górna granica",module,Magento_Reward
 "Refund Reward Points","Refund Reward Points",module,Magento_Reward
 "Reward Points refunded to customer","Reward Points refunded to customer",module,Magento_Reward
 Remove,Usuń,module,Magento_Reward
