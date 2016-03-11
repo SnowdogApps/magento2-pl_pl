@@ -8152,7 +8152,7 @@ None,Brak,module,Magento_Reward
 "Maximum balance is reached","Maksymalne saldo zostanie osiągnięte",module,Magento_Reward
 "Minimum Balance in order to redeem: %1.","Minimum Balance in order to redeem: %1.",module,Magento_Reward
 "You need a higher balance to use your rewards points.","You need a higher balance to use your rewards points.",module,Magento_Reward
-"Each earned reward points award expires in %1 days.","Each earned reward points award expires in %1 days.",module,Magento_Reward
+"Each earned reward points award expires in %1 days.","Każde zdobyte punkty lojalnościowe tracą ważność po %1 dniach.",module,Magento_Reward
 "Refer to reward points history to see when a specific record expires.","Refer to reward points history to see when a specific record expires.",module,Magento_Reward
 "Email Notification Settings","Ustawienia powiadomień e-mail",module,Magento_Reward
 "Save Subscription Settings","Zapisz ustawienia subskrypcji",module,Magento_Reward
