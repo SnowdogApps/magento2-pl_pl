@@ -8112,7 +8112,7 @@ Customers,Klienci,module,Magento_Reward
 "Earned promotion extra points from order #%1","Zarobiono promocyjne punkty za zamówienie #%1",module,Magento_Reward
 "%1 store reward points available (%2)","%1 store reward points available (%2)",module,Magento_Reward
 "%1 store reward points available","%1 store reward points available",module,Magento_Reward
-"%1 was deducted because of refund.","%1 was deducted because of refund.",module,Magento_Reward
+"%1 was deducted because of refund.","%1 zostało odliczonych z powodu zwrotu.",module,Magento_Reward
 "The action ID you enter must be a number.","ID wprowadzonej akcji musi być liczbą.",module,Magento_Reward
 "You don\'t have enough reward points to pay for this purchase.","Nie masz wystarczającej ilości punktów by zapłacić za ten zakup.",module,Magento_Reward
 "Points to Currency","Punkty do waluty",module,Magento_Reward
@@ -8123,7 +8123,7 @@ Dynamic,Dynamiczny,module,Magento_Reward
 Each,Każdy,module,Magento_Reward
 First,Pierwszy,module,Magento_Reward
 "All Websites","Wszystkie witryny",module,Magento_Reward
-"""Minimum Reward Points Balance"" should be either a positive number or left empty.","""Minimum Reward Points Balance"" should be either a positive number or left empty.",module,Magento_Reward
+"""Minimum Reward Points Balance"" should be either a positive number or left empty.","""Minimalny balans punktów lojalnościowych"" powinien być liczbą dodatnią lub pozostać pusty.",module,Magento_Reward
 """Cap Reward Points Balance"" should be either a positive number or left empty.","""Cap Reward Points Balance"" should be either a positive number or left empty.",module,Magento_Reward
 """Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".","""Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".",module,Magento_Reward
 "Customer earned promotion extra %1.","Customer earned promotion extra %1.",module,Magento_Reward
@@ -8141,7 +8141,7 @@ Points,Punkty,module,Magento_Reward
 Reason,Powód,module,Magento_Reward
 Date,Data,module,Magento_Reward
 "Expires on %1","Ważny do %1",module,Magento_Reward
-"There is no balance history.","There is no balance history.",module,Magento_Reward
+"There is no balance history.","Nie ma żadnej historii salda.",module,Magento_Reward
 "Reward points balance Information","Reward points balance Information",module,Magento_Reward
 "Your balance is %1.","Saldo jest %1.",module,Magento_Reward
 "Current exchange rates:","Dostosowanie listy walut, ich kursów wymiany i metod płatności:",module,Magento_Reward
@@ -8155,21 +8155,21 @@ None,Brak,module,Magento_Reward
 "Each earned reward points award expires in %1 days.","Each earned reward points award expires in %1 days.",module,Magento_Reward
 "Refer to reward points history to see when a specific record expires.","Refer to reward points history to see when a specific record expires.",module,Magento_Reward
 "Email Notification Settings","Ustawienia powiadomień e-mail",module,Magento_Reward
-"Save Subscription Settings","Save Subscription Settings",module,Magento_Reward
+"Save Subscription Settings","Zapisz ustawienia subskrypcji",module,Magento_Reward
 "%name,","%name,",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","Masz %points_balance punktów, które mogą być używane w naszym sklepie:",module,Magento_Reward
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","<a href=""%unsubscription_url""> rezygnacja</a> z powiadomień.",module,Magento_Reward
-"There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","There are %remaining_days day(s) remaining to use %points_expiring of your reward points.",module,Magento_Reward
+"There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","Ilość dni pozostałych do wykorzystania punktów lojalnościowych (%points_expiring): %remaining_days.",module,Magento_Reward
 "After %remaining_days day(s) these points will expire.","Po % remaining_days dniach te punkty stracą ważność.",module,Magento_Reward
 "You have a total of %points_balance points that may be used in our store:","Masz w sumie %points_balance punktów, które mogą być używane w naszym sklepie:",module,Magento_Reward
-"Reward points","Reward points",module,Magento_Reward
-"Use reward points","Use reward points",module,Magento_Reward
-"Your reward point was successfully applied","Your reward point was successfully applied",module,Magento_Reward
-"Manage Reward Points Balances","Manage Reward Points Balances",module,Magento_Reward
-"Can Spend Reward Points","Can Spend Reward Points",module,Magento_Reward
-"Enable Reward Points Functionality","Enable Reward Points Functionality",module,Magento_Reward
-"Enable Reward Points Functionality on Storefront","Enable Reward Points Functionality on Storefront",module,Magento_Reward
-"Customers May See Reward Points History","Customers May See Reward Points History",module,Magento_Reward
+"Reward points","Punkty lojalnościowe",module,Magento_Reward
+"Use reward points","Wykorzystaj punkty lojalnościowe",module,Magento_Reward
+"Your reward point was successfully applied","Twoje punkty lojalnościowe zostały pomyślnie wykorzystane",module,Magento_Reward
+"Manage Reward Points Balances","Zarządzaj saldem punktów lojalnościowych",module,Magento_Reward
+"Can Spend Reward Points","Można wydać punkty lojalnościowe",module,Magento_Reward
+"Enable Reward Points Functionality","Włącz obsługę punktów lojalnościowych",module,Magento_Reward
+"Enable Reward Points Functionality on Storefront","Włącz obsługę punktów lojalnościowych w witrynie sklepowej",module,Magento_Reward
+"Customers May See Reward Points History","Klienci mogą zobaczyć historię punktów lojalnościowych",module,Magento_Reward
 "Rewards Points Balance Redemption Threshold","Rewards Points Balance Redemption Threshold",module,Magento_Reward
 "An empty value disables this limitation.","An empty value disables this limitation.",module,Magento_Reward
 "Cap Reward Points Balance At","Cap Reward Points Balance At",module,Magento_Reward
