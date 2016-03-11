@@ -8205,13 +8205,13 @@ Created,Utworzono,module,Magento_Reward
 Expires,Wygasa,module,Magento_Reward
 ID,ID,module,Magento_Reward
 "Check out now and earn %1 for this order.","Check out now and earn %1 for this order.",module,Magento_Reward
-"Create an account on our site now and earn %1.","Create an account on our site now and earn %1.",module,Magento_Reward
+"Create an account on our site now and earn %1.","Utwórz konto w naszym sklepie i zyskaj %1.",module,Magento_Reward
 "Subscribe to our newsletter now and earn %1.","Subscribe to our newsletter now and earn %1.",module,Magento_Reward
-"Send this invitation now and earn %s when your invitee signs up on our site.","Send this invitation now and earn %s when your invitee signs up on our site.",module,Magento_Reward
+"Send this invitation now and earn %s when your invitee signs up on our site.","Wyślij zaproszenie teraz i zyskaj %s po tym, jak adresat zarejestruje się w naszym sklepie.",module,Magento_Reward
 "You can reward up to %s invitee registration(s).","You can reward up to %s invitee registration(s).",module,Magento_Reward
-"Earn %s for purchases your invitees make.","Earn %s for purchases your invitees make.",module,Magento_Reward
+"Earn %s for purchases your invitees make.","Zyskaj %s po zakupach zaproszonych przez Ciebie osób.",module,Magento_Reward
 "You can reward up to %s invitee purchase(s).","You can reward up to %s invitee purchase(s).",module,Magento_Reward
-"Submit a review now and earn %1 after the review is approved.","Submit a review now and earn %1 after the review is approved.",module,Magento_Reward
+"Submit a review now and earn %1 after the review is approved.","Dodaj swoją recenzję teraz i zyskaj %1 po tym, jak zostanie ona zatwierdzona.",module,Magento_Reward
 "You can reward up to %1 new reviews(s).","You can reward up to %1 new reviews(s).",module,Magento_Reward
 Return,Zwrot,module,Magento_Rma
 Returns,Zwroty,module,Magento_Rma
