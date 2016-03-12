@@ -45,7 +45,7 @@ minor,drobne,module,Magento_AdminNotification
 notice,informacja,module,Magento_AdminNotification
 "Wrong message type","Nieprawidłowy typ wiadomości",module,Magento_AdminNotification
 "Wrong notification ID specified.","Niepoprawny ID powiadomienia.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=\"%1\">configuration</a>.","Nie zaleca się używania {{base_url}} jako bazowego adresu URL w środowisku produkcyjnym. Radzimy zmianę tej wartości w <a href=\"%1\">konfiguracji</a>.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","Istnieją nieaktualne pamięci podręczne: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1"">strony zarządzania pamięciami podręcznymi</a> i odśwież je.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Nie byliśmy wstanie zsynchronizować jednego lub więcej plików multimedialnych. Zajrzyj do pliku z logami po więcej szczegółów.",module,Magento_AdminNotification
@@ -137,7 +137,7 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "The file is empty.","Plik jest pusty.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Nie podano żadnego SKU produktu. <a href=""%1"">Przejdź tutaj</a>, aby dodać produkt(y) po SKU.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","Nie podałeś SKU produktu.",module,Magento_AdvancedCheckout
-"We can\'t add a product to cart by id \\%1\\.""""""","Nie udało się dodać produktu do koszyka z identyfikatorem \\%1\\.""""""",module,Magento_AdvancedCheckout
+"We can\'t add a product to cart by id ""%1"".","We can\'t add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Wystąpił problem podczas zmiany kolejności tego produktu.",module,Magento_AdvancedCheckout
 "We can\'t find this wish list.","Nie udało się odnaleźć tej listy życzeń.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","Produkty dodane do koszyka: %1.",module,Magento_AdvancedCheckout
@@ -513,6 +513,8 @@ YTD,"Od początku roku",module,Magento_Backend
 "Authentication storage is incorrect.","Magazyn uwierzytelnienia jest niepoprawny.",module,Magento_Backend
 "You did not sign in correctly or your account is temporarily disabled.","Użytkownik nie zalogował się prawidłowo lub konto jest tymczasowo wyłączone.",module,Magento_Backend
 "Authentication error occurred.","Wystąpił błąd uwierzytelniania.",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Admin session lifetime must be less than or equal to 31536000 seconds (one year)",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","Admin session lifetime must be greater than or equal to 60 seconds",module,Magento_Backend
 Order,Zamówienie,module,Magento_Backend
 "Order #%1","Zamówienie #%1",module,Magento_Backend
 "Access denied","Dostęp zabroniony",module,Magento_Backend
@@ -625,22 +627,6 @@ Advanced,Zaawansowane,module,Magento_Backend
 "General Contact","Kontakt ogólny",module,Magento_Backend
 "Sales Representative","Przedstawiciel handlowy",module,Magento_Backend
 "Customer Support","Obsługa klienta",module,Magento_Backend
-"Design Theme","Design tematu",module,Magento_Backend
-"User-Agent Exceptions","Wyjątki User-Agent",module,Magento_Backend
-"
-                        Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
-                    ","
-Wyszukiwane frazy są zwykłymi ciągami znaków lub wyrażeniami regularnymi (PCRE). Są one sprawdzane w tej samej kolejności w której są wpisane. Przykłady:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>                    ",module,Magento_Backend
-"Find a string in client user-agent header and switch to specific design theme for that browser.","Wyszukaj ciąg znaków w nagłówku user-agent klienta i zmień szablon dla tej przeglądarki.",module,Magento_Backend
-Pagination,Stronicowanie,module,Magento_Backend
-"Pagination Frame","Ramka stronicowania",module,Magento_Backend
-"How many links to display at once.","Ile linków wyświetlać na raz.",module,Magento_Backend
-"Pagination Frame Skip","Pomiń ramkę stronicowania",module,Magento_Backend
-"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","Jeśli aktualna pozycja ramki nie pokrywa najwyższych stron, wyrenderuje link do aktualnej pozycji plus/minus ta wartość. ",module,Magento_Backend
-"Anchor Text for Previous","Tekst dla Poprzedni",module,Magento_Backend
-"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Tekst alternatywny dla linku poprzedni w menu paginacji. Jeśli puste, domyślna strzałka zostanie użyta.",module,Magento_Backend
-"Anchor Text for Next","Tekst dla Następny",module,Magento_Backend
-"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Tekst alternatywny dla linku następny w menu paginacji. Jeśli puste, domyślna strzałka zostanie użyta.",module,Magento_Backend
 Developer,Programista,module,Magento_Backend
 Debug,"Tryb debug",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Włączone podpowiedzi ścieżki szablonu na stronie",module,Magento_Backend
@@ -714,7 +700,7 @@ Security,Bezpieczeństwo,module,Magento_Backend
 "Add Secret Key to URLs","Dodaj sekretny klucz do URL",module,Magento_Backend
 "Login is Case Sensitive","Logowanie rozpoznaje wielkość liter",module,Magento_Backend
 "Admin Session Lifetime (seconds)","Czas trwania sesji Admina (w sekundach)",module,Magento_Backend
-"Values less than 60 are ignored.","Wartości mniejsze niż 60 są ignorowane.",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","Please enter at least 60 and at most 31536000 (one year).",module,Magento_Backend
 "Enable Charts","Włącz wykresy",module,Magento_Backend
 Web,Sieć,module,Magento_Backend
 "Url Options","Opcje URL",module,Magento_Backend
@@ -761,12 +747,28 @@ Description,Opis,module,Magento_Backend
 Tags,Tagi,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Błąd 404</h1><p>Strona nie została odnaleziona.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
+"Default Theme","Default Theme",module,Magento_Backend
+"Applied Theme","Applied Theme",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions.",module,Magento_Backend
+"Design Rule","Design Rule",module,Magento_Backend
+"User Agent Rules","User Agent Rules",module,Magento_Backend
+Magento_Ui/js/dynamic-rows/record,Magento_Ui/js/dynamic-rows/record,module,Magento_Backend
+Pagination,Stronicowanie,module,Magento_Backend
+"Pagination Frame","Ramka stronicowania",module,Magento_Backend
+"How many links to display at once.","Ile linków wyświetlać na raz.",module,Magento_Backend
+"Pagination Frame Skip","Pomiń ramkę stronicowania",module,Magento_Backend
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",module,Magento_Backend
+"Anchor Text for Previous","Tekst dla Poprzedni",module,Magento_Backend
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",module,Magento_Backend
+"Anchor Text for Next","Tekst dla Następny",module,Magento_Backend
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",module,Magento_Backend
+"Theme Name","Theme Name",module,Magento_Backend
 "System Backup","Kopia systemu",module,Magento_Backup
 "Database and Media Backup","Kopia bazy danych i mediów",module,Magento_Backup
 "Database Backup","Kopia bazy danych",module,Magento_Backup
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","Archiwum może zostać rozpakowane przy pomocy <a href=%1"">%2</a> w systemach Windows"".",module,Magento_Backup
 "You need more permissions to activate maintenance mode right now.","Potrzebujesz więcej uprawnień, aby uaktywnić tryb przerwy technicznej.",module,Magento_Backup
-"To create the backup, please deselect \"Put store into maintenance mode\" or update your permissions.","W celu utworzenia kopii zapasowej, usuń zaznaczenie \"Przełącz sklep w tryb konserwacji\" lub zaktualizuj swoje uprawnienia.",module,Magento_Backup
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
 "Something went wrong while putting your store into maintenance mode.","Coś się zepsuło podczas przechodzenia sklepu w tryb konserwacji.",module,Magento_Backup
 "You need more free space to create a backup.","Potrzebujesz więcej wolnego miejsca, aby utworzyć kopię zapasową.",module,Magento_Backup
 "You need more permissions to create a backup.","Potrzebujesz więcej uprawnień, aby utworzyć kopię zapasową.",module,Magento_Backup
@@ -781,7 +783,7 @@ successful,"zakończona pomyślnie",module,Magento_Backup
 "You deleted the selected backup(s).","Zaznaczone kopie zostały usunięte.",module,Magento_Backup
 "Can\'t load snapshot archive","Nie można załadować archiwalnego obrazu",module,Magento_Backup
 "Please correct the password.","Proszę poprawić hasło.",module,Magento_Backup
-"To complete the rollback, please deselect \"Put store into maintenance mode\" or update your permissions.","Aby ukończyć wycofywanie, usuń zaznaczenie opcji \"Przełącz sklep w tryb konserwacji\" lub zaktualizuj swoje uprawnienia.",module,Magento_Backup
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
 "We can\'t find the backup file.","Nie możemy odnaleźć pliku z kopią zapasową.",module,Magento_Backup
 "We can\'t connect to the FTP right now.","W tej chili nie możemy połączyć się z FTP.",module,Magento_Backup
 "Failed to validate FTP.","Nie udało się potwierdzić FTP.",module,Magento_Backup
@@ -1388,7 +1390,7 @@ Websites,Witryny,module,Magento_Catalog
 "Create Category","Stwórz Kategorię",module,Magento_Catalog
 "Category Name","Nazwa kategorii",module,Magento_Catalog
 "Parent Category","Kategoria nadrzędna",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products > Categories</a>.","Jeśli nie ma zdefiniowanych kategorii nadrzędnych, proszę użyć kategorii domyślnej. W każdej chwili można zmienić przypisaną kategorię w <a href=\"%1\" target=\"_blank\">Produkty > Kategorie</a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.",module,Magento_Catalog
 "Price Alert Subscriptions","Subskrypcja alertów cen",module,Magento_Catalog
 "Stock Alert Subscriptions","Subskrypcja alertów stanu magazynu",module,Magento_Catalog
 "There are no customers for this alert.","Nie ma klientów dla tego alertu.",module,Magento_Catalog
@@ -1427,11 +1429,6 @@ Edit,Zmień,module,Magento_Catalog
 "Are you sure?","Czy na pewno tego chcesz?",module,Magento_Catalog
 "Change Status","Zmień status",module,Magento_Catalog
 "Update Attributes","Aktualizuj cechy",module,Magento_Catalog
-"Images and Videos","Zdjęcia i filmy",module,Magento_Catalog
-"Click here or drag and drop to add images.","Kliknij tutaj, lub przeciągnij i upuść nowe zdjęcia.",module,Magento_Catalog
-"Delete image","Usuń obraz",module,Magento_Catalog
-"Make Base","Ustaw jako bazę",module,Magento_Catalog
-Hidden,ukryty,module,Magento_Catalog
 "start typing to search category","zacznij pisać by szukać kategorii",module,Magento_Catalog
 "New Category","Nowa kategoria",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","Obrazki (.gif, .jpg, .png)",module,Magento_Catalog
@@ -1459,11 +1456,11 @@ None,Brak,module,Magento_Catalog
 "Price: %1","Cena: %1",module,Magento_Catalog
 "Special Price: %1","Cena promocyjna: %1",module,Magento_Catalog
 "Special Products","Specjalne produkty",module,Magento_Catalog
+"Manage Catalog Categories","Zarządzaj kategoriami katalogu",module,Magento_Catalog
+"Manage Categories","Zarządzanie kategoriami",module,Magento_Catalog
 "You deleted the category.","Usunąłeś kategorię.",module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Kategoria nie została usunięta z powodu błędu.",module,Magento_Catalog
 Categories,Kategorie,module,Magento_Catalog
-"Manage Catalog Categories","Zarządzaj kategoriami katalogu",module,Magento_Catalog
-"Manage Categories","Zarządzanie kategoriami",module,Magento_Catalog
 "Category is not available for requested store.","Dla wybranego sklepu kategoria jest niedostępna.",module,Magento_Catalog
 "There was a category move error.","Wystąpił błąd podczas przenoszenia kategorii.",module,Magento_Catalog
 "There was a category move error. %1","Wystąpił błąd podczas przenoszenia kategorii. %1",module,Magento_Catalog
@@ -1486,7 +1483,7 @@ Catalog,Katalog,module,Magento_Catalog
 "Edit Product Attribute","Edytuj cechę produktu",module,Magento_Catalog
 "An attribute set named \'%1\' already exists.","Zestaw cech o nazwie \'%1\' już istnieje.",module,Magento_Catalog
 "Something went wrong while saving the attribute.","Coś się zepsuło podczas zapisywania cechy.",module,Magento_Catalog
-"Attribute code \"%1\" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Kod cechy \"%1\" jest niepoprawny. Prosimy o używanie jedynie liter (a-z), cyfr (0-9) lub podkreślnika (_) w tym polu, pierwszy znak powinien być literą.",module,Magento_Catalog
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
 "We can\'t update the attribute.","Nie możemy zaktualizować cechy.",module,Magento_Catalog
 "You saved the product attribute.","Atrybut produktu zapisany.",module,Magento_Catalog
 "An attribute with this code already exists.","Atrybut z tym kodem już istnieje.",module,Magento_Catalog
@@ -1567,6 +1564,8 @@ Bottom/Left,Dół/lewo,module,Magento_Catalog
 Bottom/Right,Dół/prawo,module,Magento_Catalog
 Center,Środek,module,Magento_Catalog
 "%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 nie rozszerza \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
+"Something went wrong while saving the file(s).","Something went wrong while saving the file(s).",module,Magento_Catalog
+"File can not be saved to the destination folder.","File can not be saved to the destination folder.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Nieznany typ indeksu EAV ""%1"".",module,Magento_Catalog
 "We can\'t rebuild the index for an undefined product.","Nie można przebudować indeksu dla niezdefiniowanego produktu.",module,Magento_Catalog
 "Bad value was supplied.","Podano błędną wartość.",module,Magento_Catalog
@@ -1644,7 +1643,7 @@ px.,px.,module,Magento_Catalog
 "Please provide valid data","Podaj poprawne dane",module,Magento_Catalog
 "Values of following attributes are invalid: %1","Wartości następujących atrybutów są nieprawidłowe: %1",module,Magento_Catalog
 "Could not save group price","Nie można zapisać ceny grupowej",module,Magento_Catalog
-"We can\'t create writeable directory \\%1\\.""""""","Nie możemy stworzyć zapisywalnego katalogu \\%1\\.""""""",module,Magento_Catalog
+"We can\'t create writeable directory ""%1"".","We can\'t create writeable directory ""%1"".",module,Magento_Catalog
 "The file upload failed.","Wysłanie pliku nie powiodło się.",module,Magento_Catalog
 "The product has required options.","Produkt ma wymagane opcje.",module,Magento_Catalog
 "Something went wrong while processing the request.","Coś się zepsuło podczas przetwarzania żądania.",module,Magento_Catalog
@@ -1708,6 +1707,7 @@ Required,Wymagane,module,Magento_Catalog
 "Compatible File Extensions","Zgodne rozszerzenia pliku",module,Magento_Catalog
 "Maximum Image Size","Maksymalny rozmiar obrazka",module,Magento_Catalog
 "Please leave blank if it is not an image.","Proszę zostawić puste, jeśli nie jest to obraz.",module,Magento_Catalog
+%1,%1,module,Magento_Catalog
 "This item has weight","Ta pozycja ma przypisaną wagę",module,Magento_Catalog
 "This item has no weight","Ta pozycja nie ma przypisanej wagi",module,Magento_Catalog
 "Set Product as New From","Ustaw produkt jako Nowy z",module,Magento_Catalog
@@ -1717,7 +1717,7 @@ Required,Wymagane,module,Magento_Catalog
 "An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Up-sell towaru jest oferowany klientowi droższy lub wyższej jakości alternatywa dla produktu, który klient patrzy.",module,Magento_Catalog
 "Add Up-Sell Products","Dodaj produkty Up-Sell",module,Magento_Catalog
 "Up-Sell Products","Produkty Up-Sell ",module,Magento_Catalog
-"These \"impulse-buy\" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Te \"impulse-buy\" produkty pojawiają się obok koszyka jako cross-sells elementy już w koszyku.",module,Magento_Catalog
+"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.",module,Magento_Catalog
 "Add Cross-Sell Products","Dodaj produkty Cross-Sell",module,Magento_Catalog
 "Cross-Sell Products","Produkty Cross-sell",module,Magento_Catalog
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_Catalog
@@ -1729,7 +1729,7 @@ Actions,Operacje,module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakres do zastosowania dla określonego widoku.",module,Magento_Catalog
 name,nazwa,module,Magento_Catalog
 "Copy Data from","Kopiowanie danych z",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=\"%1\" target=\"_blank\">Products &gt; Categories</a>.","Jeśli nie ma zdefiniowanych kategorii nadrzędnych, proszę użyć kategorii domyślnej. W każdej chwili można zmienić przypisaną kategorię w <a href=\"%1\" target=\"_blank\">Produkty &gt; Kategorie</a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.",module,Magento_Catalog
 "This operation can take a long time","Ta operacja może zająć dużo czasu",module,Magento_Catalog
 "Collapse All","Zwiń wszystko",module,Magento_Catalog
 "Expand All","Rozwiń wszystko",module,Magento_Catalog
@@ -1788,6 +1788,8 @@ Action,Operacja,module,Magento_Catalog
 "Product In Websites","Produkt dostępny w witrynach",module,Magento_Catalog
 "(Copy data from: %1)","(Kopiuj dane z: %1)",module,Magento_Catalog
 "Browse to find or drag image here","Przeglądaj, aby znaleźć lub przeciągnij zdjęcie tutaj",module,Magento_Catalog
+"Delete image","Usuń obraz",module,Magento_Catalog
+Hidden,ukryty,module,Magento_Catalog
 "Alt Text","Tekst alternatywny",module,Magento_Catalog
 Role,Rola,module,Magento_Catalog
 "Image Size","Rozmiar zdjęcia",module,Magento_Catalog
@@ -1900,11 +1902,6 @@ Comma-separated.,"Oddzielone przecinkami.",module,Magento_Catalog
 "Time Format","Format czasu",module,Magento_Catalog
 "Year Range","Zakres lat",module,Magento_Catalog
 "Please use a four-digit year format.","Proszę użyć czerto cyfrowego formatu roku.",module,Magento_Catalog
-"Product Image Watermarks","Znaki wodne produktu",module,Magento_Catalog
-"Watermark Default Size","Domyślna wielkość znaku wodnego",module,Magento_Catalog
-"Watermark Opacity, Percent","Przeźroczystość znaku wodnego, w procentach",module,Magento_Catalog
-Watermark,"Znak wodny",module,Magento_Catalog
-"Watermark Position","Pozycja znaku wodnego",module,Magento_Catalog
 "Use Static URLs for Media Content in WYSIWYG for Catalog","Zastosuj statyczne adresy URL dla multimediów w edytorze dla kategorii",module,Magento_Catalog
 "This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Dotyczy tylko katalogu produktów i kategorii. Treści graficzne będą wstawiane do edytora jako statyczne adresy URL. Treści graficzne nie są aktualizowane, jeśli bazowy adres URL jest zmieniony w konfiguracji.",module,Magento_Catalog
 "Top Level Category","Kategoria najwyższego poziomu",module,Magento_Catalog
@@ -1957,7 +1954,6 @@ Set,Ustaw,module,Magento_Catalog
 "Include in Menu","Pokaż w menu",module,Magento_Catalog
 Content,Zawartość,module,Magento_Catalog
 "Category Image","Obraz kategorii",module,Magento_Catalog
-"Delete Image","Usuń obraz",module,Magento_Catalog
 "Add CMS Block","Dodaj blok CMS",module,Magento_Catalog
 "Display Settings",Wyświetlanie,module,Magento_Catalog
 Anchor,"Zakotwiczona (wyświetla filtry atrybutów)",module,Magento_Catalog
@@ -1979,6 +1975,14 @@ Layout,Układ,module,Magento_Catalog
 "Schedule Design Update","Harmonogram aktualizacji projektu",module,Magento_Catalog
 AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
+"Product Image Watermarks","Znaki wodne produktu",module,Magento_Catalog
+Base,Base,module,Magento_Catalog
+Image,Image,module,Magento_Catalog
+"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Catalog
+"Image Opacity","Image Opacity",module,Magento_Catalog
+"Example format: 200x300.","Example format: 200x300.",module,Magento_Catalog
+"Image Position","Image Position",module,Magento_Catalog
+Small,Small,module,Magento_Catalog
 "Attribute Label","Etykieta cechy",module,Magento_Catalog
 System,System,module,Magento_Catalog
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Catalog
@@ -2109,9 +2113,9 @@ Edit,Zmień,module,Magento_CatalogEvent
 "The fewest you may purchase is %1.","Najmniej, ile możesz zakupić to %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Proszę poprawić ilość dla niektórych produktów.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Najwięcej, ile możnesz kupic to %1.",module,Magento_CatalogInventory
-"We don\'t have as many \\%1\\ as you requested.""""""","Nie mamy tyle \\%1\\" ile zamawiasz.""",module,Magento_CatalogInventory
-"We don\'t have as many \\%1\\ as you requested""","Nie mamy tyle \\%1\\ ile zamawiasz""","We don\'t have as many \\%1\\ as you requested"""," but we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
-"We don\'t have \\%1\\ in the requested quantity""","Nie mamy \\%1\\ w żądanej ilości""","We don\'t have \\%1\\ in the requested quantity"""," so we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
+"We don\'t have as many ""%1"" as you requested.","Nie mamy tyle ""%1"", ile zamawiasz.",module,Magento_CatalogInventory
+"We don\'t have as many ""%1"" as you requested, but we\'ll back order the remaining %2.","Nie mamy tyle ""%1"", ile zamawiasz, jednak zarezerwujemy pozostałe %2.",module,Magento_CatalogInventory
+"We don\'t have ""%1"" in the requested quantity, so we\'ll back order the remaining %2.","Nie mamy ""%1"" w żądanej ilości, więc zarezerwujemy pozostałe %2.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Możesz kupić %1 tylko w ilościach po %2 na raz.",module,Magento_CatalogInventory
 "You can buy this product only in quantities of %1 at a time.","Możesz kupić ten produkt tylko w ilościach po %1 na raz.",module,Magento_CatalogInventory
 "Decimal qty increments is not allowed.","Zwiększanie o wartości dziesiętne nie jest możliwe.",module,Magento_CatalogInventory
@@ -2244,10 +2248,6 @@ Promo,Promocja,module,Magento_CatalogRule
 "Adjust final price to discount value","Dostosuj cenę końcową na wartość rabatu",module,Magento_CatalogRule
 "Conditions Combination","Kombinacja warunków",module,Magento_CatalogRule
 "Product Attribute","Cecha produktu",module,Magento_CatalogRule
-Active,Aktywny,module,Magento_CatalogRule
-Inactive,Nieaktywny,module,Magento_CatalogRule
-Yes,Tak,module,Magento_CatalogRule
-No,Nie,module,Magento_CatalogRule
 "Updated rules applied.","Zaktualizowane reguły zostały zastosowane.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","Wyłączono %1, katalog cena zasad w oparciu o atrybut ""%2"".",module,Magento_CatalogRule
 "Catalog Rule Product","Produkt reguły katalogu",module,Magento_CatalogRule
@@ -2258,12 +2258,14 @@ Rule,Reguła,module,Magento_CatalogRule
 Start,Start,module,Magento_CatalogRule
 End,Koniec,module,Magento_CatalogRule
 Status,Status,module,Magento_CatalogRule
+Active,Aktywny,module,Magento_CatalogRule
+Inactive,Nieaktywny,module,Magento_CatalogRule
 "Web Site",Witryna,module,Magento_CatalogRule
 Back,Powrót,module,Magento_CatalogRule
 "Rule Information","Informacje o regule",module,Magento_CatalogRule
 Actions,Operacje,module,Magento_CatalogRule
-"Create new","Utwórz nowy",module,Magento_CatalogRuleStaging
-"Assign to update","Przypisz do aktualizacji",module,Magento_CatalogRuleStaging
+Yes,Tak,module,Magento_CatalogRule
+No,Nie,module,Magento_CatalogRule
 "Smth went to exception","Smth udał do wyjątków",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update and saved it in a new one.","Możesz usunąć ten %1 z aktualizacji i zapisać w innym nowym.",module,Magento_CatalogRuleStaging
 "You removed this %1 from the update and saved it in the other one.","Możesz usunąć ten %1 z aktualizacji i zapisać w innym.",module,Magento_CatalogRuleStaging
@@ -2346,8 +2348,10 @@ Description,Opis,module,Magento_CatalogStaging
 "Create Future Update","Tworzenia przyszłych aktualizacji",module,Magento_CatalogStaging
 "Something went wrong while saving the category.","Coś poszło nie tak podczas zapisywania kategorii",module,Magento_CatalogStaging
 "Attribute ""%1"" is required.","Cecha %1 jest wymagana",module,Magento_CatalogStaging
-"This product no longer exists.","Ten produkt już nie istnieje.",module,Magento_CatalogStaging
-"Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_CatalogStaging
+"Unable to save product","Unable to save product",module,Magento_CatalogStaging
+"The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_CatalogStaging
+Enabled,Enabled,module,Magento_CatalogStaging
+Disabled,Disabled,module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
 Delete,Usuń,module,Magento_CatalogStaging
 Preview,Podgląd,module,Magento_CatalogStaging
@@ -2365,7 +2369,6 @@ Action,Operacja,module,Magento_CatalogStaging
 "Category Name","Nazwa kategorii",module,Magento_CatalogStaging
 Content,Zawartość,module,Magento_CatalogStaging
 "Category Image","Obraz kategorii",module,Magento_CatalogStaging
-"Delete Image","Usuń obraz",module,Magento_CatalogStaging
 "Add CMS Block","Dodaj blok CMS",module,Magento_CatalogStaging
 "Display Settings",Wyświetlanie,module,Magento_CatalogStaging
 Anchor,"Zakotwiczona (wyświetla filtry atrybutów)",module,Magento_CatalogStaging
@@ -2393,6 +2396,25 @@ Layout,Układ,module,Magento_CatalogStaging
 50,50,module,Magento_CatalogStaging
 100,100,module,Magento_CatalogStaging
 200,200,module,Magento_CatalogStaging
+ID,ID,module,Magento_CatalogStaging
+Thumbnail,Thumbnail,module,Magento_CatalogStaging
+"Attribute Set","Attribute Set",module,Magento_CatalogStaging
+AttributeSetText,AttributeSetText,module,Magento_CatalogStaging
+Status,Status,module,Magento_CatalogStaging
+StatusText,StatusText,module,Magento_CatalogStaging
+Type,Type,module,Magento_CatalogStaging
+SKU,SKU,module,Magento_CatalogStaging
+Price,Price,module,Magento_CatalogStaging
+"Update Informa1tion","Update Informa1tion",module,Magento_CatalogStaging
+"Remove Product from Update","Remove Product from Update",module,Magento_CatalogStaging
+"Set Product as New","Set Product as New",module,Magento_CatalogStaging
+"Deleting the change will remove the product from this update and all scheduled changes will be lost.","Deleting the change will remove the product from this update and all scheduled changes will be lost.",module,Magento_CatalogStaging
+Products,Products,module,Magento_CatalogStaging
+Categories,Categories,module,Magento_CatalogStaging
+Path,Path,module,Magento_CatalogStaging
+Quantity,Quantity,module,Magento_CatalogStaging
+Visibility,Visibility,module,Magento_CatalogStaging
+Websites,Websites,module,Magento_CatalogStaging
 "Create Permanent Redirect for old URL","Utwórz przekierowanie dla poprzedniego klucza URL",module,Magento_CatalogUrlRewrite
 "Category URL Suffix","Sufiks URL kategorii",module,Magento_CatalogUrlRewrite
 "You need to refresh the cache.","Musisz odświeżyć pamięć podręczną.",module,Magento_CatalogUrlRewrite
@@ -2430,6 +2452,7 @@ State/Province,Województwo,module,Magento_Checkout
 "My Cart (%1 items)","Koszyk (%1)",module,Magento_Checkout
 "My Cart","Mój koszyk",module,Magento_Checkout
 "Minimum order amount is %1","Minimalna wielkość zamówienia to %1",module,Magento_Checkout
+"For delivery questions.","W przypadku pytań o dostawę.",module,Magento_Checkout
 "Customer is already registered","Klient został właśnie zarejestrowany",module,Magento_Checkout
 "Your session has expired","Twoja sesja wygasła",module,Magento_Checkout
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Checkout
@@ -2483,7 +2506,7 @@ Error!,Błąd!,module,Magento_Checkout
 "DB exception","Błąd bazy danych",module,Magento_Checkout
 "Wrong minimum amount.","Niepoprawna minimalna ilość.",module,Magento_Checkout
 Message,Wiadomość,module,Magento_Checkout
-"<a href=\\%1\\ onclick=\\"this.target=\'_blank\'\\" class=\\"print\\">Print receipt</a>""""""","<a href=\\%1\\ onclick=\\"this.target=\'_blank\'\\" class=\\"print\\">Wydrukuj pokwitowanie</a>""""""",module,Magento_Checkout
+"<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>",module,Magento_Checkout
 "Apply Discount Code","Zastosuj kod rabatowy",module,Magento_Checkout
 "Enter discount code","Wprowadź kod rabatowy",module,Magento_Checkout
 "Apply Discount","Zastosuj zniżkę",module,Magento_Checkout
@@ -2597,7 +2620,6 @@ Shipping,Dostawa,module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Wyślij kopię e-maila o nieudanej płatności metodą",module,Magento_Checkout
 "Order Total","Suma zamówienia",module,Magento_Checkout
 "We'll send your order confirmation here.","Wyślemy potwierdzenie Twojego zamówienia tutaj.",module,Magento_Checkout
-"For delivery questions.","W przypadku pytań o dostawę.",module,Magento_Checkout
 Payment,Płatność,module,Magento_Checkout
 "Not yet calculated","Jeszcze nie obliczone",module,Magento_Checkout
 "We received your order!","Otrzymaliśmy zamówienie!",module,Magento_Checkout
@@ -2643,6 +2665,8 @@ Manually,Ręcznie,module,Magento_CheckoutAgreements
 Close,Zamknij,module,Magento_CheckoutAgreements
 "Terms & Conditions",Regulaminy,module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Włącz warunki sprzedaży",module,Magento_CheckoutAgreements
+"Preview mode doesn\'t allow submitting the order.","Preview mode doesn\'t allow submitting the order.",module,Magento_CheckoutStaging
+"Preview Quote Lifetime (minutes)","Preview Quote Lifetime (minutes)",module,Magento_CheckoutStaging
 "Static Blocks","Bloki statyczne",module,Magento_Cms
 "Add New Block","Dodaj blok",module,Magento_Cms
 Back,Powrót,module,Magento_Cms
@@ -2709,7 +2733,9 @@ Pages,Strony,module,Magento_Cms
 "Enabled by Default","Włączone domyślnie",module,Magento_Cms
 "Disabled by Default","Wyłączone domyślnie",module,Magento_Cms
 "Disabled Completely","Wyłączone kompletnie",module,Magento_Cms
+"Could not save the page: %1","Could not save the page: %1",module,Magento_Cms
 "CMS Page with id ""%1"" does not exist.","strona CMS o id ""%1"" nie istnieje.",module,Magento_Cms
+"Could not delete the page: %1","Could not delete the page: %1",module,Magento_Cms
 "A block identifier with the same properties already exists in the selected store.","Identyfikator bloku o tych samych właściwościach już istnieje w wybranym sklepie.",module,Magento_Cms
 "The page URL key contains capital letters or disallowed symbols.","Klucz URL strony zawiera wielkie litery lub niedozwolone symbole.",module,Magento_Cms
 "The page URL key cannot be made of only numbers.","Klawisz URL strony nie możne zawierać tylko liczb.",module,Magento_Cms
@@ -2730,7 +2756,7 @@ Delete,Usuń,module,Magento_Cms
 "Delete ${ $.$data.title }","Usuń ${ $.$data.title }",module,Magento_Cms
 "Are you sure you wan\'t to delete a ${ $.$data.title } record?","Czy na pewno chcesz usunąć rekord ${ $.$data.title }?",module,Magento_Cms
 "Delete ""${ $.$data.title }""","Usuń ${ $.$data.title }",module,Magento_Cms
-"Are you sure you wan\'t to delete a \\${ $.$data.title }\\ record?""""""","Czy na pewno chcesz usunąć rekord \"${ $.$data.title }\"",module,Magento_Cms
+"Are you sure you wan\'t to delete a ""${ $.$data.title }"" record?","Are you sure you wan\'t to delete a ""${ $.$data.title }"" record?",module,Magento_Cms
 View,Zobacz,module,Magento_Cms
 px.,px.,module,Magento_Cms
 "No files found","Nie znaleziono plików",module,Magento_Cms
@@ -2887,6 +2913,7 @@ System,System,module,Magento_Config
 "Please correct the email address: ""%1"".","Proszę poprawić ten adres e-mail: ""%1"".",module,Magento_Config
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Nazwa nadawcy ""%1"" nie jest prawidłowy. Proszę używać tylko widocznych znaków i spacji.",module,Magento_Config
 "Maximum sender name length is 255. Please correct your settings.","Maksymalna długość nazwy nadawcy to 255. Prosimy poprawić ustawienia.",module,Magento_Config
+%1,%1,module,Magento_Config
 "The file you\'re uploading exceeds the server size limit of %1 kilobytes.","Plik, który został wgrany przekracza dozwolony na serwerze limit wielkości pliku %1 kilobajtów.",module,Magento_Config
 "The base directory to upload file is not specified.","Bazowy katalog do przesłania pliku nie został podany.",module,Magento_Config
 "The specified image adapter cannot be used because of: %1","Adapter określonego obrazu nie może być użyty z powodu: %1",module,Magento_Config
@@ -2918,9 +2945,7 @@ Store,Sklep,module,Magento_Config
 Yes,Tak,module,Magento_Config
 Specified,Wybrane,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Klon zestawu pól formularza konfiguracyjnego jest wymagany do klonowania pól",module,Magento_Config
-"Invalid XML in file %1:
-%2","Nieprawidłowy kod XML w pliku %1:
-%2",module,Magento_Config
+"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Config
 .,.,module,Magento_Config
 some_label,some_label,module,Magento_Config
 some_comment,some_comment,module,Magento_Config
@@ -3435,7 +3460,7 @@ label,etykieta,module,Magento_Customer
 "Please enter a customer email.","Proszę podać e-mail klienta.",module,Magento_Customer
 "A customer website ID must be specified when using the website scope.","ID witryny klienta musi być podane, kiedy używany jest zakres witryny.",module,Magento_Customer
 "Customer Group","Grupa klienta",module,Magento_Customer
-"You can\'t delete group \\%1\\.""""""","nie można usunąć grupy \\%1\\.""""""",module,Magento_Customer
+"You can\'t delete group ""%1"".","You can\'t delete group ""%1"".",module,Magento_Customer
 "Customer Group already exists.","Grupa klientów już istnieje.",module,Magento_Customer
 "Cannot delete group.","Nie można usunąć grupy.",module,Magento_Customer
 "Error during VAT Number verification.","Błąd podczas weryfikacji numeru VAT.",module,Magento_Customer
@@ -3458,7 +3483,6 @@ Female,Kobieta,module,Magento_Customer
 message,wiadomość,module,Magento_Customer
 NoSuchEntityException,NoSuchEntityException,module,Magento_Customer
 Exception,Wyjątek,module,Magento_Customer
-"This account is not confirmed. <a href=\"%1\">Click here</a> to resend confirmation email.","To konto nie jest potwierdzone. <a href=\"%1\"> Kliknij tutaj</a> aby wysłać e-mail z potwierdzeniem.",module,Magento_Customer
 InputException.,InputException.,module,Magento_Customer
 InputException,InputException,module,Magento_Customer
 "Exception message","Komunikat wyjątku",module,Magento_Customer
@@ -4243,6 +4267,7 @@ kgs,kgs,module,Magento_Directory
 "Please correct the target currency.","Proszę poprawić w walucie docelowej.",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Niezdefiniowany zakres od ""%1-%2"".",module,Magento_Directory
 label,etykieta,module,Magento_Directory
+"We can\'t retrieve a rate from %1 for %2.","We can\'t retrieve a rate from %1 for %2.",module,Magento_Directory
 "We can\'t retrieve a rate from %1.","Nie można pobrać kursu z %1.",module,Magento_Directory
 "FATAL ERROR:","BŁĄD KRYTYCZNY:",module,Magento_Directory
 "We can\'t initialize the import model.","Nie można zainicjować modelu importu.",module,Magento_Directory
@@ -4284,11 +4309,8 @@ Service,Usługa,module,Magento_Directory
 "Weight Unit","Jednostka wagi",module,Magento_Directory
 "Document is not saved due to error.","Dokument nie jest zapisany ze względu na błąd.",module,Magento_Doc
 "More than one node matching the query: %1","Więcej niż jeden wynik pasuje do zapytania: %1",module,Magento_Doc
-"Invalid XML in file %1:
-%2","Nieprawidłowy kod XML w pliku %1:
-%2",module,Magento_Doc
-"Invalid Document 
-%1","Nieprawidłowy dokument %1",module,Magento_Doc
+"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Doc
+"Invalid Document \n%1","Invalid Document \n%1",module,Magento_Doc
 "Downloadable Information","Informacje o produktach do pobrania",module,Magento_Downloadable
 "Add New Link","Dodać nowy Link",module,Magento_Downloadable
 "Upload Files","Załaduj pliki",module,Magento_Downloadable
@@ -4654,6 +4676,10 @@ Updated,Zaktualizowano,module,Magento_Email
 Subject,Temat,module,Magento_Email
 "Template Type","Typ szablonu",module,Magento_Email
 Action,Operacja,module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".",module,Magento_Email
+"Email template chosen based on theme fallback, when the ""Default"" option is selected.","Email template chosen based on theme fallback, when the ""Default"" option is selected.",module,Magento_Email
 "Change Encryption Key","Zmień klucz",module,Magento_EncryptionKey
 "Encryption Key","Klucz szyfrowania",module,Magento_EncryptionKey
 "New Encryption Key","Nowy klucz szyfrowania",module,Magento_EncryptionKey
@@ -4666,7 +4692,7 @@ Yes,Tak,module,Magento_EncryptionKey
 "Deployment configuration file is not writable.","Plik konfiguracji wdrażania nie jest możliwy do zapisu.",module,Magento_EncryptionKey
 "Please enter an encryption key.","Wprowadź klucz szyfrowania.",module,Magento_EncryptionKey
 "The encryption key has been changed.","Klucz szyfrowania został zmieniony.",module,Magento_EncryptionKey
-"This is your new encryption key: <span style=\"font-family:monospace;\">%1</span>. Be sure to write it down and take good care of it!","To jest twój nowy klucz szyfrowania: <span style=\"font-family:monospace;\">%1</span>. Pamiętaj by go zapisać i dobrze o niego dbać!",module,Magento_EncryptionKey
+"This is your new encryption key: %1. Be sure to write it down and take good care of it!","This is your new encryption key: %1. Be sure to write it down and take good care of it!",module,Magento_EncryptionKey
 "Manage Encryption Key","Klucz szyfrowania",module,Magento_EncryptionKey
 "Private Sales","Sprzedaż prywatna",module,Magento_Enterprise
 "Payment Type","Rodzaj płatności",module,Magento_Eway
@@ -4844,7 +4870,6 @@ Maximum,Maksimum,module,Magento_GiftCard
 Message,Wiadomość,module,Magento_GiftCard
 "Maximum length of the message is %1 characters.","Wiadomość może zawierać maksymalna %1 znaków.",module,Magento_GiftCard
 Quantity,Ilość,module,Magento_GiftCard
-"Messaging and Lifetime","Wiadomości i Lifetime",module,Magento_GiftCard
 Website,Witryna,module,Magento_GiftCard
 Action,Operacja,module,Magento_GiftCard
 "Delete Amount","Usuń kwotę",module,Magento_GiftCard
@@ -5027,7 +5052,7 @@ End,Koniec,module,Magento_GiftCardAccount
 "There is no order with provided id or gift message isn\'t allowed","Nie ma zamówień z podanym ID lub wiadomość podarunkowa nie jest dozwolona.",module,Magento_GiftMessage
 "There is no order with provided id","Nie ma zamówień z podanym ID",module,Magento_GiftMessage
 "Gift Messages are not applicable for empty order","Wiadomości podarunkowe nie mają zastosowania do pustego zamówienia.",module,Magento_GiftMessage
-"Could not add gift message to order\'s item: \\%1\\""",Nie można dodać wiadomości podarunkowej to zamówionych produktów: %1""",module,Magento_GiftMessage
+"Could not add gift message to order\'s item: ""%1""","Could not add gift message to order\'s item: ""%1""",module,Magento_GiftMessage
 "Unknown entity type","Nieznany rodzaj obiektu",module,Magento_GiftMessage
 "Test label","Etykieta testowa",module,Magento_GiftMessage
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_GiftMessage
@@ -5314,7 +5339,7 @@ View,Zobacz,module,Magento_GiftRegistry
 "Unit Price","Cena jednostkowa",module,Magento_GiftRegistry
 "Add to Cart","Dodaj do koszyka",module,Magento_GiftRegistry
 "%name,","%name,",module,Magento_GiftRegistry
-"You have successfully created the new gift registry \"%registry_name\".","Pomyślnie utworzono nowy rejestr prezentów \"%registry_name\".",module,Magento_GiftRegistry
+"You have successfully created the new gift registry ""%registry_name"".","You have successfully created the new gift registry ""%registry_name"".",module,Magento_GiftRegistry
 "Your Gift Registry Message","Twoje wiadomości rejestru prezentów.",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","Teraz można dodać produkty do swojej listy prezentowej.",module,Magento_GiftRegistry
 "Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Po prostu przejdź do <a href=""%store_url""> %store_name</a> i dodaj produkty, które chcesz w twoim koszyku lub liście życzeń.",module,Magento_GiftRegistry
@@ -5327,7 +5352,7 @@ View,Zobacz,module,Magento_GiftRegistry
 "Gift Registry:","Rejestr prezentów:",module,Magento_GiftRegistry
 "Created For:","Stworzony dla:",module,Magento_GiftRegistry
 "You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Możesz utworzyć własny rejestr prezentów <a href='%account_url'>%store_name</a>  i udostępnić go dla przyjaciół i rodziny",module,Magento_GiftRegistry
-"The following items have been purchased from your gift registry \"%registry_name\":","Następujące elementy zostały zakupione z twojego rejestru upominku \"%registry_name\":",module,Magento_GiftRegistry
+"The following items have been purchased from your gift registry ""%registry_name"":","The following items have been purchased from your gift registry ""%registry_name"":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","Możesz zalogować się na swoje konto, aby wyświetlić więcej szczegółów o tej liście prezentowej.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Dostawa pod adres odbiorcy",module,Magento_GiftRegistry
 "Ship Here","Wysyłamy Tutaj",module,Magento_GiftRegistry
@@ -5488,18 +5513,20 @@ Cancel,Zamknij,module,Magento_GroupedProduct
 Remove,Usuń,module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
 Thumbnail,Miniatura,module,Magento_GroupedProduct
+Name,Nazwa,module,Magento_GroupedProduct
+"Attribute Set","Zestaw cech",module,Magento_GroupedProduct
+Status,Status,module,Magento_GroupedProduct
+SKU,SKU,module,Magento_GroupedProduct
+Price,Cena,module,Magento_GroupedProduct
 "Default Quantity","Domyślna ilość",module,Magento_GroupedProduct
 Actions,Operacje,module,Magento_GroupedProduct
 "Associated Products","Produkty składowe konfiguracji",module,Magento_GroupedProduct
 Availability:,Dostępność:,module,Magento_GroupedProduct
 "Out of stock","Brak w magazynie",module,Magento_GroupedProduct
-SKU,SKU,module,Magento_GroupedProduct
 "Product Name","Nazwa produktu",module,Magento_GroupedProduct
-Price,Cena,module,Magento_GroupedProduct
 Qty,Ilość,module,Magento_GroupedProduct
 "No options of this product are available.","Brak opcji dla tego produktu.",module,Magento_GroupedProduct
 "There are no grouped products.","Nie ma produktów grupowanych.",module,Magento_GroupedProduct
-Name,Nazwa,module,Magento_GroupedProduct
 "Default Qty","Domyślna ilość",module,Magento_GroupedProduct
 "Starting at","Zaczynając od",module,Magento_GroupedProduct
 Availability,Dostępność,module,Magento_GroupedProduct
@@ -5507,10 +5534,8 @@ Availability,Dostępność,module,Magento_GroupedProduct
 "Grouped product items","Elementy produktów grupowanych",module,Magento_GroupedProduct
 "Grouped Product Image","Obrazek grupowanego produktu",module,Magento_GroupedProduct
 Select...,Wybierz...,module,Magento_GroupedProduct
-Status,Status,module,Magento_GroupedProduct
 Type,Rodzaj,module,Magento_GroupedProduct
 Quantity,Ilość,module,Magento_GroupedProduct
-"Attribute Set","Zestaw cech",module,Magento_GroupedProduct
 AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
 StatusText,StatusText,module,Magento_GroupedProduct
 Export,Eksport,module,Magento_ImportExport
@@ -5822,7 +5847,7 @@ Reports,Raporty,module,Magento_Invitation
 "We did not send %1 invitation(s) addressed to current customers.","Nie wysłaliśmy %1 zaproszeń skierowana do obecnych klientów.",module,Magento_Invitation
 "Send Invitations","Wyślij Zaproszenie",module,Magento_Invitation
 "Max Invitations Allowed to be Sent at One Time","Maksymalna liczba wysłanych zaproszeń jednocześnie",module,Magento_Invitation
-"Please correct the value for \\%1\\ parameter""","Popraw wartość parametru \\%1\\",Please correct the value for \\%1\\" parameter"""," otherwise we\'ll use the saved value instead.""",module,Magento_Invitation
+"Please correct the value for ""%1"" parameter, otherwise we\'ll use the saved value instead.","Please correct the value for ""%1"" parameter, otherwise we\'ll use the saved value instead.",module,Magento_Invitation
 "Same as Inviter","Tak samo jak zapraszający",module,Magento_Invitation
 "Default Customer Group from System Configuration","Domyślne grupy klientów od konfiguracji systemu",module,Magento_Invitation
 "By Invitation Only","Tylko na zaproszenie",module,Magento_Invitation
@@ -5833,7 +5858,7 @@ Reports,Raporty,module,Magento_Invitation
 "You can\'t update this message.","Nie możesz uaktualnić tej wiadomości.",module,Magento_Invitation
 "We can\'t generate encrypted code.","Nie można wygenerować zaszyfrowanego kodu.",module,Magento_Invitation
 "We can\'t find an ID for this invitation.","Nie udało się znaleźć ID dla tego zaproszenia.",module,Magento_Invitation
-"You can\'t send an invitation with status \\%1\\.""""""","Nie można wysłać zaproszenie ze statusem \\ % 1 \\ "". """,module,Magento_Invitation
+"You can\'t send an invitation with status ""%1"".","You can\'t send an invitation with status ""%1"".",module,Magento_Invitation
 "Please enter a valid invitation email.","Prosimy wpisać poprawny adres e-mail zaproszenia.",module,Magento_Invitation
 "We can\'t identify the proper website.","Nie możemy wskazać właściwej strony.",module,Magento_Invitation
 "Please specify an email.","Proszę podać e-mail.",module,Magento_Invitation
@@ -6092,7 +6117,7 @@ Database,"Baza danych",module,Magento_MediaStorage
 "Wrong file info format","Nieprawidłowy format informacji pliku",module,Magento_MediaStorage
 "Path ""%value%"" is protected and cannot be used.","Ścieżka ""%value%"" jest chroniona i nie może być użyta.",module,Magento_MediaStorage
 "Path ""%value%"" is not available and cannot be used.","Ścieżka ""%value%"" jest niedostępna i nie może być użyta.",module,Magento_MediaStorage
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","Ścieżka ""%value%"" nie może zawierać przejść do nadrzędnych katalogów (""../"", ""..\").",module,Magento_MediaStorage
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\\).""","Path ""%value%"" may not include parent directory traversal (""../"", ""..\\).""",module,Magento_MediaStorage
 "Please set available and/or protected paths list(s) before validation.","Prosimy ustawić listę dostępnych i/lub chronionych ścieżek przed walidacją.",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","Plik z rozszerzeniem %value%"" jest chroniony i nie może być przesłany.""",module,Magento_MediaStorage
 "Unable to create directory: %1","Nie udało się utworzyć katalogu: %1",module,Magento_MediaStorage
@@ -6120,7 +6145,7 @@ Price,Cena,module,Magento_Msrp
 "Enable MAP","Włącz MAP",module,Magento_Msrp
 "Display Actual Price","Pokaż aktualną cenę",module,Magento_Msrp
 "Default Popup Text Message","Domyślny tekst wiadomości wyskakującego okienka",module,Magento_Msrp
-"Default \\What's This\\ Text Message""""""","Domyślny ""tekst wiadomości"" \\Co to jest?\\",module,Magento_Msrp
+"Default ""What's This"" Text Message","Default ""What's This"" Text Message",module,Magento_Msrp
 Back,Powrót,module,Magento_MultipleLocationInventory
 "Save Warehouse","Zapisz magazyn",module,Magento_MultipleLocationInventory
 "Disable Warehouse","Wyłącz magazyn",module,Magento_MultipleLocationInventory
@@ -6169,7 +6194,7 @@ Customers,Klienci,module,Magento_MultipleWishlist
 """%1"" was copied to %2.","""%1"" został skopiowany do %2.",module,Magento_MultipleWishlist
 "We can\'t find the item.","Nie możemy znaleźć produktu.",module,Magento_MultipleWishlist
 """%1"" is already present in %2.","""%1"" jest już obecny w %2.",module,Magento_MultipleWishlist
-"We can\'t copy \\%1\\.""""""","Nie można skopiować \\%1\\.""""""",module,Magento_MultipleWishlist
+"We can\'t copy ""%1"".","We can\'t copy ""%1"".",module,Magento_MultipleWishlist
 "We can\'t copy the wish list item.","Nie można skopiować pozycji schowka.",module,Magento_MultipleWishlist
 "We can\'t find %1 items.","Nieznalezione produkty: %1.",module,Magento_MultipleWishlist
 "We can\'t copy %1 items.","Nieprzekopiowane produkty: %1.",module,Magento_MultipleWishlist
@@ -6493,7 +6518,7 @@ Paused,Zatrzymany,module,Magento_Newsletter
 "You selected an invalid queue.","Wybrano nieprawidłową kolejkę.",module,Magento_Newsletter
 "We cannot mark as received subscriber.","Nie można oznaczyć jako subskrybenta.",module,Magento_Newsletter
 "Duplicate template code","Klonuj kod szablonu",module,Magento_Newsletter
-"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>","Użyj tego linku, aby <!-- tag do usunięcia subskrypcji  --><a href=\"{{var subscriber.getUnsubscriptionLink()}}\">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
 "Choose Store View:","Wybierz widok sklepu:",module,Magento_Newsletter
 "Newsletter Message Preview","Podgląd newslettera",module,Magento_Newsletter
 "Add to Queue","Dodaj do kolejki",module,Magento_Newsletter
@@ -6602,7 +6627,6 @@ None,Brak,module,Magento_OfflineShipping
 No,Nie,module,Magento_OfflineShipping
 "For matching items only","Dla produktów spełniających kryteria",module,Magento_OfflineShipping
 "For shipment with matching items","Dla dostawy i produktów spełniających kryteria",module,Magento_OfflineShipping
-"Free Shipping","Darmowa dostawa",module,Magento_OfflineShipping
 "Field ","Pole ",module,Magento_OfflineShipping
 " is required."," jest wymagane.",module,Magento_OfflineShipping
 "Flat Rate","Płaska stawka",module,Magento_OfflineShipping
@@ -6623,6 +6647,7 @@ Condition,"Stan produktu",module,Magento_OfflineShipping
 "Include Virtual Products in Price Calculation","Włącz produkty wirtualne do obliczania ceny",module,Magento_OfflineShipping
 Export,Eksport,module,Magento_OfflineShipping
 Import,Import,module,Magento_OfflineShipping
+"Free Shipping","Darmowa dostawa",module,Magento_OfflineShipping
 "Minimum Order Amount","Minimalna wielkość zamówienia",module,Magento_OfflineShipping
 "-- Please Select --","-- Wybierz --",module,Magento_OfflineShipping
 "Export VCL for Varnish %1","Eksport VCL do Varnish'u %1",module,Magento_PageCache
@@ -6756,7 +6781,7 @@ Sales,Sprzedaż,module,Magento_Paypal
 "View Transaction","Zobacz transakcję",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Nie znaleźliśmy nic do pobrania ze względu na pustą konfigurację.",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","Pobrane wiersze raportu %1 z ""%2@%3.""",module,Magento_Paypal
-"We can\'t fetch reports from \\%1@%2.\\""",Nie możemy pobrać raportu z \\%1@%2.\\"""""""",module,Magento_Paypal
+"We can\'t fetch reports from ""%1@%2.""","We can\'t fetch reports from ""%1@%2.""",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","Umowa rozliczeniowa ""%1"" została anulowana.",module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","Umowa rozliczeniowa ""%1"" została utworzona.",module,Magento_Paypal
 "We couldn\'t finish the billing agreement wizard.","Nie można zakończyć Kreatora umowy płatności.",module,Magento_Paypal
@@ -7167,21 +7192,21 @@ Manage,Zarządzaj,module,Magento_Paypal
                 ","Realizacji transakcji PayPal Express umożliwia klientom dostęp do finansowania poprzez PayPal kredytowych ® - bez dodatkowych kosztów dla Ciebie.                         Można otrzymać pieniądze do przodu, nawet jeśli klienci mają więcej czasu, aby zapłacić. Wstępnie zintegrowane płatności przycisku pozwala swoim klientom szybko zapłacić PayPal kredytowych ®.                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank""> Dowiedz się więcej</a>                 ",module,Magento_Paypal
 "Advertise PayPal Credit","Reklama PayPal Credit",module,Magento_Paypal
 "
-                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\ target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                        <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
-"                        from PayPal Credit&#174;. Your customers have more time to pay","                        z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
-"                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                        Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
-"                        or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
-",",",",module,Magento_Paypal
-"                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                        <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
-"                        from PayPal Credit&#174;. Your customers have more time to pay","                        z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
-"                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                        Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
-"                        or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
-"
-Publisher ID""","ID"" wydawcy",module,Magento_Paypal
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ",module,Magento_Paypal
+"Publisher ID","Publisher ID",module,Magento_Paypal
 "Required to display a banner","Wymagane do wyświetlania banerów",module,Magento_Paypal
 "Get Publisher ID from PayPal","Uzyskaj identyfikator wydawcy z PayPal",module,Magento_Paypal
 "Home Page","Strona główna",module,Magento_Paypal
@@ -7280,22 +7305,21 @@ User,Użytkownik,module,Magento_Paypal
 "Test Mode","Tryb testowy",module,Magento_Paypal
 "Use Proxy","Używaj proxy",module,Magento_Paypal
 "
-                    <a href=\\https://financing.paypal.com/ppfinportal/content/whyUseFinancing\\ target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                     <a href=\\https://financing.paypal.com/ppfinportal/content/whyUseFinancing\\target=\\"_blank\\"> Dlaczego reklama finansowana?</a> <br/>""",module,Magento_Paypal
-"                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                            <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
-"                                            from PayPal Credit&#174;. Your customers have more time to pay","                                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
-"                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
-"                                            or more. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                            lub więcej. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
-",",",",module,Magento_Paypal
-"                    <a href=\\https://financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https://financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                            <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
-"                                            from PayPal Credit&#174;. Your customers have more time to pay","                                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
-"                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
-"                                            or more. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                            lub więcej. <a href=\\https://financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
-"
-Basic Settings - PayPal Payments Advanced""","
-Podstawowe ustawienia - PayPal Payments Advanced""",module,Magento_Paypal
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ",module,Magento_Paypal
+"Basic Settings - PayPal Payments Advanced","Basic Settings - PayPal Payments Advanced",module,Magento_Paypal
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Zalecane jest ustawienia tej wartości na ""Karta debetowa lub kredytowa"" na każy widok sklepu.",module,Magento_Paypal
 "CVV Entry is Editable","Pole CVV jest edytowalne",module,Magento_Paypal
 "Require CVV Entry","Wymaga wpisu CVV",module,Magento_Paypal
@@ -7313,22 +7337,21 @@ Podstawowe ustawienia - PayPal Payments Advanced""",module,Magento_Paypal
 "Accept payments with a PCI compliant checkout that keeps customers on your site.","Akceptuj płatności ze zgodnym z PCI procesem zamówień, który utrzyma twojego klienta na stronie.",module,Magento_Paypal
 "Payments Pro Hosted Solution","Payments Pro Hosted Solution",module,Magento_Paypal
 "
-                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\ target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                            <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
-"                            from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
-"                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
-"                            or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
-",",",",module,Magento_Paypal
-"                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                            <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
-"                            from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
-"                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
-"                            or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
-"
-Basic Settings - PayPal Payments Pro Hosted Solution""","
-Podstawowe ustawienia - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ",module,Magento_Paypal
+"Basic Settings - PayPal Payments Pro Hosted Solution","Basic Settings - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
 "Display Express Checkout in the Payment Information step","Display Express Checkout in the Payment Information step",module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution i Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Pro Hosted Solution","Podstawowe ustawienia - PayPal Website Payments Pro Hosted Solution",module,Magento_Paypal
@@ -7349,22 +7372,20 @@ Podstawowe ustawienia - PayPal Payments Pro Hosted Solution",module,Magento_Payp
 "Payflow Pro (Includes Express Checkout)","Payflow Pro (Includes Express Checkout)",module,Magento_Paypal
 "Payflow Pro and Express Checkout","Payflow Pro and Express Checkout",module,Magento_Paypal
 "
-                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\ target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                     <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
-"                                from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
-"                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
-"                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
-",",",",module,Magento_Paypal
-"                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\">Why Advertise Financing?</a><br/>""","                    <a href=\\https:/financing.paypal.com/ppfinportal/content/whyUseFinancing\\" target=\\"_blank\\"> Dlaczego reklama finansowania?</a> <br/>""",module,Magento_Paypal
-"                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing","                                <strong>Dać impuls sprzedaży, kiedy reklamować finansowania.</strong> <br/> PayPal pomaga przekształcić kupujących z finansowania przeglądarek",module,Magento_Paypal
-"                                from PayPal Credit&#174;. Your customers have more time to pay","                            z PayPal Credit&#174;. Twoi klienci mają więcej czasu, aby zapłacić",module,Magento_Paypal
-"                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.","                            Za pomocą PayPal wolnego od banerów reklamowych, które pozwalają reklamować PayPal kredytowych ® finansowania jako opcję płatności podczas swoich klientów Sprawdź z PayPal.",module,Magento_Paypal
-"                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","                                Program reklamowy PayPal zostało wykazane do generowania dodatkowych zakupów, a także zwiększyć rozmiary zakupu przeciętnego konsumenta o 15%",module,Magento_Paypal
-"                                or more. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\">See Details</a>.""","                                lub więcej. <a href=\\https:/financing.paypal.com/ppfinportal/content/forrester\\" target=\\"_blank\\"> zobacz szczegóły</a>.""",module,Magento_Paypal
-"
-
-",module,Magento_Paypal
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ",module,Magento_Paypal
 "Not you?","To nie Ty?",module,Magento_Persistent
 "Your shopping cart has been updated with new prices.","Twój koszyk został wzbogacony o nowe ceny.",module,Magento_Persistent
 "Welcome, %1!","Witaj, %1!",module,Magento_Persistent
@@ -7440,10 +7461,8 @@ Description,Opis,module,Magento_ProductVideo
 "Hide from Product Page","Ukryj na stronie produktu",module,Magento_ProductVideo
 Role,Rola,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","YouTube i Vimeo są obsługiwane.",module,Magento_ProductVideo
-"Vimeo supported.<br />To add YouTube video, please <a href=\"%1\">enter YouTube API Key</a> first.","Vimeo jest obsługiwany. <br />By dodać obsługę filmów z YouTube, proszę wprowadź <a href=""%1"">wprowadzić Kod API YouTube </a>.",module,Magento_ProductVideo
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Nie można porać podglądu informacji o filmie. Proszę sprawdzić połączenie z internetem.",module,Magento_ProductVideo
-"Click here to add videos.","Kliknij tutaj, aby dodać wideo.",module,Magento_ProductVideo
-"New Video","Nowe wideo",module,Magento_ProductVideo
 "Add Video","Dodaj wideo",module,Magento_ProductVideo
 "Browse to find or drag image here","Przeglądaj, aby znaleźć lub przeciągnij zdjęcie tutaj",module,Magento_ProductVideo
 "Delete video","Usuń wideo",module,Magento_ProductVideo
@@ -7464,6 +7483,7 @@ Duration:,"Czas trwania:",module,Magento_ProductVideo
 "Youtube API key is invalid","Klucz API YouTube jest nieprawidłowy",module,Magento_ProductVideo
 "Video cant be shown due to the following reason: ","Film nie może zostać wyświetlony z następujących przyczyn: ",module,Magento_ProductVideo
 "Video not found","Nie znaleziono filmu",module,Magento_ProductVideo
+"New Video","Nowe wideo",module,Magento_ProductVideo
 Save,Zapisz,module,Magento_ProductVideo
 Cancel,Anuluj,module,Magento_ProductVideo
 Delete,Usuń,module,Magento_ProductVideo
@@ -7573,7 +7593,7 @@ Inactive,Nieaktywny,module,Magento_Reminder
 From,Od,module,Magento_Reminder
 To,Do,module,Magento_Reminder
 "Repeat Schedule","Powtórz harmonogram",module,Magento_Reminder
-"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter \"7, 14\" to trigger emails in 7 days, and then 14 days after that).","Wprowadź liczbę dni, po których przypomnienie e-mail zostanie ponownie wysłane, jeśli jej reguła jest nadal spełniana (Np.: Wprowadź \"7, 14\" by wysłać e-mail wpierw za 7 dni, a następnie 14 dni później).",module,Magento_Reminder
+"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).",module,Magento_Reminder
 "Select Rule...","Wybierz regułę...",module,Magento_Reminder
 "Email Templates","Szablony e-mail",module,Magento_Reminder
 "Only customers who have an account for a store view will receive emails related to that store view.","Tylko klienci, którzy mają konto na widok sklepu otrzymają e-maile związane z tym widokiem sklepu.",module,Magento_Reminder
@@ -7661,7 +7681,7 @@ is,jest,module,Magento_Reminder
 "Condition type is unexpected","Typ warunku jest nieakceptowany",module,Magento_Reminder
 "Please specify a valid number of minute.","Proszę wprowadzić prawidłową liczbę minut.",module,Magento_Reminder
 "Unable to save Cron expression","Nie można zapisać wyrażenia cron.",module,Magento_Reminder
-"<b>Important</b>: If you select \"Use Auto Generation\", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Ważne</b>: Jeśli wybierzesz \"Use Auto Generation\", ta reguła będzie już używany w automatyczny e-mail przypomnienie zasad dla porzuconych wozów",module,Magento_Reminder
+"<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts",module,Magento_Reminder
 "Validate error 1","Błąd walidacji 1",module,Magento_Reminder
 "Validate error 2","Błąd walidacji 2",module,Magento_Reminder
 LocalizedException,LocalizedException,module,Magento_Reminder
@@ -7796,7 +7816,7 @@ Name,Nazwa,module,Magento_Reports
 "Times Deleted","Razy Usuwane",module,Magento_Reports
 "Index type is not valid","Typ indeksu nie jest prawidłowa",module,Magento_Reports
 Reports,Raporty,module,Magento_Reports
-"Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>""","Ostatnia aktualizacja: %1. Do odświeżenia ostatni dzień\ <a href=\\%2\\> statystyki</a>""","Last updated: %1. To refresh last day\'s <a href=\\%2\\>statistics</a>"""," click <a href=\\%3\\">here</a>.""""""",module,Magento_Reports
+"Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.",module,Magento_Reports
 "New Accounts Report","Nowy raport konta",module,Magento_Reports
 "Customers by Number of Orders","Klienci wg liczby zamówień",module,Magento_Reports
 "Order Count Report","Raport liczby zamówień",module,Magento_Reports
@@ -7932,7 +7952,7 @@ Next,Następne,module,Magento_Review
 "Delete Review","Usuń recenzję",module,Magento_Review
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Review
 "Edit Review '%1'","Edytuj opinię '%1'",module,Magento_Review
-"<a href=\\%1\\ onclick=\\"this.target=\'blank\'\\">%2 %3</a> <a href=\\"mailto:%4\\">(%4)</a>""""""","<a href=\\%1\\ onclick=\\"this.target=\'blank\'\\">%2 %3</a> <a href=\\"mailto:%4\\">(%4)</a>""""""",module,Magento_Review
+"<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
 Administrator,Administrator,module,Magento_Review
 Guest,Gość,module,Magento_Review
 Author,Autor,module,Magento_Review
@@ -8048,6 +8068,16 @@ Summary,Podsumowanie,module,Magento_Review
 "Allow Guests to Write Reviews","Pozwól gościom na pisanie recenzji",module,Magento_Review
 Active,Aktywny,module,Magento_Review
 Inactive,Nieaktywny,module,Magento_Review
+ID,ID,module,Magento_ReviewStaging
+Created,Created,module,Magento_ReviewStaging
+Status,Status,module,Magento_ReviewStaging
+Title,Title,module,Magento_ReviewStaging
+Nickname,Nickname,module,Magento_ReviewStaging
+Review,Review,module,Magento_ReviewStaging
+Visibility,Visibility,module,Magento_ReviewStaging
+Type,Type,module,Magento_ReviewStaging
+Product,Product,module,Magento_ReviewStaging
+SKU,SKU,module,Magento_ReviewStaging
 "Reward Points","Punkty lojalnościowe",module,Magento_Reward
 "Reward Points History","Punkty Zwrotne Historii",module,Magento_Reward
 "Expired reward","Wygasłe nagrody",module,Magento_Reward
@@ -8128,7 +8158,6 @@ First,Pierwszy,module,Magento_Reward
 """Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".","""Minimum Reward Points Balance"" should be less or equal to ""Cap Reward Points Balance"".",module,Magento_Reward
 "Customer earned promotion extra %1.","Customer earned promotion extra %1.",module,Magento_Reward
 "The customer earned %1 for this order.","The customer earned %1 for this order.",module,Magento_Reward
-"Add Reward Points","Dodaj punkty lojalnościowe",module,Magento_Reward
 "Reward Points Balance","Nagroda punktów równowagi",module,Magento_Reward
 "upper boundary","górna granica",module,Magento_Reward
 "Refund Reward Points","Refund Reward Points",module,Magento_Reward
@@ -8204,6 +8233,7 @@ Registration,Rejestracja,module,Magento_Reward
 Created,Utworzono,module,Magento_Reward
 Expires,Wygasa,module,Magento_Reward
 ID,ID,module,Magento_Reward
+"Add Reward Points","Dodaj punkty lojalnościowe",module,Magento_Reward
 "Check out now and earn %1 for this order.","Check out now and earn %1 for this order.",module,Magento_Reward
 "Create an account on our site now and earn %1.","Utwórz konto w naszym sklepie i zyskaj %1.",module,Magento_Reward
 "Subscribe to our newsletter now and earn %1.","Subscribe to our newsletter now and earn %1.",module,Magento_Reward
@@ -8427,7 +8457,7 @@ Closed,Zamknięty,module,Magento_Rma
 "Shipment does not exists.","Przesyłka nie istnieje.",module,Magento_Rma
 "We can\'t load track with retrieving identifier right now.","Nie można teraz załadować trasy z odzyskiwaniem identyfikatora.",module,Magento_Rma
 Message,Wiadomość,module,Magento_Rma
-"No detail for number \\' . . '\\""",Żaden szczegół dla numeru \ '. . '\\"""""""",module,Magento_Rma
+"No detail for number ""' . . '""","No detail for number ""' . . '""",module,Magento_Rma
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_Rma
 "All Items","Wszystkie produkty",module,Magento_Rma
 "Individual Items","Poszczególne pozycje",module,Magento_Rma
@@ -8988,8 +9018,7 @@ Title,Tytuł,module,Magento_Sales
 Number,Numer,module,Magento_Sales
 "We found an invalid renderer model.","Znaleźliśmy nieprawidłowo renderowany model.",module,Magento_Sales
 "Please define the PDF object before using.","Prosimy o zdefiniowanie obiektu PDF przed użyciem.",module,Magento_Sales
-"We don\'t recognize the draw line data. Please define the \\lines\\ array.""""""","
-Nie uznajemy dane kreślenia linii . Proszę zdefiniować \\lines\\ array.""""""",module,Magento_Sales
+"We don\'t recognize the draw line data. Please define the ""lines"" array.","We don\'t recognize the draw line data. Please define the ""lines"" array.",module,Magento_Sales
 Products,Produkty,module,Magento_Sales
 "Total (ex)","bez VAT",module,Magento_Sales
 Qty,Ilość,module,Magento_Sales
@@ -9026,16 +9055,11 @@ State/Province,Województwo,module,Magento_Sales
 "Street Address","Adres pocztowy",module,Magento_Sales
 "Phone Number","Numer telefonu",module,Magento_Sales
 "Zip/Postal Code","Kod pocztowy",module,Magento_Sales
-"We can't save the address:
-%1","Nie można zapisać adresu:%1",module,Magento_Sales
-"Cannot save comment:
-%1","Nie można zapisać komentarza:
-%1",module,Magento_Sales
+"We can't save the address:\n%1","We can't save the address:\n%1",module,Magento_Sales
+"Cannot save comment:\n%1","Cannot save comment:\n%1",module,Magento_Sales
 "We don\'t have enough information to save the parent transaction ID.","Nie mamy wystarczających informacji, aby zapisać nadrzędny identyfikator transakcji.",module,Magento_Sales
 "We cannot create an empty shipment.","Nie można utworzyć pustej przesyłki.",module,Magento_Sales
-"Cannot save track:
-%1","Nie można zapisać ścieżki:
-%1",module,Magento_Sales
+"Cannot save track:\n%1","Cannot save track:\n%1",module,Magento_Sales
 "Cannot unassign status from state","Nie można cofnąć przypisania stanu od Państwa",module,Magento_Sales
 "New Orders","Nowe zamówienia",module,Magento_Sales
 "Order #%1 created at %2","Zamówienie #%1 utworzone %2",module,Magento_Sales
@@ -9457,13 +9481,10 @@ Shipment,Dostawa,module,Magento_SalesArchive
 "Go to Archive","Przejdź do archiwum",module,Magento_SalesArchive
 "Cart Price Rules","Reguły cenowe koszyka",module,Magento_SalesRule
 "Add New Rule","Dodaj regułę",module,Magento_SalesRule
-"Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_SalesRule
-"Edit Rule '%1'","Edytuj regułę '%1'",module,Magento_SalesRule
-"New Rule","Nowa reguła",module,Magento_SalesRule
 Delete,Usuń,module,Magento_SalesRule
 "Are you sure you want to delete this?","Czy na pewno chcesz to usunąć?",module,Magento_SalesRule
-"Rule Information","Informacje o regule",module,Magento_SalesRule
 Reset,Resetuj,module,Magento_SalesRule
+"Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_SalesRule
 Save,Zapisz,module,Magento_SalesRule
 Actions,Operacje,module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Zastosuj regułę do produktów w koszyku spełniających następujące warunki (pozostaw puste dla wszystkich produktów).",module,Magento_SalesRule
@@ -9491,29 +9512,11 @@ CSV,CSV,module,Magento_SalesRule
 "Are you sure you want to delete the selected coupon(s)?","Czy na pewno chcesz usunąć wybrany kupon(y)?",module,Magento_SalesRule
 Labels,Etykiey,module,Magento_SalesRule
 "Store View Specific Labels","Etykiety specyficzne dla widoku sklepu",module,Magento_SalesRule
-"General Information",Ogólne,module,Magento_SalesRule
-"Rule Name","Nazwa reguły",module,Magento_SalesRule
-Description,Opis,module,Magento_SalesRule
-Status,Status,module,Magento_SalesRule
-Active,Aktywny,module,Magento_SalesRule
-Inactive,Nieaktywny,module,Magento_SalesRule
-Websites,Witryny,module,Magento_SalesRule
-"Customer Groups","Grupy klientów",module,Magento_SalesRule
-Coupon,Kupon,module,Magento_SalesRule
-"Use Auto Generation","Użyj automatycznej generacji",module,Magento_SalesRule
-"If you select and save the rule you will be able to generate multiple coupon codes.","Jeśli wybierzesz i zapiszesz regułę, możesz wygenerować wiele kodów kuponów.",module,Magento_SalesRule
-"Uses per Coupon","Zastosowania wg kuponów",module,Magento_SalesRule
-"Uses per Customer","Zastosowania wg klientów",module,Magento_SalesRule
-"Usage limit enforced for logged in customers only.","Limit użycia egzekwowany tylko od zalogowanych klientów.",module,Magento_SalesRule
-From,Od,module,Magento_SalesRule
-To,Do,module,Magento_SalesRule
-Priority,Priorytet,module,Magento_SalesRule
-"Public In RSS Feed","Publiczne w kanale RSS",module,Magento_SalesRule
-"Cart Price Rule","Reguły cenowe koszyka",module,Magento_SalesRule
 ID,ID,module,Magento_SalesRule
 Rule,Reguła,module,Magento_SalesRule
 Start,Start,module,Magento_SalesRule
 End,Koniec,module,Magento_SalesRule
+Status,Status,module,Magento_SalesRule
 "%1 - Discounts and Coupons","%1 - obniżki i kupony",module,Magento_SalesRule
 Coupons/Discounts,Kupony/obniżki,module,Magento_SalesRule
 Promotions,Promocje,module,Magento_SalesRule
@@ -9522,6 +9525,7 @@ Promotions,Promocje,module,Magento_SalesRule
 "We can\'t find a rule to delete.","Nie możemy znaleźć reguły do usunięcia.",module,Magento_SalesRule
 "This rule no longer exists.","Ta reguła już nie istnieje.",module,Magento_SalesRule
 "Edit Rule","Edytuj regułę",module,Magento_SalesRule
+"New Rule","Nowa reguła",module,Magento_SalesRule
 "New Cart Price Rule","Nowe reguły cenowe koszyka",module,Magento_SalesRule
 "Rule is not defined","Reguła nie jest zdefiniowana",module,Magento_SalesRule
 "Invalid data provided","Podano błędne dane",module,Magento_SalesRule
@@ -9590,6 +9594,8 @@ is,jest,module,Magento_SalesRule
 "Fixed amount discount","Zniżka o stałej wartości",module,Magento_SalesRule
 "Fixed amount discount for whole cart","Stała wartość zniżki dla całego koszyka",module,Magento_SalesRule
 "Buy X get Y free (discount amount is Y)","Kup X dostań Y za darmo (zniżkową wartością jest Y)",module,Magento_SalesRule
+Active,Aktywny,module,Magento_SalesRule
+Inactive,Nieaktywny,module,Magento_SalesRule
 "Specified rule does not allow automatic coupon generation","Określona reguła nie pozwala na automatyczną generację",module,Magento_SalesRule
 "Error occurred when generating coupons: %1","Wystąpił błąd podczas generowania Kuponu: %1",module,Magento_SalesRule
 "Some coupons are invalid.","Niektóre kupony są nieprawidłowe.",module,Magento_SalesRule
@@ -9605,15 +9611,29 @@ is,jest,module,Magento_SalesRule
 Promotion,Promocja,module,Magento_SalesRule
 "Auto Generated Specific Coupon Codes","Automatycznie wygenerowane kody kuponów",module,Magento_SalesRule
 "Web Site",Witryna,module,Magento_SalesRule
+Priority,Priorytet,module,Magento_SalesRule
+"Cart Price Rule","Reguły cenowe koszyka",module,Magento_SalesRule
 Back,Powrót,module,Magento_SalesRule
+"Rule Information","Informacje o regule",module,Magento_SalesRule
+"Rule Name","Nazwa reguły",module,Magento_SalesRule
+Description,Opis,module,Magento_SalesRule
+Websites,Witryny,module,Magento_SalesRule
+"Customer Groups","Grupy klientów",module,Magento_SalesRule
+Coupon,Kupon,module,Magento_SalesRule
+"Use Auto Generation","Użyj automatycznej generacji",module,Magento_SalesRule
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
                     ","                         Jeśli zaznaczysz i zapiszesz regułę będziesz mógł generować wiele kodów kuponu.
                      ",module,Magento_SalesRule
+"Uses per Coupon","Zastosowania wg kuponów",module,Magento_SalesRule
+"Uses per Customer","Zastosowania wg klientów",module,Magento_SalesRule
 "
                         Usage limit enforced for logged in customers only.
                     ","                         Użycie limit wymuszania tylko dla zalogowanych klientów.
                      ",module,Magento_SalesRule
+From,Od,module,Magento_SalesRule
+To,Do,module,Magento_SalesRule
+"Public In RSS Feed","Publiczne w kanale RSS",module,Magento_SalesRule
 Apply,Zastosuj,module,Magento_SalesRule
 "Discount Amount",Zniżka,module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Maksymalna zniżka ilościowa jest stosowana dla",module,Magento_SalesRule
@@ -9672,6 +9692,7 @@ Labels,Etykiety,module,Magento_SalesRuleStaging
 50,50,module,Magento_SalesRuleStaging
 100,100,module,Magento_SalesRuleStaging
 200,200,module,Magento_SalesRuleStaging
+"Cart Price Rules","Cart Price Rules",module,Magento_SalesRuleStaging
 "Entity Sequence profile not added to meta active profile","Obiekt sekwencji profil nie dodał do aktywnego profilu meta",module,Magento_SalesSequence
 "Not enough arguments","Za mało argumentów",module,Magento_SalesSequence
 "Advanced Inventory","Stan magazynowy",module,Magento_ScalableInventory
@@ -9742,9 +9763,9 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "You deleted a total of %1 record(s).","Usunięto w sumie %1 rekord(ów).",module,Magento_ScheduledImportExport
 "We can\'t delete all the items right now.","Nie można teraz usunąć wszystkich przedmiotów.",module,Magento_ScheduledImportExport
 "We can\'t save the scheduled operation right now.","Nie można teraz zapisać zaplanowanej operacji.",module,Magento_ScheduledImportExport
-"We can\'t create directory \\%1\\""",Nie możemy utworzyć katalogu \\%1\\"""""""",module,Magento_ScheduledImportExport
+"We can\'t create directory ""%1""","We can\'t create directory ""%1""",module,Magento_ScheduledImportExport
 "The directory ""%1"" is not writable.","Katalog ""%1"" nie jest zapisywalny.",module,Magento_ScheduledImportExport
-"We can\'t delete \\%1\\ because the directory is not writable.""""""","Nie możemy usunąć \\%1\" ponieważ katalogu nie jest zapisywalny.""",module,Magento_ScheduledImportExport
+"We can\'t delete ""%1"" because the directory is not writable.","We can\'t delete ""%1"" because the directory is not writable.",module,Magento_ScheduledImportExport
 "Scheduled Import","Harmonogram Importu",module,Magento_ScheduledImportExport
 "New Scheduled Import","Nowe harmonogram Importu",module,Magento_ScheduledImportExport
 "Scheduled Export","Harmonogram exportu",module,Magento_ScheduledImportExport
@@ -9765,7 +9786,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "Reading import file","Czytanie pliku importu",module,Magento_ScheduledImportExport
 "We can\'t read the import file.","Nie można odczytać pliku importu.",module,Magento_ScheduledImportExport
 "Save history file content ""%1""","Zapisywanie zawartości pliku historii ""%1""",module,Magento_ScheduledImportExport
-"We couldn\'t write file \\%1\\ to \\"%2\\" with the \\"%3\\" driver.""""""","Nie można zapisać pliku \\%1\\ ""do \\%2\\ """"z \\"%3\\ """".""""""",module,Magento_ScheduledImportExport
+"We couldn\'t write file ""%1"" to ""%2"" with the ""%3"" driver.","We couldn\'t write file ""%1"" to ""%2"" with the ""%3"" driver.",module,Magento_ScheduledImportExport
 "Save file content","Zapisywanie zawartości pliku",module,Magento_ScheduledImportExport
 "Please correct the server type.","Popraw typ serwera.",module,Magento_ScheduledImportExport
 "Import path %1 not exists","Ścieżka %1 nie istnieje",module,Magento_ScheduledImportExport
@@ -9855,8 +9876,8 @@ Marketing,Marketing,module,Magento_Search
 "A total of %1 synonym group(s) have been deleted.","W sumie usunięto %1 grup synonimów.",module,Magento_Search
 "This synonym group no longer exists.","Ta grupa synonimów już nie istnieje.",module,Magento_Search
 "You saved the synonym group.","Zapisane grupy synonimów.",module,Magento_Search
-"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the \"Merge existing synonyms\" checkbox so the terms can be merged.","Wprowadzony termin, (%1), należy do jednej z istniejących grup synonimów - %2. Zaznacz pole \"Połącz istniejące synonimy\", aby terminy mogły zostać połączone.",module,Magento_Search
-"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the \"Merge existing synonyms\" checkbox so the terms can be merged.","Wprowadzony termin, (%1), należy do %2 istniejących grup synonimów - %3 oraz %4. Zaznacz pole \"Połącz istniejące synonimy\", aby terminy mogły zostać połączone.",module,Magento_Search
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.",module,Magento_Search
+"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.",module,Magento_Search
 "You deleted the search.","Usunąłeś wyszukiwanie.",module,Magento_Search
 "We can\'t find a search term to delete.","Nie możemy znaleźć wyszukiwanej frazy do usunięcia.",module,Magento_Search
 "This search no longer exists.","To wyszukiwanie już nie istnieje.",module,Magento_Search
@@ -9900,6 +9921,8 @@ Synonyms,Synonimy,module,Magento_Search
 Website,Witryna,module,Magento_Search
 "Delete items","Usuń pozycje",module,Magento_Search
 "Are you sure you want to delete the selected synonym groups?","Czy na pewno chcesz usunąć wybrane grupy synonimów?",module,Magento_Search
+"Advanced Search","Advanced Search",module,Magento_SearchStaging
+"Search Terms","Search Terms",module,Magento_SearchStaging
 "Account Activity","Aktywność na koncie",module,Magento_Security
 "All other open sessions for this account were terminated.","Wszystkie inne otwarte sesje dla tego konta zostały zakończone.",module,Magento_Security
 "We couldn't logout because of an error.","Nie można wylogować z powodu błędu.",module,Magento_Security
@@ -10275,7 +10298,7 @@ Start,Start,module,Magento_Staging
 End,Koniec,module,Magento_Staging
 "Load More","Załaduj więcej",module,Magento_Staging
 "Belongs to ","Należy do ",module,Magento_Staging
-"Allow everything","Zezwól na wszystko",module,Magento_Staging
+Staging,Staging,module,Magento_Staging
 "Create New Campaign","Stwórz Nową Kampanię",module,Magento_Staging
 Back,Powrót,module,Magento_Staging
 General,Ogólne,module,Magento_Staging
@@ -10311,6 +10334,7 @@ Name,Nazwa,module,Magento_Staging
 Admin,Administrator,module,Magento_Store
 "More than one default website is defined","Zdefiniowano więcej niż jedną witrynę domyślną",module,Magento_Store
 "Default website is not defined","Nie określono domyślnej witryny",module,Magento_Store
+"no such entity exception","no such entity exception",module,Magento_Store
 "Your Language:","Twój język:",module,Magento_Store
 "Your Language","Twój język",module,Magento_Store
 Language,Język,module,Magento_Store
@@ -10356,7 +10380,7 @@ Support,"Wsparcie techniczne",module,Magento_Support
 "File does not exist","Plik nie istnieje",module,Magento_Support
 "Log Details","Szczegóły logów",module,Magento_Support
 "An error occurred during mass deletion of data collector backups. Please review log and try again.","Wystąpił błąd podczas masowego usuwania danych kolektora kopii zapasowych. Przejrzyj logi i spróbuj ponownie.",module,Magento_Support
-"After you make your selections, click the \"Create\" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","Po dokonaniu wyborów, kliknij przycisk \"Utwórz\". Następnie zaczekaj aż zostanie wygenerowany raport systemowy. Może to potrwać kilka minut. Otrzymasz powiadomienie gdy ten etap zostanie zakończony.",module,Magento_Support
+"After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.",module,Magento_Support
 "Create System Report","Utwórz raport systemu",module,Magento_Support
 "Unable to find a system report to delete.","Nie można odnaleźć raportu systemu, aby go usunąć.",module,Magento_Support
 "The system report has been deleted.","Raport systemu został usunięty.",module,Magento_Support
@@ -10541,7 +10565,7 @@ Delete,Usuń,module,Magento_Support
 "Delete ""%1""","Usuń ""%1""",module,Magento_Support
 "Are you sure you want to delete a ""%1"" record?","Czy na pewno chcesz usunąć rekord ""%1""?",module,Magento_Support
 View,Zobacz,module,Magento_Support
-"Are you sure you wan\'t to delete a \\%1\\ record?""""""","Czy na pewno chcesz usunąć rekord ""%1""?",module,Magento_Support
+"Are you sure you wan\'t to delete a ""%1"" record?","Are you sure you wan\'t to delete a ""%1"" record?",module,Magento_Support
 "Empty log","Brak logów",module,Magento_Support
 "Backup ID: ","ID kopii zapasowej: ",module,Magento_Support
 Collapse,Zwiń,module,Magento_Support
@@ -10569,7 +10593,6 @@ Stores,Sklepy,module,Magento_Support
 "New Report","Nowy raport",module,Magento_Support
 "Date Generated","Data wygenerowania",module,Magento_Support
 "Report Groups","Raport grupy",module,Magento_Support
-"Swatch Helper: not valid parameter for product instantiation","Próbka Helper: nie prawidłowy parametr produktu konkretyzacji",module,Magento_Swatches
 "Admin is a required field in the each row","Admin jest wymagane pola w każdym wierszu",module,Magento_Swatches
 "Update Product Preview Image","Zaktualizuj zdjęcie poglądowe produktu",module,Magento_Swatches
 "Filtering by this attribute will update the product image on catalog page","Filtrowanie według tej cechy zaktualizuje zdjęcie produktu na stronie katalogu",module,Magento_Swatches
@@ -10598,6 +10621,13 @@ Options,Opcje,module,Magento_Swatches
 "Create New Value","Utwórz nową wartość",module,Magento_Swatches
 "These changes affect all related products.","Te zmiany wpływają na wszystkie powiązane produkty.",module,Magento_Swatches
 "Swatches per Product","Próbki każdego produktu",module,Magento_Swatches
+"Swatch Image","Swatch Image",module,Magento_Swatches
+Image,Image,module,Magento_Swatches
+"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Swatches
+"Image Opacity","Image Opacity",module,Magento_Swatches
+"Image Size","Image Size",module,Magento_Swatches
+"Example format: 200x300.","Example format: 200x300.",module,Magento_Swatches
+"Image Position","Image Position",module,Magento_Swatches
 "Related Products Rule","Powiązane reguły produktów",module,Magento_TargetRule
 "Add Rule","Dodaj regułę",module,Magento_TargetRule
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_TargetRule
@@ -10889,6 +10919,10 @@ Rate,Stawka,module,Magento_TaxImportExport
 "Export Tax Rates","Eksportuj stawki podatku",module,Magento_TaxImportExport
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
+Back,Back,module,Magento_Theme
+Save,Save,module,Magento_Theme
+%1,%1,module,Magento_Theme
+Default,Default,module,Magento_Theme
 Themes,Motywy,module,Magento_Theme
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Theme
 "Are you sure you want to delete this theme?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Theme
@@ -10934,6 +10968,10 @@ Theme,Temat,module,Magento_Theme
 "Are you sure you want to delete this folder?","Czy na pewno chcesz usunąć ten folder?",module,Magento_Theme
 "Are you sure you want to delete this file?","Czy na pewno chcesz usunąć ten plik?",module,Magento_Theme
 "Storage Root","Baza składowania",module,Magento_Theme
+Global,Global,module,Magento_Theme
+"Design Configuration","Design Configuration",module,Magento_Theme
+"You saved the configuration.","You saved the configuration.",module,Magento_Theme
+"Something went wrong while saving this configuration:","Something went wrong while saving this configuration:",module,Magento_Theme
 "You deleted the theme.","Usunąłeś motyw.",module,Magento_Theme
 "We cannot delete the theme.","Nie możemy usunąć motywu.",module,Magento_Theme
 "File not found: ""%1"".","Nie znaleziono pliku: ""%1"".",module,Magento_Theme
@@ -10947,8 +10985,12 @@ Theme,Temat,module,Magento_Theme
 "We can\'t upload the JS file right now.","W tej chwili nie możemy wgrać pliku JS.",module,Magento_Theme
 "Sorry, something went wrong. That\'s all we know.","Przepraszamy, coś poszło nie tak.",module,Magento_Theme
 "Invalid type","Nieprawidłowy typ",module,Magento_Theme
-"Exception does not contain field \'%1\'","Wyjątek nie zawierają pola \'%1\'",module,Magento_Theme
+"Invalid scope or scope id","Invalid scope or scope id",module,Magento_Theme
+"%1 does not contain field \'%2\'","%1 does not contain field \'%2\'",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Nieprawidłowe wyrażenie regularne: ""%1"".",module,Magento_Theme
+"%1 does not contain field \'file\'","%1 does not contain field \'file\'",module,Magento_Theme
+"Backend model is not specified for %1","Backend model is not specified for %1",module,Magento_Theme
+"Can not save empty config","Can not save empty config",module,Magento_Theme
 label,etykieta,module,Magento_Theme
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_Theme
 "The start date can\'t follow the end date.","Data rozpoczęcia nie może być późniejsza niż data zakończenia.",module,Magento_Theme
@@ -10964,14 +11006,17 @@ Copy,Kopia,module,Magento_Theme
 "We cannot find a directory with this name.","Nie możemy znaleźć katalogu o podanej nazwie.",module,Magento_Theme
 "We can\'t delete root directory %1 right now.","W tej chwili nie możemy usunąć katalogu głównego %1.",module,Magento_Theme
 "Theme isn\'t deletable.","Motywu nie można usunąć.",module,Magento_Theme
+"Exception message","Exception message",module,Magento_Theme
 "localized exception","zlokalizowany wyjątek",module,Magento_Theme
 Message,Wiadomość,module,Magento_Theme
 "Test Label","Etykieta testowa",module,Magento_Theme
 Phrase,Wyrażenie,module,Magento_Theme
 testMessage,testMessage,module,Magento_Theme
 exception,wyjątek,module,Magento_Theme
+Edit,Edit,module,Magento_Theme
 "We found no files.","Nie znaleźliśmy żadnych plików.",module,Magento_Theme
 "Browse Files","Przeglądanie plików",module,Magento_Theme
+Scope:,Scope:,module,Magento_Theme
 Remove,Usuń,module,Magento_Theme
 "Help Us Keep Magento Healthy","Pomóż nam utrzymać Magento w dobrej kondycji",module,Magento_Theme
 "Report All Bugs","Zgłaszaj wszystkie błędy",module,Magento_Theme
@@ -11002,36 +11047,45 @@ Minute,Minuta,module,Magento_Theme
 "Welcome, %1!","Witaj, %1!",module,Magento_Theme
 Empty,Pusty,module,Magento_Theme
 "1 column","1 kolumna",module,Magento_Theme
-"HTML Head","Nagłówek HTML",module,Magento_Theme
-"Favicon Icon","Ikonka witryny (favicon)",module,Magento_Theme
-"Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Dozwolone typy plików: ICO, PNG, GIF, JPEG, APNG, SVG. Nie wszystkie przeglądarki wspierają wszystkie z tych formatów!",module,Magento_Theme
-"Default Title","Domyślny tytuł",module,Magento_Theme
-"Title Prefix","Przedrostek tytułu",module,Magento_Theme
-"Title Suffix","Przyrostek tytułu",module,Magento_Theme
-"Default Description","Domyślny opis",module,Magento_Theme
-"Default Keywords","Domyślne słowa kluczowe",module,Magento_Theme
-"Miscellaneous Scripts","Różne skrypty",module,Magento_Theme
-"This will be included before head closing tag in page HTML.","To będzie załączone przed znacznikiem zamykającym sekcję HEAD w HTML.",module,Magento_Theme
-"Display Demo Store Notice","Wyświetlaj informację o wersji demonstracyjnej",module,Magento_Theme
+Configuration,Configuration,module,Magento_Theme
 "Search Engine Robots","Roboty wyszukiwarek",module,Magento_Theme
 "Default Robots","Domyślne roboty",module,Magento_Theme
+"This will be included before head closing tag in page HTML.","To będzie załączone przed znacznikiem zamykającym sekcję HEAD w HTML.",module,Magento_Theme
 "Edit custom instruction of robots.txt File","Edytuj niestandardową instrukcję obsługi pliku robots.txt",module,Magento_Theme
 "Reset to Defaults","Przywróć domyślne",module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Ta akcja będzie usuwać twoje niestandardowe instrukcje i zresetuje plik robots.txt do domyślnych ustawień systemu.",module,Magento_Theme
-Header,Nagłówek,module,Magento_Theme
-"Logo Image","Obrazek logo",module,Magento_Theme
-"Logo Image Width","Szerokość obrazu logo",module,Magento_Theme
-"Logo Image Height","Wysokość obrazu logo",module,Magento_Theme
-"Logo Image Alt","ALT dla obrazka logo",module,Magento_Theme
-"Welcome Text","Tekst powitalny",module,Magento_Theme
-Footer,Stopka,module,Magento_Theme
-Copyright,"Prawa autorskie",module,Magento_Theme
-"Miscellaneous HTML","Różny HTML",module,Magento_Theme
-"This will be displayed just before body closing tag.","To będzie wyświetlane tuż przed zamykającym znacznikiem body.",module,Magento_Theme
+"Default Description","Domyślny opis",module,Magento_Theme
 "Default welcome msg!","Domyślna wiadomość powitalna!",module,Magento_Theme
 "Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. Wszystkie prawa zastrzeżone.",module,Magento_Theme
+"Design Config Grid","Design Config Grid",module,Magento_Theme
+"Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
 "Admin empty","Admin pusty",module,Magento_Theme
 "Admin 1column","Admin 1 kolumna",module,Magento_Theme
+"Theme Information","Theme Information",module,Magento_Theme
+"Other Settings","Other Settings",module,Magento_Theme
+"HTML Head","Nagłówek HTML",module,Magento_Theme
+"Favicon Icon","Ikonka witryny (favicon)",module,Magento_Theme
+"Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!","Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!",module,Magento_Theme
+"Default Title","Domyślny tytuł",module,Magento_Theme
+"Title Prefix","Przedrostek tytułu",module,Magento_Theme
+"Title Suffix","Przyrostek tytułu",module,Magento_Theme
+"Default Keywords","Domyślne słowa kluczowe",module,Magento_Theme
+"Miscellaneous Scripts","Różne skrypty",module,Magento_Theme
+"Display Demo Store Notice","Wyświetlaj informację o wersji demonstracyjnej",module,Magento_Theme
+Header,Nagłówek,module,Magento_Theme
+"Logo Image","Obrazek logo",module,Magento_Theme
+"Allowed file types: png, gif, jpg, jpeg, svg.","Allowed file types: png, gif, jpg, jpeg, svg.",module,Magento_Theme
+"Logo Image Width","Szerokość obrazu logo",module,Magento_Theme
+"Logo Image Height","Wysokość obrazu logo",module,Magento_Theme
+"Welcome Text","Tekst powitalny",module,Magento_Theme
+"Logo Image Alt","ALT dla obrazka logo",module,Magento_Theme
+Footer,Stopka,module,Magento_Theme
+"Miscellaneous HTML","Różny HTML",module,Magento_Theme
+"This will be displayed just before the body closing tag.","This will be displayed just before the body closing tag.",module,Magento_Theme
+Copyright,"Prawa autorskie",module,Magento_Theme
+Website,Website,module,Magento_Theme
+Store,Store,module,Magento_Theme
+"Store View","Store View",module,Magento_Theme
 "Skip to Content","Przejdź do treści",module,Magento_Theme
 "2 columns with left bar","2 kolumny z lewym paskiem",module,Magento_Theme
 "2 columns with right bar","2 kolumny z prawym paskiem",module,Magento_Theme
@@ -11058,6 +11112,8 @@ Next,Następne,module,Magento_Ui
 "Changes have been made to this section that have not been saved.","Wprowadzono zmiany do tej sekcji, które nie zostały zapisane.",module,Magento_Ui
 Assign,Przyporządkuj,module,Magento_Ui
 Options,Opcje,module,Magento_Ui
+"records found","records found",module,Magento_Ui
+selected,selected,module,Magento_Ui
 Filters,Filtry,module,Magento_Ui
 Add,Dodaj,module,Magento_Ui
 "Something went wrong.","Coś poszło nie tak.",module,Magento_Ui
@@ -11140,6 +11196,7 @@ Keyword,"Słowo kluczowe",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Prosimy o wprowadzenie poprawnej wartości np. 10,20,30",module,Magento_Ui
 "We don\'t recognize or support this file extension type.","Nie rozpoznajemy ani nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_Ui
 "File you are trying to upload exceeds maximum file size limit.","Rozmiar pliku który próbujesz przesłać przekracza dopuszczalny limit.",module,Magento_Ui
+"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.",module,Magento_Ui
 Attention,Uwaga,module,Magento_Ui
 OK,OK,module,Magento_Ui
 Close,Zamknij,module,Magento_Ui
@@ -11211,7 +11268,7 @@ Commercial,Komercyjna,module,Magento_Ups
 Pounds,Funty,module,Magento_Ups
 Kilograms,Kilogramy,module,Magento_Ups
 "Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Przepraszamy, ale coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my spróbujemy pomóc.",module,Magento_Ups
-"We can\'t convert a rate from \\%1-%2\\.""""""","Nie można prze konwertować kursu z \\%1-%2\\.""""""",module,Magento_Ups
+"We can\'t convert a rate from ""%1-%2"".","We can\'t convert a rate from ""%1-%2"".",module,Magento_Ups
 "Cannot retrieve shipping rates","Nie można pobrać stawek metody wysyłki",module,Magento_Ups
 status,status,module,Magento_Ups
 error_message,error_message,module,Magento_Ups
@@ -11415,7 +11472,7 @@ username,"nazwa użytkownika",module,Magento_User
 "Your password must include both numeric and alphabetic characters.","Hasło musi zawierać zarówno znaki numeryczne jak i alfabetu.",module,Magento_User
 "Your password confirmation must match your password.","Potwierdzenie twojego hasła musi być zgodne z twoim hasłem.",module,Magento_User
 "It\'s time to change your password.","Nadszedł czas, abyś zmienił swoje hasło.",module,Magento_User
-"It\'s time to <a href=\\%1\\>change your password</a>.""""""","Nadszedł czas, aby <a href=\\%1\\"> Zmień swoje hasło</a>""",module,Magento_User
+"It\'s time to <a href=""%1"">change your password</a>.","It\'s time to <a href=""%1"">change your password</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Twoje hasło wygasło; Skontaktuj się z administratorem.",module,Magento_User
 "Password Help","Pomoc hasła",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Wpisz swój adres e-mail.  Otrzymasz e-mail z linkiem do resetowania hasła.",module,Magento_User
@@ -11434,12 +11491,10 @@ Resources,Zasoby,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Ostrzeżenie!\r\nTo działanie usunie użytkownika z już przypisanej roli\r\nCzy na pewno togo chcesz?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Ostrzeżenie!\r\nTo działanie usunie użytkowników z już przypisanych ról\r\nCzy na pewno togo chcesz?",module,Magento_User
 "%name,","%name,",module,Magento_User
-"The password for your account has been successfully changed.","Pomyślnie zmieniono hasło do swojego konta.",module,Magento_User
-"If you did not request this change, please contact us.","Jeśli nie zażądałeś tej zmiany, prosimy o kontakt.",module,Magento_User
-"Thank you,","Dziękuję,",module,Magento_User
 "There was recently a request to change the password for your account.","Otrzymaliśmy żądanie zmiany hasła dla Twojego konta.",module,Magento_User
 "If you requested this change, reset your password here:","Jeśli zażądałeś zmiany, zresetuj swoje hasło tutaj:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie takie samo.",module,Magento_User
+"Thank you,","Dziękuję,",module,Magento_User
 "Hello,","Witamy,",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","Otrzymaliśmy prośbę o zmianę następujących informacji na Twoim koncie %store_name: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","Jeśli nie autoryzowałeś tej akcji, prosimy o natychmiastowy kontakt na adres %store_email",module,Magento_User
