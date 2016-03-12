@@ -2109,7 +2109,7 @@ Edit,Zmień,module,Magento_CatalogEvent
 "The fewest you may purchase is %1.","Najmniej, ile możesz zakupić to %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Proszę poprawić ilość dla niektórych produktów.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Najwięcej, ile możnesz kupic to %1.",module,Magento_CatalogInventory
-"We don\'t have as many \\%1\\ as you requested.""""""","Nie mamy tyle \\%1\\ ile zamawiasz.""""""",module,Magento_CatalogInventory
+"We don\'t have as many \\%1\\ as you requested.""""""","Nie mamy tyle \\%1\\" ile zamawiasz.""",module,Magento_CatalogInventory
 "We don\'t have as many \\%1\\ as you requested""","Nie mamy tyle \\%1\\ ile zamawiasz""","We don\'t have as many \\%1\\ as you requested"""," but we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
 "We don\'t have \\%1\\ in the requested quantity""","Nie mamy \\%1\\ w żądanej ilości""","We don\'t have \\%1\\ in the requested quantity"""," so we\'ll back order the remaining %2.""",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Możesz kupić %1 tylko w ilościach po %2 na raz.",module,Magento_CatalogInventory
