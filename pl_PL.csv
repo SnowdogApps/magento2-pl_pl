@@ -1214,7 +1214,7 @@ Position,Pozycja,module,Magento_Bundle
 Ordered,Zamówione,module,Magento_Bundle
 Invoiced,Zafakturowane,module,Magento_Bundle
 Shipped,Wysłane,module,Magento_Bundle
-Refunded,Zwrócono,module,Magento_Bundle
+Refunded,Zwrócone,module,Magento_Bundle
 Canceled,Anulowane,module,Magento_Bundle
 "As low as","Już od",module,Magento_Bundle
 "Regular Price","Normalna cena",module,Magento_Bundle
@@ -1774,7 +1774,7 @@ Backorders,Rezerwacje,module,Magento_Catalog
 "Out of Stock","Brak w magazynie",module,Magento_Catalog
 "Add Product To Websites","Dodaj produkty do witryn",module,Magento_Catalog
 "Remove Product From Websites","Usuń produkt z witryn",module,Magento_Catalog
-"To hide an item in catalog or search results, set the status to ""Disabled"".","Aby ukryć produkt w katalogu lub w wynikach wyszukiwania, należy ustawić stan na ""Wyłączone"".",module,Magento_Catalog
+"To hide an item in catalog or search results, set the status to ""Disabled"".","Aby ukryć produkt w katalogu lub w wynikach wyszukiwania, należy ustawić jego stan na ""Wyłączony"".",module,Magento_Catalog
 "We can\'t save custom-defined options for bundles with dynamic pricing.","Nie można zapisać opcji niestandardowych dla grup produktów z dynamicznymi cenami.",module,Magento_Catalog
 "Delete Custom Option","Usuń opcję niestandardowe",module,Magento_Catalog
 "Sort Custom Options","Niestandardowe opcje sortowania",module,Magento_Catalog
@@ -2618,7 +2618,7 @@ Shipping,Dostawa,module,Magento_Checkout
 "Send Payment Failed Email Copy To","Wyślij kopię e-maila o nieudanej płatności do",module,Magento_Checkout
 "Separate by "","".","Oddzielone za pomocą "","".",module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Wyślij kopię e-maila o nieudanej płatności metodą",module,Magento_Checkout
-"Order Total","Suma zamówienia",module,Magento_Checkout
+"Order Total",Podsumowanie,module,Magento_Checkout
 "We'll send your order confirmation here.","Wyślemy potwierdzenie Twojego zamówienia tutaj.",module,Magento_Checkout
 Payment,Płatność,module,Magento_Checkout
 "Not yet calculated","Jeszcze nie obliczone",module,Magento_Checkout
@@ -3267,8 +3267,8 @@ Order,Zamówienie,module,Magento_Customer
 Purchased,Zakupiono,module,Magento_Customer
 "Bill-to Name","Rachunek na",module,Magento_Customer
 "Ship-to Name","Dostawa do",module,Magento_Customer
-"Order Total","Suma zamówienia",module,Magento_Customer
-"Purchase Point","Punkt zakupu",module,Magento_Customer
+"Order Total",Podsumowanie,module,Magento_Customer
+"Purchase Point","Miejsce zakupu",module,Magento_Customer
 "Customer View","Widok klienta",module,Magento_Customer
 "There are no items in customer\'s shopping cart.","Nie ma żadnych produktów w koszyku klienta\ów",module,Magento_Customer
 Qty,Ilość,module,Magento_Customer
@@ -3760,7 +3760,7 @@ Comment,Komentarz,module,Magento_CustomerBalance
 Created,Utworzono,module,Magento_CustomerBalance
 Updated,Zaktualizowano,module,Magento_CustomerBalance
 Used,Wykorzystane,module,Magento_CustomerBalance
-Refunded,Zwrócono,module,Magento_CustomerBalance
+Refunded,Zwrócone,module,Magento_CustomerBalance
 Reverted,Odwrócony,module,Magento_CustomerBalance
 "You need a balance to save your balance history.","Potrzebny jest balans żeby zapisywać historię balansu.",module,Magento_CustomerBalance
 "Order #%1","Zamówienie #%1",module,Magento_CustomerBalance
@@ -4411,7 +4411,7 @@ Subtotal,"Suma częściowa",module,Magento_Downloadable
 Ordered,Zamówione,module,Magento_Downloadable
 Shipped,Wysłane,module,Magento_Downloadable
 Canceled,Anulowane,module,Magento_Downloadable
-Refunded,Zwrócono,module,Magento_Downloadable
+Refunded,Zwrócone,module,Magento_Downloadable
 "We could not detect a size.","Nie można wykryć rozmiaru.",module,Magento_Downloadable
 "Downloadable Product Section","Sekcja Produktów do pobrania",module,Magento_Downloadable
 Downloads,Pobrania,module,Magento_Downloadable
@@ -6746,7 +6746,7 @@ Order,Zamówienie,module,Magento_Paypal
 Purchased,Zakupiono,module,Magento_Paypal
 "Bill-to Name","Rachunek na",module,Magento_Paypal
 "Ship-to Name","Dostawa do",module,Magento_Paypal
-"Order Total","Suma zamówienia",module,Magento_Paypal
+"Order Total",Podsumowanie,module,Magento_Paypal
 "Purchase Point","Miejsce zakupu",module,Magento_Paypal
 "Billing Agreement View","Widok umowy rozliczeniowej",module,Magento_Paypal
 "View Transaction Details","Zobacz szczegóły transakcji",module,Magento_Paypal
@@ -7782,7 +7782,7 @@ Revenue,Dochód,module,Magento_Reports
 Profit,Profit,module,Magento_Reports
 Invoiced,Zafakturowane,module,Magento_Reports
 Paid,Zapłacono,module,Magento_Reports
-Refunded,Zwrócono,module,Magento_Reports
+Refunded,Zwrócone,module,Magento_Reports
 "Sales Tax","Podatek sprzedaży",module,Magento_Reports
 Tax,Podatek,module,Magento_Reports
 "Sales Shipping","Dostawa sprzedaży",module,Magento_Reports
@@ -7887,7 +7887,7 @@ Marketing,Marketing,module,Magento_Reports
 "By Customers",Klienci,module,Magento_Reports
 "By Products",Produkty,module,Magento_Reports
 Refunds,Zwroty,module,Magento_Reports
-"Order Total","Suma zamówienia",module,Magento_Reports
+"Order Total",Podsumowanie,module,Magento_Reports
 "Order Count","Liczba zamówień",module,Magento_Reports
 New,Nowy,module,Magento_Reports
 Ordered,Zamówień,module,Magento_Reports
@@ -8945,7 +8945,7 @@ Guest,Gość,module,Magento_Sales
 "Could not delete order address","Nie można usunąć adresu zamówienia",module,Magento_Sales
 "Could not save order address","Nie można zapisać adresu zamówienia",module,Magento_Sales
 Pending,Oczekujący,module,Magento_Sales
-Refunded,Zwrócono,module,Magento_Sales
+Refunded,Zwrócone,module,Magento_Sales
 Canceled,Anulowane,module,Magento_Sales
 "Unknown State","Nieznany stan",module,Magento_Sales
 "We found an invalid quantity to refund item ""%1"".","Znaleźliśmy nieprawidłową ilość towaru do zwrotu ""%1"".",module,Magento_Sales
@@ -9202,7 +9202,7 @@ Comment,Komentarz,module,Magento_Sales
 "%1 / %2 rate:","%1 / %2 cena:",module,Magento_Sales
 "Customer Name","Nazwisko klienta",module,Magento_Sales
 "Customer Group","Grupa klienta",module,Magento_Sales
-"Item Status","Status przedmiotu",module,Magento_Sales
+"Item Status",Stan,module,Magento_Sales
 "Original Price","Oryginalna cena",module,Magento_Sales
 "Tax Percent",Podatek,module,Magento_Sales
 "Notes for this Order","Uwagi do zamówienia",module,Magento_Sales
@@ -9436,7 +9436,7 @@ Order,Zamówienie,module,Magento_SalesArchive
 "Order Date","Data zamówienia",module,Magento_SalesArchive
 "Bill-to Name","Rachunek na",module,Magento_SalesArchive
 Status,Status,module,Magento_SalesArchive
-Refunded,Zwrócono,module,Magento_SalesArchive
+Refunded,Zwrócone,module,Magento_SalesArchive
 "Order Status","Stan zamówienia",module,Magento_SalesArchive
 "Billing Address","Adres rozliczeniowy",module,Magento_SalesArchive
 "Shipping Address","Adres wysyłki",module,Magento_SalesArchive
@@ -10129,7 +10129,7 @@ Action,Operacja,module,Magento_Shipping
 "Shipping and Tracking Information","Informacje o wysyłce i śledzeniu paczki",module,Magento_Shipping
 "Track this shipment","Śledź tę przesyłkę",module,Magento_Shipping
 "Items Shipped","Dostarczone produkty",module,Magento_Shipping
-"Order Total","Suma zamówienia",module,Magento_Shipping
+"Order Total",Podsumowanie,module,Magento_Shipping
 "Shipment History","Historia dostawy",module,Magento_Shipping
 "Qty Shipped","Ilość dostarczona",module,Magento_Shipping
 "Print All Shipments","Wydrukuj wszystkie wysyłki",module,Magento_Shipping
@@ -10898,7 +10898,7 @@ Rate,Stawka,module,Magento_Tax
 "(Incl. Tax)","(z podatkiem)",module,Magento_Tax
 "Order Total Excl. Tax","Suma zamówienia bez podatku",module,Magento_Tax
 "Order Total Incl. Tax","Suma zamówienia z podatkiem",module,Magento_Tax
-"Order Total","Suma zamówienia",module,Magento_Tax
+"Order Total",Podsumowanie,module,Magento_Tax
 "Your credit card will be charged for","Twoja karta kredytowa zostanie obciążona kwotą",module,Magento_Tax
 Code,Kod,module,Magento_TaxImportExport
 Country,Kraj,module,Magento_TaxImportExport
@@ -11135,7 +11135,7 @@ Off,Wyłączone,module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","{ $.visible } $ ze ${ $.total } widoczne",module,Magento_Ui
 "You have successfully saved your edits.","Zmiany zostały pomyślnie zapisane.",module,Magento_Ui
 "You haven\'t selected any items!","Nie wybrano żadnego produktu!",module,Magento_Ui
-"Search by keyword","Przeszukaj zamówienia",module,Magento_Ui
+"Search by keyword","Szukaj wg słów kluczowych",module,Magento_Ui
 Keyword,"Słowo kluczowe",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter less or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
