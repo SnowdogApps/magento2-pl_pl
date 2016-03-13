@@ -3265,8 +3265,8 @@ View,Zobacz,module,Magento_Customer
 Unknown,Nieznany,module,Magento_Customer
 Order,Zamówienie,module,Magento_Customer
 Purchased,Zakupiono,module,Magento_Customer
-"Bill-to Name","Rachunek na dane",module,Magento_Customer
-"Ship-to Name","Dostawa dla",module,Magento_Customer
+"Bill-to Name","Rachunek na",module,Magento_Customer
+"Ship-to Name","Dostawa do",module,Magento_Customer
 "Order Total","Suma zamówienia",module,Magento_Customer
 "Purchase Point","Punkt zakupu",module,Magento_Customer
 "Customer View","Widok klienta",module,Magento_Customer
@@ -6744,10 +6744,10 @@ Cancel,Anuluj,module,Magento_Paypal
 "Related Orders","Powiązane zamówienia",module,Magento_Paypal
 Order,Zamówienie,module,Magento_Paypal
 Purchased,Zakupiono,module,Magento_Paypal
-"Bill-to Name","Rachunek na dane",module,Magento_Paypal
-"Ship-to Name","Dostawa dla",module,Magento_Paypal
+"Bill-to Name","Rachunek na",module,Magento_Paypal
+"Ship-to Name","Dostawa do",module,Magento_Paypal
 "Order Total","Suma zamówienia",module,Magento_Paypal
-"Purchase Point","Punkt zakupu",module,Magento_Paypal
+"Purchase Point","Miejsce zakupu",module,Magento_Paypal
 "Billing Agreement View","Widok umowy rozliczeniowej",module,Magento_Paypal
 "View Transaction Details","Zobacz szczegóły transakcji",module,Magento_Paypal
 "Reference Information","Informacje referencji",module,Magento_Paypal
@@ -8253,7 +8253,7 @@ Returns,Zwroty,module,Magento_Rma
 "Create New RMA","Utwórz nowe zlecenie RMA",module,Magento_Rma
 "Please Select Order","Proszę wybrać zamówienie",module,Magento_Rma
 Order,Zamówienie,module,Magento_Rma
-"Purchase Point","Punkt zakupu",module,Magento_Rma
+"Purchase Point","Miejsce zakupu",module,Magento_Rma
 Purchased,Zakupiono,module,Magento_Rma
 "Customer First Name","Imię klienta",module,Magento_Rma
 "Customer Last Name","Nazwisko klienta",module,Magento_Rma
@@ -9237,7 +9237,7 @@ Actions,Operacje,module,Magento_Sales
 "You have placed no orders.","Nie masz jeszcze żadnych zamówień.",module,Magento_Sales
 "No shipping information available","Brak informacji o wysyłce",module,Magento_Sales
 "Print Order","Wydrukuj zamówienie",module,Magento_Sales
-"Print All Invoices","Wydrukuj wszystkie faktury",module,Magento_Sales
+"Print All Invoices","Drukuj faktury",module,Magento_Sales
 "Invoice #","Faktura nr  ",module,Magento_Sales
 "Print Invoice","Drukuj fakturę",module,Magento_Sales
 "Qty Invoiced","Zafakturowana ilość",module,Magento_Sales
@@ -9379,21 +9379,21 @@ Phone,Telefon,module,Magento_Sales
 "Signed-up Point","Punkt podpisania",module,Magento_Sales
 Website,Witryna,module,Magento_Sales
 order-header,"nagłówek zamówienia",module,Magento_Sales
-"Bill-to Name","Rachunek na dane",module,Magento_Sales
+"Bill-to Name","Rachunek na",module,Magento_Sales
 Created,Utworzono,module,Magento_Sales
 "Invoice Date","Data wystawienia",module,Magento_Sales
-"Ship-to Name","Dostawa dla",module,Magento_Sales
+"Ship-to Name","Dostawa do",module,Magento_Sales
 "Ship Date","Data wysyłki",module,Magento_Sales
 "Total Quantity","Całkowita ilość",module,Magento_Sales
 "Default Status","Domyślny status",module,Magento_Sales
 "State Code and Title","Kod stanu i tytuł",module,Magento_Sales
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Sales
 "PDF Credit Memos","Pobierz fakturę korygującą",module,Magento_Sales
-"Purchase Point","Punkt zakupu",module,Magento_Sales
-"Print Invoices","Wydrukuj faktury",module,Magento_Sales
+"Purchase Point","Miejsce zakupu",module,Magento_Sales
+"Print Invoices","Drukuj faktury",module,Magento_Sales
 "Print Packing Slips","Drukuj dokumenty dostawy",module,Magento_Sales
-"Print Credit Memos","Wydrukuj wszystkie faktury korygujące",module,Magento_Sales
-"Print All","Wydrukuj wszystko",module,Magento_Sales
+"Print Credit Memos","Drukuj faktury korygujące",module,Magento_Sales
+"Print All","Drukuj wszystko",module,Magento_Sales
 "Print Shipping Labels","Drukuj etykiety adresowe",module,Magento_Sales
 "Purchase Date","Data zakupu",module,Magento_Sales
 "Grand Total (Base)","Łączna suma (podstawowy)",module,Magento_Sales
@@ -9434,7 +9434,7 @@ Add,Dodaj,module,Magento_SalesArchive
 Created,Utworzono,module,Magento_SalesArchive
 Order,Zamówienie,module,Magento_SalesArchive
 "Order Date","Data zamówienia",module,Magento_SalesArchive
-"Bill-to Name","Rachunek na dane",module,Magento_SalesArchive
+"Bill-to Name","Rachunek na",module,Magento_SalesArchive
 Status,Status,module,Magento_SalesArchive
 Refunded,Zwrócono,module,Magento_SalesArchive
 "Order Status","Stan zamówienia",module,Magento_SalesArchive
@@ -9451,19 +9451,19 @@ Subtotal,"Suma częściowa",module,Magento_SalesArchive
 "Adjustment Fee","Opłata manipulacyjna",module,Magento_SalesArchive
 "Grand Total",Łącznie,module,Magento_SalesArchive
 "Return to Order Management","Wróć do zarządzania zamówieniami",module,Magento_SalesArchive
-"Purchase Point","Punkt zakupu",module,Magento_SalesArchive
+"Purchase Point","Miejsce zakupu",module,Magento_SalesArchive
 Cancel,Anuluj,module,Magento_SalesArchive
 Hold,Wstrzymaj,module,Magento_SalesArchive
 Unhold,Odblokuj,module,Magento_SalesArchive
-"Print Invoices","Wydrukuj faktury",module,Magento_SalesArchive
+"Print Invoices","Drukuj faktury",module,Magento_SalesArchive
 "Print Packing Slips","Drukuj dokumenty dostawy",module,Magento_SalesArchive
-"Print Credit Memos","Wydrukuj wszystkie faktury korygujące",module,Magento_SalesArchive
-"Print All","Wydrukuj wszystko",module,Magento_SalesArchive
+"Print Credit Memos","Drukuj faktury korygujące",module,Magento_SalesArchive
+"Print All","Drukuj wszystko",module,Magento_SalesArchive
 "Print Shipping Labels","Drukuj etykiety adresowe",module,Magento_SalesArchive
 "Remove to Archive",Archiwizuj,module,Magento_SalesArchive
 ID,ID,module,Magento_SalesArchive
 "Purchase Date","Data zakupu",module,Magento_SalesArchive
-"Ship-to Name","Dostawa dla",module,Magento_SalesArchive
+"Ship-to Name","Dostawa do",module,Magento_SalesArchive
 "Grand Total (Base)","Łączna suma (podstawowy)",module,Magento_SalesArchive
 "Grand Total (Purchased)","Łączna suma (zakupu)",module,Magento_SalesArchive
 "Customer Email","E-mail klienta",module,Magento_SalesArchive
@@ -11135,7 +11135,7 @@ Off,Wyłączone,module,Magento_Ui
 "${ $.visible } out of ${ $.total } visible","{ $.visible } $ ze ${ $.total } widoczne",module,Magento_Ui
 "You have successfully saved your edits.","Zmiany zostały pomyślnie zapisane.",module,Magento_Ui
 "You haven\'t selected any items!","Nie wybrano żadnego produktu!",module,Magento_Ui
-"Search by keyword","Wyszukiwanie wg słów kluczowych",module,Magento_Ui
+"Search by keyword","Przeszukaj zamówienia",module,Magento_Ui
 Keyword,"Słowo kluczowe",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter less or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
