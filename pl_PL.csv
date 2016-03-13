@@ -45,7 +45,7 @@ minor,drobne,module,Magento_AdminNotification
 notice,informacja,module,Magento_AdminNotification
 "Wrong message type","Nieprawidłowy typ wiadomości",module,Magento_AdminNotification
 "Wrong notification ID specified.","Niepoprawny ID powiadomienia.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Nie zaleca się używania {{base_url}} jako bazowego adresu URL w środowisku produkcyjnym. Radzimy zmianę tej wartości w <a href=""%1"">konfiguracji</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","Istnieją nieaktualne pamięci podręczne: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1"">strony zarządzania pamięciami podręcznymi</a> i odśwież je.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Nie byliśmy wstanie zsynchronizować jednego lub więcej plików multimedialnych. Zajrzyj do pliku z logami po więcej szczegółów.",module,Magento_AdminNotification
@@ -137,7 +137,7 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "The file is empty.","Plik jest pusty.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Nie podano żadnego SKU produktu. <a href=""%1"">Przejdź tutaj</a>, aby dodać produkt(y) po SKU.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","Nie podałeś SKU produktu.",module,Magento_AdvancedCheckout
-"We can\'t add a product to cart by id ""%1"".","We can\'t add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
+"We can\'t add a product to cart by id ""%1"".","Nie udało się dodać produktu do koszyka o Id ""%1"".",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Wystąpił problem podczas zmiany kolejności tego produktu.",module,Magento_AdvancedCheckout
 "We can\'t find this wish list.","Nie udało się odnaleźć tej listy życzeń.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","Produkty dodane do koszyka: %1.",module,Magento_AdvancedCheckout
@@ -747,8 +747,8 @@ Description,Opis,module,Magento_Backend
 Tags,Tagi,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Błąd 404</h1><p>Strona nie została odnaleziona.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
-"Default Theme","Default Theme",module,Magento_Backend
-"Applied Theme","Applied Theme",module,Magento_Backend
+"Default Theme","Domyślny motyw",module,Magento_Backend
+"Applied Theme","Zastosuj motyw",module,Magento_Backend
 "If no value is specified, the system default is used. The system default may be modified by third party extensions.","If no value is specified, the system default is used. The system default may be modified by third party extensions.",module,Magento_Backend
 "Design Rule","Design Rule",module,Magento_Backend
 "User Agent Rules","User Agent Rules",module,Magento_Backend
@@ -762,7 +762,7 @@ Pagination,Stronicowanie,module,Magento_Backend
 "Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.","Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",module,Magento_Backend
 "Anchor Text for Next","Tekst dla Następny",module,Magento_Backend
 "Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",module,Magento_Backend
-"Theme Name","Theme Name",module,Magento_Backend
+"Theme Name","Nazwa motywu",module,Magento_Backend
 "System Backup","Kopia systemu",module,Magento_Backup
 "Database and Media Backup","Kopia bazy danych i mediów",module,Magento_Backup
 "Database Backup","Kopia bazy danych",module,Magento_Backup
