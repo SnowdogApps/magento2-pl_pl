@@ -1564,8 +1564,8 @@ Bottom/Left,Dół/lewo,module,Magento_Catalog
 Bottom/Right,Dół/prawo,module,Magento_Catalog
 Center,Środek,module,Magento_Catalog
 "%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 nie rozszerza \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
-"Something went wrong while saving the file(s).","Something went wrong while saving the file(s).",module,Magento_Catalog
-"File can not be saved to the destination folder.","File can not be saved to the destination folder.",module,Magento_Catalog
+"Something went wrong while saving the file(s).","Coś się zepsuło podczas zapisywania plików.",module,Magento_Catalog
+"File can not be saved to the destination folder.","Nie można zapisać plików w folderze docelowym.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Nieznany typ indeksu EAV ""%1"".",module,Magento_Catalog
 "We can\'t rebuild the index for an undefined product.","Nie można przebudować indeksu dla niezdefiniowanego produktu.",module,Magento_Catalog
 "Bad value was supplied.","Podano błędną wartość.",module,Magento_Catalog
@@ -1977,12 +1977,12 @@ AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
 "Product Image Watermarks","Znaki wodne produktu",module,Magento_Catalog
 Base,Base,module,Magento_Catalog
-Image,Image,module,Magento_Catalog
-"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Catalog
-"Image Opacity","Image Opacity",module,Magento_Catalog
-"Example format: 200x300.","Example format: 200x300.",module,Magento_Catalog
-"Image Position","Image Position",module,Magento_Catalog
-Small,Small,module,Magento_Catalog
+Image,Obraz,module,Magento_Catalog
+"Allowed file types: jpeg, gif, png.","Dozwolone typy plików: jpeg, gif, png.",module,Magento_Catalog
+"Image Opacity","Przezroczystość obrazu",module,Magento_Catalog
+"Example format: 200x300.","Przykład format: 200 x 300.",module,Magento_Catalog
+"Image Position","Położenie obrazu",module,Magento_Catalog
+Small,Mały,module,Magento_Catalog
 "Attribute Label","Etykieta cechy",module,Magento_Catalog
 System,System,module,Magento_Catalog
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Catalog
@@ -2348,10 +2348,10 @@ Description,Opis,module,Magento_CatalogStaging
 "Create Future Update","Tworzenia przyszłych aktualizacji",module,Magento_CatalogStaging
 "Something went wrong while saving the category.","Coś poszło nie tak podczas zapisywania kategorii",module,Magento_CatalogStaging
 "Attribute ""%1"" is required.","Cecha %1 jest wymagana",module,Magento_CatalogStaging
-"Unable to save product","Unable to save product",module,Magento_CatalogStaging
+"Unable to save product","Nie można zapisać produktu",module,Magento_CatalogStaging
 "The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_CatalogStaging
-Enabled,Enabled,module,Magento_CatalogStaging
-Disabled,Disabled,module,Magento_CatalogStaging
+Enabled,Włączone,module,Magento_CatalogStaging
+Disabled,Wyłączone,module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
 Delete,Usuń,module,Magento_CatalogStaging
 Preview,Podgląd,module,Magento_CatalogStaging
@@ -2397,24 +2397,24 @@ Layout,Układ,module,Magento_CatalogStaging
 100,100,module,Magento_CatalogStaging
 200,200,module,Magento_CatalogStaging
 ID,ID,module,Magento_CatalogStaging
-Thumbnail,Thumbnail,module,Magento_CatalogStaging
-"Attribute Set","Attribute Set",module,Magento_CatalogStaging
+Thumbnail,Miniatura,module,Magento_CatalogStaging
+"Attribute Set","Zestaw cech",module,Magento_CatalogStaging
 AttributeSetText,AttributeSetText,module,Magento_CatalogStaging
 Status,Status,module,Magento_CatalogStaging
 StatusText,StatusText,module,Magento_CatalogStaging
-Type,Type,module,Magento_CatalogStaging
+Type,Typ,module,Magento_CatalogStaging
 SKU,SKU,module,Magento_CatalogStaging
-Price,Price,module,Magento_CatalogStaging
-"Update Informa1tion","Update Informa1tion",module,Magento_CatalogStaging
+Price,Cena,module,Magento_CatalogStaging
+"Update Informa1tion","Informacje o aktualizacji",module,Magento_CatalogStaging
 "Remove Product from Update","Remove Product from Update",module,Magento_CatalogStaging
 "Set Product as New","Set Product as New",module,Magento_CatalogStaging
 "Deleting the change will remove the product from this update and all scheduled changes will be lost.","Deleting the change will remove the product from this update and all scheduled changes will be lost.",module,Magento_CatalogStaging
-Products,Products,module,Magento_CatalogStaging
-Categories,Categories,module,Magento_CatalogStaging
-Path,Path,module,Magento_CatalogStaging
-Quantity,Quantity,module,Magento_CatalogStaging
-Visibility,Visibility,module,Magento_CatalogStaging
-Websites,Websites,module,Magento_CatalogStaging
+Products,Produkty,module,Magento_CatalogStaging
+Categories,Kategorie,module,Magento_CatalogStaging
+Path,Ścieżka,module,Magento_CatalogStaging
+Quantity,Ilość,module,Magento_CatalogStaging
+Visibility,Widoczność,module,Magento_CatalogStaging
+Websites,Witryny,module,Magento_CatalogStaging
 "Create Permanent Redirect for old URL","Utwórz przekierowanie dla poprzedniego klucza URL",module,Magento_CatalogUrlRewrite
 "Category URL Suffix","Sufiks URL kategorii",module,Magento_CatalogUrlRewrite
 "You need to refresh the cache.","Musisz odświeżyć pamięć podręczną.",module,Magento_CatalogUrlRewrite
