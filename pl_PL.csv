@@ -4692,7 +4692,7 @@ Yes,Tak,module,Magento_EncryptionKey
 "Deployment configuration file is not writable.","Plik konfiguracji wdrażania nie jest możliwy do zapisu.",module,Magento_EncryptionKey
 "Please enter an encryption key.","Wprowadź klucz szyfrowania.",module,Magento_EncryptionKey
 "The encryption key has been changed.","Klucz szyfrowania został zmieniony.",module,Magento_EncryptionKey
-"This is your new encryption key: %1. Be sure to write it down and take good care of it!","This is your new encryption key: %1. Be sure to write it down and take good care of it!",module,Magento_EncryptionKey
+"This is your new encryption key: %1. Be sure to write it down and take good care of it!","To jest Twój nowy klucz szyfrowy: %1. Pamiętaj by go zapisać i na niego uważać!",module,Magento_EncryptionKey
 "Manage Encryption Key","Klucz szyfrowania",module,Magento_EncryptionKey
 "Private Sales","Sprzedaż prywatna",module,Magento_Enterprise
 "Payment Type","Rodzaj płatności",module,Magento_Eway
@@ -5847,7 +5847,7 @@ Reports,Raporty,module,Magento_Invitation
 "We did not send %1 invitation(s) addressed to current customers.","Nie wysłaliśmy %1 zaproszeń skierowana do obecnych klientów.",module,Magento_Invitation
 "Send Invitations","Wyślij Zaproszenie",module,Magento_Invitation
 "Max Invitations Allowed to be Sent at One Time","Maksymalna liczba wysłanych zaproszeń jednocześnie",module,Magento_Invitation
-"Please correct the value for ""%1"" parameter, otherwise we\'ll use the saved value instead.","Please correct the value for ""%1"" parameter, otherwise we\'ll use the saved value instead.",module,Magento_Invitation
+"Please correct the value for ""%1"" parameter, otherwise we\'ll use the saved value instead.","Popraw wartość parametru ""%1"", w przeciwnym razie będziemy używać zapisanych wartości.",module,Magento_Invitation
 "Same as Inviter","Tak samo jak zapraszający",module,Magento_Invitation
 "Default Customer Group from System Configuration","Domyślne grupy klientów od konfiguracji systemu",module,Magento_Invitation
 "By Invitation Only","Tylko na zaproszenie",module,Magento_Invitation
@@ -5858,7 +5858,7 @@ Reports,Raporty,module,Magento_Invitation
 "You can\'t update this message.","Nie możesz uaktualnić tej wiadomości.",module,Magento_Invitation
 "We can\'t generate encrypted code.","Nie można wygenerować zaszyfrowanego kodu.",module,Magento_Invitation
 "We can\'t find an ID for this invitation.","Nie udało się znaleźć ID dla tego zaproszenia.",module,Magento_Invitation
-"You can\'t send an invitation with status ""%1"".","You can\'t send an invitation with status ""%1"".",module,Magento_Invitation
+"You can\'t send an invitation with status ""%1"".","Nie możesz wysłać zaproszenia o statusie ""%1"".",module,Magento_Invitation
 "Please enter a valid invitation email.","Prosimy wpisać poprawny adres e-mail zaproszenia.",module,Magento_Invitation
 "We can\'t identify the proper website.","Nie możemy wskazać właściwej strony.",module,Magento_Invitation
 "Please specify an email.","Proszę podać e-mail.",module,Magento_Invitation
@@ -6145,7 +6145,7 @@ Price,Cena,module,Magento_Msrp
 "Enable MAP","Włącz MAP",module,Magento_Msrp
 "Display Actual Price","Pokaż aktualną cenę",module,Magento_Msrp
 "Default Popup Text Message","Domyślny tekst wiadomości wyskakującego okienka",module,Magento_Msrp
-"Default ""What's This"" Text Message","Default ""What's This"" Text Message",module,Magento_Msrp
+"Default ""What's This"" Text Message","Domyślny tekst wiadomości ""Co to jest?""",module,Magento_Msrp
 Back,Powrót,module,Magento_MultipleLocationInventory
 "Save Warehouse","Zapisz magazyn",module,Magento_MultipleLocationInventory
 "Disable Warehouse","Wyłącz magazyn",module,Magento_MultipleLocationInventory
@@ -6194,7 +6194,7 @@ Customers,Klienci,module,Magento_MultipleWishlist
 """%1"" was copied to %2.","""%1"" został skopiowany do %2.",module,Magento_MultipleWishlist
 "We can\'t find the item.","Nie możemy znaleźć produktu.",module,Magento_MultipleWishlist
 """%1"" is already present in %2.","""%1"" jest już obecny w %2.",module,Magento_MultipleWishlist
-"We can\'t copy ""%1"".","We can\'t copy ""%1"".",module,Magento_MultipleWishlist
+"We can\'t copy ""%1"".","Nie możemy skopiować ""%1"".",module,Magento_MultipleWishlist
 "We can\'t copy the wish list item.","Nie można skopiować pozycji schowka.",module,Magento_MultipleWishlist
 "We can\'t find %1 items.","Nieznalezione produkty: %1.",module,Magento_MultipleWishlist
 "We can\'t copy %1 items.","Nieprzekopiowane produkty: %1.",module,Magento_MultipleWishlist
@@ -7461,7 +7461,7 @@ Description,Opis,module,Magento_ProductVideo
 "Hide from Product Page","Ukryj na stronie produktu",module,Magento_ProductVideo
 Role,Rola,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","YouTube i Vimeo są obsługiwane.",module,Magento_ProductVideo
-"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.",module,Magento_ProductVideo
+"Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo jest obsługiwany. <br />By dodać obsługę filmów z YouTube, proszę wpierw <a href=""%1"">wprowadzić Kod API YouTube </a>.",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Nie można porać podglądu informacji o filmie. Proszę sprawdzić połączenie z internetem.",module,Magento_ProductVideo
 "Add Video","Dodaj wideo",module,Magento_ProductVideo
 "Browse to find or drag image here","Przeglądaj, aby znaleźć lub przeciągnij zdjęcie tutaj",module,Magento_ProductVideo
@@ -7593,7 +7593,7 @@ Inactive,Nieaktywny,module,Magento_Reminder
 From,Od,module,Magento_Reminder
 To,Do,module,Magento_Reminder
 "Repeat Schedule","Powtórz harmonogram",module,Magento_Reminder
-"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).",module,Magento_Reminder
+"Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Wprowadź liczbę dni, po których przypomnienie e-mail zostanie ponownie wysłane, jeśli jej reguła jest nadal spełniana (Np.: Wprowadź ""7, 14"" by wysłać e-mail wpierw za 7 dni, a następnie 14 dni później).",module,Magento_Reminder
 "Select Rule...","Wybierz regułę...",module,Magento_Reminder
 "Email Templates","Szablony e-mail",module,Magento_Reminder
 "Only customers who have an account for a store view will receive emails related to that store view.","Tylko klienci, którzy mają konto na widok sklepu otrzymają e-maile związane z tym widokiem sklepu.",module,Magento_Reminder
@@ -7816,7 +7816,7 @@ Name,Nazwa,module,Magento_Reports
 "Times Deleted","Razy Usuwane",module,Magento_Reports
 "Index type is not valid","Typ indeksu nie jest prawidłowa",module,Magento_Reports
 Reports,Raporty,module,Magento_Reports
-"Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.",module,Magento_Reports
+"Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Ostania aktualizacja: %1. W celu odświeżenia <a href=""%2"">statystyk</a> z ostatniego dnia, kliknij <a href=""%3"">tutaj</a>.",module,Magento_Reports
 "New Accounts Report","Nowy raport konta",module,Magento_Reports
 "Customers by Number of Orders","Klienci wg liczby zamówień",module,Magento_Reports
 "Order Count Report","Raport liczby zamówień",module,Magento_Reports
@@ -8069,14 +8069,14 @@ Summary,Podsumowanie,module,Magento_Review
 Active,Aktywny,module,Magento_Review
 Inactive,Nieaktywny,module,Magento_Review
 ID,ID,module,Magento_ReviewStaging
-Created,Created,module,Magento_ReviewStaging
+Created,Utworzono,module,Magento_ReviewStaging
 Status,Status,module,Magento_ReviewStaging
-Title,Title,module,Magento_ReviewStaging
-Nickname,Nickname,module,Magento_ReviewStaging
-Review,Review,module,Magento_ReviewStaging
-Visibility,Visibility,module,Magento_ReviewStaging
-Type,Type,module,Magento_ReviewStaging
-Product,Product,module,Magento_ReviewStaging
+Title,Tytuł,module,Magento_ReviewStaging
+Nickname,Pseudonim,module,Magento_ReviewStaging
+Review,Opinia,module,Magento_ReviewStaging
+Visibility,Widoczność,module,Magento_ReviewStaging
+Type,Typ,module,Magento_ReviewStaging
+Product,Produkt,module,Magento_ReviewStaging
 SKU,SKU,module,Magento_ReviewStaging
 "Reward Points","Punkty lojalnościowe",module,Magento_Reward
 "Reward Points History","Punkty Zwrotne Historii",module,Magento_Reward
@@ -8457,7 +8457,7 @@ Closed,Zamknięty,module,Magento_Rma
 "Shipment does not exists.","Przesyłka nie istnieje.",module,Magento_Rma
 "We can\'t load track with retrieving identifier right now.","Nie można teraz załadować trasy z odzyskiwaniem identyfikatora.",module,Magento_Rma
 Message,Wiadomość,module,Magento_Rma
-"No detail for number ""' . . '""","No detail for number ""' . . '""",module,Magento_Rma
+"No detail for number ""' . . '""","Brak szczegółów dla numeru ""' . . '""",module,Magento_Rma
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_Rma
 "All Items","Wszystkie produkty",module,Magento_Rma
 "Individual Items","Poszczególne pozycje",module,Magento_Rma
@@ -9055,11 +9055,11 @@ State/Province,Województwo,module,Magento_Sales
 "Street Address","Adres pocztowy",module,Magento_Sales
 "Phone Number","Numer telefonu",module,Magento_Sales
 "Zip/Postal Code","Kod pocztowy",module,Magento_Sales
-"We can't save the address:\n%1","We can't save the address:\n%1",module,Magento_Sales
-"Cannot save comment:\n%1","Cannot save comment:\n%1",module,Magento_Sales
+"We can't save the address:\n%1","Nie możemy zapisać adresu:\n%1",module,Magento_Sales
+"Cannot save comment:\n%1","Nie można zapisać komentarza:\n%1",module,Magento_Sales
 "We don\'t have enough information to save the parent transaction ID.","Nie mamy wystarczających informacji, aby zapisać nadrzędny identyfikator transakcji.",module,Magento_Sales
 "We cannot create an empty shipment.","Nie można utworzyć pustej przesyłki.",module,Magento_Sales
-"Cannot save track:\n%1","Cannot save track:\n%1",module,Magento_Sales
+"Cannot save track:\n%1","Nie można zapisać ścieżki:\n%1",module,Magento_Sales
 "Cannot unassign status from state","Nie można cofnąć przypisania stanu od Państwa",module,Magento_Sales
 "New Orders","Nowe zamówienia",module,Magento_Sales
 "Order #%1 created at %2","Zamówienie #%1 utworzone %2",module,Magento_Sales
@@ -9692,7 +9692,7 @@ Labels,Etykiety,module,Magento_SalesRuleStaging
 50,50,module,Magento_SalesRuleStaging
 100,100,module,Magento_SalesRuleStaging
 200,200,module,Magento_SalesRuleStaging
-"Cart Price Rules","Cart Price Rules",module,Magento_SalesRuleStaging
+"Cart Price Rules","Reguły cenowe koszyka",module,Magento_SalesRuleStaging
 "Entity Sequence profile not added to meta active profile","Obiekt sekwencji profil nie dodał do aktywnego profilu meta",module,Magento_SalesSequence
 "Not enough arguments","Za mało argumentów",module,Magento_SalesSequence
 "Advanced Inventory","Stan magazynowy",module,Magento_ScalableInventory
