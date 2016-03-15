@@ -10622,7 +10622,7 @@ Options,Opcje,module,Magento_Swatches
 "These changes affect all related products.","Te zmiany wpływają na wszystkie powiązane produkty.",module,Magento_Swatches
 "Swatches per Product","Próbki każdego produktu",module,Magento_Swatches
 "Swatch Image","Swatch Image",module,Magento_Swatches
-Image,Image,module,Magento_Swatches
+Image,Obraz,module,Magento_Swatches
 "Allowed file types: jpeg, gif, png.","Dozwolone typy plików: jpeg, gif, png.",module,Magento_Swatches
 "Image Opacity","Przezroczystość obrazu",module,Magento_Swatches
 "Image Size","Rozmiar zdjęcia",module,Magento_Swatches
@@ -10970,7 +10970,7 @@ Theme,Temat,module,Magento_Theme
 "Storage Root","Baza składowania",module,Magento_Theme
 Global,Globalny,module,Magento_Theme
 "Design Configuration","Design Configuration",module,Magento_Theme
-"You saved the configuration.","You saved the configuration.",module,Magento_Theme
+"You saved the configuration.","Konfiguracja zapisana.",module,Magento_Theme
 "Something went wrong while saving this configuration:","Podczas zapisywania tej konfiguracji coś poszło nie tak:",module,Magento_Theme
 "You deleted the theme.","Usunąłeś motyw.",module,Magento_Theme
 "We cannot delete the theme.","Nie możemy usunąć motywu.",module,Magento_Theme
@@ -10985,12 +10985,12 @@ Global,Globalny,module,Magento_Theme
 "We can\'t upload the JS file right now.","W tej chwili nie możemy wgrać pliku JS.",module,Magento_Theme
 "Sorry, something went wrong. That\'s all we know.","Przepraszamy, coś poszło nie tak.",module,Magento_Theme
 "Invalid type","Nieprawidłowy typ",module,Magento_Theme
-"Invalid scope or scope id","Invalid scope or scope id",module,Magento_Theme
+"Invalid scope or scope id","Nieprawidłowy zakres lub jego id",module,Magento_Theme
 "%1 does not contain field \'%2\'","%1 nie zawiera pola \'%2\'",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Nieprawidłowe wyrażenie regularne: ""%1"".",module,Magento_Theme
 "%1 does not contain field \'file\'","%1 nie zawiera pola \'file\'",module,Magento_Theme
 "Backend model is not specified for %1","Backend model is not specified for %1",module,Magento_Theme
-"Can not save empty config","Can not save empty config",module,Magento_Theme
+"Can not save empty config","Nie można zapisać pustej konfiguracji",module,Magento_Theme
 label,etykieta,module,Magento_Theme
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_Theme
 "The start date can\'t follow the end date.","Data rozpoczęcia nie może być późniejsza niż data zakończenia.",module,Magento_Theme
@@ -11006,14 +11006,14 @@ Copy,Kopia,module,Magento_Theme
 "We cannot find a directory with this name.","Nie możemy znaleźć katalogu o podanej nazwie.",module,Magento_Theme
 "We can\'t delete root directory %1 right now.","W tej chwili nie możemy usunąć katalogu głównego %1.",module,Magento_Theme
 "Theme isn\'t deletable.","Motywu nie można usunąć.",module,Magento_Theme
-"Exception message","Exception message",module,Magento_Theme
+"Exception message","Komunikat wyjątku",module,Magento_Theme
 "localized exception","zlokalizowany wyjątek",module,Magento_Theme
 Message,Wiadomość,module,Magento_Theme
 "Test Label","Etykieta testowa",module,Magento_Theme
 Phrase,Wyrażenie,module,Magento_Theme
 testMessage,testMessage,module,Magento_Theme
 exception,wyjątek,module,Magento_Theme
-Edit,Edit,module,Magento_Theme
+Edit,Zmień,module,Magento_Theme
 "We found no files.","Nie znaleźliśmy żadnych plików.",module,Magento_Theme
 "Browse Files","Przeglądanie plików",module,Magento_Theme
 Scope:,Zakres:,module,Magento_Theme
@@ -11061,8 +11061,8 @@ Configuration,Konfiguracja,module,Magento_Theme
 "Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
 "Admin empty","Admin pusty",module,Magento_Theme
 "Admin 1column","Admin 1 kolumna",module,Magento_Theme
-"Theme Information","Theme Information",module,Magento_Theme
-"Other Settings","Other Settings",module,Magento_Theme
+"Theme Information","Informacje o motywie",module,Magento_Theme
+"Other Settings",Inne,module,Magento_Theme
 "HTML Head","Nagłówek HTML",module,Magento_Theme
 "Favicon Icon","Ikonka witryny (favicon)",module,Magento_Theme
 "Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!","Dozwolone typy plików: ico, png, gif, jpg, jpeg, apng, svg. Nie wszystkie przeglądarki obsługują każdy z tych formatów!",module,Magento_Theme
@@ -11081,7 +11081,7 @@ Header,Nagłówek,module,Magento_Theme
 "Logo Image Alt","ALT dla obrazka logo",module,Magento_Theme
 Footer,Stopka,module,Magento_Theme
 "Miscellaneous HTML","Różny HTML",module,Magento_Theme
-"This will be displayed just before the body closing tag.","This will be displayed just before the body closing tag.",module,Magento_Theme
+"This will be displayed just before the body closing tag.","To będzie wyświetlane tuż przed zamykającym znacznikiem body.",module,Magento_Theme
 Copyright,"Prawa autorskie",module,Magento_Theme
 Website,Witryna,module,Magento_Theme
 Store,Sklep,module,Magento_Theme
@@ -11268,7 +11268,7 @@ Commercial,Komercyjna,module,Magento_Ups
 Pounds,Funty,module,Magento_Ups
 Kilograms,Kilogramy,module,Magento_Ups
 "Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Przepraszamy, ale coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my spróbujemy pomóc.",module,Magento_Ups
-"We can\'t convert a rate from ""%1-%2"".","We can\'t convert a rate from ""%1-%2"".",module,Magento_Ups
+"We can\'t convert a rate from ""%1-%2"".","Nie możemy przekonwertować kursu z ""%1-%2"".",module,Magento_Ups
 "Cannot retrieve shipping rates","Nie można pobrać stawek metody wysyłki",module,Magento_Ups
 status,status,module,Magento_Ups
 error_message,error_message,module,Magento_Ups
