@@ -5339,7 +5339,7 @@ View,Zobacz,module,Magento_GiftRegistry
 "Unit Price","Cena jednostkowa",module,Magento_GiftRegistry
 "Add to Cart","Dodaj do koszyka",module,Magento_GiftRegistry
 "%name,","%name,",module,Magento_GiftRegistry
-"You have successfully created the new gift registry ""%registry_name"".","You have successfully created the new gift registry ""%registry_name"".",module,Magento_GiftRegistry
+"You have successfully created the new gift registry ""%registry_name"".","Pomyślnie utworzono nowy rejestr prezentów ""%registry_name"".",module,Magento_GiftRegistry
 "Your Gift Registry Message","Twoje wiadomości rejestru prezentów.",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","Teraz można dodać produkty do swojej listy prezentowej.",module,Magento_GiftRegistry
 "Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Po prostu przejdź do <a href=""%store_url""> %store_name</a> i dodaj produkty, które chcesz w twoim koszyku lub liście życzeń.",module,Magento_GiftRegistry
@@ -5352,7 +5352,7 @@ View,Zobacz,module,Magento_GiftRegistry
 "Gift Registry:","Rejestr prezentów:",module,Magento_GiftRegistry
 "Created For:","Stworzony dla:",module,Magento_GiftRegistry
 "You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Możesz utworzyć własny rejestr prezentów <a href='%account_url'>%store_name</a>  i udostępnić go dla przyjaciół i rodziny",module,Magento_GiftRegistry
-"The following items have been purchased from your gift registry ""%registry_name"":","The following items have been purchased from your gift registry ""%registry_name"":",module,Magento_GiftRegistry
+"The following items have been purchased from your gift registry ""%registry_name"":","Następujące produkty zostały zakupione z twojego rejestru prezentów ""%registry_name"":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","Możesz zalogować się na swoje konto, aby wyświetlić więcej szczegółów o tej liście prezentowej.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Dostawa pod adres odbiorcy",module,Magento_GiftRegistry
 "Ship Here","Wysyłamy Tutaj",module,Magento_GiftRegistry
@@ -7319,7 +7319,7 @@ User,Użytkownik,module,Magento_Paypal
                                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                             or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ",module,Magento_Paypal
-"Basic Settings - PayPal Payments Advanced","Basic Settings - PayPal Payments Advanced",module,Magento_Paypal
+"Basic Settings - PayPal Payments Advanced","Podstawowe ustawienia - PayPal Payments Advanced",module,Magento_Paypal
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Zalecane jest ustawienia tej wartości na ""Karta debetowa lub kredytowa"" na każy widok sklepu.",module,Magento_Paypal
 "CVV Entry is Editable","Pole CVV jest edytowalne",module,Magento_Paypal
 "Require CVV Entry","Wymaga wpisu CVV",module,Magento_Paypal
@@ -7351,7 +7351,7 @@ User,Użytkownik,module,Magento_Paypal
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                             or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ",module,Magento_Paypal
-"Basic Settings - PayPal Payments Pro Hosted Solution","Basic Settings - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
+"Basic Settings - PayPal Payments Pro Hosted Solution","Podstawowe ustawienia - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
 "Display Express Checkout in the Payment Information step","Display Express Checkout in the Payment Information step",module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution i Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Pro Hosted Solution","Podstawowe ustawienia - PayPal Website Payments Pro Hosted Solution",module,Magento_Paypal
