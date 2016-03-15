@@ -4676,9 +4676,9 @@ Updated,Zaktualizowano,module,Magento_Email
 Subject,Temat,module,Magento_Email
 "Template Type","Typ szablonu",module,Magento_Email
 Action,Operacja,module,Magento_Email
-"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.",module,Magento_Email
-"Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".",module,Magento_Email
-"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".",module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Dozwolone typy plików: jpg, jpeg, gif, png. Aby zoptymalizować logo dla wyświetlaczy o wysokiej rozdzielczości, prześlij obraz, który jest 3x większy niż normalny rozmiar, a następnie określ 1 x (normalny) wymiar szerokości/wysokości pola poniżej.",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter number of pixels, without appending ""px"".","Konieczne tylko, gdy zdjęcie zostało przesłane powyżej. Podaj liczbę pikseli, bez ""px"".",module,Magento_Email
+"Necessary only if an image has been uploaded above. Enter image height size in pixels without appending ""px"".","Konieczne tylko, gdy zdjęcie zostało przesłane powyżej. Podaj wysokość zdjęcia w pikselach, bez ""px"".",module,Magento_Email
 "Email template chosen based on theme fallback, when the ""Default"" option is selected.","Email template chosen based on theme fallback, when the ""Default"" option is selected.",module,Magento_Email
 "Change Encryption Key","Zmień klucz",module,Magento_EncryptionKey
 "Encryption Key","Klucz szyfrowania",module,Magento_EncryptionKey
@@ -5052,7 +5052,7 @@ End,Koniec,module,Magento_GiftCardAccount
 "There is no order with provided id or gift message isn\'t allowed","Nie ma zamówień z podanym ID lub wiadomość podarunkowa nie jest dozwolona.",module,Magento_GiftMessage
 "There is no order with provided id","Nie ma zamówień z podanym ID",module,Magento_GiftMessage
 "Gift Messages are not applicable for empty order","Wiadomości podarunkowe nie mają zastosowania do pustego zamówienia.",module,Magento_GiftMessage
-"Could not add gift message to order\'s item: ""%1""","Could not add gift message to order\'s item: ""%1""",module,Magento_GiftMessage
+"Could not add gift message to order\'s item: ""%1""","Nie można dodać wiadomości podarunkowej do zamówionych produktów: ""%1""",module,Magento_GiftMessage
 "Unknown entity type","Nieznany rodzaj obiektu",module,Magento_GiftMessage
 "Test label","Etykieta testowa",module,Magento_GiftMessage
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_GiftMessage
@@ -6117,7 +6117,7 @@ Database,"Baza danych",module,Magento_MediaStorage
 "Wrong file info format","Nieprawidłowy format informacji pliku",module,Magento_MediaStorage
 "Path ""%value%"" is protected and cannot be used.","Ścieżka ""%value%"" jest chroniona i nie może być użyta.",module,Magento_MediaStorage
 "Path ""%value%"" is not available and cannot be used.","Ścieżka ""%value%"" jest niedostępna i nie może być użyta.",module,Magento_MediaStorage
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\\).""","Path ""%value%"" may not include parent directory traversal (""../"", ""..\\).""",module,Magento_MediaStorage
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\\).""","Ścieżka ""%value%"" nie może zawierać przejść do nadrzędnych katalogów (""../"", ""..\\).""",module,Magento_MediaStorage
 "Please set available and/or protected paths list(s) before validation.","Prosimy ustawić listę dostępnych i/lub chronionych ścieżek przed walidacją.",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","Plik z rozszerzeniem %value%"" jest chroniony i nie może być przesłany.""",module,Magento_MediaStorage
 "Unable to create directory: %1","Nie udało się utworzyć katalogu: %1",module,Magento_MediaStorage
@@ -6781,7 +6781,7 @@ Sales,Sprzedaż,module,Magento_Paypal
 "View Transaction","Zobacz transakcję",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Nie znaleźliśmy nic do pobrania ze względu na pustą konfigurację.",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","Pobrane wiersze raportu %1 z ""%2@%3.""",module,Magento_Paypal
-"We can\'t fetch reports from ""%1@%2.""","We can\'t fetch reports from ""%1@%2.""",module,Magento_Paypal
+"We can\'t fetch reports from ""%1@%2.""","Nie możemy pobrać raportu z ""%1@%2.""",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","Umowa rozliczeniowa ""%1"" została anulowana.",module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","Umowa rozliczeniowa ""%1"" została utworzona.",module,Magento_Paypal
 "We couldn\'t finish the billing agreement wizard.","Nie można zakończyć Kreatora umowy płatności.",module,Magento_Paypal
@@ -7206,7 +7206,7 @@ Manage,Zarządzaj,module,Magento_Paypal
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ",module,Magento_Paypal
-"Publisher ID","Publisher ID",module,Magento_Paypal
+"Publisher ID","ID wydawcy",module,Magento_Paypal
 "Required to display a banner","Wymagane do wyświetlania banerów",module,Magento_Paypal
 "Get Publisher ID from PayPal","Uzyskaj identyfikator wydawcy z PayPal",module,Magento_Paypal
 "Home Page","Strona główna",module,Magento_Paypal
