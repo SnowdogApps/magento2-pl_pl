@@ -513,8 +513,8 @@ YTD,"Od początku roku",module,Magento_Backend
 "Authentication storage is incorrect.","Magazyn uwierzytelnienia jest niepoprawny.",module,Magento_Backend
 "You did not sign in correctly or your account is temporarily disabled.","Użytkownik nie zalogował się prawidłowo lub konto jest tymczasowo wyłączone.",module,Magento_Backend
 "Authentication error occurred.","Wystąpił błąd uwierzytelniania.",module,Magento_Backend
-"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Admin session lifetime must be less than or equal to 31536000 seconds (one year)",module,Magento_Backend
-"Admin session lifetime must be greater than or equal to 60 seconds","Admin session lifetime must be greater than or equal to 60 seconds",module,Magento_Backend
+"Admin session lifetime must be less than or equal to 31536000 seconds (one year)","Czas trwania sesji Admina musi być krótszy lub równy 31536000 sekundom (jeden rok)",module,Magento_Backend
+"Admin session lifetime must be greater than or equal to 60 seconds","Czas trwania sesji Admina musi być dłuższy lub równy 60 sekundom",module,Magento_Backend
 Order,Zamówienie,module,Magento_Backend
 "Order #%1","Zamówienie #%1",module,Magento_Backend
 "Access denied","Dostęp zabroniony",module,Magento_Backend
@@ -700,7 +700,7 @@ Security,Bezpieczeństwo,module,Magento_Backend
 "Add Secret Key to URLs","Dodaj sekretny klucz do URL",module,Magento_Backend
 "Login is Case Sensitive","Logowanie rozpoznaje wielkość liter",module,Magento_Backend
 "Admin Session Lifetime (seconds)","Czas trwania sesji Admina (w sekundach)",module,Magento_Backend
-"Please enter at least 60 and at most 31536000 (one year).","Please enter at least 60 and at most 31536000 (one year).",module,Magento_Backend
+"Please enter at least 60 and at most 31536000 (one year).","Proszę wprowadzić przynajmniej 60 i co najwyżej 31536000 (jeden rok).",module,Magento_Backend
 "Enable Charts","Włącz wykresy",module,Magento_Backend
 Web,Sieć,module,Magento_Backend
 "Url Options","Opcje URL",module,Magento_Backend
@@ -768,7 +768,7 @@ Pagination,Stronicowanie,module,Magento_Backend
 "Database Backup","Kopia bazy danych",module,Magento_Backup
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","Archiwum może zostać rozpakowane przy pomocy <a href=%1"">%2</a> w systemach Windows"".",module,Magento_Backup
 "You need more permissions to activate maintenance mode right now.","Potrzebujesz więcej uprawnień, aby uaktywnić tryb przerwy technicznej.",module,Magento_Backup
-"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","W celu utworzenia kopii zapasowej, usuń zaznaczenie ""Przełącz sklep w tryb konserwacji"" lub zaktualizuj swoje uprawnienia.",module,Magento_Backup
 "Something went wrong while putting your store into maintenance mode.","Coś się zepsuło podczas przechodzenia sklepu w tryb konserwacji.",module,Magento_Backup
 "You need more free space to create a backup.","Potrzebujesz więcej wolnego miejsca, aby utworzyć kopię zapasową.",module,Magento_Backup
 "You need more permissions to create a backup.","Potrzebujesz więcej uprawnień, aby utworzyć kopię zapasową.",module,Magento_Backup
@@ -783,7 +783,7 @@ successful,"zakończona pomyślnie",module,Magento_Backup
 "You deleted the selected backup(s).","Zaznaczone kopie zostały usunięte.",module,Magento_Backup
 "Can\'t load snapshot archive","Nie można załadować archiwalnego obrazu",module,Magento_Backup
 "Please correct the password.","Proszę poprawić hasło.",module,Magento_Backup
-"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Aby ukończyć wycofywanie, usuń zaznaczenie opcji ""Przełącz sklep w tryb konserwacji"" lub zaktualizuj swoje uprawnienia.",module,Magento_Backup
 "We can\'t find the backup file.","Nie możemy odnaleźć pliku z kopią zapasową.",module,Magento_Backup
 "We can\'t connect to the FTP right now.","W tej chili nie możemy połączyć się z FTP.",module,Magento_Backup
 "Failed to validate FTP.","Nie udało się potwierdzić FTP.",module,Magento_Backup
@@ -1390,7 +1390,7 @@ Websites,Witryny,module,Magento_Catalog
 "Create Category","Stwórz Kategorię",module,Magento_Catalog
 "Category Name","Nazwa kategorii",module,Magento_Catalog
 "Parent Category","Kategoria nadrzędna",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","Jeśli nie ma zdefiniowanych kategorii nadrzędnych, proszę użyć domyślnej kategorii nadrzędnej. Można zmienić przypisaną kategorię w dowolnym momencie w <a href=""%1"" target=""_blank""> Produkty > Kategorie</a>.",module,Magento_Catalog
 "Price Alert Subscriptions","Subskrypcja alertów cen",module,Magento_Catalog
 "Stock Alert Subscriptions","Subskrypcja alertów stanu magazynu",module,Magento_Catalog
 "There are no customers for this alert.","Nie ma klientów dla tego alertu.",module,Magento_Catalog
@@ -1483,7 +1483,7 @@ Catalog,Katalog,module,Magento_Catalog
 "Edit Product Attribute","Edytuj cechę produktu",module,Magento_Catalog
 "An attribute set named \'%1\' already exists.","Zestaw cech o nazwie \'%1\' już istnieje.",module,Magento_Catalog
 "Something went wrong while saving the attribute.","Coś się zepsuło podczas zapisywania cechy.",module,Magento_Catalog
-"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Kod cechy %1 jest niepoprawny. Prosimy o używanie jedynie liter (a-z), cyfr (0-9) lub podkreślnika (_) w tym polu, pierwszy znak powinien być literą.",module,Magento_Catalog
 "We can\'t update the attribute.","Nie możemy zaktualizować cechy.",module,Magento_Catalog
 "You saved the product attribute.","Atrybut produktu zapisany.",module,Magento_Catalog
 "An attribute with this code already exists.","Atrybut z tym kodem już istnieje.",module,Magento_Catalog
@@ -1643,7 +1643,7 @@ px.,px.,module,Magento_Catalog
 "Please provide valid data","Podaj poprawne dane",module,Magento_Catalog
 "Values of following attributes are invalid: %1","Wartości następujących atrybutów są nieprawidłowe: %1",module,Magento_Catalog
 "Could not save group price","Nie można zapisać ceny grupowej",module,Magento_Catalog
-"We can\'t create writeable directory ""%1"".","We can\'t create writeable directory ""%1"".",module,Magento_Catalog
+"We can\'t create writeable directory ""%1"".","Nie można utworzyć zapisywalnego katalogu ""%1"".",module,Magento_Catalog
 "The file upload failed.","Wysłanie pliku nie powiodło się.",module,Magento_Catalog
 "The product has required options.","Produkt ma wymagane opcje.",module,Magento_Catalog
 "Something went wrong while processing the request.","Coś się zepsuło podczas przetwarzania żądania.",module,Magento_Catalog
@@ -1729,7 +1729,7 @@ Actions,Operacje,module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakres do zastosowania dla określonego widoku.",module,Magento_Catalog
 name,nazwa,module,Magento_Catalog
 "Copy Data from","Kopiowanie danych z",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","Jeśli nie ma zdefiniowanych kategorii nadrzędnych, proszę użyć domyślnej kategorii nadrzędnej. Można zmienić przypisaną kategorię w dowolnym momencie w <a href=""%1"" target=""_blank""> Produkty &gt; Kategorie</a>.",module,Magento_Catalog
 "This operation can take a long time","Ta operacja może zająć dużo czasu",module,Magento_Catalog
 "Collapse All","Zwiń wszystko",module,Magento_Catalog
 "Expand All","Rozwiń wszystko",module,Magento_Catalog
@@ -2349,7 +2349,7 @@ Description,Opis,module,Magento_CatalogStaging
 "Something went wrong while saving the category.","Coś poszło nie tak podczas zapisywania kategorii",module,Magento_CatalogStaging
 "Attribute ""%1"" is required.","Cecha %1 jest wymagana",module,Magento_CatalogStaging
 "Unable to save product","Nie można zapisać produktu",module,Magento_CatalogStaging
-"The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_CatalogStaging
+"The image cannot be removed as it has been assigned to the other image role","Obraz nie może zostać usunięty, ponieważ został przypisany do roli innego obrazu",module,Magento_CatalogStaging
 Enabled,Włączone,module,Magento_CatalogStaging
 Disabled,Wyłączone,module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
@@ -2406,9 +2406,9 @@ Type,Typ,module,Magento_CatalogStaging
 SKU,SKU,module,Magento_CatalogStaging
 Price,Cena,module,Magento_CatalogStaging
 "Update Informa1tion","Informacje o aktualizacji",module,Magento_CatalogStaging
-"Remove Product from Update","Remove Product from Update",module,Magento_CatalogStaging
-"Set Product as New","Set Product as New",module,Magento_CatalogStaging
-"Deleting the change will remove the product from this update and all scheduled changes will be lost.","Deleting the change will remove the product from this update and all scheduled changes will be lost.",module,Magento_CatalogStaging
+"Remove Product from Update","Usuń produkt z aktualizacji",module,Magento_CatalogStaging
+"Set Product as New","Ustaw produkt jako nowy",module,Magento_CatalogStaging
+"Deleting the change will remove the product from this update and all scheduled changes will be lost.","Usunięcie zmiany spowoduje usunięcie produktu z tej aktualizacji i wszystkie zaplanowane zmiany zostaną utracone.",module,Magento_CatalogStaging
 Products,Produkty,module,Magento_CatalogStaging
 Categories,Kategorie,module,Magento_CatalogStaging
 Path,Ścieżka,module,Magento_CatalogStaging
@@ -2506,7 +2506,7 @@ Error!,Błąd!,module,Magento_Checkout
 "DB exception","Błąd bazy danych",module,Magento_Checkout
 "Wrong minimum amount.","Niepoprawna minimalna ilość.",module,Magento_Checkout
 Message,Wiadomość,module,Magento_Checkout
-"<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>",module,Magento_Checkout
+"<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Wydrukuj paragon</a>",module,Magento_Checkout
 "Apply Discount Code","Zastosuj kod rabatowy",module,Magento_Checkout
 "Enter discount code","Wprowadź kod rabatowy",module,Magento_Checkout
 "Apply Discount","Zastosuj zniżkę",module,Magento_Checkout
@@ -2665,7 +2665,7 @@ Manually,Ręcznie,module,Magento_CheckoutAgreements
 Close,Zamknij,module,Magento_CheckoutAgreements
 "Terms & Conditions",Regulaminy,module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Włącz warunki sprzedaży",module,Magento_CheckoutAgreements
-"Preview mode doesn\'t allow submitting the order.","Preview mode doesn\'t allow submitting the order.",module,Magento_CheckoutStaging
+"Preview mode doesn\'t allow submitting the order.","Tryb podglądu nie pozwala na składanie zamówień.",module,Magento_CheckoutStaging
 "Preview Quote Lifetime (minutes)","Preview Quote Lifetime (minutes)",module,Magento_CheckoutStaging
 "Static Blocks","Bloki statyczne",module,Magento_Cms
 "Add New Block","Dodaj blok",module,Magento_Cms
@@ -2733,9 +2733,9 @@ Pages,Strony,module,Magento_Cms
 "Enabled by Default","Włączone domyślnie",module,Magento_Cms
 "Disabled by Default","Wyłączone domyślnie",module,Magento_Cms
 "Disabled Completely","Wyłączone kompletnie",module,Magento_Cms
-"Could not save the page: %1","Could not save the page: %1",module,Magento_Cms
+"Could not save the page: %1","Nie można zapisać strony: %1",module,Magento_Cms
 "CMS Page with id ""%1"" does not exist.","strona CMS o id ""%1"" nie istnieje.",module,Magento_Cms
-"Could not delete the page: %1","Could not delete the page: %1",module,Magento_Cms
+"Could not delete the page: %1","Nie można usunąć strony: %1",module,Magento_Cms
 "A block identifier with the same properties already exists in the selected store.","Identyfikator bloku o tych samych właściwościach już istnieje w wybranym sklepie.",module,Magento_Cms
 "The page URL key contains capital letters or disallowed symbols.","Klucz URL strony zawiera wielkie litery lub niedozwolone symbole.",module,Magento_Cms
 "The page URL key cannot be made of only numbers.","Klawisz URL strony nie możne zawierać tylko liczb.",module,Magento_Cms
@@ -2756,7 +2756,7 @@ Delete,Usuń,module,Magento_Cms
 "Delete ${ $.$data.title }","Usuń ${ $.$data.title }",module,Magento_Cms
 "Are you sure you wan\'t to delete a ${ $.$data.title } record?","Czy na pewno chcesz usunąć rekord ${ $.$data.title }?",module,Magento_Cms
 "Delete ""${ $.$data.title }""","Usuń ${ $.$data.title }",module,Magento_Cms
-"Are you sure you wan\'t to delete a ""${ $.$data.title }"" record?","Are you sure you wan\'t to delete a ""${ $.$data.title }"" record?",module,Magento_Cms
+"Are you sure you wan\'t to delete a ""${ $.$data.title }"" record?","Czy na pewno chcesz usunąć rekord ""${ $.$data.title }""?",module,Magento_Cms
 View,Zobacz,module,Magento_Cms
 px.,px.,module,Magento_Cms
 "No files found","Nie znaleziono plików",module,Magento_Cms
@@ -2945,7 +2945,7 @@ Store,Sklep,module,Magento_Config
 Yes,Tak,module,Magento_Config
 Specified,Wybrane,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Klon zestawu pól formularza konfiguracyjnego jest wymagany do klonowania pól",module,Magento_Config
-"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Config
+"Invalid XML in file %1:\n%2","Nieprawidłowy kod XML w pliku %1:\n%2",module,Magento_Config
 .,.,module,Magento_Config
 some_label,some_label,module,Magento_Config
 some_comment,some_comment,module,Magento_Config
@@ -3460,7 +3460,7 @@ label,etykieta,module,Magento_Customer
 "Please enter a customer email.","Proszę podać e-mail klienta.",module,Magento_Customer
 "A customer website ID must be specified when using the website scope.","ID witryny klienta musi być podane, kiedy używany jest zakres witryny.",module,Magento_Customer
 "Customer Group","Grupa klienta",module,Magento_Customer
-"You can\'t delete group ""%1"".","You can\'t delete group ""%1"".",module,Magento_Customer
+"You can\'t delete group ""%1"".","Nie można usunąć grupy ""%1"".",module,Magento_Customer
 "Customer Group already exists.","Grupa klientów już istnieje.",module,Magento_Customer
 "Cannot delete group.","Nie można usunąć grupy.",module,Magento_Customer
 "Error during VAT Number verification.","Błąd podczas weryfikacji numeru VAT.",module,Magento_Customer
@@ -4309,8 +4309,8 @@ Service,Usługa,module,Magento_Directory
 "Weight Unit","Jednostka wagi",module,Magento_Directory
 "Document is not saved due to error.","Dokument nie jest zapisany ze względu na błąd.",module,Magento_Doc
 "More than one node matching the query: %1","Więcej niż jeden wynik pasuje do zapytania: %1",module,Magento_Doc
-"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Doc
-"Invalid Document \n%1","Invalid Document \n%1",module,Magento_Doc
+"Invalid XML in file %1:\n%2","Nieprawidłowy kod XML w pliku %1:\n%2",module,Magento_Doc
+"Invalid Document \n%1","Nieprawidłowy dokument \n%1",module,Magento_Doc
 "Downloadable Information","Informacje o produktach do pobrania",module,Magento_Downloadable
 "Add New Link","Dodać nowy Link",module,Magento_Downloadable
 "Upload Files","Załaduj pliki",module,Magento_Downloadable
