@@ -1976,7 +1976,7 @@ Layout,Układ,module,Magento_Catalog
 AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
 "Product Image Watermarks","Znaki wodne produktu",module,Magento_Catalog
-Base,Base,module,Magento_Catalog
+Base,Podstawa,module,Magento_Catalog
 Image,Obraz,module,Magento_Catalog
 "Allowed file types: jpeg, gif, png.","Dozwolone typy plików: jpeg, gif, png.",module,Magento_Catalog
 "Image Opacity","Przezroczystość obrazu",module,Magento_Catalog
@@ -9763,9 +9763,9 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "You deleted a total of %1 record(s).","Usunięto w sumie %1 rekord(ów).",module,Magento_ScheduledImportExport
 "We can\'t delete all the items right now.","Nie można teraz usunąć wszystkich przedmiotów.",module,Magento_ScheduledImportExport
 "We can\'t save the scheduled operation right now.","Nie można teraz zapisać zaplanowanej operacji.",module,Magento_ScheduledImportExport
-"We can\'t create directory ""%1""","We can\'t create directory ""%1""",module,Magento_ScheduledImportExport
+"We can\'t create directory ""%1""","Nie możemy utworzyć katalogu ""%1""",module,Magento_ScheduledImportExport
 "The directory ""%1"" is not writable.","Katalog ""%1"" nie jest zapisywalny.",module,Magento_ScheduledImportExport
-"We can\'t delete ""%1"" because the directory is not writable.","We can\'t delete ""%1"" because the directory is not writable.",module,Magento_ScheduledImportExport
+"We can\'t delete ""%1"" because the directory is not writable.","Nie można usunąć ""%1"" bo katalogu nie jest zapisywalny.",module,Magento_ScheduledImportExport
 "Scheduled Import","Harmonogram Importu",module,Magento_ScheduledImportExport
 "New Scheduled Import","Nowe harmonogram Importu",module,Magento_ScheduledImportExport
 "Scheduled Export","Harmonogram exportu",module,Magento_ScheduledImportExport
@@ -9876,8 +9876,8 @@ Marketing,Marketing,module,Magento_Search
 "A total of %1 synonym group(s) have been deleted.","W sumie usunięto %1 grup synonimów.",module,Magento_Search
 "This synonym group no longer exists.","Ta grupa synonimów już nie istnieje.",module,Magento_Search
 "You saved the synonym group.","Zapisane grupy synonimów.",module,Magento_Search
-"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.",module,Magento_Search
-"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.",module,Magento_Search
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Wprowadzony termin, (%1), należy do jednej z istniejących grup synonimów - %2. Zaznacz pole ""Połącz istniejące synonimy"", aby terminy mogły zostać połączone.",module,Magento_Search
+"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Wprowadzony termin, (%1), należy do %2 istniejących grup synonimów - %3 oraz %4. Zaznacz pole ""Połącz istniejące synonimy"", aby terminy mogły zostać połączone.",module,Magento_Search
 "You deleted the search.","Usunąłeś wyszukiwanie.",module,Magento_Search
 "We can\'t find a search term to delete.","Nie możemy znaleźć wyszukiwanej frazy do usunięcia.",module,Magento_Search
 "This search no longer exists.","To wyszukiwanie już nie istnieje.",module,Magento_Search
@@ -9921,8 +9921,8 @@ Synonyms,Synonimy,module,Magento_Search
 Website,Witryna,module,Magento_Search
 "Delete items","Usuń pozycje",module,Magento_Search
 "Are you sure you want to delete the selected synonym groups?","Czy na pewno chcesz usunąć wybrane grupy synonimów?",module,Magento_Search
-"Advanced Search","Advanced Search",module,Magento_SearchStaging
-"Search Terms","Search Terms",module,Magento_SearchStaging
+"Advanced Search","Wyszukiwanie zaawansowane",module,Magento_SearchStaging
+"Search Terms","Wyszukiwane frazy",module,Magento_SearchStaging
 "Account Activity","Aktywność na koncie",module,Magento_Security
 "All other open sessions for this account were terminated.","Wszystkie inne otwarte sesje dla tego konta zostały zakończone.",module,Magento_Security
 "We couldn't logout because of an error.","Nie można wylogować z powodu błędu.",module,Magento_Security
@@ -10380,7 +10380,7 @@ Support,"Wsparcie techniczne",module,Magento_Support
 "File does not exist","Plik nie istnieje",module,Magento_Support
 "Log Details","Szczegóły logów",module,Magento_Support
 "An error occurred during mass deletion of data collector backups. Please review log and try again.","Wystąpił błąd podczas masowego usuwania danych kolektora kopii zapasowych. Przejrzyj logi i spróbuj ponownie.",module,Magento_Support
-"After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.",module,Magento_Support
+"After you make your selections, click the ""Create"" button. Then stand by while the System Report is generated. This may take a few minutes. You will receive a notification once this step is completed.","Po wybraniu opcji, kliknij przycisk ""Utwórz"". Następnie zaczekaj aż zostanie wygenerowany raport systemu. Może to potrwać kilka minut. Otrzymasz powiadomienie po zakończeniu tego etapu.",module,Magento_Support
 "Create System Report","Utwórz raport systemu",module,Magento_Support
 "Unable to find a system report to delete.","Nie można odnaleźć raportu systemu, aby go usunąć.",module,Magento_Support
 "The system report has been deleted.","Raport systemu został usunięty.",module,Magento_Support
@@ -10565,7 +10565,7 @@ Delete,Usuń,module,Magento_Support
 "Delete ""%1""","Usuń ""%1""",module,Magento_Support
 "Are you sure you want to delete a ""%1"" record?","Czy na pewno chcesz usunąć rekord ""%1""?",module,Magento_Support
 View,Zobacz,module,Magento_Support
-"Are you sure you wan\'t to delete a ""%1"" record?","Are you sure you wan\'t to delete a ""%1"" record?",module,Magento_Support
+"Are you sure you wan\'t to delete a ""%1"" record?","Czy na pewno chcesz usunąć rekord ""%1""?",module,Magento_Support
 "Empty log","Brak logów",module,Magento_Support
 "Backup ID: ","ID kopii zapasowej: ",module,Magento_Support
 Collapse,Zwiń,module,Magento_Support
@@ -10623,11 +10623,11 @@ Options,Opcje,module,Magento_Swatches
 "Swatches per Product","Próbki każdego produktu",module,Magento_Swatches
 "Swatch Image","Swatch Image",module,Magento_Swatches
 Image,Image,module,Magento_Swatches
-"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png.",module,Magento_Swatches
-"Image Opacity","Image Opacity",module,Magento_Swatches
-"Image Size","Image Size",module,Magento_Swatches
-"Example format: 200x300.","Example format: 200x300.",module,Magento_Swatches
-"Image Position","Image Position",module,Magento_Swatches
+"Allowed file types: jpeg, gif, png.","Dozwolone typy plików: jpeg, gif, png.",module,Magento_Swatches
+"Image Opacity","Przezroczystość obrazu",module,Magento_Swatches
+"Image Size","Rozmiar zdjęcia",module,Magento_Swatches
+"Example format: 200x300.","Przykładowy format: 200x300.",module,Magento_Swatches
+"Image Position","Położenie obrazu",module,Magento_Swatches
 "Related Products Rule","Powiązane reguły produktów",module,Magento_TargetRule
 "Add Rule","Dodaj regułę",module,Magento_TargetRule
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_TargetRule
@@ -10919,10 +10919,10 @@ Rate,Stawka,module,Magento_TaxImportExport
 "Export Tax Rates","Eksportuj stawki podatku",module,Magento_TaxImportExport
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
-Back,Back,module,Magento_Theme
-Save,Save,module,Magento_Theme
+Back,Powrót,module,Magento_Theme
+Save,Zapisz,module,Magento_Theme
 %1,%1,module,Magento_Theme
-Default,Default,module,Magento_Theme
+Default,Domyślny,module,Magento_Theme
 Themes,Motywy,module,Magento_Theme
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Theme
 "Are you sure you want to delete this theme?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Theme
@@ -10968,10 +10968,10 @@ Theme,Temat,module,Magento_Theme
 "Are you sure you want to delete this folder?","Czy na pewno chcesz usunąć ten folder?",module,Magento_Theme
 "Are you sure you want to delete this file?","Czy na pewno chcesz usunąć ten plik?",module,Magento_Theme
 "Storage Root","Baza składowania",module,Magento_Theme
-Global,Global,module,Magento_Theme
+Global,Globalny,module,Magento_Theme
 "Design Configuration","Design Configuration",module,Magento_Theme
 "You saved the configuration.","You saved the configuration.",module,Magento_Theme
-"Something went wrong while saving this configuration:","Something went wrong while saving this configuration:",module,Magento_Theme
+"Something went wrong while saving this configuration:","Podczas zapisywania tej konfiguracji coś poszło nie tak:",module,Magento_Theme
 "You deleted the theme.","Usunąłeś motyw.",module,Magento_Theme
 "We cannot delete the theme.","Nie możemy usunąć motywu.",module,Magento_Theme
 "File not found: ""%1"".","Nie znaleziono pliku: ""%1"".",module,Magento_Theme
@@ -10986,9 +10986,9 @@ Global,Global,module,Magento_Theme
 "Sorry, something went wrong. That\'s all we know.","Przepraszamy, coś poszło nie tak.",module,Magento_Theme
 "Invalid type","Nieprawidłowy typ",module,Magento_Theme
 "Invalid scope or scope id","Invalid scope or scope id",module,Magento_Theme
-"%1 does not contain field \'%2\'","%1 does not contain field \'%2\'",module,Magento_Theme
+"%1 does not contain field \'%2\'","%1 nie zawiera pola \'%2\'",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Nieprawidłowe wyrażenie regularne: ""%1"".",module,Magento_Theme
-"%1 does not contain field \'file\'","%1 does not contain field \'file\'",module,Magento_Theme
+"%1 does not contain field \'file\'","%1 nie zawiera pola \'file\'",module,Magento_Theme
 "Backend model is not specified for %1","Backend model is not specified for %1",module,Magento_Theme
 "Can not save empty config","Can not save empty config",module,Magento_Theme
 label,etykieta,module,Magento_Theme
@@ -11016,7 +11016,7 @@ exception,wyjątek,module,Magento_Theme
 Edit,Edit,module,Magento_Theme
 "We found no files.","Nie znaleźliśmy żadnych plików.",module,Magento_Theme
 "Browse Files","Przeglądanie plików",module,Magento_Theme
-Scope:,Scope:,module,Magento_Theme
+Scope:,Zakres:,module,Magento_Theme
 Remove,Usuń,module,Magento_Theme
 "Help Us Keep Magento Healthy","Pomóż nam utrzymać Magento w dobrej kondycji",module,Magento_Theme
 "Report All Bugs","Zgłaszaj wszystkie błędy",module,Magento_Theme
@@ -11047,7 +11047,7 @@ Minute,Minuta,module,Magento_Theme
 "Welcome, %1!","Witaj, %1!",module,Magento_Theme
 Empty,Pusty,module,Magento_Theme
 "1 column","1 kolumna",module,Magento_Theme
-Configuration,Configuration,module,Magento_Theme
+Configuration,Konfiguracja,module,Magento_Theme
 "Search Engine Robots","Roboty wyszukiwarek",module,Magento_Theme
 "Default Robots","Domyślne roboty",module,Magento_Theme
 "This will be included before head closing tag in page HTML.","To będzie załączone przed znacznikiem zamykającym sekcję HEAD w HTML.",module,Magento_Theme
@@ -11065,7 +11065,7 @@ Configuration,Configuration,module,Magento_Theme
 "Other Settings","Other Settings",module,Magento_Theme
 "HTML Head","Nagłówek HTML",module,Magento_Theme
 "Favicon Icon","Ikonka witryny (favicon)",module,Magento_Theme
-"Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!","Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!",module,Magento_Theme
+"Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!","Dozwolone typy plików: ico, png, gif, jpg, jpeg, apng, svg. Nie wszystkie przeglądarki obsługują każdy z tych formatów!",module,Magento_Theme
 "Default Title","Domyślny tytuł",module,Magento_Theme
 "Title Prefix","Przedrostek tytułu",module,Magento_Theme
 "Title Suffix","Przyrostek tytułu",module,Magento_Theme
@@ -11074,7 +11074,7 @@ Configuration,Configuration,module,Magento_Theme
 "Display Demo Store Notice","Wyświetlaj informację o wersji demonstracyjnej",module,Magento_Theme
 Header,Nagłówek,module,Magento_Theme
 "Logo Image","Obrazek logo",module,Magento_Theme
-"Allowed file types: png, gif, jpg, jpeg, svg.","Allowed file types: png, gif, jpg, jpeg, svg.",module,Magento_Theme
+"Allowed file types: png, gif, jpg, jpeg, svg.","Dozwolone typy plików: png, gif, jpg, jpeg, svg.",module,Magento_Theme
 "Logo Image Width","Szerokość obrazu logo",module,Magento_Theme
 "Logo Image Height","Wysokość obrazu logo",module,Magento_Theme
 "Welcome Text","Tekst powitalny",module,Magento_Theme
@@ -11083,9 +11083,9 @@ Footer,Stopka,module,Magento_Theme
 "Miscellaneous HTML","Różny HTML",module,Magento_Theme
 "This will be displayed just before the body closing tag.","This will be displayed just before the body closing tag.",module,Magento_Theme
 Copyright,"Prawa autorskie",module,Magento_Theme
-Website,Website,module,Magento_Theme
-Store,Store,module,Magento_Theme
-"Store View","Store View",module,Magento_Theme
+Website,Witryna,module,Magento_Theme
+Store,Sklep,module,Magento_Theme
+"Store View","Widok sklepu",module,Magento_Theme
 "Skip to Content","Przejdź do treści",module,Magento_Theme
 "2 columns with left bar","2 kolumny z lewym paskiem",module,Magento_Theme
 "2 columns with right bar","2 kolumny z prawym paskiem",module,Magento_Theme
@@ -11112,8 +11112,8 @@ Next,Następne,module,Magento_Ui
 "Changes have been made to this section that have not been saved.","Wprowadzono zmiany do tej sekcji, które nie zostały zapisane.",module,Magento_Ui
 Assign,Przyporządkuj,module,Magento_Ui
 Options,Opcje,module,Magento_Ui
-"records found","records found",module,Magento_Ui
-selected,selected,module,Magento_Ui
+"records found","znalezione rekordy",module,Magento_Ui
+selected,wybrane,module,Magento_Ui
 Filters,Filtry,module,Magento_Ui
 Add,Dodaj,module,Magento_Ui
 "Something went wrong.","Coś poszło nie tak.",module,Magento_Ui
@@ -11196,7 +11196,7 @@ Keyword,"Słowo kluczowe",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Prosimy o wprowadzenie poprawnej wartości np. 10,20,30",module,Magento_Ui
 "We don\'t recognize or support this file extension type.","Nie rozpoznajemy ani nie obsługujemy pliku o takim rozszerzeniu.",module,Magento_Ui
 "File you are trying to upload exceeds maximum file size limit.","Rozmiar pliku który próbujesz przesłać przekracza dopuszczalny limit.",module,Magento_Ui
-"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.",module,Magento_Ui
+"Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Proszę użyć tagu SCRIPT z atrybutem SRC lub właściwą zawartością, aby dodać JavaScript do dokumentu.",module,Magento_Ui
 Attention,Uwaga,module,Magento_Ui
 OK,OK,module,Magento_Ui
 Close,Zamknij,module,Magento_Ui
@@ -11472,7 +11472,7 @@ username,"nazwa użytkownika",module,Magento_User
 "Your password must include both numeric and alphabetic characters.","Hasło musi zawierać zarówno znaki numeryczne jak i alfabetu.",module,Magento_User
 "Your password confirmation must match your password.","Potwierdzenie twojego hasła musi być zgodne z twoim hasłem.",module,Magento_User
 "It\'s time to change your password.","Nadszedł czas, abyś zmienił swoje hasło.",module,Magento_User
-"It\'s time to <a href=""%1"">change your password</a>.","It\'s time to <a href=""%1"">change your password</a>.",module,Magento_User
+"It\'s time to <a href=""%1"">change your password</a>.","Nadszedł czas, abyś <a href=""%1""> zmienił swoje hasło</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Twoje hasło wygasło; Skontaktuj się z administratorem.",module,Magento_User
 "Password Help","Pomoc hasła",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Wpisz swój adres e-mail.  Otrzymasz e-mail z linkiem do resetowania hasła.",module,Magento_User
