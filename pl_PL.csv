@@ -2239,8 +2239,8 @@ Disabled,Wyłączone,module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
 Delete,Usuń,module,Magento_CatalogStaging
 Preview,Podgląd,module,Magento_CatalogStaging
-"Store View:","Store View:",module,Magento_CatalogStaging
-"Stores Configuration","Stores Configuration",module,Magento_CatalogStaging
+"Store View:","Widok sklepu:",module,Magento_CatalogStaging
+"Stores Configuration","Konfiguracja sklepów",module,Magento_CatalogStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_CatalogStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogStaging
 Action,Operacja,module,Magento_CatalogStaging
@@ -4786,19 +4786,19 @@ CSV,CSV,module,Magento_GiftCardAccount
 "Are you sure you want to delete these gift card accounts?","Czy na pewno chcesz usunąć te konta kart upominkowych?",module,Magento_GiftCardAccount
 Code,Kod,module,Magento_GiftCardAccount
 End,Koniec,module,Magento_GiftCardAccount
-"Gift Messages is not applicable for empty cart","Gift Messages is not applicable for empty cart",module,Magento_GiftMessage
-"Gift Messages is not applicable for virtual products","Gift Messages is not applicable for virtual products",module,Magento_GiftMessage
+"Gift Messages is not applicable for empty cart","Nie można skorzystać z wiadomości podarunkowych w przypadku pustego koszyka",module,Magento_GiftMessage
+"Gift Messages is not applicable for virtual products","Nie można skorzystać z wiadomości podarunkowych w przypadku produktów wirtualnych",module,Magento_GiftMessage
 "Gift Message is not available","Wiadomości podarunkowe nie są dostępne",module,Magento_GiftMessage
 "Could not add gift message to shopping cart","Nie można było dodać wiadomości podarunkowej do koszyka",module,Magento_GiftMessage
 "There is no item with provided id in the cart","W koszyku nie ma produktów z poprawnym identyfikatorem",module,Magento_GiftMessage
 "There is no product with provided  itemId: %1 in the cart","Nie ma produktu z podanym id produktu: %1w koszyku",module,Magento_GiftMessage
 "There is no item with provided id in the order","Nie ma produktu z podanym id w zamówieniu",module,Magento_GiftMessage
-"There is no item with provided id in the order or gift message isn't allowed","There is no item with provided id in the order or gift message isn't allowed",module,Magento_GiftMessage
+"There is no item with provided id in the order or gift message isn't allowed","Nie ma produktu z podanym id w zamówieniu lub wiadomość podarunkowa jest niedozwolona",module,Magento_GiftMessage
 "Could not add gift message to order: ""%1""","Nie można było dodać wiadomości podarunkowej do zamówienia: %1",module,Magento_GiftMessage
-"There is no order with provided id or gift message isn't allowed","There is no order with provided id or gift message isn't allowed",module,Magento_GiftMessage
+"There is no order with provided id or gift message isn't allowed","Nie ma zamówień z podanym ID lub wiadomość podarunkowa nie jest dozwolona",module,Magento_GiftMessage
 "There is no order with provided id","Nie ma zamówień z podanym ID",module,Magento_GiftMessage
-"Gift Messages is not applicable for empty order","Gift Messages is not applicable for empty order",module,Magento_GiftMessage
-"Could not add gift message to order's item: \"%1\"","Could not add gift message to order's item: \"%1\"",module,Magento_GiftMessage
+"Gift Messages is not applicable for empty order","Wiadomości podarunkowe nie mają zastosowania do pustego zamówienia",module,Magento_GiftMessage
+"Could not add gift message to order's item: \"%1\"","Nie można dodać wiadomości podarunkowej do zamówionych produktów: \"%1\"",module,Magento_GiftMessage
 "Unknown entity type","Nieznany rodzaj obiektu",module,Magento_GiftMessage
 From,Od,module,Magento_GiftMessage
 To,Do,module,Magento_GiftMessage
@@ -4810,10 +4810,10 @@ OK,OK,module,Magento_GiftMessage
 "Do you have any gift items in your order?","Czy twoje zamówienie zawiera prezenty?",module,Magento_GiftMessage
 "Add gift options","Dodaj opcje prezentowe",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
-"Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_GiftMessage
+"Leave this box blank if you don't want to leave a gift message for the entire order.","Pozostaw to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej do całego zamówienia.",module,Magento_GiftMessage
 "Gift Options for Individual Items","Opcje prezentowe dla pojedyńczych produktów",module,Magento_GiftMessage
 "<span>Item %1</span> of %2","<span>Produkt %1</span> %2",module,Magento_GiftMessage
-"Leave a box blank if you don't want to add a gift message for that item.","Leave a box blank if you don't want to add a gift message for that item.",module,Magento_GiftMessage
+"Leave a box blank if you don't want to add a gift message for that item.","Pozostaw to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej dla produktu.",module,Magento_GiftMessage
 "Add Gift Options for the Entire Order","Dodaj opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for this address.","Możesz pozostawić puste pole jeśli nie chcesz dodać wiadomości prezentowej dla tego adresu.",module,Magento_GiftMessage
 "Add gift options for Individual Items","Dodaj opcje prezentowe dla pojedyńczych produktów",module,Magento_GiftMessage
@@ -5086,7 +5086,7 @@ View,Zobacz,module,Magento_GiftRegistry
 "You can view and purchase items from this gift registry at <a href=""%account_url"">%store_name</a>.","Można zobaczyć i kupić przedmioty z tego rejestru prezentowego w <a href=""%account_url"">%store_name</a>.",module,Magento_GiftRegistry
 "Gift Registry:","Rejestr prezentów:",module,Magento_GiftRegistry
 "Created For:","Stworzony dla:",module,Magento_GiftRegistry
-"You can create your own gift registry on <a href=""%account_url"">%store_name</a> and share it with friends and family.","You can create your own gift registry on <a href=""%account_url"">%store_name</a> and share it with friends and family.",module,Magento_GiftRegistry
+"You can create your own gift registry on <a href=""%account_url"">%store_name</a> and share it with friends and family.","Możesz utworzyć własny rejestr prezentów <a href='%account_url'>%store_name</a> i udostępnić go dla przyjaciół i rodziny.",module,Magento_GiftRegistry
 "The following items have been purchased from your gift registry ""%registry_name"":","Następujące produkty zostały zakupione z twojego rejestru prezentów ""%registry_name"":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","Możesz zalogować się na swoje konto, aby wyświetlić więcej szczegółów o tej liście prezentowej.",module,Magento_GiftRegistry
 "Use gift registry shipping address","Użyj adresu dostawy z rejestru prezentów",module,Magento_GiftRegistry
@@ -5288,7 +5288,7 @@ Status,Status,module,Magento_ImportExport
 "This file is empty. Please try another one.","Ten plik jest pusty. Proszę spróbować z innym.",module,Magento_ImportExport
 "Data validation is failed. Please fix errors and re-upload the file..","Walidacja danych nie powiodła się. Proszę poprawić błędy i spróbować ponownie przesłać plik..",module,Magento_ImportExport
 "File is valid! To start import process press ""Import"" button","Plik jest poprawny! Naciśnij przycisk Import"" aby rozpocząć proces importu """,module,Magento_ImportExport
-"The file is valid, but we can't import it for some reason.","The file is valid, but we can't import it for some reason.",module,Magento_ImportExport
+"The file is valid, but we can't import it for some reason.","Plik jest poprawny, ale z jakiegoś powodu nie możemy go zaimportować.",module,Magento_ImportExport
 "Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Zaznaczone rzędy: %1, zaznaczone elementy %2, nieprawidłowe rzędy: %3, łącznie błędów: %4",module,Magento_ImportExport
 "The file was not uploaded.","Plik nie został przesłany.",module,Magento_ImportExport
 "Sorry, but the data is invalid or the file is not uploaded.","Przepraszamy, ale dane są nieprawidłowa, lub plik nie jest wgrany.",module,Magento_ImportExport
@@ -5312,9 +5312,9 @@ Status,Status,module,Magento_ImportExport
 "Exported %1 rows.","Wyeksportowane rzędy: %1.",module,Magento_ImportExport
 "The export is finished.","Eksport zakończony.",module,Magento_ImportExport
 "Please provide filter data.","Proszę podać dane filtrowania.",module,Magento_ImportExport
-"We can't determine the attribute filter type.","We can't determine the attribute filter type.",module,Magento_ImportExport
+"We can't determine the attribute filter type.","Nie można określić typu filtra cech.",module,Magento_ImportExport
 "Entity is unknown","Jednostka jest nieznana",module,Magento_ImportExport
-"We can't identify this file format.","We can't identify this file format.",module,Magento_ImportExport
+"We can't identify this file format.","Nie możemy rozpoznać formatu tego pliku.",module,Magento_ImportExport
 "Please correct the value for ""%1"" column.","Popraw wartość kolumny ""%1"".",module,Magento_ImportExport
 "Please specify the writer.","Proszę określić autora.",module,Magento_ImportExport
 "The destination file path must be a string.","Docelowa ścieżka pliku musi być tekstem.",module,Magento_ImportExport
@@ -5464,7 +5464,7 @@ Active,Aktywny,module,Magento_Integration
 "Unexpected error. Unable to load oAuth consumer account.","Nieoczekiwany błąd. Nie można załadować konto konsumentów oAuth.",module,Magento_Integration
 "A consumer with ID %1 does not exist","Klient z ID %1 nie istnieje",module,Magento_Integration
 "Unable to post data to consumer due to an unexpected error","Nie można opublikować dane konsumenta ze względu na nieoczekiwany błąd",module,Magento_Integration
-"Consumer with ID '%1' does not exist.","Consumer with ID '%1' does not exist.",module,Magento_Integration
+"Consumer with ID '%1' does not exist.","Użytkownik z ID '%1' nie istnieje.",module,Magento_Integration
 "Invalid token to except","Nieprawidłowy token z wyjątkiem",module,Magento_Integration
 "Integration with ID '%1' doesn't exist.","Integracja z ID '%1' nie istnieje.",module,Magento_Integration
 "A token with consumer ID 0 does not exist","Token z identyfikatorem konsumenta 0 nie istnieje",module,Magento_Integration
@@ -5489,9 +5489,9 @@ OAuth,OAuth,module,Magento_Integration
 "OAuth consumer credentials HTTP Post maxredirects","OAuth konsumentów poświadczenia HTTP Post maxredirects",module,Magento_Integration
 "OAuth consumer credentials HTTP Post timeout","OAuth konsumentów poświadczenia HTTP Post timeout",module,Magento_Integration
 "Integrations Configuration","Konfiguracja integracji",module,Magento_Integration
-"Integration configuration file.","Integration configuration file.",module,Magento_Integration
+"Integration configuration file.","Plik konfiguracyjny integracji.",module,Magento_Integration
 "Integrations API Configuration","Konfiguracja API integracji",module,Magento_Integration
-"Integrations API configuration file.","Integrations API configuration file.",module,Magento_Integration
+"Integrations API configuration file.","Plik konfiguracyjny integracji API.",module,Magento_Integration
 "No Integrations Found","No Integrations Found",module,Magento_Integration
 Status,Status,module,Magento_Integration
 Invitations,"Tekst zaproszenia do skomentowania",module,Magento_Invitation
@@ -5548,7 +5548,7 @@ Reports,Raporty,module,Magento_Invitation
 "We did not send %1 invitation(s) addressed to current customers.","Nie wysłaliśmy %1 zaproszeń skierowana do obecnych klientów.",module,Magento_Invitation
 "Send Invitations","Wyślij Zaproszenie",module,Magento_Invitation
 "Max Invitations Allowed to be Sent at One Time","Maksymalna liczba wysłanych zaproszeń jednocześnie",module,Magento_Invitation
-"Please correct the value for \"%1\" parameter, otherwise we'll use the saved value instead.","Please correct the value for \"%1\" parameter, otherwise we'll use the saved value instead.",module,Magento_Invitation
+"Please correct the value for \"%1\" parameter, otherwise we'll use the saved value instead.","Popraw wartość parametru \"%1\", w przeciwnym razie będziemy używać zapisanych wartości.",module,Magento_Invitation
 "Same as Inviter","Tak samo jak zapraszający",module,Magento_Invitation
 "Default Customer Group from System Configuration","Domyślne grupy klientów od konfiguracji systemu",module,Magento_Invitation
 "By Invitation Only","Tylko na zaproszenie",module,Magento_Invitation
@@ -5556,12 +5556,12 @@ Reports,Raporty,module,Magento_Invitation
 "Please correct the invitation code.","Proszę poprawić kod zaproszenia.",module,Magento_Invitation
 "You need to specify a customer ID group.","Musisz określić identyfikator grupy klienta.",module,Magento_Invitation
 "The wrong store is specified.","Określono niepoprawny sklep.",module,Magento_Invitation
-"You can't update this message.","You can't update this message.",module,Magento_Invitation
-"We can't generate encrypted code.","We can't generate encrypted code.",module,Magento_Invitation
-"We can't find an ID for this invitation.","We can't find an ID for this invitation.",module,Magento_Invitation
-"You can't send an invitation with status \"%1\".","You can't send an invitation with status \"%1\".",module,Magento_Invitation
+"You can't update this message.","Nie możesz uaktualnić tej wiadomości.",module,Magento_Invitation
+"We can't generate encrypted code.","Nie można wygenerować zaszyfrowanego kodu.",module,Magento_Invitation
+"We can't find an ID for this invitation.","Nie udało się znaleźć ID dla tego zaproszenia.",module,Magento_Invitation
+"You can't send an invitation with status \"%1\".","Nie możesz wysłać zaproszenia o statusie \"%1\".",module,Magento_Invitation
 "Please enter a valid invitation email.","Prosimy wpisać poprawny adres e-mail zaproszenia.",module,Magento_Invitation
-"We can't identify the proper website.","We can't identify the proper website.",module,Magento_Invitation
+"We can't identify the proper website.","Nie możemy wskazać właściwej strony.",module,Magento_Invitation
 "Please specify an email.","Proszę podać e-mail.",module,Magento_Invitation
 "This invitation is addressed to a current customer: ""%1"".","To zaproszenie skierowane jest do obecnego klienta: ""%1"".",module,Magento_Invitation
 "This invitation is not valid.","To zaproszenie nie jest poprawne.",module,Magento_Invitation
@@ -5809,7 +5809,7 @@ Database,"Baza danych",module,Magento_MediaStorage
 "Wrong file info format","Nieprawidłowy format informacji pliku",module,Magento_MediaStorage
 "Path ""%value%"" is protected and cannot be used.","Ścieżka ""%value%"" jest chroniona i nie może być użyta.",module,Magento_MediaStorage
 "Path ""%value%"" is not available and cannot be used.","Ścieżka ""%value%"" jest niedostępna i nie może być użyta.",module,Magento_MediaStorage
-"Path \"%value%\" may not include parent directory traversal (\"../\", \"..\\\").","Path \"%value%\" may not include parent directory traversal (\"../\", \"..\\\").",module,Magento_MediaStorage
+"Path \"%value%\" may not include parent directory traversal (\"../\", \"..\\\").","Ścieżka \"%value%\" nie może zawierać przejść do nadrzędnych katalogów (\"../\", \"..\\\").",module,Magento_MediaStorage
 "Please set available and/or protected paths list(s) before validation.","Prosimy ustawić listę dostępnych i/lub chronionych ścieżek przed walidacją.",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","Plik z rozszerzeniem %value%"" jest chroniony i nie może być przesłany.""",module,Magento_MediaStorage
 "Unable to create directory: %1","Nie udało się utworzyć katalogu: %1",module,Magento_MediaStorage
@@ -6102,7 +6102,7 @@ General,Ogólne,module,Magento_NewRelicReporting
 "Insights API URL","Insights klucz API",module,Magento_NewRelicReporting
 "Use %s to replace the account ID in the URL","Zastąp identyfikator konta w adresie URL za pomocą %s",module,Magento_NewRelicReporting
 "New Relic Account ID","Identyfikator konta New Relic",module,Magento_NewRelicReporting
-"\"Need a New Relic account? <a href=\"http://www.newrelic.com/magento\" target=\"_blank\">Click here to get one","\"Need a New Relic account? <a href=\"http://www.newrelic.com/magento\" target=\"_blank\">Click here to get one",module,Magento_NewRelicReporting
+"\"Need a New Relic account? <a href=\"http://www.newrelic.com/magento\" target=\"_blank\">Click here to get one","\"Nie masz konta New Relic? <a href=\"http://www.newrelic.com/magento\" target=\"_blank\">Kliknij tutaj, aby je założyć",module,Magento_NewRelicReporting
 "New Relic Application ID","Identyfikator aplikacji New Relic",module,Magento_NewRelicReporting
 "This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","To najczęściej znajdują się na końcu adresu URL podczas oglądania APM po ""/ applications /""",module,Magento_NewRelicReporting
 "New Relic API Key","Klucz API New Relic",module,Magento_NewRelicReporting
@@ -6174,7 +6174,7 @@ Subscribers,Subskrybenci,module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","Usunięto %1 wpis(ów).",module,Magento_Newsletter
 "A total of %1 record(s) were updated.","Zaktualizowano %1 rekordów.",module,Magento_Newsletter
 "The newsletter template has been deleted.","Szablon newslettera został usunięty.",module,Magento_Newsletter
-"We can't delete this template right now.","We can't delete this template right now.",module,Magento_Newsletter
+"We can't delete this template right now.","Nie można teraz usunąć tego szablonu.",module,Magento_Newsletter
 "Edit Template","Edycja szablonu",module,Magento_Newsletter
 "New Template","Nowy szablon",module,Magento_Newsletter
 "Create Newsletter Template","Utwórz szablon newslettera",module,Magento_Newsletter
@@ -6349,7 +6349,7 @@ Import,Import,module,Magento_OfflineShipping
 "TTL for public content","TTL dla publicznych treści",module,Magento_PageCache
 "Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Publiczna zawartość pamięci podręcznej w sekundach. Jeśli pole jest puste wartość domyślna 86400 zostanie zapisana. ",module,Magento_PageCache
 "Page Cache","Cache strony",module,Magento_PageCache
-"Full page caching.","Full page caching.",module,Magento_PageCache
+"Full page caching.","Buforowanie stron.",module,Magento_PageCache
 "We cannot retrieve the payment method model object.","Nie można pobrać informacji modelu obiektu płatności.",module,Magento_Payment
 Month,Miesiąc,module,Magento_Payment
 Year,Rok,module,Magento_Payment
@@ -6454,13 +6454,13 @@ Sales,Sprzedaż,module,Magento_Paypal
 "View Transaction","Zobacz transakcję",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Nie znaleźliśmy nic do pobrania ze względu na pustą konfigurację.",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","Pobrane wiersze raportu %1 z ""%2@%3.""",module,Magento_Paypal
-"We can't fetch reports from \"%1@%2.\"","We can't fetch reports from \"%1@%2.\"",module,Magento_Paypal
+"We can't fetch reports from \"%1@%2.\"","Nie można pobrać raportu z \"%1@%2.\"",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","Umowa rozliczeniowa ""%1"" została anulowana.",module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","Umowa rozliczeniowa ""%1"" została utworzona.",module,Magento_Paypal
-"We couldn't finish the billing agreement wizard.","We couldn't finish the billing agreement wizard.",module,Magento_Paypal
-"We can't start the billing agreement wizard.","We can't start the billing agreement wizard.",module,Magento_Paypal
+"We couldn't finish the billing agreement wizard.","Nie możemy zakończyć Kreatora umowy płatności.",module,Magento_Paypal
+"We can't start the billing agreement wizard.","Nie możemy uruchomić kreatora umowy rozliczeniowej.",module,Magento_Paypal
 "Billing Agreement # %1","Umowa rozliczeniowa nr %1",module,Magento_Paypal
-"We can't initialize Express Checkout.","We can't initialize Express Checkout.",module,Magento_Paypal
+"We can't initialize Express Checkout.","Nie możemy zainicjować Ekspresowej Realizacji.",module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.","PayPal Express Checkout Token does not exist.",module,Magento_Paypal
 "A wrong PayPal Express Checkout Token is specified.","Zły PayPal Express Checkout Token jest określony.",module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Express Checkout i zamówienie zostały anulowane.",module,Magento_Paypal
@@ -6468,11 +6468,11 @@ Sales,Sprzedaż,module,Magento_Paypal
 "Unable to cancel Express Checkout","Nie można anulować zamówienia Express",module,Magento_Paypal
 "Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_Paypal
 "We can't place the order.","Nie można złożyć zamówienia.",module,Magento_Paypal
-"We can't process Express Checkout approval.","We can't process Express Checkout approval.",module,Magento_Paypal
-"We can't initialize Express Checkout review.","We can't initialize Express Checkout review.",module,Magento_Paypal
+"We can't process Express Checkout approval.","Nie możemy przetworzyć zgody Ekspresowej Realizacji.",module,Magento_Paypal
+"We can't initialize Express Checkout review.","Nie możemy zainicjować recenzji Ekspresowej Realizacji.",module,Magento_Paypal
 "We can't update shipping method.","Nie udało się zaktualizować metody dostawy.",module,Magento_Paypal
 "To check out, please sign in with your email address.","Aby sprawdzić, Proszę Zaloguj się przy użyciu adresu e-mail.",module,Magento_Paypal
-"We can't start Express Checkout.","We can't start Express Checkout.",module,Magento_Paypal
+"We can't start Express Checkout.","Nie możemy uruchomić Ekspresowej Realizacji.",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Twoja płatność została odrzucona. Proszę spróbować ponownie.",module,Magento_Paypal
 "Requested payment method does not match with order.","Żądana metoda płatności jest niezgodna z zamówieniem.",module,Magento_Paypal
 "We can't contact the PayPal gateway.","We can't contact the PayPal gateway.",module,Magento_Paypal
@@ -9865,7 +9865,7 @@ Start,Start,module,Magento_Staging
 End,Koniec,module,Magento_Staging
 "Load More","Załaduj więcej",module,Magento_Staging
 "Belongs to ","Należy do ",module,Magento_Staging
-"Please confirm scope switching. All data that hasn\'t been saved will be lost.","Please confirm scope switching. All data that hasn\'t been saved will be lost.",module,Magento_Staging
+"Please confirm scope switching. All data that hasn\'t been saved will be lost.","Potwierdź zmianę poziomu. Wszystkie niezapisane dane zostaną utracone.",module,Magento_Staging
 Staging,Staging,module,Magento_Staging
 "Create New Campaign","Stwórz Nową Kampanię",module,Magento_Staging
 Back,Powrót,module,Magento_Staging
@@ -10211,7 +10211,7 @@ To,Do,module,Magento_TargetRule
 "New Related Products Rule","Nowe powiązania reguł produktów",module,Magento_TargetRule
 "Related Products Rules","Powiązane reguły produktów",module,Magento_TargetRule
 "You saved the rule.","Zapisałeś regułę.",module,Magento_TargetRule
-"We can't save the product rule right now.","We can't save the product rule right now.",module,Magento_TargetRule
+"We can't save the product rule right now.","W tej chwili nie możemy stworzyć reguły produktu.",module,Magento_TargetRule
 "Please specify a correct rule.","Proszę określić poprawną regułę.",module,Magento_TargetRule
 "Invalid product list type","Nieprawidłowy rodzaj listy produktów",module,Magento_TargetRule
 "Invalid rotation mode type","Nieprawidłowy rodzaj modelu obrotu",module,Magento_TargetRule
@@ -10326,9 +10326,9 @@ Tax,Podatek,module,Magento_Tax
 "Tax Zones and Rates","Strefa podatku i cen",module,Magento_Tax
 "We can't delete this tax rate right now.","Nie można teraz usunąć tej stawki podatku.",module,Magento_Tax
 "An error occurred while loading this tax rate.","Wystąpił błąd podczas ładowania tej stawki podatku.",module,Magento_Tax
-"We can't save this rate right now.","We can't save this rate right now.",module,Magento_Tax
+"We can't save this rate right now.","Obecnie nie możemy zapisać tej stawki.",module,Magento_Tax
 "You deleted the tax rate.","Usunąłeś stawkę podatku.",module,Magento_Tax
-"We can't delete this rate because of an incorrect rate ID.","We can't delete this rate because of an incorrect rate ID.",module,Magento_Tax
+"We can't delete this rate because of an incorrect rate ID.","Nie możemy usunąć tej stawki ze względu na nieprawidłowe ID.",module,Magento_Tax
 "Something went wrong deleting this rate.","Coś poszło nie tak, jak powinno, podczas usuwania stawki.",module,Magento_Tax
 "Edit Tax Rate","Edytuj stawkę podatku",module,Magento_Tax
 "You saved the tax rate.","Zapisałeś stawkę podatkową.",module,Magento_Tax
