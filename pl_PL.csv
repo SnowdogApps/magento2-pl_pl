@@ -2239,6 +2239,8 @@ Disabled,Wyłączone,module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
 Delete,Usuń,module,Magento_CatalogStaging
 Preview,Podgląd,module,Magento_CatalogStaging
+"Store View:","Store View:",module,Magento_CatalogStaging
+"Stores Configuration","Stores Configuration",module,Magento_CatalogStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_CatalogStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogStaging
 Action,Operacja,module,Magento_CatalogStaging
@@ -2994,7 +2996,7 @@ Import,Import,module,Magento_CurrencySymbol
 "We can't initialize the import model.","Nie można zainicjować modelu importu.",module,Magento_CurrencySymbol
 "Click ""Save"" to apply the rates we found.","Kliknij przycisk ""Zapisz"" aby przypisać stawki, które znaleźliśmy.",module,Magento_CurrencySymbol
 "Currency Rates","Kursy walut",module,Magento_CurrencySymbol
-"Please correct the input data for %1 => %2 rate","Please correct the input data for %1 => %2 rate",module,Magento_CurrencySymbol
+"Please correct the input data for %1 => %2 rate","Proszę poprawić dane wejściowe dla kursu %1 => %2",module,Magento_CurrencySymbol
 "All valid rates have been saved.","Wszystkie poprawne stawki zostały zapisane.",module,Magento_CurrencySymbol
 System,System,module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","Zastosowano niestandardowe symbole walut.",module,Magento_CurrencySymbol
@@ -3760,7 +3762,7 @@ From,Od,module,Magento_CustomerSegment
 To,Do,module,Magento_CustomerSegment
 "Please request the correct customer segment.","Proszę o zapytanie o poprawny segment klienta.",module,Magento_CustomerSegment
 "You deleted the segment.","Usunąłeś segment.",module,Magento_CustomerSegment
-"We're unable to delete the segement.","We're unable to delete the segement.",module,Magento_CustomerSegment
+"We're unable to delete the segement.","Nie możemy usunąć tego segmentu.",module,Magento_CustomerSegment
 "Customer Segments","Segmenty klienckie",module,Magento_CustomerSegment
 "Edit Segment","Edytuj Segment",module,Magento_CustomerSegment
 "Segment Customers matching error","Błąd dopasowania klientów segmentu",module,Magento_CustomerSegment
@@ -9863,6 +9865,7 @@ Start,Start,module,Magento_Staging
 End,Koniec,module,Magento_Staging
 "Load More","Załaduj więcej",module,Magento_Staging
 "Belongs to ","Należy do ",module,Magento_Staging
+"Please confirm scope switching. All data that hasn\'t been saved will be lost.","Please confirm scope switching. All data that hasn\'t been saved will be lost.",module,Magento_Staging
 Staging,Staging,module,Magento_Staging
 "Create New Campaign","Stwórz Nową Kampanię",module,Magento_Staging
 Back,Powrót,module,Magento_Staging
