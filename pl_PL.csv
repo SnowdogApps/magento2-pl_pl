@@ -632,7 +632,7 @@ Debug,"Tryb debug",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Włączone podpowiedzi ścieżki szablonu na stronie",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Włączone podpowiedzi ścieżek szablonu w panelu administratora",module,Magento_Backend
 "Add Block Names to Hints","Dodaj nazwy bloków do podpowiedzi",module,Magento_Backend
-"Template Settings","Ustawienia szablonów",module,Magento_Backend
+"Template Settings",Szablony,module,Magento_Backend
 "Allow Symlinks","Zezwól na symlinki",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Ostrzeżenie! Uruchomienie tej funkcjonalności nie jest zalecane w środowisku produkcyjnym ponieważ może stwarzać potencjalne ryzyko bezpieczeństwa.",module,Magento_Backend
 "Minify Html","Optymalizuj Html",module,Magento_Backend
@@ -641,16 +641,16 @@ Debug,"Tryb debug",module,Magento_Backend
 "Enabled for Storefront","Włączone dla sklepu",module,Magento_Backend
 "Enabled for Admin","Włączone dla Panelu Administracyjnego",module,Magento_Backend
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Pamięć podręczna tłumaczeń , bloków i wyjścia powinna być wyłączona dla katalogu i admina podczas tłumaczenia liniowego.",module,Magento_Backend
-"JavaScript Settings","Ustawienia JavaScript",module,Magento_Backend
+"JavaScript Settings",JavaScript,module,Magento_Backend
 "Merge JavaScript Files","Złącz pliki JavaScript",module,Magento_Backend
 "Enable JavaScript Bundling","Włącz łączenie JavaScript",module,Magento_Backend
 "Minify JavaScript Files","Optymalizacja plików JavaScript",module,Magento_Backend
-"CSS Settings","Ustawienia CSS",module,Magento_Backend
+"CSS Settings",CSS,module,Magento_Backend
 "Merge CSS Files","Złącz pliki CSS",module,Magento_Backend
 "Minify CSS Files","Optymalizacja plików CSS",module,Magento_Backend
-"Image Processing Settings","Ustawienia przetwarzania obrazu",module,Magento_Backend
+"Image Processing Settings","Przetwarzanie obrazu",module,Magento_Backend
 "Image Adapter","Adapter obrazu",module,Magento_Backend
-"Static Files Settings","Ustawienia plików statycznych",module,Magento_Backend
+"Static Files Settings","Pliki statyczne",module,Magento_Backend
 "Sign Static Files","Podpisz pliki statyczne",module,Magento_Backend
 "Country Options","Opcje kraju",module,Magento_Backend
 "Allow Countries","Dopuść kraje",module,Magento_Backend
@@ -1417,7 +1417,7 @@ Empty,Pusty,module,Magento_Catalog
 "Close Window","Zamknij okno",module,Magento_Catalog
 "New Product","Nowy produkt",module,Magento_Catalog
 "Save & Edit","Zapisz i edytuj",module,Magento_Catalog
-"Save & New","Zapisz i dodaj nowe",module,Magento_Catalog
+"Save & New","Zapisz i dodaj nowy",module,Magento_Catalog
 "Save & Duplicate","Zapisz i duplikuj",module,Magento_Catalog
 "Save & Close","Zapisz i zamknij",module,Magento_Catalog
 Attributes,Cechy,module,Magento_Catalog
@@ -2624,7 +2624,7 @@ Remove,Usuń,module,Magento_Checkout
 edit,Zmień,module,Magento_Checkout
 "Shipping Address","Adres wysyłki",module,Magento_Checkout
 "New Address","Nowy adres",module,Magento_Checkout
-"Shipping Methods","Formy dostawy",module,Magento_Checkout
+"Shipping Methods","Metody dostawy",module,Magento_Checkout
 "Select Method","Wybierz metodę",module,Magento_Checkout
 "Method Title","Nazwa metody",module,Magento_Checkout
 "Carrier Title","Nazwa dostawcy",module,Magento_Checkout
@@ -4196,12 +4196,12 @@ Debug,"Tryb debug",module,Magento_Cybersource
 "Sort Order","Kolejność sortowania",module,Magento_Cybersource
 "Cannot switch into given mode ""%1""","Nie można przełączyć do danego trybu ""%1""",module,Magento_Deploy
 "Format for IDE '%1' is not supported","Format dla IDE '%1' nie jest obsługiwany",module,Magento_Developer
-"Client side less compilation","Kompilacji less po stronie klienta",module,Magento_Developer
-"Server side less compilation","Kompilacji less po stronie serwera",module,Magento_Developer
+"Client side less compilation","Kompilacja less po stronie klienta",module,Magento_Developer
+"Server side less compilation","Kompilacja less po stronie serwera",module,Magento_Developer
 "Frontend Development Workflow","Przepływ pracy frontend",module,Magento_Developer
 "Workflow type","Rodzaj przepływu pracy",module,Magento_Developer
 "Not available in production mode","Nie są dostępne w trybie produkcyjnym",module,Magento_Developer
-"Developer Client Restrictions","Ograniczenie dostępu programisty",module,Magento_Developer
+"Developer Client Restrictions","Ograniczony dostęp",module,Magento_Developer
 "Allowed IPs (comma separated)","Dozwolone IP (oddzielone przecinkami)",module,Magento_Developer
 "Leave empty for access from any location.","Pozostaw puste, aby umożliwić dostęp z każdej lokalizacji.",module,Magento_Developer
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Wybierz tę opcję, aby umożliwić DHL zoptymalizować koszty wysyłki przez dzielenie zamówienia, jeżeli przekracza ono %1 %2.",module,Magento_Dhl
@@ -4262,7 +4262,7 @@ Documents,Dokumenty,module,Magento_Dhl
 None,Brak,module,Magento_Dhl
 Field,Pole,module,Magento_Dhl
 "is required.","jest wymagane.",module,Magento_Dhl
-"Enabled for Checkout","Włącz dla zamówienia",module,Magento_Dhl
+"Enabled for Checkout",Włączone,module,Magento_Dhl
 "Enabled for RMA","Włączone dla RMA",module,Magento_Dhl
 "Gateway URL","URL bramki",module,Magento_Dhl
 Title,Tytuł,module,Magento_Dhl
@@ -4809,7 +4809,7 @@ None,Brak,module,Magento_Fedex
 Field,Pole,module,Magento_Fedex
 "is required.","jest wymagane.",module,Magento_Fedex
 FedEx,FedEx,module,Magento_Fedex
-"Enabled for Checkout","Włącz dla zamówienia",module,Magento_Fedex
+"Enabled for Checkout",Włączone,module,Magento_Fedex
 "Enabled for RMA","Włączone dla RMA",module,Magento_Fedex
 Title,Tytuł,module,Magento_Fedex
 "Account ID","Identyfikator konta klienta",module,Magento_Fedex
@@ -5501,7 +5501,7 @@ Enable,Włącz,module,Magento_GoogleAdwords
 "Conversion Label","Etykieta konwersji",module,Magento_GoogleAdwords
 "Conversion Value Type","Typ wartości konwersji",module,Magento_GoogleAdwords
 "Conversion Value","Wartość konwersji",module,Magento_GoogleAdwords
-"Google API","API Google",module,Magento_GoogleAnalytics
+"Google API","Google API",module,Magento_GoogleAnalytics
 "Google Analytics","Google Analytics",module,Magento_GoogleAnalytics
 Enable,Włącz,module,Magento_GoogleAnalytics
 "Account Number","Numer konta",module,Magento_GoogleAnalytics
@@ -6096,7 +6096,7 @@ Reports,Raporty,module,Magento_Logging
 "Catalog Product Tax Classes","Katalog Produktów Klasy Podatkowej",module,Magento_Logging
 "Tax Rules","Reguły podatków",module,Magento_Logging
 "Tax Rates","Stawki podatkowe",module,Magento_Logging
-"XML Sitemap","XML Mapa strony",module,Magento_Logging
+"XML Sitemap","Mapa witryny (XML)",module,Magento_Logging
 Widget,Widget,module,Magento_Logging
 "Cache Management","Pamięć podręczna",module,Magento_Logging
 "PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Logging
@@ -6338,7 +6338,7 @@ Comment,Komentarz,module,Magento_MultipleWishlist
 "Review Order - %1","Podgląd zamówienia - %1",module,Magento_Multishipping
 Total,Łącznie,module,Magento_Multishipping
 "Total for this address","Łącznie dla tego adresu",module,Magento_Multishipping
-"Shipping Methods","Formy dostawy",module,Magento_Multishipping
+"Shipping Methods","Metody dostawy",module,Magento_Multishipping
 "Edit Address","Edytuj adres",module,Magento_Multishipping
 "Edit Billing Address","Edycja adresu rozliczeniowego",module,Magento_Multishipping
 "Edit Shipping Address","Edytuj adres dostawy",module,Magento_Multishipping
@@ -6414,7 +6414,7 @@ Items,Pozycje,module,Magento_Multishipping
 "We can\'t complete your order because you don\'t have a payment method set up.","Nie możemy dokończyć zamówienia ponieważ nie masz ustawionej metody płatności.",module,Magento_Multishipping
 "Please choose a payment method.","Wybierz metodę płatności.",module,Magento_Multishipping
 "Multishipping Settings Section","Sekcja Ustawień Multi Wysyłek",module,Magento_Multishipping
-"Multishipping Settings","Ustawienia multishipping",module,Magento_Multishipping
+"Multishipping Settings","Dostawa na wiele adresów",module,Magento_Multishipping
 Options,Opcje,module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","Pozwól na dostawę do wielu adresów",module,Magento_Multishipping
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Maksymalna ilość w koszyku dla dostawy pod wiele adresów",module,Magento_Multishipping
@@ -10144,7 +10144,7 @@ City,Miasto,module,Magento_Shipping
 "Shipping Policy Parameters","Parametry zasad wysyłki",module,Magento_Shipping
 "Apply custom Shipping Policy","Zastosuj niestandardowe zasady wysyłki",module,Magento_Shipping
 "Shipping Policy","Zasady wysyłki",module,Magento_Shipping
-"Shipping Methods","Formy dostawy",module,Magento_Shipping
+"Shipping Methods","Metody dostawy",module,Magento_Shipping
 "Save & Generate","Zapisz i generuj",module,Magento_Sitemap
 "Edit Sitemap","Edytuj mapę",module,Magento_Sitemap
 "New Sitemap","Nowa mapa witryny",module,Magento_Sitemap
@@ -10156,7 +10156,7 @@ Path,Ścieżka,module,Magento_Sitemap
 "example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","przykład: ""sitemap/"" lub ""/"" dla ścieżki bazowej (musi mieć prawa do zapisu)",module,Magento_Sitemap
 "Store View","Widok sklepu",module,Magento_Sitemap
 Generate,Wygeneruj,module,Magento_Sitemap
-"XML Sitemap","XML Mapa strony",module,Magento_Sitemap
+"XML Sitemap","Mapa witryny (XML)",module,Magento_Sitemap
 "Add Sitemap","Dodaj mapę",module,Magento_Sitemap
 Catalog,Katalog,module,Magento_Sitemap
 "You deleted the sitemap.","Usunąłeś mapę.",module,Magento_Sitemap
@@ -10422,7 +10422,7 @@ Void,Unieważniony,module,Magento_Support
 "Partial Refund Offline","Częściowy zwrot w trybie Offline",module,Magento_Support
 "Payments Functionality Matrix","Funkcjonalność Matrix Płatności",module,Magento_Support
 "Payment Methods","Metody płatności",module,Magento_Support
-"Shipping Methods","Formy dostawy",module,Magento_Support
+"Shipping Methods","Metody dostawy",module,Magento_Support
 "Job Code","Kod zadania",module,Magento_Support
 "Cron Expression","Wyrażenie Cron",module,Magento_Support
 "Run Class","Uruchom klasę",module,Magento_Support
@@ -11252,7 +11252,7 @@ Field,Pole,module,Magento_Ups
 "is required.","jest wymagane.",module,Magento_Ups
 UPS,UPS,module,Magento_Ups
 "Access License Number","Access License Number",module,Magento_Ups
-"Enabled for Checkout","Włącz dla zamówienia",module,Magento_Ups
+"Enabled for Checkout",Włączone,module,Magento_Ups
 "Enabled for RMA","Włączone dla RMA",module,Magento_Ups
 "Allowed Methods","Dozwolone metody",module,Magento_Ups
 "Packages Request Type","Typ zapytania o paczkę",module,Magento_Ups
@@ -11586,7 +11586,7 @@ None,Brak,module,Magento_Usps
 Field,Pole,module,Magento_Usps
 "is required.","jest wymagane.",module,Magento_Usps
 USPS,USPS,module,Magento_Usps
-"Enabled for Checkout","Włącz dla zamówienia",module,Magento_Usps
+"Enabled for Checkout",Włączone,module,Magento_Usps
 "Enabled for RMA","Włączone dla RMA",module,Magento_Usps
 "Gateway URL","URL bramki",module,Magento_Usps
 "Secure Gateway URL","URL bezpiecznej bramki",module,Magento_Usps
