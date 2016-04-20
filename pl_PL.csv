@@ -6339,9 +6339,9 @@ Comment,Komentarz,module,Magento_MultipleWishlist
 Total,Łącznie,module,Magento_Multishipping
 "Total for this address","Łącznie dla tego adresu",module,Magento_Multishipping
 "Shipping Methods","Metody dostawy",module,Magento_Multishipping
-"Edit Address","Edytuj adres",module,Magento_Multishipping
-"Edit Billing Address","Edycja adresu rozliczeniowego",module,Magento_Multishipping
-"Edit Shipping Address","Edytuj adres dostawy",module,Magento_Multishipping
+"Edit Address","Zmień adres",module,Magento_Multishipping
+"Edit Billing Address","Zmień adres rozliczeniowy",module,Magento_Multishipping
+"Edit Shipping Address","Zmień adres dostawy",module,Magento_Multishipping
 "Create Billing Address","Utwórz adres rozliczeniowy",module,Magento_Multishipping
 "Create Shipping Address","Utwórz adres dostawy",module,Magento_Multishipping
 "Data saving problem","Problem podczas zapisywania danych",module,Magento_Multishipping
