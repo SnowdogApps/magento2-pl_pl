@@ -425,7 +425,7 @@ Reset,Resetuj,module,Magento_Backend
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Backend
 "Add New Image","Dodaj nowy obraz",module,Magento_Backend
 "Export block for grid %1 is not defined","Nie zdefiniowano bloku eksportu dla tabeli %1",module,Magento_Backend
-"Reset Filter","Resetuj filtr",module,Magento_Backend
+"Reset Filter","Zresetuj filtr",module,Magento_Backend
 Search,Szukaj,module,Magento_Backend
 Any,Dowolny,module,Magento_Backend
 "All Countries","Wszystkie kraje",module,Magento_Backend
@@ -438,7 +438,7 @@ To,Do,module,Magento_Backend
 "We couldn\'t find any records.","Nie mogliśmy znaleźć żadnych rekordów.",module,Magento_Backend
 "Add New","Dodaj nowe",module,Magento_Backend
 "Invalid export type supplied for grid export block","Nieprawidłowy typ eksportu zastosowany dla bloku eksportu tabeli",module,Magento_Backend
-Export,Eksport,module,Magento_Backend
+Export,Eksportuj,module,Magento_Backend
 "Please correct the column format and try again.","Popraw format kolumny i spróbuj ponownie.",module,Magento_Backend
 "Please select items.","Prosimy wybrać produkty.",module,Magento_Backend
 Submit,Wyślij,module,Magento_Backend
@@ -472,7 +472,7 @@ Error,Błąd,module,Magento_Backend
 "You need more permissions to do this.","Potrzebujesz więcej uprawnień do wykonania tego.",module,Magento_Backend
 "No search modules were registered","Brak zarejestrowanych modułów wyszukiwania",module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Upewnij się, że wszystkie globalne moduły wyszukiwania są zainstalowane i aktywowane.",module,Magento_Backend
-"You saved the account.","Konto zostało zapisane.",module,Magento_Backend
+"You saved the account.","Szczegóły konta zostały zapisane.",module,Magento_Backend
 "An error occurred while saving account.","Wystąpił błąd podczas zapisywania konta.",module,Magento_Backend
 "You deleted the design change.","Zmiana projektowa została usunięta.",module,Magento_Backend
 "You can't delete the design change.","Nie można usunąć zmiany projektowej.",module,Magento_Backend
@@ -5563,10 +5563,10 @@ Type,Rodzaj,module,Magento_GroupedProduct
 Quantity,Ilość,module,Magento_GroupedProduct
 AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
 StatusText,StatusText,module,Magento_GroupedProduct
-Export,Eksport,module,Magento_ImportExport
+Export,Eksportuj,module,Magento_ImportExport
 "Export Settings","Ustawienia eksportu",module,Magento_ImportExport
 "Entity Type","Rodzaj obiektu",module,Magento_ImportExport
-"Export File Format","Formal pliku eksportu",module,Magento_ImportExport
+"Export File Format","Format pliku eksportu",module,Magento_ImportExport
 From,Od,module,Magento_ImportExport
 To,Do,module,Magento_ImportExport
 "We can\'t filter an attribute with no attribute options.","Nie można filtrować atrybutów bez opcji atrybutów.",module,Magento_ImportExport
@@ -6032,7 +6032,7 @@ View,Zobacz,module,Magento_Logging
 Save,Zapisz,module,Magento_Logging
 Delete,Usuń,module,Magento_Logging
 "Mass Delete","Masowe usuwanie",module,Magento_Logging
-Export,Eksport,module,Magento_Logging
+Export,Eksportuj,module,Magento_Logging
 Import,Import,module,Magento_Logging
 Edit,Zmień,module,Magento_Logging
 "Mass Update","Masowa aktualizacja",module,Magento_Logging
@@ -6672,7 +6672,7 @@ Type,Rodzaj,module,Magento_OfflineShipping
 "Table Rates","Tabele stawek",module,Magento_OfflineShipping
 Condition,"Stan produktu",module,Magento_OfflineShipping
 "Include Virtual Products in Price Calculation","Włącz produkty wirtualne do obliczania ceny",module,Magento_OfflineShipping
-Export,Eksport,module,Magento_OfflineShipping
+Export,Eksportuj,module,Magento_OfflineShipping
 Import,Import,module,Magento_OfflineShipping
 "Free Shipping","Darmowa dostawa",module,Magento_OfflineShipping
 "Minimum Order Amount","Minimalna wielkość zamówienia",module,Magento_OfflineShipping
