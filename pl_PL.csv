@@ -2738,7 +2738,7 @@ Pages,Strony,module,Magento_Cms
 "We can't upload the file right now.","Nie możemy teraz wgrać pliku.",module,Magento_Cms
 "We can't delete root directory %1 right now.","Nie możemy teraz usunąć głównego katalogu %1.",module,Magento_Cms
 "Directory %1 is not under storage root path.","Katalog %1 jest w ścieżce katalogu głównego magazynu.",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","Prywatność i pliki cookie",module,Magento_Cms
 LocalizedException,LocalizedException,module,Magento_Cms
 RuntimeException,RuntimeException,module,Magento_Cms
 Exception,Wyjątek,module,Magento_Cms
@@ -10008,7 +10008,7 @@ Invitee,Zaproszony,module,Magento_SendFriend
 "Add Invitee","Dodaj zaproszoną osobę",module,Magento_SendFriend
 "Send Email","Wyślij e-mail",module,Magento_SendFriend
 Back,Powrót,module,Magento_SendFriend
-"Welcome, %name","Welcome, %name",module,Magento_SendFriend
+"Welcome, %name","Witaj, %name",module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name chce się z tobą podzielić tym produktem:",module,Magento_SendFriend
 "Message from %sender_name:","Wiadomość od %sender_name:",module,Magento_SendFriend
