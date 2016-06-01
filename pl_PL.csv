@@ -12332,6 +12332,6 @@ Footer,Footer,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
+"Account Dashboard","Panel konta",theme,frontend/Magento/luma
 "Account Information","Account Information",theme,frontend/Magento/luma
 "Address Book","Address Book",theme,frontend/Magento/luma
