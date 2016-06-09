@@ -1160,7 +1160,7 @@ Cancel,Anuluj,module,Magento_Bundle
 "Add Option","Dodaj opcję",module,Magento_Bundle
 "New Option","Nowa opcja",module,Magento_Bundle
 "Option Title","Tytuł opcji",module,Magento_Bundle
-"Default Title","Default Title",module,Magento_Bundle
+"Default Title","Domyślny tytuł",module,Magento_Bundle
 "Store View Title","Tytuł widoku sklepu",module,Magento_Bundle
 "Input Type","Typ pola",module,Magento_Bundle
 Drop-down,"Lista rozwijana",module,Magento_Bundle
@@ -1168,7 +1168,7 @@ Drop-down,"Lista rozwijana",module,Magento_Bundle
 Checkbox,"Pole wyboru",module,Magento_Bundle
 "Multiple Select","Lista wielokrotnego wyboru",module,Magento_Bundle
 Required,Wymagane,module,Magento_Bundle
-"Is Default","Is Default",module,Magento_Bundle
+"Is Default","Jest domyślny",module,Magento_Bundle
 Name,Nazwa,module,Magento_Bundle
 "Default Quantity","Domyślna ilość",module,Magento_Bundle
 "User Defined","Zdefiniowane przez użytkownika",module,Magento_Bundle
@@ -1219,18 +1219,18 @@ Select...,Wybierz...,module,Magento_Bundle
 Status,Stan,module,Magento_Bundle
 Thumbnail,Miniatura,module,Magento_Bundle
 Type,Rodzaj,module,Magento_Bundle
-Cancel,Cancel,module,Magento_BundleStaging
-"Add Selected Products","Add Selected Products",module,Magento_BundleStaging
-"Add Products to Option","Add Products to Option",module,Magento_BundleStaging
-Select...,Select...,module,Magento_BundleStaging
+Cancel,Anuluj,module,Magento_BundleStaging
+"Add Selected Products","Dodaj wybrane produkty",module,Magento_BundleStaging
+"Add Products to Option","Dodaj produkty do opcji",module,Magento_BundleStaging
+Select...,Wybierz...,module,Magento_BundleStaging
 Status,Status,module,Magento_BundleStaging
 ID,ID,module,Magento_BundleStaging
-Thumbnail,Thumbnail,module,Magento_BundleStaging
-Name,Name,module,Magento_BundleStaging
-Type,Type,module,Magento_BundleStaging
+Thumbnail,Miniatura,module,Magento_BundleStaging
+Name,Nazwa,module,Magento_BundleStaging
+Type,Rodzaj,module,Magento_BundleStaging
 SKU,SKU,module,Magento_BundleStaging
-Quantity,Quantity,module,Magento_BundleStaging
-Price,Price,module,Magento_BundleStaging
+Quantity,Ilość,module,Magento_BundleStaging
+Price,Cena,module,Magento_BundleStaging
 Always,Zawsze,module,Magento_Captcha
 "After number of attempts to login","Po liczbie prób logowania",module,Magento_Captcha
 "Provided form does not exist","Podany formularz nie istnieje",module,Magento_Captcha
@@ -1678,7 +1678,7 @@ To,Do,module,Magento_Catalog
 Done,Zrobione,module,Magento_Catalog
 "Add Selected","Dodaj wybrane",module,Magento_Catalog
 "Select Attribute","Select Attribute",module,Magento_Catalog
-"Create New Attribute","Create New Attribute",module,Magento_Catalog
+"Create New Attribute","Utwórz nową cechę",module,Magento_Catalog
 "Customizable Options","Indywidualne opcje",module,Magento_Catalog
 "Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
 "Add Option","Dodaj opcję",module,Magento_Catalog
@@ -1970,9 +1970,9 @@ Image,Obraz,module,Magento_Catalog
 "Example format: 200x300.","Przykład format: 200 x 300.",module,Magento_Catalog
 "Image Position","Położenie obrazu",module,Magento_Catalog
 Small,Mały,module,Magento_Catalog
-"Attribute Properties","Attribute Properties",module,Magento_Catalog
+"Attribute Properties","Właściwości cechy",module,Magento_Catalog
 "Attribute Label","Etykieta cechy",module,Magento_Catalog
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
+"Catalog Input Type for Store Owner","Typ pola dla właściciela sklepu",module,Magento_Catalog
 Values,Values,module,Magento_Catalog
 "Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid.",module,Magento_Catalog
 "Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
@@ -2258,7 +2258,7 @@ Back,Powrót,module,Magento_CatalogRule
 Actions,Operacje,module,Magento_CatalogRule
 Yes,Tak,module,Magento_CatalogRule
 No,Nie,module,Magento_CatalogRule
-"Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time.",module,Magento_CatalogRuleStaging
+"Future Update End Time cannot be equal or earlier than Start Time.","Czas zakończenia przyszłej aktualizacji musi wypadać później niż jej czas rozpoczęcia.",module,Magento_CatalogRuleStaging
 "Smth went to exception","Smth udał do wyjątków",module,Magento_CatalogRuleStaging
 ID,ID,module,Magento_CatalogRuleStaging
 Rule,Reguła,module,Magento_CatalogRuleStaging
@@ -2275,12 +2275,12 @@ Description,Opis,module,Magento_CatalogRuleStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
 "End Date","Data zakończenia",module,Magento_CatalogRuleStaging
 "Rule Information","Informacje o regule",module,Magento_CatalogRuleStaging
-Active,Active,module,Magento_CatalogRuleStaging
-Inactive,Inactive,module,Magento_CatalogRuleStaging
+Active,Aktywny,module,Magento_CatalogRuleStaging
+Inactive,Nieaktywny,module,Magento_CatalogRuleStaging
 Conditions,Warunki,module,Magento_CatalogRuleStaging
 Actions,Operacje,module,Magento_CatalogRuleStaging
-Yes,Yes,module,Magento_CatalogRuleStaging
-No,No,module,Magento_CatalogRuleStaging
+Yes,Tak,module,Magento_CatalogRuleStaging
+No,Nie,module,Magento_CatalogRuleStaging
 "Save as a New Update","Save as a New Update",module,Magento_CatalogRuleStaging
 "Move to Another Campaign","Move to Another Campaign",module,Magento_CatalogRuleStaging
 "Delete the Update","Delete the Update",module,Magento_CatalogRuleStaging
@@ -2313,7 +2313,7 @@ Relevance,Znaczenie,module,Magento_CatalogSearch
 Category,Kategoria,module,Magento_CatalogSearch
 "%1 and above","%1 i więcej",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
-"Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
+"Sorry, something went wrong. You can find out more in the error log.","Wystąpił błąd. Sprawdź dziennik błędów po więcej informacji.",module,Magento_CatalogSearch
 "Bucket does not exist","Bucket does not exist",module,Magento_CatalogSearch
 Product,Produkt,module,Magento_CatalogSearch
 "Search Settings","Ustawienia wyszukiwania",module,Magento_CatalogSearch
@@ -2342,7 +2342,7 @@ Preview,Podgląd,module,Magento_CatalogStaging
 "Set Product as New","Ustaw produkt jako nowy",module,Magento_CatalogStaging
 "Store View:","Widok sklepu:",module,Magento_CatalogStaging
 "Stores Configuration","Konfiguracja sklepów",module,Magento_CatalogStaging
-Images,Images,module,Magento_CatalogStaging
+Images,Zdjęcia,module,Magento_CatalogStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_CatalogStaging
 Name,Nazwa,module,Magento_CatalogStaging
 Description,Opis,module,Magento_CatalogStaging
@@ -2352,7 +2352,7 @@ Action,Operacja,module,Magento_CatalogStaging
 "Update Name","Zaktualizowana nazwa",module,Magento_CatalogStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogStaging
 "End Date","Data zakończenia",module,Magento_CatalogStaging
-"General Information","General Information",module,Magento_CatalogStaging
+"General Information",Ogólne,module,Magento_CatalogStaging
 "Enable Category","Włącz kategorię",module,Magento_CatalogStaging
 "Include in Menu","Uwzględnij w menu",module,Magento_CatalogStaging
 "Category Name","Nazwa kategorii",module,Magento_CatalogStaging
@@ -2606,7 +2606,7 @@ Shipping,Dostawa,module,Magento_Checkout
 "Send Payment Failed Email Copy To","Wyślij kopię e-maila o nieudanej płatności do",module,Magento_Checkout
 "Separate by "","".","Oddzielone za pomocą "","".",module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Wyślij kopię e-maila o nieudanej płatności metodą",module,Magento_Checkout
-Summary,Summary,module,Magento_Checkout
+Summary,Podsumowanie,module,Magento_Checkout
 "Order Total",Podsumowanie,module,Magento_Checkout
 "We'll send your order confirmation here.","Wyślemy potwierdzenie Twojego zamówienia tutaj.",module,Magento_Checkout
 Payment,Płatność,module,Magento_Checkout
@@ -2794,7 +2794,7 @@ Block,Blok,module,Magento_Cms
 Content,Zawartość,module,Magento_Cms
 "Content Heading","Nagłowek treści",module,Magento_Cms
 "Search Engine Optimisation","Optymalizacja dla wyszukiwarek",module,Magento_Cms
-"Meta Title","Meta Title",module,Magento_Cms
+"Meta Title","Meta tytuł",module,Magento_Cms
 "Meta Keywords","Słowa kluczowe",module,Magento_Cms
 "Meta Description","Opis strony META",module,Magento_Cms
 "Page in Websites","Strona w stronach internetowych",module,Magento_Cms
@@ -2813,7 +2813,7 @@ Enable,Włącz,module,Magento_Cms
 "Custom Theme","Indywidualny motyw graficzny",module,Magento_Cms
 "Custom Layout","Indywidualny układ",module,Magento_Cms
 "This block no longer exists.","Ten blok już nie istnieje.",module,Magento_CmsStaging
-Error,Error,module,Magento_CmsStaging
+Error,Błąd,module,Magento_CmsStaging
 "New Theme","Nowy temat",module,Magento_CmsStaging
 "-- Please Select --","-- Wybierz --",module,Magento_CmsStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_CmsStaging
@@ -2970,10 +2970,10 @@ Dashboard,Panel,module,Magento_Config
 "New attribute set name","Nazwa nowego zestawu cech",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Dodaj konfigurowalne atrybuty do istniejącego zestawu atrybutów",module,Magento_ConfigurableProduct
 "Choose existing Attribute Set","Wybierz istniejący zestaw cech",module,Magento_ConfigurableProduct
-Save,Save,module,Magento_ConfigurableProduct
-"Save & New","Save & New",module,Magento_ConfigurableProduct
-"Save & Duplicate","Save & Duplicate",module,Magento_ConfigurableProduct
-"Save & Close","Save & Close",module,Magento_ConfigurableProduct
+Save,Zapisz,module,Magento_ConfigurableProduct
+"Save & New","Zapisz i dodaj nowy",module,Magento_ConfigurableProduct
+"Save & Duplicate","Zapisz i duplikuj",module,Magento_ConfigurableProduct
+"Save & Close","Zapisz i zamknij",module,Magento_ConfigurableProduct
 Configurations,Konfiguracje,module,Magento_ConfigurableProduct
 "Attribute Values","Wartości cechy",module,Magento_ConfigurableProduct
 "Bulk Images &amp; Price","Większość obrazów &amp; cena",module,Magento_ConfigurableProduct
@@ -3023,7 +3023,7 @@ Price,Cena,module,Magento_ConfigurableProduct
 Quantity,Ilość,module,Magento_ConfigurableProduct
 Weight,Waga,module,Magento_ConfigurableProduct
 Status,Status,module,Magento_ConfigurableProduct
-Attributes,Attributes,module,Magento_ConfigurableProduct
+Attributes,Cechy,module,Magento_ConfigurableProduct
 Actions,Operacje,module,Magento_ConfigurableProduct
 "Custom options with price type ""percent"" is not available for configurable product.","Custom options with price type ""percent"" is not available for configurable product.",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","Ta grupa zawiera cechy użyte w produktach konfigurowalnych. Przenieś te cechy do innej grupy i ponów próbę.",module,Magento_ConfigurableProduct
@@ -3051,9 +3051,9 @@ Images,Obrazki,module,Magento_ConfigurableProduct
 Hidden,ukryty,module,Magento_ConfigurableProduct
 "Alt Text","Tekst alternatywny",module,Magento_ConfigurableProduct
 Role,Rola,module,Magento_ConfigurableProduct
-"Image Size","Image Size",module,Magento_ConfigurableProduct
+"Image Size","Rozmiar zdjęcia",module,Magento_ConfigurableProduct
 {size},{size},module,Magento_ConfigurableProduct
-"Image Resolution","Image Resolution",module,Magento_ConfigurableProduct
+"Image Resolution","Rozdzielczość zdjęcia",module,Magento_ConfigurableProduct
 "{width}^{height} px","{width}^{height} px",module,Magento_ConfigurableProduct
 "Hide from Product Page","Ukryj na stronie produktu",module,Magento_ConfigurableProduct
 "Select attribute","Wybierz cechę",module,Magento_ConfigurableProduct
@@ -3097,7 +3097,7 @@ Cancel,Anuluj,module,Magento_ConfigurableProduct
 "We don't recognize or support this file extension type.","Nie możemy rozpoznać lub obsługiwać tego typu rozszerzenia pliku.",module,Magento_ConfigurableProduct
 "Please select attribute(s).","Proszę wybrać atrybuty.",module,Magento_ConfigurableProduct
 "Generate Products","Generuj produkty",module,Magento_ConfigurableProduct
-"Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct
+"Something went wrong.","Coś poszło nie tak.",module,Magento_ConfigurableProduct
 "Configurable Product Image","Obrazek konfigurowalnego produktu",module,Magento_ConfigurableProduct
 Select...,Wybierz...,module,Magento_ConfigurableProduct
 ID,ID,module,Magento_ConfigurableProduct
@@ -3110,24 +3110,24 @@ Visible,Widoczny,module,Magento_ConfigurableProduct
 Scope,Zakres,module,Magento_ConfigurableProduct
 Searchable,"Widoczny w wynikach wyszukiwania",module,Magento_ConfigurableProduct
 Comparable,Porównywalne,module,Magento_ConfigurableProduct
-Select...,Select...,module,Magento_ConfigurableProductStaging
+Select...,Wybierz...,module,Magento_ConfigurableProductStaging
 Status,Status,module,Magento_ConfigurableProductStaging
 ID,ID,module,Magento_ConfigurableProductStaging
-Thumbnail,Thumbnail,module,Magento_ConfigurableProductStaging
-Name,Name,module,Magento_ConfigurableProductStaging
+Thumbnail,Miniatura,module,Magento_ConfigurableProductStaging
+Name,Nazwa,module,Magento_ConfigurableProductStaging
 SKU,SKU,module,Magento_ConfigurableProductStaging
-Price,Price,module,Magento_ConfigurableProductStaging
-Quantity,Quantity,module,Magento_ConfigurableProductStaging
-Weight,Weight,module,Magento_ConfigurableProductStaging
-Attributes,Attributes,module,Magento_ConfigurableProductStaging
-"Attribute Code","Attribute Code",module,Magento_ConfigurableProductStaging
-"Attribute Label","Attribute Label",module,Magento_ConfigurableProductStaging
-Required,Required,module,Magento_ConfigurableProductStaging
+Price,Cena,module,Magento_ConfigurableProductStaging
+Quantity,Ilość,module,Magento_ConfigurableProductStaging
+Weight,Waga,module,Magento_ConfigurableProductStaging
+Attributes,Cechy,module,Magento_ConfigurableProductStaging
+"Attribute Code","Kod cechy",module,Magento_ConfigurableProductStaging
+"Attribute Label","Etykieta cechy",module,Magento_ConfigurableProductStaging
+Required,Wymagane,module,Magento_ConfigurableProductStaging
 System,System,module,Magento_ConfigurableProductStaging
-Visible,Visible,module,Magento_ConfigurableProductStaging
-Scope,Scope,module,Magento_ConfigurableProductStaging
-Searchable,Searchable,module,Magento_ConfigurableProductStaging
-Comparable,Comparable,module,Magento_ConfigurableProductStaging
+Visible,Widoczny,module,Magento_ConfigurableProductStaging
+Scope,Zakres,module,Magento_ConfigurableProductStaging
+Searchable,"Widoczny w wynikach wyszukiwania",module,Magento_ConfigurableProductStaging
+Comparable,Porównywalne,module,Magento_ConfigurableProductStaging
 "Page not found.","Nie znaleziono strony.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Dziękujemy za skontaktowanie się z nami. Odpowiemy najszybciej jak to będzie możliwe.",module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.","Nie możemy zrealizować teraz twojego żądania.",module,Magento_Contact
@@ -3185,7 +3185,7 @@ Monthly,"Co miesiąc",module,Magento_Cron
 "Failure History Lifetime","Cała historia niepowodzeń",module,Magento_Cron
 "Use Separate Process","Za pomocą oddzielnego procesu",module,Magento_Cron
 "Save Currency Rates","Zapisz kursy walut",module,Magento_CurrencySymbol
-Options,Options,module,Magento_CurrencySymbol
+Options,Opcje,module,Magento_CurrencySymbol
 Reset,Resetuj,module,Magento_CurrencySymbol
 Import,Import,module,Magento_CurrencySymbol
 "Manage Currency Rates","Zarządzaj kursami walut",module,Magento_CurrencySymbol
@@ -3442,7 +3442,7 @@ Global,Globalny,module,Magento_Customer
 "Please enter a valid password reset token.","Proszę podać prawidłowe hasło Resetowanie tokena.",module,Magento_Customer
 "The password can not begin or end with a space.","Hasło nie można rozpocząć lub kończyć się spacją.",module,Magento_Customer
 Admin,Administrator,module,Magento_Customer
-"ALL GROUPS","ALL GROUPS",module,Magento_Customer
+"ALL GROUPS",WSZYSTKIE,module,Magento_Customer
 "No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","No such entity with %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
 "Attribute object is undefined","Obiekt cechy jest niezdefiniowany",module,Magento_Customer
 """%1"" invalid type entered.","""%1"" wpisany nieprawidłowy typ.",module,Magento_Customer
@@ -3643,7 +3643,7 @@ Password:,Hasło:,module,Magento_Customer
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Customer
 "Are you sure you want to delete this address?","Czy na pewno chcesz usunąć ten adres?",module,Magento_Customer
 Weak,Weak,module,Magento_Customer
-Medium,Medium,module,Magento_Customer
+Medium,Średni,module,Magento_Customer
 Strong,Strong,module,Magento_Customer
 "Very Strong","Very Strong",module,Magento_Customer
 "Guest checkout is disabled.","Możliwość składania zamówień przez użytkowników niezalogowanych jest wyłączona.",module,Magento_Customer
@@ -4685,9 +4685,9 @@ Template,Szablon,module,Magento_Email
 "Are you sure you want to strip tags?","Czy na pewno chcesz usunąć znaczniki?",module,Magento_Email
 "Are you sure you want to delete this template?","Czy na pewno chcesz usunąć ten szablon?",module,Magento_Email
 "The template did not load. Please review the log for details.","Szablon nie został załadowany. Przejrzyj dziennik, aby uzyskać szczegóły.",module,Magento_Email
-Footer,Footer,module,Magento_Email
+Footer,Stopka,module,Magento_Email
 "Thank you, %store_name","Dziękuję, %store_name",module,Magento_Email
-Header,Header,module,Magento_Email
+Header,Nagłówek,module,Magento_Email
 Communications,Komunikacja,module,Magento_Email
 "No Templates Found","Nie znaleziono szablonów",module,Magento_Email
 ID,ID,module,Magento_Email
@@ -5568,16 +5568,16 @@ Type,Rodzaj,module,Magento_GroupedProduct
 Quantity,Ilość,module,Magento_GroupedProduct
 AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
 StatusText,StatusText,module,Magento_GroupedProduct
-Select...,Select...,module,Magento_GroupedProductStaging
+Select...,Wybierz...,module,Magento_GroupedProductStaging
 Status,Status,module,Magento_GroupedProductStaging
 ID,ID,module,Magento_GroupedProductStaging
-Thumbnail,Thumbnail,module,Magento_GroupedProductStaging
-Name,Name,module,Magento_GroupedProductStaging
-Type,Type,module,Magento_GroupedProductStaging
+Thumbnail,Miniatura,module,Magento_GroupedProductStaging
+Name,Nazwa,module,Magento_GroupedProductStaging
+Type,Rodzaj,module,Magento_GroupedProductStaging
 SKU,SKU,module,Magento_GroupedProductStaging
-Quantity,Quantity,module,Magento_GroupedProductStaging
-Price,Price,module,Magento_GroupedProductStaging
-"Attribute Set","Attribute Set",module,Magento_GroupedProductStaging
+Quantity,Ilość,module,Magento_GroupedProductStaging
+Price,Cena,module,Magento_GroupedProductStaging
+"Attribute Set","Zestaw cech",module,Magento_GroupedProductStaging
 AttributeSetText,AttributeSetText,module,Magento_GroupedProductStaging
 StatusText,StatusText,module,Magento_GroupedProductStaging
 Export,Eksportuj,module,Magento_ImportExport
@@ -6989,7 +6989,7 @@ CPF,CPF,module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4",module,Magento_Paypal
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". Spór został rozwiązany i zamknięty. %2 kwota transakcji %3.",module,Magento_Paypal
 "You notified customer about invoice #%1.","Powiadomienia klienta o fakturze #%1.",module,Magento_Paypal
-"We cannot cancel this order.","We cannot cancel this order.",module,Magento_Paypal
+"We cannot cancel this order.","Nie możemy anulować tego zamówienia.",module,Magento_Paypal
 "IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 %3 kwota transakcji. Identyfikator transakcji: ""%4""",module,Magento_Paypal
 "You notified customer about creditmemo #%1.","Powiadomienia klienta o fakturze korygującej #%1.",module,Magento_Paypal
 "IPN ""%1""","IPN ""%1""",module,Magento_Paypal
@@ -7512,7 +7512,7 @@ Delete,Usuń,module,Magento_ProductVideo
 "Show related video","Pokaż podobne filmy",module,Magento_ProductVideo
 "Auto restart video","Powtarzanie filmu",module,Magento_ProductVideo
 "Images And Videos","Zdjęcia i filmy",module,Magento_ProductVideo
-"Images And Videos","Images And Videos",module,Magento_ProductVideoStaging
+"Images And Videos","Zdjęcia i filmy",module,Magento_ProductVideoStaging
 "Edit Catalog Price Rules","Edytuj reguły cenowe katalogu",module,Magento_PromotionPermissions
 "Edit Cart Price Rules","Edytuj reguły cenowe katalogu",module,Magento_PromotionPermissions
 "Edit Automated Email Reminder Rules","Edytuj zasady automatycznego przypominania",module,Magento_PromotionPermissions
@@ -8958,7 +8958,7 @@ Home,"Strona główna",module,Magento_Sales
 "This payment method is not available.","Ta metoda płatności nie jest dostępna.",module,Magento_Sales
 "Validation is failed.","Weryfikacja nie powiodła się.",module,Magento_Sales
 "You did not email your customer. Please check your email settings.","Nie utworzono emalia klienta. Proszę sprawdzić ustawienia e-mail.",module,Magento_Sales
-"-- Please Select --","-- Please Select --",module,Magento_Sales
+"-- Please Select --","-- Prosimy wybrać --",module,Magento_Sales
 "Path ""%1"" is not part of allowed directory ""%2""","Ścieżka ""%1"" nie jest częścią dozwolonych katalogu ""%2""",module,Magento_Sales
 "Identifying Fields required","Określenie pola wymagane",module,Magento_Sales
 "Id required","Wymagany identyfikator",module,Magento_Sales
@@ -10326,15 +10326,15 @@ Upcoming,Nadchodzące,module,Magento_Staging
 "Start time could not be changed while update active","Start time could not be changed while update active",module,Magento_Staging
 "Unable to save Future Update.","Nie można zapisać przyszłej aktualizacji.",module,Magento_Staging
 Test,Test,module,Magento_Staging
-Error,Error,module,Magento_Staging
+Error,Błąd,module,Magento_Staging
 "Test Exception","Test Exception",module,Magento_Staging
 View/Edit,Wyświetl/Edytuj,module,Magento_Staging
 Preview,Podgląd,module,Magento_Staging
-"Magento Admin Panel","Magento Admin Panel",module,Magento_Staging
+"Magento Admin Panel","Panel admina Magento",module,Magento_Staging
 Calendar,Calendar,module,Magento_Staging
-Share,Share,module,Magento_Staging
-Close,Close,module,Magento_Staging
-Scope,Scope,module,Magento_Staging
+Share,Udostępnij,module,Magento_Staging
+Close,Zamknij,module,Magento_Staging
+Scope,Zakres,module,Magento_Staging
 "Scheduled Changes","Planowane zmiany",module,Magento_Staging
 Start,Start,module,Magento_Staging
 End,Koniec,module,Magento_Staging
@@ -10668,8 +10668,8 @@ Image,Obraz,module,Magento_Swatches
 "Image Size","Rozmiar zdjęcia",module,Magento_Swatches
 "Example format: 200x300.","Przykładowy format: 200x300.",module,Magento_Swatches
 "Image Position","Położenie obrazu",module,Magento_Swatches
-"Default Store View","Default Store View",module,Magento_Swatches
-Admin,Admin,module,Magento_Swatches
+"Default Store View","Domyślny widok sklepu",module,Magento_Swatches
+Admin,Administrator,module,Magento_Swatches
 "Related Products Rule","Powiązane reguły produktów",module,Magento_TargetRule
 "Add Rule","Dodaj regułę",module,Magento_TargetRule
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_TargetRule
@@ -11134,8 +11134,8 @@ Store,Sklep,module,Magento_Theme
 "Store View","Widok sklepu",module,Magento_Theme
 "Skip to Content","Przejdź do treści",module,Magento_Theme
 Menu,Menu,module,Magento_Theme
-Account,Account,module,Magento_Theme
-Settings,Settings,module,Magento_Theme
+Account,Konto,module,Magento_Theme
+Settings,Ustawienia,module,Magento_Theme
 "2 columns with left bar","2 kolumny z lewym paskiem",module,Magento_Theme
 "2 columns with right bar","2 kolumny z prawym paskiem",module,Magento_Theme
 "3 columns","3 kolumny",module,Magento_Theme
@@ -11160,7 +11160,7 @@ Cancel,Anuluj,module,Magento_Ui
 Back,Powrót,module,Magento_Ui
 Next,Następne,module,Magento_Ui
 "Changes have been made to this section that have not been saved.","Wprowadzono zmiany do tej sekcji, które nie zostały zapisane.",module,Magento_Ui
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
+"This tab contains invalid data. Please resolve this before saving.","Ta karta zawiera nieprawidłowe dane. Proszę rozwiązać ten problem przed zapisaniem.",module,Magento_Ui
 Assign,Przyporządkuj,module,Magento_Ui
 Options,Opcje,module,Magento_Ui
 "records found","znalezione rekordy",module,Magento_Ui
@@ -11189,7 +11189,7 @@ Off,Wyłączone,module,Magento_Ui
 "You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
 "Search by keyword","Szukaj wg słów kluczowych",module,Magento_Ui
 Keyword,"Słowo kluczowe",module,Magento_Ui
-"Select Date","Select Date",module,Magento_Ui
+"Select Date","Wybierz datę",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter less or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter {0} words or less.","Podaj {0} słów lub mniej.",module,Magento_Ui
@@ -11739,7 +11739,7 @@ vault_payment2,vault_payment2,module,Magento_Vault
 "Expiration Date","Data ważności",module,Magento_Vault
 Type,Rodzaj,module,Magento_Vault
 "You have no credit cards.","Nie masz karty kredytowej.",module,Magento_Vault
-ending,ending,module,Magento_Vault
+ending,końcówka,module,Magento_Vault
 Actions,Operacje,module,Magento_Vault
 Delete,Usuń,module,Magento_Vault
 Cancel,Anuluj,module,Magento_Vault
@@ -12303,7 +12303,7 @@ Password:,Hasło:,theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","Koszty wysyłki do wielu członków rodziny i przyjaciół",theme,frontend/Magento/luma
 "Order History","Historia zamówień",theme,frontend/Magento/luma
 "View past orders","Przeglądania historii zamówień",theme,frontend/Magento/luma
-Footer,Footer,theme,frontend/Magento/luma
+Footer,Stopka,theme,frontend/Magento/luma
 "About Us","O Nas",theme,frontend/Magento/luma
 "Customer Service","Obsługa klienta",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
@@ -12333,5 +12333,5 @@ Footer,Footer,theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
 "Account Dashboard","Panel konta",theme,frontend/Magento/luma
-"Account Information","Account Information",theme,frontend/Magento/luma
-"Address Book","Address Book",theme,frontend/Magento/luma
+"Account Information","Dane konta",theme,frontend/Magento/luma
+"Address Book","Książka adresowa",theme,frontend/Magento/luma
