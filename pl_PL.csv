@@ -2474,7 +2474,7 @@ Checkout,Zamówienie,module,Magento_Checkout
 "This quote item does not exist.","Ten element w koszyku nie istnieje.",module,Magento_Checkout
 "Display number of items in cart","Wyświetlaj ilość produktów w koszyku",module,Magento_Checkout
 "Display item quantities","Wyświetlaj ilości produktów",module,Magento_Checkout
-"Unable to place order. Please try again later.","Unable to place order. Please try again later.",module,Magento_Checkout
+"Unable to place order. Please try again later.","Nie można złożyć zamówienia. Proszę spróbować ponownie później.",module,Magento_Checkout
 "Shipping address is not set","Nie jest ustawiony adres dostawy",module,Magento_Checkout
 "Unable to save shipping information. Please check input data.","Nie udało się zapisać informacji o dostawie. Proszę o sprawdzenie wpisanych danych.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Nie odnaleziono dostawcy i jego formy dostawy: %1, %2",module,Magento_Checkout
@@ -2526,7 +2526,7 @@ Loading...,Ładuję...,module,Magento_Checkout
 "Your order number is: %1.","Numer zamówienia: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Twój numer zamówienia to: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Zostanie wysłany e-mail z potwierdzeniem zamówienia oraz informacje umożliwiające śledzenie przesyłki.",module,Magento_Checkout
-"Payment Transaction Failed Reminder","Payment Transaction Failed Reminder",module,Magento_Checkout
+"Payment Transaction Failed Reminder","Przypomnienie o nieudanej płatności",module,Magento_Checkout
 "Payment Transaction Failed","Płatność nie powiodła się",module,Magento_Checkout
 Reason,Powód,module,Magento_Checkout
 "Checkout Type","Typ transakcji",module,Magento_Checkout
@@ -2654,7 +2654,7 @@ Manually,Ręcznie,module,Magento_CheckoutAgreements
 Close,Zamknij,module,Magento_CheckoutAgreements
 "Terms & Conditions",Regulaminy,module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Włącz warunki sprzedaży",module,Magento_CheckoutAgreements
-"Preview mode doesn't allow submitting the order.","Preview mode doesn't allow submitting the order.",module,Magento_CheckoutStaging
+"Preview mode doesn't allow submitting the order.","Tryb podglądu nie pozwala na składanie zamówień.",module,Magento_CheckoutStaging
 "Preview Quote Lifetime (minutes)","Czas życia (w minutach) zawartości koszyka w podglądzie",module,Magento_CheckoutStaging
 "Static Blocks","Bloki statyczne",module,Magento_Cms
 "Add New Block","Dodaj blok",module,Magento_Cms
@@ -9714,7 +9714,7 @@ Labels,Etykiety,module,Magento_SalesRuleStaging
 "Cart Price Rules","Reguły cenowe koszyka",module,Magento_SalesRuleStaging
 "Entity Sequence profile not added to meta active profile","Obiekt sekwencji profil nie dodał do aktywnego profilu meta",module,Magento_SalesSequence
 "Not enough arguments","Za mało argumentów",module,Magento_SalesSequence
-"Fatal Error","Fatal Error",module,Magento_ScalableCheckout
+"Fatal Error","Błąd krytyczny",module,Magento_ScalableCheckout
 "Advanced Inventory","Stan magazynowy",module,Magento_ScalableInventory
 "Manage Stock","Zarządzaj stanami",module,Magento_ScalableInventory
 Yes,Tak,module,Magento_ScalableInventory
@@ -12285,7 +12285,7 @@ Remove,Usuń,theme,frontend/Magento/luma
 "Shop By","Kupuj wg",theme,frontend/Magento/luma
 "Clear All","Wyczyść wszystko",theme,frontend/Magento/luma
 "Shopping Options","Opcje zakupów",theme,frontend/Magento/luma
-"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"Welcome to %store_name","Witaj w %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Witamy w %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Aby zalogować się na naszej stronie, Użyj tych poświadczeń podczas realizacji zamówienia lub na stronie <a href=""%customer_url"">Moje konto</a>:",theme,frontend/Magento/luma
@@ -12308,7 +12308,7 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Customer Service","Obsługa klienta",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Godziny pracy: < br / ><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Faktura korygująca do zamówienia %store_name",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Dziękuję za Twoje zamówienie z %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Status zamówienia można sprawdzić po <a href=""%account_url""> zalogowaniu się do swojego konta</a>.",theme,frontend/Magento/luma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Jeśli masz pytania dotyczące Twojego zamówienia, możesz napisz do nas na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
@@ -12317,21 +12317,21 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Shipping Info","Informacje wysyłkowe",theme,frontend/Magento/luma
 "Payment Method","Metoda płatności",theme,frontend/Magento/luma
 "Shipping Method","Metoda dostawy",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Aktualizacja do faktury korygującej %store_name",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Twoje zamówienie #%increment_id zostało wzbogacone o status <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Faktura za zamówienie %store_name",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","Twoja #%invoice_id faktura dla zamówienia #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Aktualizacja do faktury %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Potwierdzenie zamówienia w sklepie %store_name",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Kiedy twoja paczka będzie już w drodze wyślemy tobie numer do śledzenia transportu.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Umieszczony na <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Update to your %store_name order","Aktualizacja do zamówienia w sklepie %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Twoje zamówienie w sklepie %store_name zostało wysłane",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Aktualizacja wysyłki zamówienia ze sklepu %store_name",theme,frontend/Magento/luma
 "Account Dashboard","Panel konta",theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
