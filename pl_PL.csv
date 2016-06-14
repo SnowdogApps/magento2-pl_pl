@@ -6549,7 +6549,7 @@ Subscribers,Subskrybenci,module,Magento_Newsletter
 "This email address is already assigned to another user.","Ten e-mail jest już przypisany do innego użytkownika.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Niestety, administrator wyłączył subskrypcje dla gości. Prosimy <a href=%1"">zarejestruj się</a>."".",module,Magento_Newsletter
 "Please enter a valid email address.","Prosimy wpisać poprawny adres e-mail",module,Magento_Newsletter
-"The confirmation request has been sent.","Prośba o potwierdzenie zostało wysłane.",module,Magento_Newsletter
+"The confirmation request has been sent.","Prośba o potwierdzenie została wysłana.",module,Magento_Newsletter
 "Thank you for your subscription.","Dziękujemy za twoją subskrypcję",module,Magento_Newsletter
 "There was a problem with the subscription: %1","Wystąpił problem z subskrypcją: %1",module,Magento_Newsletter
 "Something went wrong with the subscription.","Coś się zepsuło z subskrypcja.",module,Magento_Newsletter
