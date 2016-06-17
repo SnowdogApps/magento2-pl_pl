@@ -9702,7 +9702,7 @@ Labels,Etykiety,module,Magento_SalesRuleStaging
 "Default Rule Label for All Store Views","Etykieta dla wszystkich widoków sklepu",module,Magento_SalesRuleStaging
 "Save as a New Update","Save as a New Update",module,Magento_SalesRuleStaging
 "Move to Another Campaign","Move to Another Campaign",module,Magento_SalesRuleStaging
-"Delete the Update","Delete the Update",module,Magento_SalesRuleStaging
+"Delete the Update","Usuń aktualizację",module,Magento_SalesRuleStaging
 "Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost.","Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost.",module,Magento_SalesRuleStaging
 20,20,module,Magento_SalesRuleStaging
 30,30,module,Magento_SalesRuleStaging
