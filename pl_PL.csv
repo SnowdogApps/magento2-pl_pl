@@ -930,7 +930,7 @@ Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 Authorizing,Authorizing,module,Magento_Braintree
 Authorized,Authorized,module,Magento_Braintree
 "Gateway rejected","Gateway rejected",module,Magento_Braintree
-Failed,Failed,module,Magento_Braintree
+Failed,Nieudane,module,Magento_Braintree
 "Processor declined","Processor declined",module,Magento_Braintree
 Settled,Settled,module,Magento_Braintree
 Settling,Settling,module,Magento_Braintree
@@ -996,13 +996,13 @@ Debug,"Tryb debug",module,Magento_Braintree
 "Verify for Applicable Countries","Verify for Applicable Countries",module,Magento_Braintree
 "Verify for Specific Countries","Verify for Specific Countries",module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_Braintree
-Select...,Select...,module,Magento_Braintree
+Select...,Wybierz...,module,Magento_Braintree
 Status,Status,module,Magento_Braintree
 "Transaction Type","Transaction Type",module,Magento_Braintree
 "PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
 "Transaction ID","Transaction ID",module,Magento_Braintree
-"Order ID","Order ID",module,Magento_Braintree
-"Payment Type","Payment Type",module,Magento_Braintree
+"Order ID","ID zamówienia",module,Magento_Braintree
+"Payment Type","Rodzaj płatności",module,Magento_Braintree
 Type,Rodzaj,module,Magento_Braintree
 "Created At","Created At",module,Magento_Braintree
 Amount,Amount,module,Magento_Braintree
@@ -1010,7 +1010,7 @@ Amount,Amount,module,Magento_Braintree
 "Settlement Response Text","Settlement Response Text",module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
 "Settlement Batch ID","Settlement Batch ID",module,Magento_Braintree
-Currency,Currency,module,Magento_Braintree
+Currency,Waluta,module,Magento_Braintree
 Country,Kraj,module,Magento_BraintreeTwo
 "Allowed Credit Card Types","Dopuszczone rodzaje kart kredytowych",module,Magento_BraintreeTwo
 "Add Rule","Dodaj regułę",module,Magento_BraintreeTwo
@@ -2382,7 +2382,7 @@ Layout,Układ,module,Magento_CatalogStaging
 "Apply Design to Products","Zastosuj projekt do produktów",module,Magento_CatalogStaging
 "Save as a New Update","Save as a New Update",module,Magento_CatalogStaging
 "Move to Another Campaign","Move to Another Campaign",module,Magento_CatalogStaging
-"Delete the Update","Delete the Update",module,Magento_CatalogStaging
+"Delete the Update","Usuń aktualizację",module,Magento_CatalogStaging
 "Deleting the update will remove the page from this campaign and all scheduled changes will be lost.","Deleting the update will remove the page from this campaign and all scheduled changes will be lost.",module,Magento_CatalogStaging
 20,20,module,Magento_CatalogStaging
 30,30,module,Magento_CatalogStaging
@@ -2392,12 +2392,12 @@ Layout,Układ,module,Magento_CatalogStaging
 "Start Time","Czas rozpoczęcia",module,Magento_CatalogStaging
 "End Time","Czas zakończenia",module,Magento_CatalogStaging
 ID,ID,module,Magento_CatalogStaging
-Thumbnail,Thumbnail,module,Magento_CatalogStaging
+Thumbnail,Miniaturka,module,Magento_CatalogStaging
 "Attribute Set","Attribute Set",module,Magento_CatalogStaging
 AttributeSetText,AttributeSetText,module,Magento_CatalogStaging
 Status,Status,module,Magento_CatalogStaging
 StatusText,StatusText,module,Magento_CatalogStaging
-Type,Type,module,Magento_CatalogStaging
+Type,Typ,module,Magento_CatalogStaging
 SKU,SKU,module,Magento_CatalogStaging
 Price,Cena,module,Magento_CatalogStaging
 "Remove Product from Campaign","Remove Product from Campaign",module,Magento_CatalogStaging
@@ -2405,7 +2405,7 @@ Price,Cena,module,Magento_CatalogStaging
 Products,Products,module,Magento_CatalogStaging
 Categories,Kategorie,module,Magento_CatalogStaging
 Path,Ścieżka,module,Magento_CatalogStaging
-Quantity,Quantity,module,Magento_CatalogStaging
+Quantity,Ilość,module,Magento_CatalogStaging
 Visibility,Visibility,module,Magento_CatalogStaging
 Websites,Websites,module,Magento_CatalogStaging
 "Create Permanent Redirect for old URL","Utwórz przekierowanie dla poprzedniego klucza URL",module,Magento_CatalogUrlRewrite
@@ -3027,7 +3027,7 @@ Price,Cena,module,Magento_ConfigurableProduct
 Quantity,Ilość,module,Magento_ConfigurableProduct
 Weight,Waga,module,Magento_ConfigurableProduct
 Status,Status,module,Magento_ConfigurableProduct
-Attributes,Attributes,module,Magento_ConfigurableProduct
+Attributes,Cechy,module,Magento_ConfigurableProduct
 Actions,Operacje,module,Magento_ConfigurableProduct
 "Custom options with price type ""percent"" is not available for configurable product.","Custom options with price type ""percent"" is not available for configurable product.",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","Ta grupa zawiera cechy użyte w produktach konfigurowalnych. Przenieś te cechy do innej grupy i ponów próbę.",module,Magento_ConfigurableProduct
@@ -3055,7 +3055,7 @@ Images,Obrazki,module,Magento_ConfigurableProduct
 Hidden,ukryty,module,Magento_ConfigurableProduct
 "Alt Text","Tekst alternatywny",module,Magento_ConfigurableProduct
 Role,Rola,module,Magento_ConfigurableProduct
-"Image Size","Image Size",module,Magento_ConfigurableProduct
+"Image Size","Rozmiar zdjęcia",module,Magento_ConfigurableProduct
 {size},{size},module,Magento_ConfigurableProduct
 "Image Resolution","Image Resolution",module,Magento_ConfigurableProduct
 "{width}^{height} px","{width}^{height} px",module,Magento_ConfigurableProduct
@@ -4689,9 +4689,9 @@ Template,Szablon,module,Magento_Email
 "Are you sure you want to strip tags?","Czy na pewno chcesz usunąć znaczniki?",module,Magento_Email
 "Are you sure you want to delete this template?","Czy na pewno chcesz usunąć ten szablon?",module,Magento_Email
 "The template did not load. Please review the log for details.","Szablon nie został załadowany. Przejrzyj dziennik, aby uzyskać szczegóły.",module,Magento_Email
-Footer,Footer,module,Magento_Email
+Footer,Stopka,module,Magento_Email
 "Thank you, %store_name","Dziękuję, %store_name",module,Magento_Email
-Header,Header,module,Magento_Email
+Header,Nagłówek,module,Magento_Email
 Communications,Komunikacja,module,Magento_Email
 "No Templates Found","Nie znaleziono szablonów",module,Magento_Email
 ID,ID,module,Magento_Email
@@ -10333,7 +10333,7 @@ View/Edit,Wyświetl/Edytuj,module,Magento_Staging
 Preview,Podgląd,module,Magento_Staging
 "This action is unavailable","This action is unavailable",module,Magento_Staging
 "Magento Admin Panel","Panel admina Magento",module,Magento_Staging
-Calendar,Calendar,module,Magento_Staging
+Calendar,Kalendarz,module,Magento_Staging
 Share,Udostępnij,module,Magento_Staging
 Close,Zamknij,module,Magento_Staging
 Scope,Zakres,module,Magento_Staging
@@ -11204,7 +11204,7 @@ Off,Wyłączone,module,Magento_Ui
 "You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
 "Search by keyword","Szukaj wg słów kluczowych",module,Magento_Ui
 Keyword,"Słowo kluczowe",module,Magento_Ui
-"Select Date","Select Date",module,Magento_Ui
+"Select Date","Wybierz datę",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter less or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter {0} words or less.","Podaj {0} słów lub mniej.",module,Magento_Ui
@@ -12345,5 +12345,5 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
 "Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
-"Account Information","Account Information",theme,frontend/Magento/luma
+"Account Information","Dane konta",theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
