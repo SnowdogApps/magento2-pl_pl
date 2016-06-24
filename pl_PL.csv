@@ -998,7 +998,7 @@ Debug,"Tryb debug",module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_Braintree
 Select...,Wybierz...,module,Magento_Braintree
 Status,Status,module,Magento_Braintree
-"Transaction Type","Transaction Type",module,Magento_Braintree
+"Transaction Type","Typ transakcji",module,Magento_Braintree
 "PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
 "Transaction ID","Transaction ID",module,Magento_Braintree
 "Order ID","ID zamówienia",module,Magento_Braintree
@@ -1680,7 +1680,7 @@ To,Do,module,Magento_Catalog
 Done,Zrobione,module,Magento_Catalog
 "Add Selected","Dodaj wybrane",module,Magento_Catalog
 "Select Attribute","Select Attribute",module,Magento_Catalog
-"Create New Attribute","Create New Attribute",module,Magento_Catalog
+"Create New Attribute","Utwórz nową cechę",module,Magento_Catalog
 "Customizable Options","Indywidualne opcje",module,Magento_Catalog
 "Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
 "Add Option","Dodaj opcję",module,Magento_Catalog
@@ -2402,12 +2402,12 @@ SKU,SKU,module,Magento_CatalogStaging
 Price,Cena,module,Magento_CatalogStaging
 "Remove Product from Campaign","Remove Product from Campaign",module,Magento_CatalogStaging
 "Deleting the update will remove the product from this campaign and all scheduled changes will be lost.","Deleting the update will remove the product from this campaign and all scheduled changes will be lost.",module,Magento_CatalogStaging
-Products,Products,module,Magento_CatalogStaging
+Products,Produkty,module,Magento_CatalogStaging
 Categories,Kategorie,module,Magento_CatalogStaging
 Path,Ścieżka,module,Magento_CatalogStaging
 Quantity,Ilość,module,Magento_CatalogStaging
 Visibility,Visibility,module,Magento_CatalogStaging
-Websites,Websites,module,Magento_CatalogStaging
+Websites,Witryny,module,Magento_CatalogStaging
 "Create Permanent Redirect for old URL","Utwórz przekierowanie dla poprzedniego klucza URL",module,Magento_CatalogUrlRewrite
 "Category URL Suffix","Sufiks URL kategorii",module,Magento_CatalogUrlRewrite
 "You need to refresh the cache.","Musisz odświeżyć pamięć podręczną.",module,Magento_CatalogUrlRewrite
