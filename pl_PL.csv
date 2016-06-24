@@ -920,10 +920,10 @@ Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_Braintree
 "--Please Select--","-- Prosimy wybrać --",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_Braintree
-"Paypal account","Paypal account",module,Magento_Braintree
+"Paypal account","Konto Paypal",module,Magento_Braintree
 "Coinbase account","Coinbase account",module,Magento_Braintree
 "Europe bank account","Europe bank account",module,Magento_Braintree
-"Credit card","Credit card",module,Magento_Braintree
+"Credit card","Karta kredytowa",module,Magento_Braintree
 "Apple pay card","Apple pay card",module,Magento_Braintree
 "Android pay card","Android pay card",module,Magento_Braintree
 "Authorization expired","Authorization expired",module,Magento_Braintree
@@ -940,7 +940,7 @@ Unrecognized,Unrecognized,module,Magento_Braintree
 "Settlement declined","Settlement declined",module,Magento_Braintree
 "Settlement pending","Settlement pending",module,Magento_Braintree
 "Settlement confirmed","Settlement confirmed",module,Magento_Braintree
-Sale,Sale,module,Magento_Braintree
+Sale,Sprzedaż,module,Magento_Braintree
 Credit,Credit,module,Magento_Braintree
 "Credit Card Type","Rodzaj karty kredytowej",module,Magento_Braintree
 "Credit Card Number","Numer karty kredytowej",module,Magento_Braintree
@@ -2278,12 +2278,12 @@ Description,Opis,module,Magento_CatalogRuleStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogRuleStaging
 "End Date","Data zakończenia",module,Magento_CatalogRuleStaging
 "Rule Information","Informacje o regule",module,Magento_CatalogRuleStaging
-Active,Active,module,Magento_CatalogRuleStaging
-Inactive,Inactive,module,Magento_CatalogRuleStaging
+Active,Aktywny,module,Magento_CatalogRuleStaging
+Inactive,Nieaktywny,module,Magento_CatalogRuleStaging
 Conditions,Warunki,module,Magento_CatalogRuleStaging
 Actions,Operacje,module,Magento_CatalogRuleStaging
-Yes,Yes,module,Magento_CatalogRuleStaging
-No,No,module,Magento_CatalogRuleStaging
+Yes,Tak,module,Magento_CatalogRuleStaging
+No,Nie,module,Magento_CatalogRuleStaging
 "Save as a New Update","Save as a New Update",module,Magento_CatalogRuleStaging
 "Move to Another Campaign","Move to Another Campaign",module,Magento_CatalogRuleStaging
 "Delete the Update","Delete the Update",module,Magento_CatalogRuleStaging
@@ -2344,9 +2344,9 @@ View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
 Delete,Usuń,module,Magento_CatalogStaging
 Preview,Podgląd,module,Magento_CatalogStaging
 "Set Product as New","Ustaw produkt jako nowy",module,Magento_CatalogStaging
-"Store View:","Store View:",module,Magento_CatalogStaging
-"Stores Configuration","Stores Configuration",module,Magento_CatalogStaging
-Images,Images,module,Magento_CatalogStaging
+"Store View:","Widok sklepu:",module,Magento_CatalogStaging
+"Stores Configuration","Konfiguracja sklepów",module,Magento_CatalogStaging
+Images,Obrazki,module,Magento_CatalogStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_CatalogStaging
 Name,Nazwa,module,Magento_CatalogStaging
 Description,Opis,module,Magento_CatalogStaging
@@ -2356,7 +2356,7 @@ Action,Operacja,module,Magento_CatalogStaging
 "Update Name","Zaktualizowana nazwa",module,Magento_CatalogStaging
 "Start Date","Data rozpoczęcia",module,Magento_CatalogStaging
 "End Date","Data zakończenia",module,Magento_CatalogStaging
-"General Information","General Information",module,Magento_CatalogStaging
+"General Information","Informacje ogólne",module,Magento_CatalogStaging
 "Enable Category","Włącz kategorię",module,Magento_CatalogStaging
 "Include in Menu","Uwzględnij w menu",module,Magento_CatalogStaging
 "Category Name","Nazwa kategorii",module,Magento_CatalogStaging
@@ -2399,7 +2399,7 @@ Status,Status,module,Magento_CatalogStaging
 StatusText,StatusText,module,Magento_CatalogStaging
 Type,Type,module,Magento_CatalogStaging
 SKU,SKU,module,Magento_CatalogStaging
-Price,Price,module,Magento_CatalogStaging
+Price,Cena,module,Magento_CatalogStaging
 "Remove Product from Campaign","Remove Product from Campaign",module,Magento_CatalogStaging
 "Deleting the update will remove the product from this campaign and all scheduled changes will be lost.","Deleting the update will remove the product from this campaign and all scheduled changes will be lost.",module,Magento_CatalogStaging
 Products,Products,module,Magento_CatalogStaging
@@ -2817,7 +2817,7 @@ Enable,Włącz,module,Magento_Cms
 "Custom Layout","Indywidualny układ",module,Magento_Cms
 "This block no longer exists.","Ten blok już nie istnieje.",module,Magento_CmsStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CmsStaging
-Error,Error,module,Magento_CmsStaging
+Error,Błąd,module,Magento_CmsStaging
 "New Theme","Nowy temat",module,Magento_CmsStaging
 "-- Please Select --","-- Wybierz --",module,Magento_CmsStaging
 "Scheduled Changes","Planowane zmiany",module,Magento_CmsStaging
@@ -2836,7 +2836,7 @@ Identifier,Identyfikator,module,Magento_CmsStaging
 "Store View","Widok sklepu",module,Magento_CmsStaging
 "Save as a New Update","Save as a New Update",module,Magento_CmsStaging
 "Move to Another Campaign","Move to Another Campaign",module,Magento_CmsStaging
-"Delete the Update","Delete the Update",module,Magento_CmsStaging
+"Delete the Update","Usuń aktualizację",module,Magento_CmsStaging
 "Deleting the update will remove the block from this campaign and all scheduled changes will be lost.","Deleting the update will remove the block from this campaign and all scheduled changes will be lost.",module,Magento_CmsStaging
 20,20,module,Magento_CmsStaging
 30,30,module,Magento_CmsStaging
@@ -2974,10 +2974,10 @@ Dashboard,Panel,module,Magento_Config
 "New attribute set name","Nazwa nowego zestawu cech",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Dodaj konfigurowalne atrybuty do istniejącego zestawu atrybutów",module,Magento_ConfigurableProduct
 "Choose existing Attribute Set","Wybierz istniejący zestaw cech",module,Magento_ConfigurableProduct
-Save,Save,module,Magento_ConfigurableProduct
-"Save & New","Save & New",module,Magento_ConfigurableProduct
-"Save & Duplicate","Save & Duplicate",module,Magento_ConfigurableProduct
-"Save & Close","Save & Close",module,Magento_ConfigurableProduct
+Save,Zapisz,module,Magento_ConfigurableProduct
+"Save & New","Zapisz i dodaj nowy",module,Magento_ConfigurableProduct
+"Save & Duplicate","Zapisz i duplikuj",module,Magento_ConfigurableProduct
+"Save & Close","Zapisz i zamknij",module,Magento_ConfigurableProduct
 Configurations,Konfiguracje,module,Magento_ConfigurableProduct
 "Attribute Values","Wartości cechy",module,Magento_ConfigurableProduct
 "Bulk Images &amp; Price","Większość obrazów &amp; cena",module,Magento_ConfigurableProduct
@@ -3143,7 +3143,7 @@ Email,E-mail,module,Magento_Contact
 "Phone Number","Numer telefonu",module,Magento_Contact
 "What’s on your mind?","Co masz na myśli?",module,Magento_Contact
 Submit,Wyślij,module,Magento_Contact
-"Contact Form","Contact Form",module,Magento_Contact
+"Contact Form","Formularz kontaktowy",module,Magento_Contact
 "Name: %name","Nazwa: %name",module,Magento_Contact
 "Email: %email","E-mail: %email",module,Magento_Contact
 "Phone Number: %telephone","Numer telefonu: %telephone",module,Magento_Contact
@@ -3189,7 +3189,7 @@ Monthly,"Co miesiąc",module,Magento_Cron
 "Failure History Lifetime","Cała historia niepowodzeń",module,Magento_Cron
 "Use Separate Process","Za pomocą oddzielnego procesu",module,Magento_Cron
 "Save Currency Rates","Zapisz kursy walut",module,Magento_CurrencySymbol
-Options,Options,module,Magento_CurrencySymbol
+Options,Opcje,module,Magento_CurrencySymbol
 Reset,Resetuj,module,Magento_CurrencySymbol
 Import,Import,module,Magento_CurrencySymbol
 "Manage Currency Rates","Zarządzaj kursami walut",module,Magento_CurrencySymbol
@@ -6666,7 +6666,7 @@ Region/State,Region/województwo,module,Magento_OfflineShipping
 None,Brak,module,Magento_OfflineShipping
 "Per Order","Na zamówienie",module,Magento_OfflineShipping
 "Per Item","Za sztukę",module,Magento_OfflineShipping
-"Unable to import data","Unable to import data",module,Magento_OfflineShipping
+"Unable to import data","Nie można zaimportować danych",module,Magento_OfflineShipping
 "Something went wrong while importing table rates.","Coś się zepsuło podczas importowania tabeli cen.",module,Magento_OfflineShipping
 "We couldn't import this file because of these errors: %1","Nie można zaimportować tego pliku ze względu na te błędy: %1",module,Magento_OfflineShipping
 "Requested column ""%1"" cannot be resolved","Requested column ""%1"" cannot be resolved",module,Magento_OfflineShipping
@@ -10010,7 +10010,7 @@ Invitee,Zaproszony,module,Magento_SendFriend
 "Add Invitee","Dodaj zaproszoną osobę",module,Magento_SendFriend
 "Send Email","Wyślij e-mail",module,Magento_SendFriend
 Back,Powrót,module,Magento_SendFriend
-"Welcome, %name","Welcome, %name",module,Magento_SendFriend
+"Welcome, %name","Witaj, %name",module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name chce się z tobą podzielić tym produktem:",module,Magento_SendFriend
 "Message from %sender_name:","Wiadomość od %sender_name:",module,Magento_SendFriend
@@ -10671,7 +10671,7 @@ Image,Obraz,module,Magento_Swatches
 "Example format: 200x300.","Przykładowy format: 200x300.",module,Magento_Swatches
 "Image Position","Położenie obrazu",module,Magento_Swatches
 "Default Store View","Default Store View",module,Magento_Swatches
-Admin,Admin,module,Magento_Swatches
+Admin,Administrator,module,Magento_Swatches
 "Related Products Rule","Powiązane reguły produktów",module,Magento_TargetRule
 "Add Rule","Dodaj regułę",module,Magento_TargetRule
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_TargetRule
@@ -10967,7 +10967,7 @@ Rate,Stawka,module,Magento_TaxImportExport
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
 Back,Powrót,module,Magento_Theme
-"Save and Continue","Save and Continue",module,Magento_Theme
+"Save and Continue","Zapisz i kontynuuj",module,Magento_Theme
 "Save Configuration","Save Configuration",module,Magento_Theme
 %1,%1,module,Magento_Theme
 Default,Domyślny,module,Magento_Theme
@@ -11180,7 +11180,7 @@ Assign,Przyporządkuj,module,Magento_Ui
 Options,Opcje,module,Magento_Ui
 "records found","znalezione rekordy",module,Magento_Ui
 selected,wybrane,module,Magento_Ui
-of,of,module,Magento_Ui
+of,z,module,Magento_Ui
 Filters,Filtry,module,Magento_Ui
 Add,Dodaj,module,Magento_Ui
 "Something went wrong.","Coś poszło nie tak.",module,Magento_Ui
@@ -12297,7 +12297,7 @@ Remove,Usuń,theme,frontend/Magento/luma
 "Shop By","Kupuj wg",theme,frontend/Magento/luma
 "Clear All","Wyczyść wszystko",theme,frontend/Magento/luma
 "Shopping Options","Opcje zakupów",theme,frontend/Magento/luma
-"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"Welcome to %store_name","Witamy w %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Witamy w %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Aby zalogować się na naszej stronie, Użyj tych poświadczeń podczas realizacji zamówienia lub na stronie <a href=""%customer_url"">Moje konto</a>:",theme,frontend/Magento/luma
@@ -12315,7 +12315,7 @@ Password:,Hasło:,theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","Koszty wysyłki do wielu członków rodziny i przyjaciół",theme,frontend/Magento/luma
 "Order History","Historia zamówień",theme,frontend/Magento/luma
 "View past orders","Przeglądania historii zamówień",theme,frontend/Magento/luma
-Footer,Footer,theme,frontend/Magento/luma
+Footer,Stopka,theme,frontend/Magento/luma
 "About Us","O Nas",theme,frontend/Magento/luma
 "Customer Service","Obsługa klienta",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
@@ -12346,4 +12346,4 @@ Footer,Footer,theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
 "Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
 "Account Information","Account Information",theme,frontend/Magento/luma
-"Address Book","Address Book",theme,frontend/Magento/luma
+"Address Book","Książka adresowa",theme,frontend/Magento/luma
