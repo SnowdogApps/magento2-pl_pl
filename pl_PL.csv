@@ -927,7 +927,7 @@ Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Apple pay card","Apple pay card",module,Magento_Braintree
 "Android pay card","Android pay card",module,Magento_Braintree
 "Authorization expired","Authorization expired",module,Magento_Braintree
-Authorizing,Authorizing,module,Magento_Braintree
+Authorizing,Autoryzacja,module,Magento_Braintree
 Authorized,Authorized,module,Magento_Braintree
 "Gateway rejected","Gateway rejected",module,Magento_Braintree
 Failed,Nieudane,module,Magento_Braintree
@@ -957,7 +957,7 @@ expires,expires,module,Magento_Braintree
 "Place Order","Złóż zamówienie",module,Magento_Braintree
 "This payment is not available","This payment is not available",module,Magento_Braintree
 MM,MM,module,Magento_Braintree
-YY,YY,module,Magento_Braintree
+YY,RR,module,Magento_Braintree
 "Please try again with another form of payment.","Proszę spróbować ponownie z inną formę płatności.",module,Magento_Braintree
 "Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
@@ -1000,12 +1000,12 @@ Select...,Wybierz...,module,Magento_Braintree
 Status,Status,module,Magento_Braintree
 "Transaction Type","Typ transakcji",module,Magento_Braintree
 "PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
-"Transaction ID","Transaction ID",module,Magento_Braintree
+"Transaction ID","ID transakcji",module,Magento_Braintree
 "Order ID","ID zamówienia",module,Magento_Braintree
 "Payment Type","Rodzaj płatności",module,Magento_Braintree
 Type,Rodzaj,module,Magento_Braintree
 "Created At","Created At",module,Magento_Braintree
-Amount,Amount,module,Magento_Braintree
+Amount,Kwota,module,Magento_Braintree
 "Settlement Code","Settlement Code",module,Magento_Braintree
 "Settlement Response Text","Settlement Response Text",module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
@@ -2406,7 +2406,7 @@ Products,Produkty,module,Magento_CatalogStaging
 Categories,Kategorie,module,Magento_CatalogStaging
 Path,Ścieżka,module,Magento_CatalogStaging
 Quantity,Ilość,module,Magento_CatalogStaging
-Visibility,Visibility,module,Magento_CatalogStaging
+Visibility,Widoczność,module,Magento_CatalogStaging
 Websites,Witryny,module,Magento_CatalogStaging
 "Create Permanent Redirect for old URL","Utwórz przekierowanie dla poprzedniego klucza URL",module,Magento_CatalogUrlRewrite
 "Category URL Suffix","Sufiks URL kategorii",module,Magento_CatalogUrlRewrite
@@ -3057,7 +3057,7 @@ Hidden,ukryty,module,Magento_ConfigurableProduct
 Role,Rola,module,Magento_ConfigurableProduct
 "Image Size","Rozmiar zdjęcia",module,Magento_ConfigurableProduct
 {size},{size},module,Magento_ConfigurableProduct
-"Image Resolution","Image Resolution",module,Magento_ConfigurableProduct
+"Image Resolution","Rozdzielczość zdjęcia",module,Magento_ConfigurableProduct
 "{width}^{height} px","{width}^{height} px",module,Magento_ConfigurableProduct
 "Hide from Product Page","Ukryj na stronie produktu",module,Magento_ConfigurableProduct
 "Select attribute","Wybierz cechę",module,Magento_ConfigurableProduct
@@ -6704,7 +6704,7 @@ Import,Import,module,Magento_OfflineShipping
 "Free Shipping","Darmowa dostawa",module,Magento_OfflineShipping
 "Minimum Order Amount","Minimalna wielkość zamówienia",module,Magento_OfflineShipping
 "-- Please Select --","-- Wybierz --",module,Magento_OfflineShipping
-"Export VCL for Varnish %1","Eksport VCL do Varnish'u %1",module,Magento_PageCache
+"Export VCL for Varnish %1","Eksport VCL do Varnish %1",module,Magento_PageCache
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Wartość Ttl ""%1"" nie jest prawidłowa. Proszę używać tylko cyfr większych lub równych zero.",module,Magento_PageCache
 "Built-in Cache","Wbudowana pamięć podręczna",module,Magento_PageCache
 "Varnish Cache (Recommended)","Varnish (Zalecane)",module,Magento_PageCache
