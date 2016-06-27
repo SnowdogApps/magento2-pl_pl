@@ -540,7 +540,7 @@ password,hasło,module,Magento_Backend
 "Reload Data","Przeładuj dane",module,Magento_Backend
 "Browse Files...","Przeglądaj pliki...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
-"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. All rights reserved.",module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Wszystkie prawa zastrzeżone.",module,Magento_Backend
 "ver. %1","wer. %1",module,Magento_Backend
 "Magento Admin Panel","Panel admina Magento",module,Magento_Backend
 "Account Setting","Ustawienia konta",module,Magento_Backend
@@ -1453,7 +1453,7 @@ Categories,Kategorie,module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","Upewnij się że zdefiniowano wartość SKU dla wszystkich produktów przetworzonych.",module,Magento_Catalog
 "A total of %1 record(s) were updated.","Zaktualizowano %1 rekordów.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Atrybuty produktów nie zostały zaktualizowane z powodu błędów.",module,Magento_Catalog
-"Unable to add attribute","Unable to add attribute",module,Magento_Catalog
+"Unable to add attribute","Nie można dodać atrybutu",module,Magento_Catalog
 "Please, specify attributes","Proszę określić cechy",module,Magento_Catalog
 Catalog,Katalog,module,Magento_Catalog
 "Manage Product Attributes","Zarządzaj cechami produktu",module,Magento_Catalog
@@ -1471,7 +1471,7 @@ Catalog,Katalog,module,Magento_Catalog
 "An attribute with this code already exists.","Atrybut z tym kodem już istnieje.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Cecha o podanym kodzie (%1) już istnieje.",module,Magento_Catalog
 "You duplicated the product.","Zduplikowałeś produkt.",module,Magento_Catalog
-"This product doesn't exist.","This product doesn't exist.",module,Magento_Catalog
+"This product doesn't exist.","Produkt nie istnieje.",module,Magento_Catalog
 "Invalid product id. Should be numeric value greater than 0","Invalid product id. Should be numeric value greater than 0",module,Magento_Catalog
 Products,Produkty,module,Magento_Catalog
 "A group with the same name already exists.","Grupa o takiej samej nazwie już istnieje",module,Magento_Catalog
@@ -2609,7 +2609,7 @@ Shipping,Dostawa,module,Magento_Checkout
 "Send Payment Failed Email Copy To","Wyślij kopię e-maila o nieudanej płatności do",module,Magento_Checkout
 "Separate by "","".","Oddzielone za pomocą "","".",module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Wyślij kopię e-maila o nieudanej płatności metodą",module,Magento_Checkout
-Summary,Summary,module,Magento_Checkout
+Summary,Podsumowanie,module,Magento_Checkout
 "Order Total",Podsumowanie,module,Magento_Checkout
 "We'll send your order confirmation here.","Wyślemy potwierdzenie Twojego zamówienia tutaj.",module,Magento_Checkout
 Payment,Płatność,module,Magento_Checkout
@@ -3360,7 +3360,7 @@ Download,Pobierz,module,Magento_Customer
 "Account Information","Dane konta",module,Magento_Customer
 "You saved the account information.","Dane konta zostały zapisane.",module,Magento_Customer
 "The account is locked. Please wait and try again or contact %1.","Konto zostało zablokowane. Proszę czekać i spróbować ponownie lub skontaktować się z %1.",module,Magento_Customer
-"Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","Potwierdzone hasło nie jest identyczne z wprowadzonym.",module,Magento_Customer
 "The password doesn't match this account.","Hasło nie pasuje do tego konta.",module,Magento_Customer
 "Please correct the email address.","Proszę poprawić adres e-mail.",module,Magento_Customer
 "We're unable to send the password reset email.","Jesteśmy w stanie wysłać e-maila resetowania hasła.",module,Magento_Customer
@@ -3446,7 +3446,7 @@ Global,Globalny,module,Magento_Customer
 "Please enter a valid password reset token.","Proszę podać prawidłowe hasło Resetowanie tokena.",module,Magento_Customer
 "The password can not begin or end with a space.","Hasło nie można rozpocząć lub kończyć się spacją.",module,Magento_Customer
 Admin,Administrator,module,Magento_Customer
-"ALL GROUPS","ALL GROUPS",module,Magento_Customer
+"ALL GROUPS","WSZYSTKIE GRUPY",module,Magento_Customer
 "No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","No such entity with %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
 "Attribute object is undefined","Obiekt cechy jest niezdefiniowany",module,Magento_Customer
 """%1"" invalid type entered.","""%1"" wpisany nieprawidłowy typ.",module,Magento_Customer
@@ -3948,7 +3948,7 @@ Email,E-mail,module,Magento_CustomerCustomAttributes
 "Current Password","Bieżące hasło",module,Magento_CustomerCustomAttributes
 "New Password","Nowe hasło",module,Magento_CustomerCustomAttributes
 "Password Strength","Password Strength",module,Magento_CustomerCustomAttributes
-"No Password","No Password",module,Magento_CustomerCustomAttributes
+"No Password","Bez hasła",module,Magento_CustomerCustomAttributes
 "Confirm New Password","Potwierdź nowe hasło",module,Magento_CustomerCustomAttributes
 "Personal Information","Dane osobiste",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Zapisz się, aby otrzymywać newsletter",module,Magento_CustomerCustomAttributes
@@ -11095,8 +11095,8 @@ Minute,Minuta,module,Magento_Theme
 "%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","Welcome to %store_name.",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Theme
-Email:,Email:,module,Magento_Theme
-Password:,Password:,module,Magento_Theme
+Email:,E-mail:,module,Magento_Theme
+Password:,Hasło:,module,Magento_Theme
 "Password you set when creating account","Password you set when creating account",module,Magento_Theme
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Theme
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Theme
@@ -11149,8 +11149,8 @@ Store,Sklep,module,Magento_Theme
 "Store View","Widok sklepu",module,Magento_Theme
 "Skip to Content","Przejdź do treści",module,Magento_Theme
 Menu,Menu,module,Magento_Theme
-Account,Account,module,Magento_Theme
-Settings,Settings,module,Magento_Theme
+Account,Konto,module,Magento_Theme
+Settings,Ustawienia,module,Magento_Theme
 "2 columns with left bar","2 kolumny z lewym paskiem",module,Magento_Theme
 "2 columns with right bar","2 kolumny z prawym paskiem",module,Magento_Theme
 "3 columns","3 kolumny",module,Magento_Theme
