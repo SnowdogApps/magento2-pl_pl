@@ -1162,7 +1162,7 @@ Cancel,Anuluj,module,Magento_Bundle
 "Add Option","Dodaj opcję",module,Magento_Bundle
 "New Option","Nowa opcja",module,Magento_Bundle
 "Option Title","Tytuł opcji",module,Magento_Bundle
-"Default Title","Default Title",module,Magento_Bundle
+"Default Title","Domyślny tytuł",module,Magento_Bundle
 "Store View Title","Tytuł widoku sklepu",module,Magento_Bundle
 "Input Type","Typ pola",module,Magento_Bundle
 Drop-down,"Lista rozwijana",module,Magento_Bundle
@@ -1975,7 +1975,7 @@ Small,Mały,module,Magento_Catalog
 "Attribute Properties","Attribute Properties",module,Magento_Catalog
 "Attribute Label","Etykieta cechy",module,Magento_Catalog
 "Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
-Values,Values,module,Magento_Catalog
+Values,Wartości,module,Magento_Catalog
 "Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid.",module,Magento_Catalog
 "Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
 System,System,module,Magento_Catalog
@@ -2286,7 +2286,7 @@ Yes,Tak,module,Magento_CatalogRuleStaging
 No,Nie,module,Magento_CatalogRuleStaging
 "Save as a New Update","Save as a New Update",module,Magento_CatalogRuleStaging
 "Move to Another Campaign","Move to Another Campaign",module,Magento_CatalogRuleStaging
-"Delete the Update","Delete the Update",module,Magento_CatalogRuleStaging
+"Delete the Update","Usuń aktualizację",module,Magento_CatalogRuleStaging
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
 20,20,module,Magento_CatalogRuleStaging
 30,30,module,Magento_CatalogRuleStaging
@@ -5840,7 +5840,7 @@ OAuth,OAuth,module,Magento_Integration
 Status,Status,module,Magento_Integration
 Invitations,"Tekst zaproszenia do skomentowania",module,Magento_Invitation
 "Add Invitations","Dodać zaproszenie",module,Magento_Invitation
-"New Invitations","Nowe zaproszenie",module,Magento_Invitation
+"New Invitations","Nowe zaproszenia",module,Magento_Invitation
 "Invitations Information","Informacje o zaproszeniu",module,Magento_Invitation
 "Enter Each Email on New Line","Wprowadź każdy e-mail w nowej linii",module,Magento_Invitation
 Message,Wiadomość,module,Magento_Invitation
@@ -6676,7 +6676,7 @@ None,Brak,module,Magento_OfflineShipping
 "Please correct Region/State ""%1"" in the Row #%2.","Proszę poprawić region/województwo ""%1"" w wierszu #%2.",module,Magento_OfflineShipping
 "Please correct %1 ""%2"" in the Row #%3.","Proszę poprawić %1 ""%2"" w wierszu #%3.",module,Magento_OfflineShipping
 "Please correct Shipping Price ""%1"" in the Row #%2.","Proszę poprawić cenę wysyłki ""%1"" w wierszu #%2.",module,Magento_OfflineShipping
-"Duplicate Row #%1 (duplicates row #%2)","Duplicate Row #%1 (duplicates row #%2)",module,Magento_OfflineShipping
+"Duplicate Row #%1 (duplicates row #%2)","Wiersz #%1 jest duplikatem (powtarza wiersz #%2)",module,Magento_OfflineShipping
 "Please correct Table Rates File Format.","Proszę poprawić format pliku tabeli cen.",module,Magento_OfflineShipping
 No,Nie,module,Magento_OfflineShipping
 "For matching items only","Dla produktów spełniających kryteria",module,Magento_OfflineShipping
@@ -7579,7 +7579,7 @@ Carts,Koszyki,module,Magento_Quote
 "Manage carts","Zarządzaj koszykami",module,Magento_Quote
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Powiązane reguły automatycznego przypomnienia: %1. Usunięcie pozycji spowoduje usunięcie tych powiązań.",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Edytuj zasady automatycznego przypominania reguł marketingowych email",module,Magento_Reminder
-"Add New Rule","Dodaj regułę",module,Magento_Reminder
+"Add New Rule","Dodaj nową regułę",module,Magento_Reminder
 "Are you sure you want to match this rule now?","Czy na pewno chcesz dopasować tę regułę?",module,Magento_Reminder
 "No more than %1 customers may receive the reminder email after this action.","Liczba klientów, która może otrzymać e-mail z przypomnieniem po tej akcji: %1.",module,Magento_Reminder
 "Run Now","Uruchom teraz",module,Magento_Reminder
@@ -9298,7 +9298,7 @@ Search,Szukaj,module,Magento_Sales
 "Invoice for your %store_name order","Invoice for your %store_name order",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","Twoja #%invoice_id faktura dla zamówienia #%order_id",module,Magento_Sales
 "Update to your %store_name invoice","Update to your %store_name invoice",module,Magento_Sales
-"Your %store_name order confirmation","Your %store_name order confirmation",module,Magento_Sales
+"Your %store_name order confirmation","Potwierdzenie zamówienia w sklepie %store_name",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Kiedy twoja paczka będzie już w drodze wyślemy tobie numer do śledzenia transportu.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie <span class=""no-link""> #%increment_id</span>",module,Magento_Sales
@@ -10287,7 +10287,7 @@ Action,Operacja,module,Magento_Sitemap
 "Partial commit mode affects time of indexation, but allows indexed products to be visible on Storefront before indexation is completed.","Uwaga: Tryb przyrostowego zatwierdzania wpływa na czas indeksowania, ale pozwala indeksować produkty, które mają być widoczne w widoku sklepu przed zakończeniem indeksacji.",module,Magento_Solr
 "Test Connection","Przetestuj połączenie",module,Magento_Solr
 Cancel,Anuluj,module,Magento_Staging
-"Preview Update","Preview Update",module,Magento_Staging
+"Preview Update","Podgląd aktualizacji",module,Magento_Staging
 Done,Zrobione,module,Magento_Staging
 "Remove this update","Remove this update",module,Magento_Staging
 Save,Zapisz,module,Magento_Staging
@@ -10968,7 +10968,7 @@ CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
 Back,Powrót,module,Magento_Theme
 "Save and Continue","Zapisz i kontynuuj",module,Magento_Theme
-"Save Configuration","Save Configuration",module,Magento_Theme
+"Save Configuration","Zapisz konfigurację",module,Magento_Theme
 %1,%1,module,Magento_Theme
 Default,Domyślny,module,Magento_Theme
 Themes,Motywy,module,Magento_Theme
