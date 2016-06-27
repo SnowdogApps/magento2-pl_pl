@@ -950,7 +950,7 @@ Credit,Credit,module,Magento_Braintree
 "Card Verification Number","Numer weryfikacyjny karty",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_Braintree
 ending,ending,module,Magento_Braintree
-expires,expires,module,Magento_Braintree
+expires,wygasa,module,Magento_Braintree
 "Credit Card Information","Informacje karty kredytowej",module,Magento_Braintree
 "What is this?","Co to jest?",module,Magento_Braintree
 "Save for later use.","Save for later use.",module,Magento_Braintree
@@ -10435,7 +10435,7 @@ Support,"Wsparcie techniczne",module,Magento_Support
 "An error occurred during mass deletion of system reports. Please review log and try again.","Wystąpił błąd podczas masowego usuwania raportów systemu. Przejrzyj logi i spróbuj ponownie.",module,Magento_Support
 "Utility %1 not found","Narzędzie %1 nie znaleziono",module,Magento_Support
 "Unknown utility: %1","Nieznane narzędzie: %1",module,Magento_Support
-"Cannot set root directory.","Cannot set root directory.",module,Magento_Support
+"Cannot set root directory.","Nie można ustawić katalogu głównego.",module,Magento_Support
 "Support Module doesn't support %s operation system","Moduł nie wspiera systemu operacyjnego %s",module,Magento_Support
 "Unable to create backup due to php exec function is disabled","Nie można utworzyć kopii zapasowej z php exec funkcja jest wyłączona",module,Magento_Support
 Incomplete,Niekompletne,module,Magento_Support
