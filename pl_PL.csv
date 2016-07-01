@@ -136,7 +136,7 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "The file is empty.","Plik jest pusty.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Nie podano żadnego SKU produktu. <a href=""%1"">Przejdź tutaj</a>, aby dodać produkt(y) po SKU.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","Nie podałeś SKU produktu.",module,Magento_AdvancedCheckout
-"We can't add a product to cart by id ""%1"".","We can't add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","Nie udało się dodać do koszyka produktu o ID „%1”.",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Wystąpił problem podczas zmiany kolejności tego produktu.",module,Magento_AdvancedCheckout
 "We can't find this wish list.","Nie udało się odnaleźć tej listy życzeń.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","Produkty dodane do koszyka: %1.",module,Magento_AdvancedCheckout
@@ -2741,7 +2741,7 @@ Pages,Strony,module,Magento_Cms
 "We can't upload the file right now.","Nie możemy teraz wgrać pliku.",module,Magento_Cms
 "We can't delete root directory %1 right now.","Nie możemy teraz usunąć głównego katalogu %1.",module,Magento_Cms
 "Directory %1 is not under storage root path.","Katalog %1 jest w ścieżce katalogu głównego magazynu.",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","Polityka prywatności i pliki cookie",module,Magento_Cms
 LocalizedException,LocalizedException,module,Magento_Cms
 RuntimeException,RuntimeException,module,Magento_Cms
 Exception,Wyjątek,module,Magento_Cms
@@ -12340,10 +12340,10 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Umieszczony na <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Twoje zamówienie w sklepie %store_name zostało wysłane",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
+"Account Dashboard","Panel konta",theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
