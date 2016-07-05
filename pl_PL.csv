@@ -1557,7 +1557,7 @@ Center,Środek,module,Magento_Catalog
 "Unsupported product type ""%1"".","Typ produktu ""%1"" nie jest wspierany.",module,Magento_Catalog
 "Please correct the category.","Proszę poprawić kategorię.",module,Magento_Catalog
 "Must be category model instance or its id.","Musi być instancją modelu kategorii lub jej identyfikatorem.",module,Magento_Catalog
-"The attribute model is not defined.","Model trybutu jest niezdefiniowany.",module,Magento_Catalog
+"The attribute model is not defined.","Model atrybutu jest niezdefiniowany.",module,Magento_Catalog
 Category,Kategoria,module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
 "%1 was not found in algorithms","%1 nie został znaleziony w algorytmach",module,Magento_Catalog
