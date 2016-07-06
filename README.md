@@ -4,9 +4,12 @@ Repozytorium zawiera gotowy komponent z językiem polskim dla Magento 2.
 
 Tłumaczenia są automatycznie synchronizowane ze zmianami dokonanymi w serwisie Crowdin co 15 minut.
 
-## Instalacja
+## Instalacja i aktualizacja
 
-### Przez composera
+### U użyciem composera (zalecane)
+
+#### Instalacja
+
 * jeżeli chcemy trzymać się tylko oficjalnych wydań pakietu (do użycia w działającym sklepie)
 ```
 $ composer require snowdog/language-pl_pl
@@ -18,6 +21,13 @@ $ composer require snowdog/language-pl_pl dev-develop
 
 Na koniec instalujemy treści statyczne z pobranym przed chwilą pakietem i czyścimy pamięci podręczne sklepu:
 ```
+$ php bin/magento setup:static-content:deploy pl_PL
+$ php bin/magento cache:flush
+```
+
+#### Aktualizacja
+```
+$ composer update snowdog/language-pl_pl
 $ php bin/magento setup:static-content:deploy pl_PL
 $ php bin/magento cache:flush
 ```
