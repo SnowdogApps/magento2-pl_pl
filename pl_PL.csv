@@ -1472,7 +1472,7 @@ Catalog,Katalog,module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Cecha o podanym kodzie (%1) już istnieje.",module,Magento_Catalog
 "You duplicated the product.","Zduplikowałeś produkt.",module,Magento_Catalog
 "This product doesn't exist.","Produkt nie istnieje.",module,Magento_Catalog
-"Invalid product id. Should be numeric value greater than 0","Invalid product id. Should be numeric value greater than 0",module,Magento_Catalog
+"Invalid product id. Should be numeric value greater than 0","Nieprawidłowe ID produktu. Prawidłowa wartość to liczba, większa od zera",module,Magento_Catalog
 Products,Produkty,module,Magento_Catalog
 "A group with the same name already exists.","Grupa o takiej samej nazwie już istnieje",module,Magento_Catalog
 "Something went wrong while saving this group.","Grupa nie została zapisana z powodu błędu.",module,Magento_Catalog
@@ -1508,7 +1508,7 @@ All,Wszystko,module,Magento_Catalog
 "Sorry, but we can't find the new parent category you selected.","Przepraszam, ale nie możemy znaleźć nowych kategorii nadrzędnych.",module,Magento_Catalog
 "Sorry, but we can't find the new category you selected.","Przepraszam, ale nie możemy znaleźć nowych kategorii.",module,Magento_Catalog
 "We can't move the category because the parent category name matches the child category name.","Nie można przenieść kategorii ponieważ nazwa nadrzędnej kategorii jest taka sama jak nazwa kategorii podrzędnej.",module,Magento_Catalog
-"Something went wrong while getting the image url.","Something went wrong while getting the image url.",module,Magento_Catalog
+"Something went wrong while getting the image url.","Coś poszło nie tak podczas pobierania adresu zdjęcia.",module,Magento_Catalog
 "Can't delete root category.","Nie można usunąć kategorii głównej.",module,Magento_Catalog
 "The value of attribute ""%1"" must be unique.","Wartość cechy ""%1"" musi być unikatowa.",module,Magento_Catalog
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Domyślne sortowanie nie istnieje w dostepnych opcjach sortowania.",module,Magento_Catalog
@@ -1567,8 +1567,8 @@ Category,Kategoria,module,Magento_Catalog
 "Clear Price","Wyczyść cenę",module,Magento_Catalog
 "%1 and above","%1 i więcej",module,Magento_Catalog
 "The filters must be an array.","Filtry muszą być tablicą.",module,Magento_Catalog
-"Product was not registered","Product was not registered",module,Magento_Catalog
-"Store was not registered","Store was not registered",module,Magento_Catalog
+"Product was not registered","Produkt nie został zarejestrowany",module,Magento_Catalog
+"Store was not registered","Sklep nie został zarejestrowany",module,Magento_Catalog
 "Group price must be a number greater than 0.","Cena grupowa musi być liczbą większą niż 0.",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","Konwerter mediów galerii powinien być instancją EntryConverterInterface.",module,Magento_Catalog
 "There is no MediaGalleryEntryConverter for given type","Nie ma MediaGalleryEntryConverter dla danego typu",module,Magento_Catalog
@@ -1679,7 +1679,7 @@ Select...,Wybierz...,module,Magento_Catalog
 To,Do,module,Magento_Catalog
 Done,Zrobione,module,Magento_Catalog
 "Add Selected","Dodaj wybrane",module,Magento_Catalog
-"Select Attribute","Select Attribute",module,Magento_Catalog
+"Select Attribute","Wybierz cechę",module,Magento_Catalog
 "Create New Attribute","Utwórz nową cechę",module,Magento_Catalog
 "Customizable Options","Indywidualne opcje",module,Magento_Catalog
 "Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
@@ -1972,7 +1972,7 @@ Image,Obraz,module,Magento_Catalog
 "Example format: 200x300.","Przykład format: 200 x 300.",module,Magento_Catalog
 "Image Position","Położenie obrazu",module,Magento_Catalog
 Small,Mały,module,Magento_Catalog
-"Attribute Properties","Attribute Properties",module,Magento_Catalog
+"Attribute Properties","Właściwości cechy",module,Magento_Catalog
 "Attribute Label","Etykieta cechy",module,Magento_Catalog
 "Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
 Values,Wartości,module,Magento_Catalog
