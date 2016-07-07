@@ -165,7 +165,7 @@ Subtotal:,"Suma częściowa:",module,Magento_AdvancedCheckout
 "Please select","Proszę wybrać",module,Magento_AdvancedCheckout
 "Move to Wish List","Dodaj do listy życzeń",module,Magento_AdvancedCheckout
 "No item specified.","Nie wybrano produktu.",module,Magento_AdvancedCheckout
-"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_AdvancedCheckout
 "SKU number",SKU,module,Magento_AdvancedCheckout
 "Upload File","Załaduj plik",module,Magento_AdvancedCheckout
 "Your csv file must include ""sku"" and ""qty"" columns.","Plik csv musi zawierać kolumny ""sku"" oraz ""qty"".",module,Magento_AdvancedCheckout
@@ -3520,7 +3520,7 @@ Edit,Zmień,module,Magento_Customer
 Visitor,Odwiedzający,module,Magento_Customer
 Customer,Klient,module,Magento_Customer
 "No item specified.","Nie wybrano produktu.",module,Magento_Customer
-"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Customer
+"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_Customer
 "Personal Information","Dane osobiste",module,Magento_Customer
 "Last Logged In:","Ostatnio zalogowano:",module,Magento_Customer
 "Last Logged In (%1):","Ostatnio zalogowano w (%1):",module,Magento_Customer
@@ -3750,7 +3750,7 @@ Type,Rodzaj,module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Wyłącz automatyczne zmiany grup w oparciu o VAT ID",module,Magento_Customer
 "Send Welcome Email From","Wyślij wiadomość powitalną z tego emaila",module,Magento_Customer
 Addresses,"Książka adresowa",module,Magento_Customer
-"Are you sure you want to delete this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Customer
+"Are you sure you want to delete this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_Customer
 "Account Dashboard","Panel konta",module,Magento_Customer
 "Edit Account Information","Edytuj informacje o koncie",module,Magento_Customer
 "Password forgotten","Zapomniane hasło",module,Magento_Customer
@@ -10973,7 +10973,7 @@ Back,Powrót,module,Magento_Theme
 Default,Domyślny,module,Magento_Theme
 Themes,Motywy,module,Magento_Theme
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Theme
-"Are you sure you want to delete this theme?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Theme
+"Are you sure you want to delete this theme?","Czy na pewno chcesz usunąć ten motyw?",module,Magento_Theme
 "Theme: %1","Temat: %1",module,Magento_Theme
 "New Theme","Nowy temat",module,Magento_Theme
 "Theme CSS","Temat CSS",module,Magento_Theme
@@ -12169,7 +12169,7 @@ error-message,"komunikat o błędzie",module,Magento_Wishlist
 LocalizedException,LocalizedException,module,Magento_Wishlist
 "Product Exception.","Błąd produktu.",module,Magento_Wishlist
 "Localized Exception.","Zlokalizowanie wyjątku.",module,Magento_Wishlist
-"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Wishlist
+"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_Wishlist
 "Share Wish List","Podziel się listą życzeń",module,Magento_Wishlist
 "Add All to Cart","Dodaj wszystko do koszyka",module,Magento_Wishlist
 "Update Wish List","Aktualizacja listy życzeń",module,Magento_Wishlist
