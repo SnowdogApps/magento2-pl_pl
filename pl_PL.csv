@@ -11199,7 +11199,7 @@ Off,Wyłączone,module,Magento_Ui
 "Go to Details Page","Przejdź do strony szczegółów",module,Magento_Ui
 "New View","Nowy widok",module,Magento_Ui
 "Default View","Widok domyślny",module,Magento_Ui
-"${ $.visible } out of ${ $.total } visible","{ $.visible } $ ze ${ $.total } widoczne",module,Magento_Ui
+"${ $.visible } out of ${ $.total } visible","Włączone: ${ $.visible } / ${ $.total }",module,Magento_Ui
 "You have successfully saved your edits.","Zmiany zostały pomyślnie zapisane.",module,Magento_Ui
 "You haven't selected any items!","You haven't selected any items!",module,Magento_Ui
 "Search by keyword","Szukaj wg słów kluczowych",module,Magento_Ui
