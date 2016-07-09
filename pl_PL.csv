@@ -17,14 +17,14 @@ None,Brak,module,Magento_AdminGws
 "You need more permissions to save this setting.","Potrzebujesz więcej uprawnień, aby zapisać to ustawienie.",module,Magento_AdminGws
 "Role Scopes","Zakresy ról",module,Magento_AdminGws
 Custom,Niestandardowe,module,Magento_AdminGws
-"Read Details","Czytaj szczegóły",module,Magento_AdminNotification
+"Read Details","Przeczytaj szczegóły",module,Magento_AdminNotification
 "Mark as Read","Oznacz jako przeczytane",module,Magento_AdminNotification
 "Are you sure?","Czy na pewno tego chcesz?",module,Magento_AdminNotification
 Remove,Usuń,module,Magento_AdminNotification
 "Messages Inbox","Skrzynka odbiorcza",module,Magento_AdminNotification
 "You have %1 new system messages","Masz nowe wiadomości systemowe: %1",module,Magento_AdminNotification
 "You have %1 new system message","Masz %1 nową wiadomość systemową",module,Magento_AdminNotification
-"Incoming Message","Przychodząca wiadomość",module,Magento_AdminNotification
+"Incoming Message","Nowa wiadomość",module,Magento_AdminNotification
 close,zamknij,module,Magento_AdminNotification
 Notifications,Powiadomienia,module,Magento_AdminNotification
 "The message has been marked as Read.","Wiadomość została oznaczona jako przeczytana.",module,Magento_AdminNotification
@@ -314,7 +314,7 @@ Invalidated,Unieważniony,module,Magento_Backend
 Orders,Zamówienia,module,Magento_Backend
 Amounts,Ilości,module,Magento_Backend
 Bestsellers,Bestsellery,module,Magento_Backend
-"Most Viewed Products","Najczęściej oglądane produkty",module,Magento_Backend
+"Most Viewed Products","Najczęściej oglądane",module,Magento_Backend
 "New Customers","Nowi klienci",module,Magento_Backend
 Customers,Klienci,module,Magento_Backend
 Customer,Klient,module,Magento_Backend
@@ -1286,21 +1286,21 @@ label,etykieta,module,Magento_Catalog
 "Add New Attribute","Dodaj cechę",module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
 "Save Attribute","Zapisz cechę",module,Magento_Catalog
-"Save in New Attribute Set","Zapisz nowy zestaw atrybutów",module,Magento_Catalog
+"Save in New Attribute Set","Zapisz w nowym zestawie cech",module,Magento_Catalog
 "Enter Name for New Attribute Set","Wprowadź nazwę dla nowego zestawu atrybutów",module,Magento_Catalog
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Catalog
 "Delete Attribute","Usuń cechę",module,Magento_Catalog
 "Edit Product Attribute ""%1""","Edytuj cechę produktu ""%1""",module,Magento_Catalog
 "New Product Attribute","Nowa cecha produktu",module,Magento_Catalog
-"Advanced Attribute Properties","Zaawansowane właściwości atrybutu",module,Magento_Catalog
+"Advanced Attribute Properties","Zaawansowane właściwości cechy",module,Magento_Catalog
 "Attribute Code","Kod cechy",module,Magento_Catalog
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Ta wartość jest używana wewnętrznie. Upewnij się, że nie ma spacji lub więcej niż %1 symboli.",module,Magento_Catalog
 "Default Value","Domyślna wartość",module,Magento_Catalog
 "Unique Value","Unikalna wartość",module,Magento_Catalog
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Catalog
 "Not shared with other products.","Nie dzielone z innymi produktami.",module,Magento_Catalog
-"Input Validation for Store Owner","Sprawdzanie poprawności danych dla właściciela sklepu",module,Magento_Catalog
-"Add to Column Options","Dodaj opcję do kolumny",module,Magento_Catalog
+"Input Validation for Store Owner","Sprawdzanie poprawności danych",module,Magento_Catalog
+"Add to Column Options","Dodaj jako kolumnę",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Wybierz ""Tak"" żeby dodać ten atrybut do listy opcji kolumny w siatce produktu.",module,Magento_Catalog
 "Use in Filter Options","Użyj w opcjach filtrowania",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Wybierz ""Tak"", aby dodać ten atrybut do listy opcji filtru w siatce produktu.",module,Magento_Catalog
@@ -1309,17 +1309,17 @@ Website,Witryna,module,Magento_Catalog
 Global,Globalny,module,Magento_Catalog
 Scope,Zakres,module,Magento_Catalog
 "Declare attribute value saving scope.","Zadeklaruj zakres zapisywania wartości cechy.",module,Magento_Catalog
-"Storefront Properties","Właściwości sklepu",module,Magento_Catalog
+"Storefront Properties","Właściwości w sklepie",module,Magento_Catalog
 "Use in Search","Użyj do wyszukiwania",module,Magento_Catalog
 "Visible in Advanced Search","Widoczny w zaawansowanym wyszukiwaniu",module,Magento_Catalog
-"Comparable on Storefront",Porównywalny,module,Magento_Catalog
-"Use for Promo Rule Conditions","Używaj w warunkach reguł promocyjnych",module,Magento_Catalog
+"Comparable on Storefront","Dostępny do porównania",module,Magento_Catalog
+"Use for Promo Rule Conditions","Dostępny w warunkach reguł promocyjnych",module,Magento_Catalog
 "Enable WYSIWYG","Włącz WYSIWYG",module,Magento_Catalog
-"Allow HTML Tags on Storefront","Zezwól na znaczniki HTML",module,Magento_Catalog
+"Allow HTML Tags on Storefront","Dozwolone znaczniki HTML",module,Magento_Catalog
 "Visible on Catalog Pages on Storefront","Widoczny w widoku produktu",module,Magento_Catalog
-"Used in Product Listing","Użyte w listach produktów",module,Magento_Catalog
+"Used in Product Listing","Dostępny na liście produktów",module,Magento_Catalog
 "Depends on design theme.","Zależy od wyglądu motywu.",module,Magento_Catalog
-"Used for Sorting in Product Listing","Użyte dla sortowania produktów na listach",module,Magento_Catalog
+"Used for Sorting in Product Listing","Dostępny do sortowania na liście produktów",module,Magento_Catalog
 "Media Image","Obrazek mediów",module,Magento_Catalog
 Gallery,Galeria,module,Magento_Catalog
 "System Properties","Właściwości systemowe",module,Magento_Catalog
@@ -1700,21 +1700,21 @@ Required,Wymagane,module,Magento_Catalog
 "This item has weight","Ta pozycja ma przypisaną wagę",module,Magento_Catalog
 "This item has no weight","Ta pozycja nie ma przypisanej wagi",module,Magento_Catalog
 "Set Product as New From","Ustaw produkt jako Nowy z",module,Magento_Catalog
-"Related Products, Up-Sells, and Cross-Sells","Powiązae produkty, Up-Sells i Cross- Sells",module,Magento_Catalog
-"Related products are shown to customers in addition to the item the customer is looking at.","Related products are shown to customers in addition to the item the customer is looking at.",module,Magento_Catalog
-"Add Related Products","Dodaj produkty powiązane",module,Magento_Catalog
-"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Up-sell towaru jest oferowany klientowi droższy lub wyższej jakości alternatywa dla produktu, który klient patrzy.",module,Magento_Catalog
-"Add Up-Sell Products","Dodaj produkty Up-Sell",module,Magento_Catalog
+"Related Products, Up-Sells, and Cross-Sells","Produkty powiązane",module,Magento_Catalog
+"Related products are shown to customers in addition to the item the customer is looking at.","Powiązane produkty są pokazywane klientom jako dodatek do oglądanych przez nich produktów.",module,Magento_Catalog
+"Add Related Products","Dodaj produkty",module,Magento_Catalog
+"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Produkty typu „up-sell” są dla klientów są droższą lub lepszą jakościowo alternatywą dla oglądanych przez nich produktów.",module,Magento_Catalog
+"Add Up-Sell Products","Dodaj produkty",module,Magento_Catalog
 "Up-Sell Products","Produkty Up-Sell",module,Magento_Catalog
-"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Te produkty ""impuls-kupno"" pojawiają się obok koszyka jako elementy sprzedaży krzyżowych do produktów już znajdujących się w koszyku.",module,Magento_Catalog
-"Add Cross-Sell Products","Dodaj produkty Cross-Sell",module,Magento_Catalog
+"These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Produkty typu „cross-sell” pojawiają się w koszyku jako dodatki zwiększające wielkość zamówienia.",module,Magento_Catalog
+"Add Cross-Sell Products","Dodaj produkty",module,Magento_Catalog
 "Cross-Sell Products","Produkty Cross-sell",module,Magento_Catalog
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_Catalog
 Remove,Usuń,module,Magento_Catalog
 Thumbnail,Miniatura,module,Magento_Catalog
 Actions,Operacje,module,Magento_Catalog
 "Schedule Update From","Ustaw aktualizację od",module,Magento_Catalog
-"Product in Websites","Produkt dostępny w witrynach",module,Magento_Catalog
+"Product in Websites","Dostępność w witrynach",module,Magento_Catalog
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakres do zastosowania dla określonego widoku.",module,Magento_Catalog
 name,nazwa,module,Magento_Catalog
 "Copy Data from","Kopiowanie danych z",module,Magento_Catalog
@@ -1724,7 +1724,7 @@ name,nazwa,module,Magento_Catalog
 "Expand All","Rozwiń wszystko",module,Magento_Catalog
 "Please confirm site switching. All data that hasn't been saved will be lost.","Potwierdź zmianę poziomu. Wszystkie niezapisane dane zostaną utracone.",module,Magento_Catalog
 "Use Default Value","Użyj wartości domyślnej",module,Magento_Catalog
-"Manage Titles (Size, Color, etc.)","Zarządzaj tytułami (rozmiar, kolor itp.)",module,Magento_Catalog
+"Manage Titles (Size, Color, etc.)","Zarządzaj etykietami (Rozmiar, Kolor itp.)",module,Magento_Catalog
 "Manage Options (Values of Your Attribute)","Zarządzaj opcjami (wartościami cechy)",module,Magento_Catalog
 "Is Default","Jest domyślny",module,Magento_Catalog
 "Sort Option","Opcja sortowania",module,Magento_Catalog
@@ -1774,7 +1774,7 @@ Backorders,Rezerwacje,module,Magento_Catalog
 Action,Operacja,module,Magento_Catalog
 "and above","i powyżej",module,Magento_Catalog
 "Delete Tier","Usuń poziom",module,Magento_Catalog
-"Product In Websites","Produkt dostępny w witrynach",module,Magento_Catalog
+"Product In Websites","Dostępność w witrynach",module,Magento_Catalog
 "(Copy data from: %1)","(Kopiuj dane z: %1)",module,Magento_Catalog
 "Browse to find or drag image here","Przeglądaj, aby znaleźć lub przeciągnij zdjęcie tutaj",module,Magento_Catalog
 "Delete image","Usuń obraz",module,Magento_Catalog
@@ -3015,10 +3015,10 @@ Confirm,Potwierdź,module,Magento_ConfigurableProduct
 Done,Zrobione,module,Magento_ConfigurableProduct
 "Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Na lepsze wyniki dodaj atrybuty i wartości atrybutu do swoich produktów.",module,Magento_ConfigurableProduct
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Produkty konfigurowalne pozwalają klientom na wybranie produktu w określonej konfiguracji (np. konkretnego koloru koszulki). Każda konfiguracja (np. każdy kolor koszulki) wymaga stworzenia odrębnego produktu prostego.",module,Magento_ConfigurableProduct
 "Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",module,Magento_ConfigurableProduct
 "Add Products Manually","Dodaj produkty ręcznie",module,Magento_ConfigurableProduct
-"Create Configurations","Tworzenie konfiguracji",module,Magento_ConfigurableProduct
+"Create Configurations","Utwórz konfigurację",module,Magento_ConfigurableProduct
 "Current Variations","Aktualne zmiany",module,Magento_ConfigurableProduct
 Image,Obrazek,module,Magento_ConfigurableProduct
 Name,Nazwa,module,Magento_ConfigurableProduct
@@ -3072,8 +3072,7 @@ Select,Wybierz,module,Magento_ConfigurableProduct
 "Selected Attributes:","Wybrane cechy:",module,Magento_ConfigurableProduct
 "Step 4: Summary","Krok 4: Podsumowanie",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
-            You need to create a simple product for each configuration (Ex: a product for each color).","Konfigurowalne produkty pozwalają klientom wybrać opcje (Np: kolor podkoszulki).
-            Musisz stworzyć produkt podstawowy dla każdej konfiguracji (Np: produkt dla każdego koloru).",module,Magento_ConfigurableProduct
+            You need to create a simple product for each configuration (Ex: a product for each color).","Produkty konfigurowalne pozwalają klientom na wybranie produktu w określonej konfiguracji (np. konkretnego koloru koszulki). Każda konfiguracja (np. każdy kolor koszulki) wymaga stworzenia odrębnego produktu prostego.",module,Magento_ConfigurableProduct
 "Edit Configurations","Edytuj konfigurację",module,Magento_ConfigurableProduct
 "Upload Image","Prześlij obrazek",module,Magento_ConfigurableProduct
 "Upload image","Prześlij obrazek",module,Magento_ConfigurableProduct
@@ -3841,14 +3840,14 @@ None,Brak,module,Magento_CustomerCustomAttributes
 "Input/Output Filter","Filtr wejścia/wyjścia",module,Magento_CustomerCustomAttributes
 "Minimal value","Minimalna wartość",module,Magento_CustomerCustomAttributes
 "Maximum value","Maksymalna wartość",module,Magento_CustomerCustomAttributes
-"Add to Column Options","Dodaj opcję do kolumny",module,Magento_CustomerCustomAttributes
+"Add to Column Options","Dodaj jako kolumnę",module,Magento_CustomerCustomAttributes
 "Select ""Yes"" to add this attribute to the list of column options in the customer grid.","Wybierz ""Tak"" żeby dodać ten atrybut do listy w kolumnie w siatce klienta.",module,Magento_CustomerCustomAttributes
 "Use in Filter Options","Użyj w opcjach filtrowania",module,Magento_CustomerCustomAttributes
 "Select ""Yes"" to add this attribute to the list of filter options in the customer grid.","Wybierz ""Tak"" żeby dodać ten atrybut do listy opcji filtra w siatce klienta.",module,Magento_CustomerCustomAttributes
 "Use in Search Options","Wykorzystanie w opcji wyszukiwania",module,Magento_CustomerCustomAttributes
 "Use in Search Option","Wykorzystanie w opcji wyszukiwania",module,Magento_CustomerCustomAttributes
 "Select ""Yes"" to add this attribute to the list of search options in the customer grid.","Wybierz ""Tak"" żeby dodać ten atrybut do listy opcji wyszukiwalnych w siatce klienta.",module,Magento_CustomerCustomAttributes
-"Storefront Properties","Właściwości sklepu",module,Magento_CustomerCustomAttributes
+"Storefront Properties","Właściwości w sklepie",module,Magento_CustomerCustomAttributes
 "Show on Storefront","Pokaż na witrynie",module,Magento_CustomerCustomAttributes
 "Sort Order","Kolejność sortowania",module,Magento_CustomerCustomAttributes
 "Forms to Use In","Formularze do wykorzystania w",module,Magento_CustomerCustomAttributes
@@ -4470,7 +4469,7 @@ Error,Błąd,module,Magento_DownloadableImportExport
 "Unique Value","Unikalna wartość",module,Magento_Eav
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Eav
 "Not shared with other products.","Nie dzielone z innymi produktami.",module,Magento_Eav
-"Input Validation for Store Owner","Sprawdzanie poprawności danych dla właściciela sklepu",module,Magento_Eav
+"Input Validation for Store Owner","Sprawdzanie poprawności danych",module,Magento_Eav
 Required,Wymagane,module,Magento_Eav
 Yes,Tak,module,Magento_Eav
 No,Nie,module,Magento_Eav
@@ -5695,7 +5694,7 @@ User,Użytkownik,module,Magento_ImportExport
 "Execution Time","Czas wykonania",module,Magento_ImportExport
 Summary,Podsumowanie,module,Magento_ImportExport
 "Indexer Management","Zarządzanie indeksacją",module,Magento_Indexer
-"Update by Schedule","Aktualizacja według harmonogramu",module,Magento_Indexer
+"Update by Schedule","Aktualizuj z harmonogramem",module,Magento_Indexer
 "Update on Save","Aktualizuj przy zapisie",module,Magento_Indexer
 "Reindex required","Wymagane przeindeksowanie",module,Magento_Indexer
 Ready,Gotowe,module,Magento_Indexer
@@ -5707,14 +5706,14 @@ Never,Nigdy,module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indeks(ów) jest w tryby ""Zaplanowanej aktualizacji"".",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","Nie można zmienić trybu indeksowania z powodu błędu.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indeks(ów) jest w trybie ""Aktualizacji po zapisie"".",module,Magento_Indexer
-"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Jeden lub więcej <a href=""%1""> kondensatory są nieprawidłowe</a>. Upewnij się, że twój <a href=""%2"" target=""_blank""> Magento cron</a> jest uruchomiony.",module,Magento_Indexer
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Istnieją <a href=""%1"">nieaktualne indeksy</a>. Upewnij się, że <a href=""%2"" target=""_blank"">cron Magento</a> jest uruchomiony.",module,Magento_Indexer
 "State for the same indexer","Państwo dla tego samego indeksowania",module,Magento_Indexer
 "State for the same view","Państwo ma ten sam widok",module,Magento_Indexer
 "Field '%1' not found","Field '%1' not found",module,Magento_Indexer
 "Some Exception Message","Niektóre wiadomości wyjątku",module,Magento_Indexer
 "Test Phrase","Fraza testowa",module,Magento_Indexer
 "Change indexer mode","Zmień tryb indeksatora",module,Magento_Indexer
-Indexer,Indeksacja,module,Magento_Indexer
+Indexer,Indeks,module,Magento_Indexer
 Description,Opis,module,Magento_Indexer
 Mode,Tryb,module,Magento_Indexer
 Status,Status,module,Magento_Indexer
@@ -8344,7 +8343,7 @@ None,Brak,module,Magento_Rma
 "Maximum Image Width (px)","Maksymalna szerokość obrazu (px)",module,Magento_Rma
 "Maximum Image Height (px)","Maksymalna wysokość obrazu (px)",module,Magento_Rma
 "Input/Output Filter","Filtr wejścia/wyjścia",module,Magento_Rma
-"Storefront Properties","Właściwości sklepu",module,Magento_Rma
+"Storefront Properties","Właściwości w sklepie",module,Magento_Rma
 "Show on Storefront","Pokaż na witrynie",module,Magento_Rma
 "Sort Order","Kolejność sortowania",module,Magento_Rma
 "Forms to Use In","Formularze do wykorzystania w",module,Magento_Rma
@@ -12057,7 +12056,7 @@ Widget,Widget,module,Magento_Widget
 "Custom Layouts","Indywidualny układ",module,Magento_Widget
 "Page Layouts","Układ strony",module,Magento_Widget
 "Please Select Container First","Proszę wybrać kontener",module,Magento_Widget
-"Storefront Properties","Właściwości sklepu",module,Magento_Widget
+"Storefront Properties","Właściwości w sklepie",module,Magento_Widget
 Type,Rodzaj,module,Magento_Widget
 "Design Package/Theme","Pakiet wyglądu/motyw",module,Magento_Widget
 "Widget Title","Tytuł widget'u",module,Magento_Widget
