@@ -1287,7 +1287,7 @@ label,etykieta,module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
 "Save Attribute","Zapisz cechę",module,Magento_Catalog
 "Save in New Attribute Set","Zapisz w nowym zestawie cech",module,Magento_Catalog
-"Enter Name for New Attribute Set","Wprowadź nazwę dla nowego zestawu atrybutów",module,Magento_Catalog
+"Enter Name for New Attribute Set","Wprowadź nazwę dla nowego zestawu cech",module,Magento_Catalog
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Catalog
 "Delete Attribute","Usuń cechę",module,Magento_Catalog
 "Edit Product Attribute ""%1""","Edytuj cechę produktu ""%1""",module,Magento_Catalog
@@ -1299,7 +1299,7 @@ Cancel,Anuluj,module,Magento_Catalog
 "Unique Value","Unikalna wartość",module,Magento_Catalog
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Catalog
 "Not shared with other products.","Nie dzielone z innymi produktami.",module,Magento_Catalog
-"Input Validation for Store Owner","Sprawdzanie poprawności danych",module,Magento_Catalog
+"Input Validation for Store Owner","Sprawdzanie danych",module,Magento_Catalog
 "Add to Column Options","Dodaj jako kolumnę",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Wybierz ""Tak"" żeby dodać ten atrybut do listy opcji kolumny w siatce produktu.",module,Magento_Catalog
 "Use in Filter Options","Użyj w opcjach filtrowania",module,Magento_Catalog
@@ -1703,7 +1703,7 @@ Required,Wymagane,module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Produkty powiązane",module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.","Powiązane produkty są pokazywane klientom jako dodatek do oglądanych przez nich produktów.",module,Magento_Catalog
 "Add Related Products","Dodaj produkty",module,Magento_Catalog
-"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Produkty typu „up-sell” są dla klientów są droższą lub lepszą jakościowo alternatywą dla oglądanych przez nich produktów.",module,Magento_Catalog
+"An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Produkty typu „up-sell” są dla klientów droższą lub lepszą jakościowo alternatywą dla oglądanych przez nich produktów.",module,Magento_Catalog
 "Add Up-Sell Products","Dodaj produkty",module,Magento_Catalog
 "Up-Sell Products","Produkty Up-Sell",module,Magento_Catalog
 "These ""impulse-buy"" products appear next to the shopping cart as cross-sells to the items already in the shopping cart.","Produkty typu „cross-sell” pojawiają się w koszyku jako dodatki zwiększające wielkość zamówienia.",module,Magento_Catalog
@@ -3828,7 +3828,7 @@ Remove,Usuń,module,Magento_CustomerBalance
 "Input Type","Typ pola",module,Magento_CustomerCustomAttributes
 "Lines Count","Liczba linii",module,Magento_CustomerCustomAttributes
 "Valid range 2-20","Prawidłowy zakres 2-20",module,Magento_CustomerCustomAttributes
-"Input Validation","Sprawdzanie poprawności danych wejściowych",module,Magento_CustomerCustomAttributes
+"Input Validation","Sprawdzanie danych wejściowych",module,Magento_CustomerCustomAttributes
 None,Brak,module,Magento_CustomerCustomAttributes
 "Minimum Text Length","Minimalna długość  tekstu",module,Magento_CustomerCustomAttributes
 "Maximum Text Length","Maksymalna długość tekstu",module,Magento_CustomerCustomAttributes
@@ -4469,7 +4469,7 @@ Error,Błąd,module,Magento_DownloadableImportExport
 "Unique Value","Unikalna wartość",module,Magento_Eav
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Eav
 "Not shared with other products.","Nie dzielone z innymi produktami.",module,Magento_Eav
-"Input Validation for Store Owner","Sprawdzanie poprawności danych",module,Magento_Eav
+"Input Validation for Store Owner","Sprawdzanie danych",module,Magento_Eav
 Required,Wymagane,module,Magento_Eav
 Yes,Tak,module,Magento_Eav
 No,Nie,module,Magento_Eav
@@ -5660,7 +5660,7 @@ Status,Status,module,Magento_ImportExport
 "The file you uploaded has no extension.","Plik który wgrałeś nie ma rozszerzenia.",module,Magento_ImportExport
 "The source file moving process failed.","Przesłanie pliku źródłowego nie powiodło się.",module,Magento_ImportExport
 "Begin data validation","Rozpocznij walidację danych",module,Magento_ImportExport
-"Import data validation is complete.","Sprawdzanie poprawności danych importu jest kompletne.",module,Magento_ImportExport
+"Import data validation is complete.","Sprawdzanie danych importu zostało zakończone.",module,Magento_ImportExport
 "The behavior token for %1 is invalid.","Zachowanie tokena dla %1 jest nieprawidłowe.",module,Magento_ImportExport
 "Please enter a correct entity model","Podaj poprawny obiekt modelu",module,Magento_ImportExport
 "Source file coping failed","Nie udało się przenieść źródłowego pliku",module,Magento_ImportExport
@@ -8333,7 +8333,7 @@ View,Zobacz,module,Magento_Rma
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Ta wartość jest używana wewnętrznie. Upewnij się, że nie ma spacji lub więcej niż %1 symboli.",module,Magento_Rma
 "Lines Count","Liczba linii",module,Magento_Rma
 "Valid range 2-20","Prawidłowy zakres 2-20",module,Magento_Rma
-"Input Validation","Sprawdzanie poprawności danych wejściowych",module,Magento_Rma
+"Input Validation","Sprawdzanie danych wejściowych",module,Magento_Rma
 None,Brak,module,Magento_Rma
 "Minimum Text Length","Minimalna długość  tekstu",module,Magento_Rma
 "Maximum Text Length","Maksymalna długość tekstu",module,Magento_Rma
