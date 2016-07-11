@@ -206,7 +206,7 @@ File,Plik,module,Magento_AdvancedCheckout
 "Entity type model '%1' is not found","Nie znaleziono typu modelu '%1'",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model obiektu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Brak rodzajów produktów możliwych do eksportu",module,Magento_AdvancedPricingImportExport
-"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","Klasa %1 nie implementuje \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
 "Sales Rule","Reguły sprzedaży",module,Magento_AdvancedSalesRule
 "Index sales rule","Indeks reguł sprzedaży",module,Magento_AdvancedSalesRule
 "Related Search Terms","Podobne zapytania",module,Magento_AdvancedSearch
@@ -11994,7 +11994,7 @@ Message,Wiadomość,module,Magento_Webapi
 "If empty, UTF-8 will be used.","Jeśli puste, zostanie użyte UTF-8.",module,Magento_Webapi
 "Web Services Configuration","Konfiguracja usług sieci Web",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file","konfiguracji REST oraz SOAP, generowanie pliku WSDL",module,Magento_Webapi
-"Web API Security","Web API Security",module,Magento_WebapiSecurity
+"Web API Security","Zabezpieczenia Web API",module,Magento_WebapiSecurity
 "Allow Anonymous Guest Access","Allow Anonymous Guest Access",module,Magento_WebapiSecurity
 "503 Service Unavailable","503 Usługa niedostępna",module,Magento_WebsiteRestriction
 "200 OK","200 OK",module,Magento_WebsiteRestriction
