@@ -242,7 +242,7 @@ Edit,Zmień,module,Magento_AdvancedSearch
 "Order saving error: %1","Błąd podczas zapisywania zamówienia: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Wybierz metodę płatności.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","W tej chwili nie możemy zrealizować zamówienia. Spróbuj ponownie później.",module,Magento_Authorizenet
-"Unable to place order. Please try again later.","Unable to place order. Please try again later.",module,Magento_Authorizenet
+"Unable to place order. Please try again later.","Nie można złożyć zamówienia. Proszę spróbować ponownie później.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Karta kredytowa: xxxx-%1",module,Magento_Authorizenet
 "amount %1","kwota %1",module,Magento_Authorizenet
 failed.,nieudane.,module,Magento_Authorizenet
