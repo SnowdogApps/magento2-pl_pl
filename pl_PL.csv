@@ -6201,7 +6201,7 @@ Warehouse,Magazyn,module,Magento_MultipleLocationInventory
 "Manage Warehouse","Zarządzaj magazynem",module,Magento_MultipleLocationInventory
 "Please correct the data sent.","Proszę poprawić przesyłane dane.",module,Magento_MultipleLocationInventory
 "Please select a user","Wybierz użytkownika",module,Magento_MultipleLocationInventory
-"Requested warehouse doesn't exist","Requested warehouse doesn't exist",module,Magento_MultipleLocationInventory
+"Requested warehouse doesn't exist","Żądany magazyn nie istnieje",module,Magento_MultipleLocationInventory
 "Test error message","Testowy komunikat o błędzie",module,Magento_MultipleLocationInventory
 Edit,Zmień,module,Magento_MultipleLocationInventory
 "Multiple Location Inventory","Wiele lokalizacji magazynów",module,Magento_MultipleLocationInventory
@@ -10293,7 +10293,7 @@ Save,Zapisz,module,Magento_Staging
 "Schedule New Update","Zaplanuj nową aktualizację",module,Magento_Staging
 "View Specific Date","Zobacz określoną datę",module,Magento_Staging
 "Date & Time","Data i czas",module,Magento_Staging
-"This update not exists.","This update not exists.",module,Magento_Staging
+"This update not exists.","Aktualizacja nie istnieje.",module,Magento_Staging
 "Staging Dashboard","Przejściowy panel",module,Magento_Staging
 "Edit Existing Update","Edit Existing Update",module,Magento_Staging
 "Assign to Another Campaign","Assign to Another Campaign",module,Magento_Staging
