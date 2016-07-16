@@ -910,7 +910,7 @@ Country,Kraj,module,Magento_Braintree
 "Allowed Credit Card Types","Dopuszczone rodzaje kart kredytowych",module,Magento_Braintree
 "Add Rule","Dodaj regułę",module,Magento_Braintree
 "Braintree Settlement Report","Braintree Settlement Report",module,Magento_Braintree
-"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Braintree
+"Sorry, but something went wrong","Przepraszamy, coś poszło nie tak",module,Magento_Braintree
 "We can't initialize checkout.","Nie można zainicjować zamówienia.",module,Magento_Braintree
 "No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_Braintree
 "Braintree error response.","Braintree error response.",module,Magento_Braintree
@@ -941,7 +941,7 @@ Unrecognized,Unrecognized,module,Magento_Braintree
 "Settlement pending","Settlement pending",module,Magento_Braintree
 "Settlement confirmed","Settlement confirmed",module,Magento_Braintree
 Sale,Sprzedaż,module,Magento_Braintree
-Credit,Credit,module,Magento_Braintree
+Credit,Kredyt,module,Magento_Braintree
 "Credit Card Type","Rodzaj karty kredytowej",module,Magento_Braintree
 "Credit Card Number","Numer karty kredytowej",module,Magento_Braintree
 "Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_Braintree
@@ -959,7 +959,7 @@ expires,wygasa,module,Magento_Braintree
 MM,MM,module,Magento_Braintree
 YY,RR,module,Magento_Braintree
 "Please try again with another form of payment.","Proszę spróbować ponownie z inną formę płatności.",module,Magento_Braintree
-"Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_Braintree
+"Sorry, but something went wrong.","Przepraszamy, coś poszło nie tak.",module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
 &nbsp;,&nbsp;,module,Magento_Braintree
 "Enable this Solution","Włącz to rozwiązanie",module,Magento_Braintree
@@ -5511,7 +5511,7 @@ Enable,Włącz,module,Magento_GoogleAnalytics
 "Account Number","Numer konta",module,Magento_GoogleAnalytics
 "Product View Optimization","Optymalizacja widoku produktu",module,Magento_GoogleOptimizer
 "Page View Optimization","Optymalizacja widoku strony",module,Magento_GoogleOptimizer
-"Data key is missing: %1","Data key is missing: %1",module,Magento_GoogleOptimizer
+"Data key is missing: %1","Brakuje klucza danych: %1",module,Magento_GoogleOptimizer
 "Google Analytics Content Experiments Code","Google Analytics zawartości eksperymentów kod",module,Magento_GoogleOptimizer
 "Experiment Code","Kod eksperymentu",module,Magento_GoogleOptimizer
 "Experiment code should be added to the original page only.","Kod eksperymentalny powinien zostać dodany tylko do oryginalnej strony.",module,Magento_GoogleOptimizer
@@ -5769,7 +5769,7 @@ Reauthorize,Autoryzuj,module,Magento_Integration
 "The tokens could not be revoked.","Tokeny nie mogą być odwołane.",module,Magento_Integration
 "Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Przepraszamy coś poszło źle przy przyznawaniu uprawnień. Możesz dowiedzieć się więcej w Dzienniku logów.",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Coś poszło źle podczas usuwania ról oraz uprawnień. Możesz dowiedzieć się więcej w Dzienniku logów.",module,Magento_Integration
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Integration
+"%fieldName is a required field.","%fieldName jest polem wymaganym.",module,Magento_Integration
 "This customer has no tokens.","Ten klient ma nie tokenów.",module,Magento_Integration
 Inactive,Nieaktywny,module,Magento_Integration
 Active,Aktywny,module,Magento_Integration
@@ -10288,7 +10288,7 @@ Action,Operacja,module,Magento_Sitemap
 Cancel,Anuluj,module,Magento_Staging
 "Preview Update","Podgląd aktualizacji",module,Magento_Staging
 Done,Zrobione,module,Magento_Staging
-"Remove this update","Remove this update",module,Magento_Staging
+"Remove this update","Usuń aktualizację",module,Magento_Staging
 Save,Zapisz,module,Magento_Staging
 "Schedule New Update","Zaplanuj nową aktualizację",module,Magento_Staging
 "View Specific Date","Zobacz określoną datę",module,Magento_Staging
@@ -10297,7 +10297,7 @@ Save,Zapisz,module,Magento_Staging
 "Staging Dashboard","Przejściowy panel",module,Magento_Staging
 "Edit Existing Update","Edit Existing Update",module,Magento_Staging
 "Assign to Another Campaign","Assign to Another Campaign",module,Magento_Staging
-"Save as a New Update","Save as a New Update",module,Magento_Staging
+"Save as a New Update","Zapisz jako nową aktaulizację",module,Magento_Staging
 "Assign to Existing Campaign","Assign to Existing Campaign",module,Magento_Staging
 "You removed this %1 from the update and saved it in the other one.","Usunięto ten %1 z aktualizacji i zapisano go w innej.",module,Magento_Staging
 "%1 is required parameter.","%1 is required parameter.",module,Magento_Staging
