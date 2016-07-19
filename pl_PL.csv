@@ -1700,7 +1700,7 @@ Required,Wymagane,module,Magento_Catalog
 "This item has weight","Ta pozycja ma przypisaną wagę",module,Magento_Catalog
 "This item has no weight","Ta pozycja nie ma przypisanej wagi",module,Magento_Catalog
 "Set Product as New From","Ustaw produkt jako Nowy z",module,Magento_Catalog
-"Related Products, Up-Sells, and Cross-Sells","Produkty powiązane",module,Magento_Catalog
+"Related Products, Up-Sells, and Cross-Sells","Produkty powiązane, Up-Sells i Cross- Sells",module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.","Powiązane produkty są pokazywane klientom jako dodatek do oglądanych przez nich produktów.",module,Magento_Catalog
 "Add Related Products","Dodaj produkty",module,Magento_Catalog
 "An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Produkty typu „up-sell” są dla klientów droższą lub lepszą jakościowo alternatywą dla oglądanych przez nich produktów.",module,Magento_Catalog
@@ -5088,25 +5088,25 @@ To,Do,module,Magento_GiftMessage
 Message,Wiadomość,module,Magento_GiftMessage
 Cancel,Anuluj,module,Magento_GiftMessage
 OK,OK,module,Magento_GiftMessage
-"Gift Options","Opcje prezentowe",module,Magento_GiftMessage
+"Gift Options","Opcje podarunkowe",module,Magento_GiftMessage
 "Gift Message","Wiadomość prezentowa",module,Magento_GiftMessage
 "Do you have any gift items in your order?","Czy twoje zamówienie zawiera prezenty?",module,Magento_GiftMessage
 "Add gift options","Dodaj opcje prezentowe",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Pozostaw to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej do całego zamówienia.",module,Magento_GiftMessage
-"Gift Options for Individual Items","Opcje prezentowe dla pojedyńczych produktów",module,Magento_GiftMessage
+"Gift Options for Individual Items","Opcje podarunkowe dla pojedynczych produktów",module,Magento_GiftMessage
 "<span>Item %1</span> of %2","<span>Produkt %1</span> %2",module,Magento_GiftMessage
 "Leave a box blank if you don't want to add a gift message for that item.","Pozostaw to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej dla produktu.",module,Magento_GiftMessage
 "Add Gift Options for the Entire Order","Dodaj opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for this address.","Możesz pozostawić puste pole jeśli nie chcesz dodać wiadomości prezentowej dla tego adresu.",module,Magento_GiftMessage
-"Add gift options for Individual Items","Dodaj opcje prezentowe dla pojedyńczych produktów",module,Magento_GiftMessage
+"Add gift options for Individual Items","Dodaj opcje podarunkowe dla pojedynczych produktów",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for the item.","Możesz pozostawić puste pole jeśli nie chcesz dodać wiadomości prezentowej dla tego produktu.",module,Magento_GiftMessage
 "Gift Message (optional)","wiadomość podarunkowa (opcjonalnie)",module,Magento_GiftMessage
 To:,Do:,module,Magento_GiftMessage
 From:,Z:,module,Magento_GiftMessage
 Message:,Wiadomość:,module,Magento_GiftMessage
 Update,Aktualizuj,module,Magento_GiftMessage
-"Gift options","opcje podarunkowe",module,Magento_GiftMessage
+"Gift options","Opcje podarunkowe",module,Magento_GiftMessage
 Edit,Zmień,module,Magento_GiftMessage
 Delete,Usuń,module,Magento_GiftMessage
 "Allow Gift Messages on Order Level","Zezwól na wiadomość prezentową na poziomie zamówienia",module,Magento_GiftMessage
@@ -5465,7 +5465,7 @@ None,Brak,module,Magento_GiftWrapping
 "Send Gift Receipt","Wyślij pokwitowanie za prezent",module,Magento_GiftWrapping
 "Add Printed Card","Dodawanie karty drukowanej",module,Magento_GiftWrapping
 "Gift Wrapping for the Entire Order","Opakowanie na prezent dla całego zamówienia",module,Magento_GiftWrapping
-"Other Gift Options","Inne opcje prezentów",module,Magento_GiftWrapping
+"Other Gift Options","Inne opcje podarunkowe",module,Magento_GiftWrapping
 "Excl. Tax","Bez podatku",module,Magento_GiftWrapping
 "Incl. Tax","Z podatkiem",module,Magento_GiftWrapping
 "Custom Price","Niestandardowa cena",module,Magento_GiftWrapping
@@ -9201,7 +9201,7 @@ From:,Z:,module,Magento_Sales
 To:,Do:,module,Magento_Sales
 Message:,Wiadomość:,module,Magento_Sales
 "Shipping &amp; Handling","Wysyłka &amp; Pakowanie",module,Magento_Sales
-"Gift Options","Opcje prezentowe",module,Magento_Sales
+"Gift Options","Opcje podarunkowe",module,Magento_Sales
 "Create Shipment","Utwórz dostawę",module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Rodzaj faktury i przesyłki nie pasują do niektórych elementów w tej kolejności. Można utworzyć wysyłkę tylko po utworzeniu faktury.",module,Magento_Sales
 %1,%1,module,Magento_Sales
@@ -9308,7 +9308,7 @@ Search,Szukaj,module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",module,Magento_Sales
 "Update to your %store_name shipment","Update to your %store_name shipment",module,Magento_Sales
-"Gift Options for","Opcje prezentowe dla",module,Magento_Sales
+"Gift Options for","Opcje podarunkowe dla",module,Magento_Sales
 "Add Products","Dodaj produkty",module,Magento_Sales
 "You have item changes","Masz zmiany pozycji",module,Magento_Sales
 Ok,Ok,module,Magento_Sales
