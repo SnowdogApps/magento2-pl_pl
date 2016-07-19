@@ -501,9 +501,9 @@ System,System,module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","Przed modyfikacją kodu widoku sklepu upewnij się, że nie jest on używany w index.php.",module,Magento_Backend
 New,Nowy,module,Magento_Backend
 "You saved the website.","Zapisano witrynę.",module,Magento_Backend
-"An inactive store view cannot be saved as default store view","An inactive store view cannot be saved as default store view",module,Magento_Backend
+"An inactive store view cannot be saved as default store view","Nieaktywny widok sklepu nie możne zostać zapisany jako widok domyślny",module,Magento_Backend
 "You saved the store.","Zapisano sklep.",module,Magento_Backend
-"The default store cannot be disabled","The default store cannot be disabled",module,Magento_Backend
+"The default store cannot be disabled","Domyślny sklep nie może zostać wyłączony",module,Magento_Backend
 "You saved the store view.","Zapisano widok sklepu.",module,Magento_Backend
 "Something went wrong while saving. Please review the error log.","Coś się zepsuło podczas zapisywania. Przejrzyj dziennik błędów.",module,Magento_Backend
 "Last 24 Hours","Ostatnie 24 godziny",module,Magento_Backend
@@ -915,7 +915,7 @@ Country,Kraj,module,Magento_Braintree
 "No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_Braintree
 "Braintree error response.","Braintree error response.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","Payment method nonce can't be retrieved.",module,Magento_Braintree
-"Wrong transaction status","Wrong transaction status",module,Magento_Braintree
+"Wrong transaction status","Błędny status transakcji",module,Magento_Braintree
 Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_Braintree
 "--Please Select--","-- Prosimy wybrać --",module,Magento_Braintree
@@ -926,9 +926,9 @@ Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Credit card","Karta kredytowa",module,Magento_Braintree
 "Apple pay card","Apple pay card",module,Magento_Braintree
 "Android pay card","Android pay card",module,Magento_Braintree
-"Authorization expired","Authorization expired",module,Magento_Braintree
+"Authorization expired","Autoryzacja wygasła",module,Magento_Braintree
 Authorizing,Autoryzacja,module,Magento_Braintree
-Authorized,Authorized,module,Magento_Braintree
+Authorized,Autoryzowany,module,Magento_Braintree
 "Gateway rejected","Gateway rejected",module,Magento_Braintree
 Failed,Nieudane,module,Magento_Braintree
 "Processor declined","Processor declined",module,Magento_Braintree
@@ -1598,7 +1598,7 @@ Disabled,Wyłączone,module,Magento_Catalog
 "We can't find the image file.","Nie możemy odnaleźć pliku ze zdjęciem.",module,Magento_Catalog
 "The option type to get group instance is incorrect.","Typ opcji aby uzyskać instancję grupę jest nieprawidłowy.",module,Magento_Catalog
 "Select type options required values rows.","Proszę wybrać typ opcji z wymaganymi wartościami.",module,Magento_Catalog
-"ProductSku should be specified","ProductSku should be specified",module,Magento_Catalog
+"ProductSku should be specified","Należy określić SKU produktu",module,Magento_Catalog
 "Could not remove custom option","Nie można usunąć opcji produktu",module,Magento_Catalog
 "Please specify date required option(s).","Prosimy o określenie wymaganych opcji daty.",module,Magento_Catalog
 "Please specify time required option(s).","Prosimy o określenie wymaganych opcji czasu.",module,Magento_Catalog
@@ -1647,7 +1647,7 @@ Search,Szukaj,module,Magento_Catalog
 "Unknown link type: %1","Nieznany typ linku: %1",module,Magento_Catalog
 "Provided link type ""%1"" does not exist","Nie istnieje łącze typu ""%1""",module,Magento_Catalog
 "Invalid data provided for linked products","Nieprawidłowe dane podane dla powiązanych produktów",module,Magento_Catalog
-"Product with SKU '%1' is not linked to product with SKU '%2'","Product with SKU '%1' is not linked to product with SKU '%2'",module,Magento_Catalog
+"Product with SKU '%1' is not linked to product with SKU '%2'","Produkt z SKU %1 nie jest powiązany z produktem z SKU %2",module,Magento_Catalog
 "Product %1 doesn't have linked %2 as %3","Produkt %1 nie jest połączony %2 jako %3",module,Magento_Catalog
 "Requested product doesn't exist","Żądany produkt nie istnieje",module,Magento_Catalog
 "Requested product does not support images.","Podany produkt nie obsługuje obrazków.",module,Magento_Catalog
@@ -1682,7 +1682,7 @@ Done,Zrobione,module,Magento_Catalog
 "Select Attribute","Wybierz cechę",module,Magento_Catalog
 "Create New Attribute","Utwórz nową cechę",module,Magento_Catalog
 "Customizable Options","Indywidualne opcje",module,Magento_Catalog
-"Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
+"Custom options let customers choose the product variations they want.","Niestandardowe opcje pozwalają kupującym wybierać warianty produktów, których potrzebują.",module,Magento_Catalog
 "Add Option","Dodaj opcję",module,Magento_Catalog
 "New Option","Nowa opcja",module,Magento_Catalog
 "Select Product","Wybierz produkt",module,Magento_Catalog
@@ -1974,10 +1974,10 @@ Image,Obraz,module,Magento_Catalog
 Small,Mały,module,Magento_Catalog
 "Attribute Properties","Właściwości cechy",module,Magento_Catalog
 "Attribute Label","Etykieta cechy",module,Magento_Catalog
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner",module,Magento_Catalog
+"Catalog Input Type for Store Owner","Typ pola katalogu dla właściciela sklepu",module,Magento_Catalog
 Values,Wartości,module,Magento_Catalog
-"Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-"Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
+"Add this attribute to the list of column options in the product grid.","Dodaj ten atrybut do listy opcji kolumny w siatce produktu.",module,Magento_Catalog
+"Add this attribute to the list of filter options in the product grid.","Dodaj ten atrybut do listy opcji filtrowania w siatce produktu.",module,Magento_Catalog
 System,System,module,Magento_Catalog
 "All Store Views","Wszystkie widoki sklepu",module,Magento_Catalog
 "Delete items","Usuń pozycje",module,Magento_Catalog
@@ -2100,10 +2100,10 @@ Edit,Zmień,module,Magento_CatalogEvent
 "Allow Qty Below 0 and Notify Customer","Zezwól na ilość mniejszą od 0 i powiadom klienta",module,Magento_CatalogInventory
 "In Stock","W magazynie",module,Magento_CatalogInventory
 "Out of Stock","Brak w magazynie",module,Magento_CatalogInventory
-"Unable to save Stock Item","Unable to save Stock Item",module,Magento_CatalogInventory
+"Unable to save Stock Item","Nie można zapisać produktu",module,Magento_CatalogInventory
 "Stock Item with id ""%1"" does not exist.","Element stanu z ID ""%1"" nie istnieje.",module,Magento_CatalogInventory
-"Unable to remove Stock Item with id ""%1""","Unable to remove Stock Item with id ""%1""",module,Magento_CatalogInventory
-"Unable to save Stock","Unable to save Stock",module,Magento_CatalogInventory
+"Unable to remove Stock Item with id ""%1""","Nie można usunąć produktu o id ""%1""",module,Magento_CatalogInventory
+"Unable to save Stock","Nie można zapisać stanu magazynowego",module,Magento_CatalogInventory
 "Stock with id ""%1"" does not exist.","Magazyn o identyfikatorze ""%1"" nie istnieje.",module,Magento_CatalogInventory
 "Unable to remove Stock with id ""%1""","Unable to remove Stock with id ""%1""",module,Magento_CatalogInventory
 "Unable to save Stock Status","Unable to save Stock Status",module,Magento_CatalogInventory
@@ -2285,7 +2285,7 @@ Actions,Operacje,module,Magento_CatalogRuleStaging
 Yes,Tak,module,Magento_CatalogRuleStaging
 No,Nie,module,Magento_CatalogRuleStaging
 "Save as a New Update","Save as a New Update",module,Magento_CatalogRuleStaging
-"Move to Another Campaign","Move to Another Campaign",module,Magento_CatalogRuleStaging
+"Move to Another Campaign","Przenieś do innej kampanii",module,Magento_CatalogRuleStaging
 "Delete the Update","Usuń aktualizację",module,Magento_CatalogRuleStaging
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.",module,Magento_CatalogRuleStaging
 20,20,module,Magento_CatalogRuleStaging
@@ -2825,7 +2825,7 @@ Name,Nazwa,module,Magento_CmsStaging
 Description,Opis,module,Magento_CmsStaging
 Action,Operacja,module,Magento_CmsStaging
 "Update Information","Informacje o aktualizacji",module,Magento_CmsStaging
-"Remove CMS block from Campaign","Remove CMS block from Campaign",module,Magento_CmsStaging
+"Remove CMS block from Campaign","Usuń blok CMS z kampanii",module,Magento_CmsStaging
 "Update Name","Zaktualizowana nazwa",module,Magento_CmsStaging
 "Start Date","Data rozpoczęcia",module,Magento_CmsStaging
 "End Date","Data zakończenia",module,Magento_CmsStaging
@@ -2834,8 +2834,8 @@ Action,Operacja,module,Magento_CmsStaging
 "Block Title","Tytuł bloku",module,Magento_CmsStaging
 Identifier,Identyfikator,module,Magento_CmsStaging
 "Store View","Widok sklepu",module,Magento_CmsStaging
-"Save as a New Update","Save as a New Update",module,Magento_CmsStaging
-"Move to Another Campaign","Move to Another Campaign",module,Magento_CmsStaging
+"Save as a New Update","Zapisz jako nową aktualizację",module,Magento_CmsStaging
+"Move to Another Campaign","Przenieś do innej kampanii",module,Magento_CmsStaging
 "Delete the Update","Usuń aktualizację",module,Magento_CmsStaging
 "Deleting the update will remove the block from this campaign and all scheduled changes will be lost.","Deleting the update will remove the block from this campaign and all scheduled changes will be lost.",module,Magento_CmsStaging
 20,20,module,Magento_CmsStaging
@@ -5709,7 +5709,7 @@ Never,Nigdy,module,Magento_Indexer
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Istnieją <a href=""%1"">nieaktualne indeksy</a>. Upewnij się, że <a href=""%2"" target=""_blank"">cron Magento</a> jest uruchomiony.",module,Magento_Indexer
 "State for the same indexer","Państwo dla tego samego indeksowania",module,Magento_Indexer
 "State for the same view","Państwo ma ten sam widok",module,Magento_Indexer
-"Field '%1' not found","Field '%1' not found",module,Magento_Indexer
+"Field '%1' not found","Pole '%1' nie zostało znalezione",module,Magento_Indexer
 "Some Exception Message","Niektóre wiadomości wyjątku",module,Magento_Indexer
 "Test Phrase","Fraza testowa",module,Magento_Indexer
 "Change indexer mode","Zmień tryb indeksatora",module,Magento_Indexer
@@ -6240,7 +6240,7 @@ Customers,Klienci,module,Magento_MultipleWishlist
 """%1"" was copied to %2.","""%1"" został skopiowany do %2.",module,Magento_MultipleWishlist
 "We can't find the item.","Nie możemy znaleźć produktu.",module,Magento_MultipleWishlist
 """%1"" is already present in %2.","""%1"" jest już obecny w %2.",module,Magento_MultipleWishlist
-"We can't copy ""%1"".","We can't copy ""%1"".",module,Magento_MultipleWishlist
+"We can't copy ""%1"".","Nie można skopiować ""%1"".",module,Magento_MultipleWishlist
 "We can't copy the wish list item.","Nie można skopiować elementu listy życzeń.",module,Magento_MultipleWishlist
 "We can't find %1 items.","Nie można znaleźć produktów %1.",module,Magento_MultipleWishlist
 "We can't copy %1 items.","Nie można skopiować produktów %1.",module,Magento_MultipleWishlist
@@ -6669,7 +6669,7 @@ None,Brak,module,Magento_OfflineShipping
 "Something went wrong while importing table rates.","Coś się zepsuło podczas importowania tabeli cen.",module,Magento_OfflineShipping
 "We couldn't import this file because of these errors: %1","Nie można zaimportować tego pliku ze względu na te błędy: %1",module,Magento_OfflineShipping
 "Requested column ""%1"" cannot be resolved","Requested column ""%1"" cannot be resolved",module,Magento_OfflineShipping
-"Column ""%1"" not found","Column ""%1"" not found",module,Magento_OfflineShipping
+"Column ""%1"" not found","Kolumna ""%1"" nie została znaleziona",module,Magento_OfflineShipping
 "Please correct Table Rates format in the Row #%1.","Proszę poprawić format tabeli cen w wierszu #%1.",module,Magento_OfflineShipping
 "Please correct Country ""%1"" in the Row #%2.","Proszę poprawić Kraj ""%1"" w wierszu #%2.",module,Magento_OfflineShipping
 "Please correct Region/State ""%1"" in the Row #%2.","Proszę poprawić region/województwo ""%1"" w wierszu #%2.",module,Magento_OfflineShipping
@@ -7411,7 +7411,7 @@ User,Użytkownik,module,Magento_Paypal
 "Remember Me","Zapamiętaj mnie",module,Magento_Persistent
 "What's this?","Co to jest?",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Sprawdź &quot;Zapamiętaj mnie&quot; wobec dostęp Twój koszyk na tym komputerze, nawet jeśli nie jesteś zalogowany.",module,Magento_Persistent
-"Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
+"Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Zaznacz 'Zapamiętaj mnie', aby mieć dostęp do swojego koszyka na tym komputerze bez potrzeby logowania.",module,Magento_Persistent
 "Persistent Shopping Cart","Trwały koszyk",module,Magento_Persistent
 "General Options","Opcje ogólne",module,Magento_Persistent
 "Enable Persistence","Włącz trwałą obecność",module,Magento_Persistent
@@ -9970,7 +9970,7 @@ None,Brak,module,Magento_Security
 "This computer is using IP address %1.","Ten komputer używa adresu IP %1.",module,Magento_Security
 "Admin Account Sharing","Udostępnianie konta administratora",module,Magento_Security
 "If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Jeśli ustawiona na tak, możesz zalogować się z wielu komputerów do tego samego konta. Domyślne ustawienie nie jest bezpieczne.",module,Magento_Security
-"Password Reset Protection Type","Password Reset Protection Type",module,Magento_Security
+"Password Reset Protection Type","Rodzaj ochrony resetowania hasła",module,Magento_Security
 "Max Number of Password Reset Requests","Max Number of Password Reset Requests",module,Magento_Security
 "Limit the number of password reset request per hour. Use 0 to disable.","Ogranicz liczbę żądań zresetowania hasła na godzinę. Użyj 0 by wyłączyć limit.",module,Magento_Security
 "Min Time Between Password Reset Requests","Min Time Between Password Reset Requests",module,Magento_Security
@@ -10295,17 +10295,17 @@ Save,Zapisz,module,Magento_Staging
 "Date & Time","Data i czas",module,Magento_Staging
 "This update not exists.","Aktualizacja nie istnieje.",module,Magento_Staging
 "Staging Dashboard","Przejściowy panel",module,Magento_Staging
-"Edit Existing Update","Edit Existing Update",module,Magento_Staging
-"Assign to Another Campaign","Assign to Another Campaign",module,Magento_Staging
+"Edit Existing Update","Zmień istniejącą aktualizację",module,Magento_Staging
+"Assign to Another Campaign","Przypisz do innej kampanii",module,Magento_Staging
 "Save as a New Update","Zapisz jako nową aktaulizację",module,Magento_Staging
 "Assign to Existing Campaign","Assign to Existing Campaign",module,Magento_Staging
 "You removed this %1 from the update and saved it in the other one.","Usunięto ten %1 z aktualizacji i zapisano go w innej.",module,Magento_Staging
-"%1 is required parameter.","%1 is required parameter.",module,Magento_Staging
+"%1 is required parameter.","%1 jest wymaganym parametrem.",module,Magento_Staging
 "You removed this %1 from the update.","Usunięto ten %1 z aktualizacji.",module,Magento_Staging
 "You removed this %1 from the update and saved it in a new one.","Usunięto ten %1 z aktualizacji i zapisano go w nowej.",module,Magento_Staging
-"Invalid action type %1.","Invalid action type %1.",module,Magento_Staging
-"Invalid action.","Invalid action.",module,Magento_Staging
-"Invalid parameter %1.","Invalid parameter %1.",module,Magento_Staging
+"Invalid action type %1.","Nieprawidłowy typ akcji %1.",module,Magento_Staging
+"Invalid action.","Nieprawidłowa akcja.",module,Magento_Staging
+"Invalid parameter %1.","Nieprawidłowy parametr %1.",module,Magento_Staging
 "Something went wrong while removing the %1.","Coś się zepsuło podczas usuwania %1.",module,Magento_Staging
 "The 'mode' value is unexpected.","Wartość 'mode' nie jest obsługiwana.",module,Magento_Staging
 "You saved this %1 update.","Zapisano aktualizację %1.",module,Magento_Staging
@@ -11174,7 +11174,7 @@ Cancel,Anuluj,module,Magento_Ui
 Back,Powrót,module,Magento_Ui
 Next,Następne,module,Magento_Ui
 "Changes have been made to this section that have not been saved.","Wprowadzono zmiany do tej sekcji, które nie zostały zapisane.",module,Magento_Ui
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
+"This tab contains invalid data. Please resolve this before saving.","Ta karta zawiera nieprawidłowe dane. Proszę rozwiązać ten problem przed zapisem.",module,Magento_Ui
 Assign,Przyporządkuj,module,Magento_Ui
 Options,Opcje,module,Magento_Ui
 "records found","znalezione rekordy",module,Magento_Ui
@@ -11970,7 +11970,7 @@ Name,Nazwa,module,Magento_VisualMerchandiser
 Price,Cena,module,Magento_VisualMerchandiser
 SKU,SKU,module,Magento_VisualMerchandiser
 Stock,Zapasy,module,Magento_VisualMerchandiser
-"Consumer is not authorized to access %resources","Consumer is not authorized to access %resources",module,Magento_Webapi
+"Consumer is not authorized to access %resources","Konsument nie jest upoważniony do dostępu do %resources",module,Magento_Webapi
 "Operation allowed only in HTTPS","Operacja jest dozwolona tylko w HTTPS",module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","Nie można wykonać operacji GET dla kodu sklepu ""all""",module,Magento_Webapi
 "Request does not match any route.","Wniosek nie odpowiada żadnej ścieżce.",module,Magento_Webapi
@@ -11995,7 +11995,7 @@ Message,Wiadomość,module,Magento_Webapi
 "Web Services Configuration","Konfiguracja usług sieci Web",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file","konfiguracji REST oraz SOAP, generowanie pliku WSDL",module,Magento_Webapi
 "Web API Security","Zabezpieczenia Web API",module,Magento_WebapiSecurity
-"Allow Anonymous Guest Access","Allow Anonymous Guest Access",module,Magento_WebapiSecurity
+"Allow Anonymous Guest Access","Zezwalaj na dostęp anonimowy Gości",module,Magento_WebapiSecurity
 "503 Service Unavailable","503 Usługa niedostępna",module,Magento_WebsiteRestriction
 "200 OK","200 OK",module,Magento_WebsiteRestriction
 "Website Closed","Strona zamknięta",module,Magento_WebsiteRestriction
