@@ -1700,7 +1700,7 @@ Required,Wymagane,module,Magento_Catalog
 "This item has weight","Ta pozycja ma przypisaną wagę",module,Magento_Catalog
 "This item has no weight","Ta pozycja nie ma przypisanej wagi",module,Magento_Catalog
 "Set Product as New From","Ustaw produkt jako Nowy z",module,Magento_Catalog
-"Related Products, Up-Sells, and Cross-Sells","Produkty powiązane, Up-Sells i Cross- Sells",module,Magento_Catalog
+"Related Products, Up-Sells, and Cross-Sells","Produkty powiązane, Up-Sells i Cross-Sells",module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.","Powiązane produkty są pokazywane klientom jako dodatek do oglądanych przez nich produktów.",module,Magento_Catalog
 "Add Related Products","Dodaj produkty",module,Magento_Catalog
 "An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Produkty typu „up-sell” są dla klientów droższą lub lepszą jakościowo alternatywą dla oglądanych przez nich produktów.",module,Magento_Catalog
