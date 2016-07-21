@@ -12184,7 +12184,7 @@ Edit,Zmień,module,Magento_Wishlist
 "Remove item","Usuń produkt",module,Magento_Wishlist
 "Add to Compare","Dodaj do porównania",module,Magento_Wishlist
 "This Wish List has no Items","Ten schowek nie zawiera żadnych produktów",module,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 został dodany do Twojej listy życzeń.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Wishlist
 "See Details","Zobacz szczegóły",module,Magento_Wishlist
 "Options Details","Szczegóły opcji",module,Magento_Wishlist
@@ -12202,7 +12202,7 @@ Back,Powrót,module,Magento_Wishlist
 "Remove This Item","Usuń ten element",module,Magento_Wishlist
 "Go to Wish List","Przejdź do listy życzeń",module,Magento_Wishlist
 "You have no items in your wish list.","Nie masz żadnych produktów w schowku.",module,Magento_Wishlist
-"Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
+"Take a look at %customer_name's Wish List","Spójrz na listę życzeń użytkownika %customer_name",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name chce się z tobą podzielić tą listą życzeń z %store_name:",module,Magento_Wishlist
 "Message from %customer_name:","Wiadomość od %customer_name:",module,Magento_Wishlist
 "View all Wish List items","Zobacz wszystkie elementy listy życzeń",module,Magento_Wishlist
