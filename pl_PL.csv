@@ -163,7 +163,7 @@ Action,Operacja,module,Magento_AdvancedCheckout
 "Total %1 product(s)","Produkty: %1",module,Magento_AdvancedCheckout
 Subtotal:,"Suma częściowa:",module,Magento_AdvancedCheckout
 "Please select","Proszę wybrać",module,Magento_AdvancedCheckout
-"Move to Wish List","Dodaj do listy życzeń",module,Magento_AdvancedCheckout
+"Move to Wish List","Dodaj do schowka",module,Magento_AdvancedCheckout
 "No item specified.","Nie wybrano produktu.",module,Magento_AdvancedCheckout
 "Are you sure you want to remove this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_AdvancedCheckout
 "SKU number",SKU,module,Magento_AdvancedCheckout
@@ -2113,7 +2113,7 @@ Edit,Zmień,module,Magento_CatalogEvent
 "The fewest you may purchase is %1.","Najmniej, ile możesz zakupić to %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Proszę poprawić ilość dla niektórych produktów.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Najwięcej, ile możnesz kupic to %1.",module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested.",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested.","Nie posiadamy tak dużej ilości produktu ""%1"" jakiej oczekujesz.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Nie mamy tyle ""%1"", ile zamawiasz, jednak zarezerwujemy pozostałe %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Nie mamy ""%1"" w żądanej ilości, więc zarezerwujemy pozostałe %2.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Możesz kupić %1 tylko w ilościach po %2 na raz.",module,Magento_CatalogInventory
@@ -2655,7 +2655,7 @@ Manually,Ręcznie,module,Magento_CheckoutAgreements
 "Unable to remove checkout agreement %1","Nie można usunąć warunku składania zamówienia %1",module,Magento_CheckoutAgreements
 "Checkout agreement with specified ID ""%1"" not found.","Warunek składania zamówienia o identyfikatorze ""%1"" nie został odnaleziony.",module,Magento_CheckoutAgreements
 Close,Zamknij,module,Magento_CheckoutAgreements
-"Terms & Conditions",Regulaminy,module,Magento_CheckoutAgreements
+"Terms & Conditions",Regulamin,module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Włącz warunki sprzedaży",module,Magento_CheckoutAgreements
 "Preview mode doesn't allow submitting the order.","Tryb podglądu nie pozwala na składanie zamówień.",module,Magento_CheckoutStaging
 "Preview Quote Lifetime (minutes)","Czas życia (w minutach) zawartości koszyka w podglądzie",module,Magento_CheckoutStaging
@@ -6280,7 +6280,7 @@ Customers,Klienci,module,Magento_MultipleWishlist
 "Unknown Magento error","Nieznany błąd Magento",module,Magento_MultipleWishlist
 InvalidArgumentException,InvalidArgumentException,module,Magento_MultipleWishlist
 Refresh,Odśwież,module,Magento_MultipleWishlist
-"All Wish Lists","Wszystkie listy życzeń",module,Magento_MultipleWishlist
+"All Wish Lists","Wszystkie schowki",module,Magento_MultipleWishlist
 Item,Produkt,module,Magento_MultipleWishlist
 Qty,Ilość,module,Magento_MultipleWishlist
 Price,Cena,module,Magento_MultipleWishlist
@@ -6292,21 +6292,21 @@ Remove,Usuń,module,Magento_MultipleWishlist
 Owner,Właściciel,module,Magento_MultipleWishlist
 Name,Nazwa,module,Magento_MultipleWishlist
 Updated,Zaktualizowano,module,Magento_MultipleWishlist
-"Wish List Items","Produkty Listy Życzeń",module,Magento_MultipleWishlist
+"Wish List Items","Produkty w schowku",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","Należy dodać produkty do koszyka.",module,Magento_MultipleWishlist
 "Add to Cart","Dodaj do koszyka",module,Magento_MultipleWishlist
 Back,Powrót,module,Magento_MultipleWishlist
 "Add to:","Dodaj do:",module,Magento_MultipleWishlist
 "Create New Wish List","Utwórz nową Listę Życzeń",module,Magento_MultipleWishlist
-"Move to Wish List","Dodaj do listy życzeń",module,Magento_MultipleWishlist
-"Copy to Wish List","Kopiuj do Listy Życzeń",module,Magento_MultipleWishlist
+"Move to Wish List","Dodaj do schowka",module,Magento_MultipleWishlist
+"Copy to Wish List","Kopiuj do schowka",module,Magento_MultipleWishlist
 "Search Options","Opcje wyszukiwania",module,Magento_MultipleWishlist
 "Required Fields","Wymagane pola",module,Magento_MultipleWishlist
 "First Name",Imię,module,Magento_MultipleWishlist
 "Last Name",Nazwisko,module,Magento_MultipleWishlist
 Search,Szukaj,module,Magento_MultipleWishlist
 "Search Results","Wyniki wyszukiwania",module,Magento_MultipleWishlist
-"Wish List Name","Nazwa Listy Życzeń",module,Magento_MultipleWishlist
+"Wish List Name","Nazwa schowka",module,Magento_MultipleWishlist
 Actions,Operacje,module,Magento_MultipleWishlist
 View,Zobacz,module,Magento_MultipleWishlist
 "Your search returned no results.","Brak wyników wyszukiwania.",module,Magento_MultipleWishlist
@@ -6316,8 +6316,8 @@ Edit,Zmień,module,Magento_MultipleWishlist
 "Public Wish List","Publiczna Lista Życzeń",module,Magento_MultipleWishlist
 "Private Wish List","Prywatna Lista Życzeń",module,Magento_MultipleWishlist
 "Select all","Zaznacz wszystko",module,Magento_MultipleWishlist
-"Move Selected to Wish List","Przenieś zaznaczone do Listy Życzeń",module,Magento_MultipleWishlist
-"Copy Selected to Wish List","Kopiuj zaznaczone do Listy Życzeń",module,Magento_MultipleWishlist
+"Move Selected to Wish List","Przenieś zaznaczone do schowka",module,Magento_MultipleWishlist
+"Copy Selected to Wish List","Kopiuj zaznaczone do schowka",module,Magento_MultipleWishlist
 "Search By","Szukaj według",module,Magento_MultipleWishlist
 "Please enter at least two letters.","Podaj co najmniej 2 litery.",module,Magento_MultipleWishlist
 Close,Zamknij,module,Magento_MultipleWishlist
@@ -7561,7 +7561,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Only 1 shipping assignment can be set","Only 1 shipping assignment can be set",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","Ta cena lub ilość nie jest ważna dla kasy.",module,Magento_Quote
 "Please check the shipping address information. %1","Proszę sprawdzić adres dostawy. %1",module,Magento_Quote
-"Please specify a shipping method.","Prosimy o wybór metody dostawy.",module,Magento_Quote
+"Please specify a shipping method.","Proszę wybrać sposób dostawy.",module,Magento_Quote
 "Please check the billing address information. %1","Proszę sprawdzić adres rozliczeniowy. %1",module,Magento_Quote
 "Please select a valid payment method.","Prosimy wybrać prawidłową formę płatności.",module,Magento_Quote
 "Store Credit","Kredyt w sklepie",module,Magento_Quote
@@ -8046,7 +8046,7 @@ Ratings,Oceny,module,Magento_Review
 "You submitted your review for moderation.","Dodano swoją recenzję do moderacji.",module,Magento_Review
 "We can't post your review right now.","W tej chili nie możemy wysłać Twojej recenzji.",module,Magento_Review
 "Storage key was not set","Nie został ustawiony klucz pamięci",module,Magento_Review
-Approved,"Zwrot zakończony",module,Magento_Review
+Approved,Zatwierdzony,module,Magento_Review
 Pending,Oczekujący,module,Magento_Review
 "Not Approved",Odrzucona,module,Magento_Review
 "Please enter a review summary.","Proszę wpisać treść podsumowania opinii.",module,Magento_Review
@@ -8310,7 +8310,7 @@ Remaining,Pozostałe,module,Magento_Rma
 Requested,Wymagany,module,Magento_Rma
 Authorized,Upoważniony,module,Magento_Rma
 Returned,Zwrócony,module,Magento_Rma
-Approved,"Zwrot zakończony",module,Magento_Rma
+Approved,Zatwierdzony,module,Magento_Rma
 "Return Reason","Powód zwrotu",module,Magento_Rma
 "Item Condition","Stan produktu",module,Magento_Rma
 Resolution,Zwrot/wymiana,module,Magento_Rma
@@ -8953,7 +8953,7 @@ Home,"Strona główna",module,Magento_Sales
 "Shipping Address:","Adres dla dostawy:",module,Magento_Sales
 "Billing Address:","Adres rozliczeniowy:",module,Magento_Sales
 "Please specify order items.","Proszę określić kolejność elementów.",module,Magento_Sales
-"Please specify a shipping method.","Prosimy o wybór metody dostawy.",module,Magento_Sales
+"Please specify a shipping method.","Proszę wybrać sposób dostawy.",module,Magento_Sales
 "Please specify a payment method.","Prosimy o wybór metody płatności.",module,Magento_Sales
 "This payment method is not available.","Ta metoda płatności nie jest dostępna.",module,Magento_Sales
 "Validation is failed.","Weryfikacja nie powiodła się.",module,Magento_Sales
@@ -9156,7 +9156,7 @@ Subtotal:,"Suma częściowa:",module,Magento_Sales
 "Custom Price","Niestandardowa cena",module,Magento_Sales
 "Please select","Proszę wybrać",module,Magento_Sales
 "Move to Shopping Cart","Przenieś do koszyka",module,Magento_Sales
-"Move to Wish List","Dodaj do listy życzeń",module,Magento_Sales
+"Move to Wish List","Dodaj do schowka",module,Magento_Sales
 "Subscribe to Newsletter","Subskrybuj newsletter",module,Magento_Sales
 "Click to change shipping method","Kliknij, aby zmienić metodę wysyłki",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Przepraszamy cudzysłowie nie jest dostępne dla tego zamówienia.",module,Magento_Sales
@@ -12112,9 +12112,9 @@ Product,Produkt,module,Magento_Widget
 Conditions,Warunki,module,Magento_Widget
 "Widget ID","ID widgetu",module,Magento_Widget
 "Wish List","Lista życzeń",module,Magento_Wishlist
-"Wish List Sharing","Udostępnianie listy życzeń",module,Magento_Wishlist
+"Wish List Sharing","Udostępnianie schowka",module,Magento_Wishlist
 "My Wish List","Moja lista życzeń",module,Magento_Wishlist
-"%1's Wish List","%1 listy życzeń",module,Magento_Wishlist
+"%1's Wish List","Schowek %1",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
 "We can't specify a product.","Nie możemy określić produktu.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","Aktualnie nie możemy dodać elementu do listy życzeń: %1.",module,Magento_Wishlist
@@ -12184,7 +12184,7 @@ Edit,Zmień,module,Magento_Wishlist
 "Remove item","Usuń produkt",module,Magento_Wishlist
 "Add to Compare","Dodaj do porównania",module,Magento_Wishlist
 "This Wish List has no Items","Ten schowek nie zawiera żadnych produktów",module,Magento_Wishlist
-"%1 has been added to your Wish List.","%1 został dodany do Twojej listy życzeń.",module,Magento_Wishlist
+"%1 has been added to your Wish List.","%1 został dodany do schowka.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Wishlist
 "See Details","Zobacz szczegóły",module,Magento_Wishlist
 "Options Details","Szczegóły opcji",module,Magento_Wishlist
@@ -12200,12 +12200,12 @@ Back,Powrót,module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Sprawdź tutaj żeby podlinkować RSS do swojej listy życzeń.",module,Magento_Wishlist
 "Last Added Items","Ostatnio dodane produkty",module,Magento_Wishlist
 "Remove This Item","Usuń ten element",module,Magento_Wishlist
-"Go to Wish List","Przejdź do listy życzeń",module,Magento_Wishlist
+"Go to Wish List","Przejdź do schowka",module,Magento_Wishlist
 "You have no items in your wish list.","Nie masz żadnych produktów w schowku.",module,Magento_Wishlist
 "Take a look at %customer_name's Wish List","Spójrz na listę życzeń użytkownika %customer_name",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name chce się z tobą podzielić tą listą życzeń z %store_name:",module,Magento_Wishlist
 "Message from %customer_name:","Wiadomość od %customer_name:",module,Magento_Wishlist
-"View all Wish List items","Zobacz wszystkie elementy listy życzeń",module,Magento_Wishlist
+"View all Wish List items","Zobacz wszystkie elementy",module,Magento_Wishlist
 "Wish List Section","Sekcja showka",module,Magento_Wishlist
 "Share Options","Opcje współdzielenia",module,Magento_Wishlist
 "Email Sender",Nadawca,module,Magento_Wishlist
