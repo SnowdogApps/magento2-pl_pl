@@ -3390,7 +3390,7 @@ Customers,Klienci,module,Magento_Customer
 "Edit Group","Edytuj grupę",module,Magento_Customer
 "Edit Customer Groups","Edycja grup klientów",module,Magento_Customer
 "You saved the customer group.","Zapisałeś grupę klientów.",module,Magento_Customer
-"Please select customer(s).","Prosimy wybrać klienta(ów).",module,Magento_Customer
+"Please select customer(s).","Wybierz klientów.",module,Magento_Customer
 "Customer could not be deleted.","Nie można usunąć klienta.",module,Magento_Customer
 "You deleted the customer.","Usunąłeś klienta.",module,Magento_Customer
 "Something went wrong while editing the customer.","Coś poszło nie tak podczas edycji klienta.",module,Magento_Customer
@@ -5835,7 +5835,7 @@ OAuth,OAuth,module,Magento_Integration
 "Integration configuration file","Plik konfiguracyjny integracji",module,Magento_Integration
 "Integrations API Configuration","Konfiguracja API integracji",module,Magento_Integration
 "Integrations API configuration file","Plik konfiguracyjny integracji API",module,Magento_Integration
-"We couldn't find any records.","Nie mogliśmy znaleźć żadnych rekordów.",module,Magento_Integration
+"We couldn't find any records.","Brak wyników.",module,Magento_Integration
 Status,Status,module,Magento_Integration
 Invitations,"Tekst zaproszenia do skomentowania",module,Magento_Invitation
 "Add Invitations","Dodać zaproszenie",module,Magento_Invitation
@@ -8683,7 +8683,7 @@ Cancel,Anuluj,module,Magento_Sales
 "Payment Method","Metoda płatności",module,Magento_Sales
 "Order Comment","Komentarz do zamówienia",module,Magento_Sales
 Coupons,Kupony,module,Magento_Sales
-"Please select a customer","Prosimy wybrać klienta",module,Magento_Sales
+"Please select a customer","Wybierz klienta",module,Magento_Sales
 "Create New Customer","Utwórz klienta",module,Magento_Sales
 "Account Information","Dane konta",module,Magento_Sales
 From,Od,module,Magento_Sales
@@ -9405,7 +9405,7 @@ Template,Szablon,module,Magento_Sales
 Name,Nazwa,module,Magento_Sales
 Phone,Telefon,module,Magento_Sales
 "ZIP/Post Code","Kod pocztowy",module,Magento_Sales
-"Signed-up Point","Punkt podpisania",module,Magento_Sales
+"Signed-up Point","Miejsce rejestracji",module,Magento_Sales
 Website,Witryna,module,Magento_Sales
 order-header,"nagłówek zamówienia",module,Magento_Sales
 "Bill-to Name","Rachunek na",module,Magento_Sales
