@@ -3337,7 +3337,7 @@ Download,Pobierz,module,Magento_Customer
 "The customer would belong to Customer Group %s.","Klient należy do grupy klientów %s.",module,Magento_Customer
 "There was an error detecting Customer Group.","Wystąpił błąd podczas wykrywania grupy klientów.",module,Magento_Customer
 "Validate VAT Number","Sprawdza poprawność numeru VAT",module,Magento_Customer
-"Customer Login","Login klienta",module,Magento_Customer
+"Customer Login",Logowanie,module,Magento_Customer
 "Create New Customer Account","Utwórz nowe konto klienta",module,Magento_Customer
 "Date of Birth","Data urodzenia",module,Magento_Customer
 "Bad request.","Złe zapytanie.",module,Magento_Customer
@@ -3543,7 +3543,7 @@ Change,Zmień,module,Magento_Customer
 "Contact Information","Informacje kontaktowe",module,Magento_Customer
 "Change Password","Zmień hasło",module,Magento_Customer
 Newsletters,Newslettery,module,Magento_Customer
-"You subscribe to ""General Subscription"".","Zapisać do""ogólne subskrypcje"".",module,Magento_Customer
+"You subscribe to ""General Subscription"".","Jesteś zapisany do ""Ogólna subskrypcja"".",module,Magento_Customer
 or,lub,module,Magento_Customer
 "Default Addresses","Domyślne adresy",module,Magento_Customer
 "Change Billing Address","Zmień adres rozliczeniowy",module,Magento_Customer
@@ -3580,14 +3580,14 @@ Email,E-mail,module,Magento_Customer
 "Change Email and Password","Zmień adres E-mail i hasło",module,Magento_Customer
 "Current Password","Bieżące hasło",module,Magento_Customer
 "New Password","Nowe hasło",module,Magento_Customer
-"Password Strength","Password Strength",module,Magento_Customer
+"Password Strength","Siła hasła",module,Magento_Customer
 "No Password","Bez hasła",module,Magento_Customer
 "Confirm New Password","Potwierdź nowe hasło",module,Magento_Customer
 Save,Zapisz,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Podaj swój adres e-mail poniżej, aby otrzymać link do zresetowania hasła.",module,Magento_Customer
 "Reset My Password","Zresetuj moje hasło",module,Magento_Customer
 "Registered Customers","Zarejestrowani klienci",module,Magento_Customer
-"If you have an account, sign in with your email address.","Jeśli masz konto, Zaloguj się przy użyciu adresu e-mail.",module,Magento_Customer
+"If you have an account, sign in with your email address.","Jeśli posiadasz już konto, to możesz zalogować się przy użyciu adresu e-mail.",module,Magento_Customer
 Password,Hasło,module,Magento_Customer
 "Forgot Your Password?","Nie pamiętasz hasła?",module,Magento_Customer
 "Subscription option","Opcje subskrypcji",module,Magento_Customer
@@ -3600,7 +3600,7 @@ Password,Hasło,module,Magento_Customer
 "Set a New Password","Ustaw nowe hasło",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Wylogowałeś się i zostaniesz przekierowany na stronę główną w ciągu 5 sekund.",module,Magento_Customer
 "New Customers","Nowi klienci",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Tworzenie konta ma wiele zalet: Zaloguj się szybciej, przechowuj więcej niż jeden adres, śledź zamówienia i wiele innych.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Stworzenie konta daje wiele zalet. Szybszy proces składania zamówienia, możliwość zapisywania swoich adresów i śledzenie stanu zamówień to tylko niektóre z nich.",module,Magento_Customer
 Gender,Płeć,module,Magento_Customer
 Name,Nazwa,module,Magento_Customer
 "Tax/VAT number","Numer NIP",module,Magento_Customer
@@ -3946,13 +3946,13 @@ Country,Kraj,module,Magento_CustomerCustomAttributes
 Email,E-mail,module,Magento_CustomerCustomAttributes
 "Current Password","Bieżące hasło",module,Magento_CustomerCustomAttributes
 "New Password","Nowe hasło",module,Magento_CustomerCustomAttributes
-"Password Strength","Password Strength",module,Magento_CustomerCustomAttributes
+"Password Strength","Siła hasła",module,Magento_CustomerCustomAttributes
 "No Password","Bez hasła",module,Magento_CustomerCustomAttributes
 "Confirm New Password","Potwierdź nowe hasło",module,Magento_CustomerCustomAttributes
 "Personal Information","Dane osobiste",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","Zapisz się, aby otrzymywać newsletter",module,Magento_CustomerCustomAttributes
 "Address Information","Informacje o adresie",module,Magento_CustomerCustomAttributes
-"Sign-in Information","Rejestracja informacje",module,Magento_CustomerCustomAttributes
+"Sign-in Information","Informacje logowania",module,Magento_CustomerCustomAttributes
 Password,Hasło,module,Magento_CustomerCustomAttributes
 "Confirm Password","Potwierdź hasło",module,Magento_CustomerCustomAttributes
 "Create an Account","Utwórz konto",module,Magento_CustomerCustomAttributes
@@ -4342,7 +4342,7 @@ Service,Usługa,module,Magento_Directory
 "All Files","Wszystkie pliki",module,Magento_Downloadable
 Unlimited,Nielimitowany,module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Coś się zepsuło podczas uzyskiwania żądanej zawartości.",module,Magento_Downloadable
-"My Downloadable Products","Moje produkty do pobrania",module,Magento_Downloadable
+"My Downloadable Products","Produkty do pobrania",module,Magento_Downloadable
 "We can't find the link you requested.","Nie możemy znaleźć linka którego zażądałeś.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Proszę się zalogować, aby ściągnąć produkt lub zakup <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Proszę się zalogować, aby ściągnąć produkt.",module,Magento_Downloadable
@@ -4418,7 +4418,7 @@ U,U,module,Magento_Downloadable
 Availability,Dostępność,module,Magento_Downloadable
 "In stock","W magazynie",module,Magento_Downloadable
 "Out of stock","Brak w magazynie",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Przejdź do <a href=""%1""> Moje produkty do pobrania</a>",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Przejdź do <a href=""%1"">Produkty do pobrania</a>",module,Magento_Downloadable
 "Downloadable Products","Produkty do pobrania",module,Magento_Downloadable
 "Order #","Zamówienie #",module,Magento_Downloadable
 Date,Data,module,Magento_Downloadable
@@ -5835,7 +5835,7 @@ OAuth,OAuth,module,Magento_Integration
 "Integration configuration file","Plik konfiguracyjny integracji",module,Magento_Integration
 "Integrations API Configuration","Konfiguracja API integracji",module,Magento_Integration
 "Integrations API configuration file","Plik konfiguracyjny integracji API",module,Magento_Integration
-"We couldn't find any records.","Brak wyników.",module,Magento_Integration
+"We couldn't find any records.","Brak wyników",module,Magento_Integration
 Status,Status,module,Magento_Integration
 Invitations,"Tekst zaproszenia do skomentowania",module,Magento_Invitation
 "Add Invitations","Dodać zaproszenie",module,Magento_Invitation
@@ -8041,7 +8041,7 @@ Reviews,Opinie,module,Magento_Review
 "You deleted the rating.","Możesz usunąć ocenę.",module,Magento_Review
 Ratings,Oceny,module,Magento_Review
 "You saved the rating.","Zapisano ocenę.",module,Magento_Review
-"My Product Reviews","Moje opinie do produktów",module,Magento_Review
+"My Product Reviews","Opinie produktów",module,Magento_Review
 "Cannot initialize product","Cannot initialize product",module,Magento_Review
 "You submitted your review for moderation.","Dodano swoją recenzję do moderacji.",module,Magento_Review
 "We can't post your review right now.","W tej chili nie możemy wysłać Twojej recenzji.",module,Magento_Review
@@ -8846,7 +8846,7 @@ Value,Wartość,module,Magento_Sales
 "Back to My Orders","Powrót do moich zamówień",module,Magento_Sales
 "View Another Order","Zobacz inne zamówienie",module,Magento_Sales
 "About Your Refund","O twoim zwrocie",module,Magento_Sales
-"My Orders","Moje zamówienia",module,Magento_Sales
+"My Orders",Zamówienia,module,Magento_Sales
 "Subscribe to Order Status","Subskrybuj status zamówienia",module,Magento_Sales
 "About Your Invoice","O twojej fakturze",module,Magento_Sales
 "Print Order # %1","Wydrukuj zamówienie nr %1",module,Magento_Sales
@@ -9922,7 +9922,7 @@ Reports,Raporty,module,Magento_Search
 Delete,Usuń,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Czy na pewno chcesz usunąć grupę synonimów o id: %1?",module,Magento_Search
 View/Edit,Wyświetl/Edytuj,module,Magento_Search
-"Search entire store here...","Szukaj tutaj w całym sklepie...",module,Magento_Search
+"Search entire store here...","Szukaj w sklepie...",module,Magento_Search
 "There are no search terms available.","Brak dostępnych fraz wyszukiwania.",module,Magento_Search
 "Search Engine",Wyszukiwarka,module,Magento_Search
 CSV,CSV,module,Magento_Search
@@ -11745,7 +11745,7 @@ Name,Nazwa,module,Magento_Variable
 "Wrong request.","Nieprawidłowe żądanie.",module,Magento_Vault
 "Deletion failure. Please try again.","Usuwanie awarii. Proszę spróbować ponownie.",module,Magento_Vault
 "Credit Card was successfully removed","Karta kredytowa została pomyślnie usunięta",module,Magento_Vault
-"My Credit Cards","Moje karty kredytowe",module,Magento_Vault
+"My Credit Cards","Karty kredytowe",module,Magento_Vault
 "Card Number","Numer karty",module,Magento_Vault
 "Expiration Date","Data ważności",module,Magento_Vault
 Type,Rodzaj,module,Magento_Vault
@@ -12113,7 +12113,7 @@ Conditions,Warunki,module,Magento_Widget
 "Widget ID","ID widgetu",module,Magento_Widget
 "Wish List",Schowek,module,Magento_Wishlist
 "Wish List Sharing","Udostępnianie schowka",module,Magento_Wishlist
-"My Wish List","Mój schowek",module,Magento_Wishlist
+"My Wish List",Schowek,module,Magento_Wishlist
 "%1's Wish List","Schowek %1",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
 "We can't specify a product.","Nie możemy określić produktu.",module,Magento_Wishlist
