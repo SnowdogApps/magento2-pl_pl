@@ -1194,7 +1194,7 @@ To,Do,module,Magento_Bundle
 "Buy %1 with %2 discount each","Kup %1 z %2 zniżki na każdym",module,Magento_Bundle
 "Go back to product details","Wróć do szczegółów produktu",module,Magento_Bundle
 "Customize and Add to Cart","Dostosuj i dodaj do koszyka",module,Magento_Bundle
-"* Required Fields","* wymagane pola",module,Magento_Bundle
+"* Required Fields","* pola wymagane",module,Magento_Bundle
 "Your Customization","Twoje zmiany",module,Magento_Bundle
 Availability,Dostępność,module,Magento_Bundle
 "In stock","W magazynie",module,Magento_Bundle
@@ -1516,7 +1516,7 @@ All,Wszystko,module,Magento_Catalog
 "Products only","Tylko produkty",module,Magento_Catalog
 "Static block only","Tylko blok statyczny",module,Magento_Catalog
 "Static block and products","Bloki statyczne i produkty",module,Magento_Catalog
-"Please select a static block.","Wybierz blok statyczny.",module,Magento_Catalog
+"Please select a static block.","Wybierz blok",module,Magento_Catalog
 frontend_label,frontend_label,module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","Nie można przypisać produktu ""%1"" z pozycją %2 do kategorii %3",module,Magento_Catalog
 "Category does not contain specified product","Kategoria nie zawiera tego produktu",module,Magento_Catalog
@@ -1677,7 +1677,7 @@ Select...,Wybierz...,module,Magento_Catalog
 "Customer Group","Grupa klienta",module,Magento_Catalog
 "Special Price From","Cena promocyjna od",module,Magento_Catalog
 To,Do,module,Magento_Catalog
-Done,Zrobione,module,Magento_Catalog
+Done,Gotowe,module,Magento_Catalog
 "Add Selected","Dodaj wybrane",module,Magento_Catalog
 "Select Attribute","Wybierz cechę",module,Magento_Catalog
 "Create New Attribute","Utwórz nową cechę",module,Magento_Catalog
@@ -1699,7 +1699,7 @@ Required,Wymagane,module,Magento_Catalog
 %1,%1,module,Magento_Catalog
 "This item has weight","Ta pozycja ma przypisaną wagę",module,Magento_Catalog
 "This item has no weight","Ta pozycja nie ma przypisanej wagi",module,Magento_Catalog
-"Set Product as New From","Ustaw produkt jako Nowy z",module,Magento_Catalog
+"Set Product as New From","Ustaw produkt jako nowy od",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Produkty powiązane, Up-Sells i Cross-Sells",module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.","Powiązane produkty są pokazywane klientom jako dodatek do oglądanych przez nich produktów.",module,Magento_Catalog
 "Add Related Products","Dodaj produkty",module,Magento_Catalog
@@ -1812,14 +1812,14 @@ Role,Rola,module,Magento_Catalog
 "In stock","W magazynie",module,Magento_Catalog
 "Out of stock","Brak w magazynie",module,Magento_Catalog
 "Add to Wish List","Dodaj do schowka",module,Magento_Catalog
-"You have no items to compare.","Nie masz produktów do porównania.",module,Magento_Catalog
+"You have no items to compare.","Nie dodałeś żadnych produktów do porównania.",module,Magento_Catalog
 "Remove This Item","Usuń ten element",module,Magento_Catalog
 Compare,Porównaj,module,Magento_Catalog
 "Clear All","Wyczyść wszystko",module,Magento_Catalog
 Prev,Poprzedni,module,Magento_Catalog
 Next,Następne,module,Magento_Catalog
 "We can't find products matching the selection.","Nie możemy odnaleźć pasujących produktów do zaznaczenia.",module,Magento_Catalog
-"Add to Compare","Dodaj do porównania",module,Magento_Catalog
+"Add to Compare",Porównaj,module,Magento_Catalog
 "Learn More","Dowiedz się więcej",module,Magento_Catalog
 "We found other products you might like!","Znaleźliśmy inne produkty, które mogą Cię zainteresować!",module,Magento_Catalog
 "More Choices:","Więcej możliwości:",module,Magento_Catalog
@@ -1836,7 +1836,7 @@ Show,Pokaż,module,Magento_Catalog
 "View as","Zobacz jako",module,Magento_Catalog
 "More Information","Więcej informacji",module,Magento_Catalog
 Loading...,Ładuję...,module,Magento_Catalog
-"* Required Fields","* wymagane pola",module,Magento_Catalog
+"* Required Fields","* pola wymagane",module,Magento_Catalog
 Availability,Dostępność,module,Magento_Catalog
 "Warning message","Komunikat ostrzegawczy",module,Magento_Catalog
 Submit,Wyślij,module,Magento_Catalog
@@ -1848,7 +1848,7 @@ OK,OK,module,Magento_Catalog
 "Please select items.","Prosimy wybrać produkty.",module,Magento_Catalog
 "Choose existing category.","Wybierz istniejącej kategorii.",module,Magento_Catalog
 "Image Detail","Szczegóły obrazu",module,Magento_Catalog
-Adding...,dodawane...,module,Magento_Catalog
+Adding...,Dodawanie...,module,Magento_Catalog
 Added,Dodane,module,Magento_Catalog
 "unselect all","odznacz wszystko",module,Magento_Catalog
 Inventory,Magazyn,module,Magento_Catalog
@@ -1961,7 +1961,7 @@ Theme,Temat,module,Magento_Catalog
 Layout,Układ,module,Magento_Catalog
 "Layout Update XML","XML aktualizacji układu",module,Magento_Catalog
 "Apply Design to Products","Zastosuj projekt do produktów",module,Magento_Catalog
-"Schedule Design Update","Harmonogram aktualizacji projektu",module,Magento_Catalog
+"Schedule Design Update","Harmonogram aktualizacji wyglądu",module,Magento_Catalog
 AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
 "Product Image Watermarks","Znaki wodne produktu",module,Magento_Catalog
@@ -2423,7 +2423,7 @@ SKU,SKU,module,Magento_CatalogWidget
 "In stock","W magazynie",module,Magento_CatalogWidget
 "Out of stock","Brak w magazynie",module,Magento_CatalogWidget
 "Add to Wish List","Dodaj do schowka",module,Magento_CatalogWidget
-"Add to Compare","Dodaj do porównania",module,Magento_CatalogWidget
+"Add to Compare",Porównaj,module,Magento_CatalogWidget
 "Catalog Products List","Lista produktów",module,Magento_CatalogWidget
 "List of Products","Lista produktów",module,Magento_CatalogWidget
 Title,Tytuł,module,Magento_CatalogWidget
@@ -2509,8 +2509,8 @@ Qty,Ilość,module,Magento_Checkout
 Subtotal,"Suma częściowa",module,Magento_Checkout
 "Continue Shopping","Kontynuuj zakupy",module,Magento_Checkout
 "Clear Shopping Cart","Opróżnij koszyk",module,Magento_Checkout
-"Update Shopping Cart","Aktualizuj koszyk",module,Magento_Checkout
-"Update Cart","Aktualizuj koszyk",module,Magento_Checkout
+"Update Shopping Cart","Przelicz koszyk",module,Magento_Checkout
+"Update Cart","Przelicz koszyk",module,Magento_Checkout
 "See price before order confirmation.","Zobacz cenę przed potwierdzeniem zamówienia.",module,Magento_Checkout
 "What's this?","Co to jest?",module,Magento_Checkout
 "Edit item parameters","Zmień parametry",module,Magento_Checkout
@@ -2527,7 +2527,7 @@ Loading...,Ładuję...,module,Magento_Checkout
 "Product Name","Nazwa produktu",module,Magento_Checkout
 "Incl. Tax","Z podatkiem",module,Magento_Checkout
 "Your order number is: %1.","Numer zamówienia: %1.",module,Magento_Checkout
-"Your order # is: <span>%1</span>.","Twój numer zamówienia to: <span>%1</span>.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Numer Twojego zamówienia to: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Zostanie wysłany e-mail z potwierdzeniem zamówienia oraz informacje umożliwiające śledzenie przesyłki.",module,Magento_Checkout
 "Payment Transaction Failed Reminder","Payment Transaction Failed Reminder",module,Magento_Checkout
 "Payment Transaction Failed","Płatność nie powiodła się",module,Magento_Checkout
@@ -2566,12 +2566,12 @@ Remove,Usuń,module,Magento_Checkout
 "No Payment Methods","Brak metod płatności",module,Magento_Checkout
 "Payment Information","Informacje o płatności",module,Magento_Checkout
 "No Payment method available.","Brak dostępnych metod płatności.",module,Magento_Checkout
-"You can track your order status by creating an account.","Możesz śledzić informacje o statusie Twojego zamówienia poprzez utworzenie konta.",module,Magento_Checkout
+"You can track your order status by creating an account.","Jeżeli założysz konto, będziesz mógł śledzić status swojego zamówienia.",module,Magento_Checkout
 "Place Order","Złóż zamówienie",module,Magento_Checkout
 "Forgot an Item?","Zapomniałeś dodać produkt?",module,Magento_Checkout
 "Edit Your Cart","Edytuj koszyk",module,Magento_Checkout
 "Ship Here","Wysyłamy Tutaj",module,Magento_Checkout
-"Ship To:","Dostawa do:",module,Magento_Checkout
+"Ship To:","Dostawa na adres:",module,Magento_Checkout
 edit,Zmień,module,Magento_Checkout
 "Shipping Address","Adres wysyłki",module,Magento_Checkout
 "New Address","Nowy adres",module,Magento_Checkout
@@ -2579,7 +2579,7 @@ edit,Zmień,module,Magento_Checkout
 "Select Method","Wybierz metodę",module,Magento_Checkout
 "Method Title","Nazwa metody",module,Magento_Checkout
 "Carrier Title","Nazwa dostawcy",module,Magento_Checkout
-Next,Następne,module,Magento_Checkout
+Next,Dalej,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Niestety, żadne możliwości nie są dostępne dla tego zamówienia w chwili obecnej",module,Magento_Checkout
 "Order Summary","Podsumowanie zamówienia",module,Magento_Checkout
 "Item in Cart","Produkty w koszyku",module,Magento_Checkout
@@ -2588,7 +2588,7 @@ Next,Następne,module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Wprowadzony kod pocztowy jest nieprawidłowy.",module,Magento_Checkout
 Example:,Przykład:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Jeżeli uważasz że to prawda możesz zignorować to powiadomienie.",module,Magento_Checkout
-"Review & Payments","Recenzje i płatności",module,Magento_Checkout
+"Review & Payments","Podsumowanie i płatność",module,Magento_Checkout
 Shipping,Dostawa,module,Magento_Checkout
 "Save Address","Zapisz adres",module,Magento_Checkout
 "Checkout Options","Opcje zamówienia",module,Magento_Checkout
@@ -2611,16 +2611,16 @@ Shipping,Dostawa,module,Magento_Checkout
 "Send Payment Failed Email Copy Method","Wyślij kopię e-maila o nieudanej płatności metodą",module,Magento_Checkout
 Summary,Podsumowanie,module,Magento_Checkout
 "Order Total",Podsumowanie,module,Magento_Checkout
-"We'll send your order confirmation here.","Wyślemy potwierdzenie Twojego zamówienia tutaj.",module,Magento_Checkout
+"We'll send your order confirmation here.","Na ten adres wyślemy potwierdzenie zamówienia.",module,Magento_Checkout
 Payment,Płatność,module,Magento_Checkout
 "Not yet calculated","Jeszcze nie obliczone",module,Magento_Checkout
 "We received your order!","Otrzymaliśmy zamówienie!",module,Magento_Checkout
 "Thank you for your purchase!","Dziękujemy za złożenie zamówienia!",module,Magento_Checkout
-"Terms and Conditions","Warunki składania zamówienia",module,Magento_CheckoutAgreements
+"Terms and Conditions","Zasady składania zamówień",module,Magento_CheckoutAgreements
 "Add New Condition","Dodaj nowy warunek",module,Magento_CheckoutAgreements
 "Save Condition","Zapisz warunki",module,Magento_CheckoutAgreements
 "Delete Condition","Usuń warunek",module,Magento_CheckoutAgreements
-"Edit Terms and Conditions","Edytuj warunki składania zamówienia",module,Magento_CheckoutAgreements
+"Edit Terms and Conditions","Edytuj zasady składania zamówień",module,Magento_CheckoutAgreements
 "New Terms and Conditions","Nowe warunki składania zamówienia",module,Magento_CheckoutAgreements
 "Terms and Conditions Information","Informacja o warunkach składania zamówienia",module,Magento_CheckoutAgreements
 "Condition Name","Nazwa warunku",module,Magento_CheckoutAgreements
@@ -3012,7 +3012,7 @@ Summary,Podsumowanie,module,Magento_ConfigurableProduct
 Confirm,Potwierdź,module,Magento_ConfigurableProduct
 "New Attribute Set Name","New Attribute Set Name",module,Magento_ConfigurableProduct
 "Select Associated Product","Wybierz produkt powiązany",module,Magento_ConfigurableProduct
-Done,Zrobione,module,Magento_ConfigurableProduct
+Done,Gotowe,module,Magento_ConfigurableProduct
 "Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Na lepsze wyniki dodaj atrybuty i wartości atrybutu do swoich produktów.",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Produkty konfigurowalne pozwalają klientom na wybranie produktu w określonej konfiguracji (np. konkretnego koloru koszulki). Każda konfiguracja (np. każdy kolor koszulki) wymaga stworzenia odrębnego produktu prostego.",module,Magento_ConfigurableProduct
@@ -3134,7 +3134,7 @@ Comparable,Porównywalne,module,Magento_ConfigurableProductStaging
 "Page not found.","Nie znaleziono strony.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Dziękujemy za skontaktowanie się z nami. Odpowiemy najszybciej jak to będzie możliwe.",module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.","Nie możemy zrealizować teraz twojego żądania.",module,Magento_Contact
-"* Required Fields","* wymagane pola",module,Magento_Contact
+"* Required Fields","* pola wymagane",module,Magento_Contact
 "Write Us","Napisz do nas",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Zostaw nam wiadomość, a my skontaktujemy się z Tobą tak szybko jak to możliwe.",module,Magento_Contact
 Name,Nazwa,module,Magento_Contact
@@ -3249,7 +3249,7 @@ region,region,module,Magento_Customer
 "Create Order","Utwórz zamówienie",module,Magento_Customer
 "Save Customer","Zapisz klienta",module,Magento_Customer
 "Delete Customer","Usuń klienta",module,Magento_Customer
-"Reset Password","Resetuj hasło",module,Magento_Customer
+"Reset Password","Zresetuj hasło",module,Magento_Customer
 "Are you sure you want to revoke the customer's tokens?","Czy na pewno chcesz unieważnić token użytkownika?",module,Magento_Customer
 "Force Sign-In","Wymuś logowanie",module,Magento_Customer
 "New Customer","Nowy klient",module,Magento_Customer
@@ -3364,7 +3364,7 @@ Download,Pobierz,module,Magento_Customer
 "Please correct the email address.","Proszę poprawić adres e-mail.",module,Magento_Customer
 "We're unable to send the password reset email.","Jesteśmy w stanie wysłać e-maila resetowania hasła.",module,Magento_Customer
 "Please enter your email.","Prosimy wpisać adres e-mail",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Jeśli istnieje konto powiązane z %1 otrzymasz e-mail z linkiem do resetowania hasła.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Jeśli istnieje konto powiązane z %1 otrzymasz e-mail z linkiem do zresetowania hasła.",module,Magento_Customer
 "My Account","Moje konto",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","To konto nie jest potwierdzone. "" ""<a href=""%1""> kliknij tutaj,</a> aby wysłać e-mail z potwierdzeniem.",module,Magento_Customer
 "Invalid login or password.","Nieprawidłowa nazwa użytkownika lub hasło.",module,Magento_Customer
@@ -3553,7 +3553,7 @@ or,lub,module,Magento_Customer
 "Additional Address Entries","Dodatkowe adresy",module,Magento_Customer
 "Delete Address","Usuń adres",module,Magento_Customer
 "You have no other address entries in your address book.","Nie masz innych wpisów adresów w swojej książce adresowej.",module,Magento_Customer
-"* Required Fields","* wymagane pola",module,Magento_Customer
+"* Required Fields","* pola wymagane",module,Magento_Customer
 Company,Firma,module,Magento_Customer
 "Phone Number","Numer telefonu",module,Magento_Customer
 Fax,Faks,module,Magento_Customer
@@ -3919,7 +3919,7 @@ Customer,Klient,module,Magento_CustomerCustomAttributes
 "This fieldset is not empty!","Ten zestaw pól nie jest pusty!",module,Magento_CustomerCustomAttributes
 "Choose Website:","Wybierz stronę:",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Potwierdź zmianę poziomu. Wszystkie niezapisane dane zostaną utracone.",module,Magento_CustomerCustomAttributes
-"* Required Fields","* wymagane pola",module,Magento_CustomerCustomAttributes
+"* Required Fields","* pola wymagane",module,Magento_CustomerCustomAttributes
 "Contact Information","Informacje kontaktowe",module,Magento_CustomerCustomAttributes
 Company,Firma,module,Magento_CustomerCustomAttributes
 "Phone Number","Numer telefonu",module,Magento_CustomerCustomAttributes
@@ -5101,7 +5101,7 @@ OK,OK,module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for this address.","Możesz pozostawić puste pole jeśli nie chcesz dodać wiadomości prezentowej dla tego adresu.",module,Magento_GiftMessage
 "Add gift options for Individual Items","Dodaj opcje podarunkowe dla pojedynczych produktów",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for the item.","Możesz pozostawić puste pole jeśli nie chcesz dodać wiadomości prezentowej dla tego produktu.",module,Magento_GiftMessage
-"Gift Message (optional)","wiadomość podarunkowa (opcjonalnie)",module,Magento_GiftMessage
+"Gift Message (optional)","Wiadomość podarunkowa (opcjonalnie)",module,Magento_GiftMessage
 To:,Do:,module,Magento_GiftMessage
 From:,Z:,module,Magento_GiftMessage
 Message:,Wiadomość:,module,Magento_GiftMessage
@@ -5322,7 +5322,7 @@ Remove,Usuń,module,Magento_GiftRegistry
 "First Name",Imię,module,Magento_GiftRegistry
 Name,Nazwa,module,Magento_GiftRegistry
 Email,E-mail,module,Magento_GiftRegistry
-"* Required Fields","* wymagane pola",module,Magento_GiftRegistry
+"* Required Fields","* pola wymagane",module,Magento_GiftRegistry
 Sender,Nadawca,module,Magento_GiftRegistry
 Invitee,Zaproszony,module,Magento_GiftRegistry
 "Maximum %1 email addresses.","Maksymalnie %1 adresów e-mail.",module,Magento_GiftRegistry
@@ -5347,7 +5347,7 @@ label,etykieta,module,Magento_GiftRegistry
 Quantity:,Ilość:,module,Magento_GiftRegistry
 "Customize and Add to Gift Registry","Dostosuj i dodaj do rejestru prezentów",module,Magento_GiftRegistry
 "This won't take long . . .","To nie potrwa długo...",module,Magento_GiftRegistry
-"Required Fields","Wymagane pola",module,Magento_GiftRegistry
+"Required Fields","Pola wymagane",module,Magento_GiftRegistry
 "Search Options","Opcje wyszukiwania",module,Magento_GiftRegistry
 "For better search results, first choose a gift registry type. By default, we search all registry types.","Dla lepszego wyszukiwania, wybierz typ rejestru prezentów. Domyślnie wyszukiwane są wszystkie typy rejestru.",module,Magento_GiftRegistry
 "Type Specific Options","Specyficzne opcje typu",module,Magento_GiftRegistry
@@ -5822,7 +5822,7 @@ Resources,Zasoby,module,Magento_Integration
 "Sorry, something went wrong. Please try again later.","Przepraszamy coś poszło nie tak. Prosimy spróbować ponownie później.",module,Magento_Integration
 "Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
 Allow,Zezwól,module,Magento_Integration
-Done,Zrobione,module,Magento_Integration
+Done,Gotowe,module,Magento_Integration
 Extensions,Rozszerzenia,module,Magento_Integration
 OAuth,OAuth,module,Magento_Integration
 "Cleanup Settings","Ustawienia czyszczenia",module,Magento_Integration
@@ -5932,7 +5932,7 @@ Link,Odnośnik,module,Magento_Invitation
 "Sign Up At","Zarejestruj się w",module,Magento_Invitation
 "Inviter Information","Informacje zaproszenia",module,Magento_Invitation
 Admin,Administrator,module,Magento_Invitation
-"* Required Fields","* wymagane pola",module,Magento_Invitation
+"* Required Fields","* pola wymagane",module,Magento_Invitation
 "Invite your friends by entering their email addresses","Zaproś znajomych poprzez wprowadzanie ich adresów e-mail",module,Magento_Invitation
 "Maximum %1 email addresses allowed.","Dopuszczalne maksymalnie %1 adresów e-mail.",module,Magento_Invitation
 Add,Dodaj,module,Magento_Invitation
@@ -6301,7 +6301,7 @@ Back,Powrót,module,Magento_MultipleWishlist
 "Move to Wish List","Dodaj do schowka",module,Magento_MultipleWishlist
 "Copy to Wish List","Kopiuj do schowka",module,Magento_MultipleWishlist
 "Search Options","Opcje wyszukiwania",module,Magento_MultipleWishlist
-"Required Fields","Wymagane pola",module,Magento_MultipleWishlist
+"Required Fields","Pola wymagane",module,Magento_MultipleWishlist
 "First Name",Imię,module,Magento_MultipleWishlist
 "Last Name",Nazwisko,module,Magento_MultipleWishlist
 Search,Szukaj,module,Magento_MultipleWishlist
@@ -7148,7 +7148,7 @@ Updated:,Zaktualizowano:,module,Magento_Paypal
 "Payment Method:","Metoda płatności:",module,Magento_Paypal
 "Order #","Zamówienie #",module,Magento_Paypal
 Date,Data,module,Magento_Paypal
-"Ship To","Dostawa do",module,Magento_Paypal
+"Ship To","Dostawa na adres",module,Magento_Paypal
 "Order Status","Stan zamówienia",module,Magento_Paypal
 "View Order","Zobacz zamówienie",module,Magento_Paypal
 "Back to Billing Agreements","Powrót do umów rozliczeniowych",module,Magento_Paypal
@@ -7899,7 +7899,7 @@ Error,Błąd,module,Magento_Reports
 "In stock","W magazynie",module,Magento_Reports
 "Out of stock","Brak w magazynie",module,Magento_Reports
 "Add to Wish List","Dodaj do schowka",module,Magento_Reports
-"Add to Compare","Dodaj do porównania",module,Magento_Reports
+"Add to Compare",Porównaj,module,Magento_Reports
 "Recently Compared","Ostatnio porównywane",module,Magento_Reports
 "Learn More","Dowiedz się więcej",module,Magento_Reports
 Marketing,Marketing,module,Magento_Reports
@@ -8071,8 +8071,8 @@ Back,Powrót,module,Magento_Review
 "Ratings Review Summary","Podsumowanie przeglądu oceny",module,Magento_Review
 "Be the first to review this product","Oceń ten produkt jako pierwszy",module,Magento_Review
 "Write Your Own Review","Napisz własną recenzję",module,Magento_Review
-"* Required Fields","* wymagane pola",module,Magento_Review
-"You're reviewing:","Piszesz opinię o:",module,Magento_Review
+"* Required Fields","* pola wymagane",module,Magento_Review
+"You're reviewing:","Napisz opinię o produkcie:",module,Magento_Review
 "Your Rating","Twoja ocena",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 Summary,Podsumowanie,module,Magento_Review
@@ -9260,7 +9260,7 @@ Continue,Kontynuuj,module,Magento_Sales
 "Product Name","Nazwa produktu",module,Magento_Sales
 "Order #","Zamówienie #",module,Magento_Sales
 Date,Data,module,Magento_Sales
-"Ship To","Dostawa do",module,Magento_Sales
+"Ship To","Dostawa na adres",module,Magento_Sales
 Actions,Operacje,module,Magento_Sales
 "View Order","Zobacz zamówienie",module,Magento_Sales
 "You have placed no orders.","Nie masz jeszcze żadnych zamówień.",module,Magento_Sales
@@ -9953,7 +9953,7 @@ Website,Witryna,module,Magento_Search
 "Someone logged into this account from another device or browser. Your current session is terminated.","Ktoś zalogował się na to konto z innej przeglądarki lub urządzenia. Twoja bieżąca sesja zostaje zakończona.",module,Magento_Security
 "Your current session is terminated by another user of this account.","Twoja obecna sesja została zakończona przez innego użytkownika tego konta.",module,Magento_Security
 "Your account is temporarily disabled.","Twoje konto jest tymczasowo wyłączone.",module,Magento_Security
-"Your current session has been expired.","Twoja obecna sesja uległa przedawnieniu.",module,Magento_Security
+"Your current session has been expired.","Twoja obecna sesja wygasła.",module,Magento_Security
 "By IP and Email","Przez IP i E-mail",module,Magento_Security
 "By IP","Przez IP",module,Magento_Security
 "By Email","Przez E-mail",module,Magento_Security
@@ -10001,7 +10001,7 @@ Exception.,Wyjątek.,module,Magento_SendFriend
 Remove,Usuń,module,Magento_SendFriend
 Name,Nazwa,module,Magento_SendFriend
 Email,E-mail,module,Magento_SendFriend
-"* Required Fields","* wymagane pola",module,Magento_SendFriend
+"* Required Fields","* pola wymagane",module,Magento_SendFriend
 Sender,Nadawca,module,Magento_SendFriend
 Message,Wiadomość,module,Magento_SendFriend
 Invitee,Zaproszony,module,Magento_SendFriend
@@ -10287,7 +10287,7 @@ Action,Operacja,module,Magento_Sitemap
 "Test Connection","Przetestuj połączenie",module,Magento_Solr
 Cancel,Anuluj,module,Magento_Staging
 "Preview Update","Podgląd aktualizacji",module,Magento_Staging
-Done,Zrobione,module,Magento_Staging
+Done,Gotowe,module,Magento_Staging
 "Remove this update","Usuń aktualizację",module,Magento_Staging
 Save,Zapisz,module,Magento_Staging
 "Schedule New Update","Zaplanuj nową aktualizację",module,Magento_Staging
@@ -11185,7 +11185,7 @@ Add,Dodaj,module,Magento_Ui
 "Something went wrong.","Coś poszło nie tak.",module,Magento_Ui
 Yes,Tak,module,Magento_Ui
 No,Nie,module,Magento_Ui
-Done,Zrobione,module,Magento_Ui
+Done,Gotowe,module,Magento_Ui
 options,opcje,module,Magento_Ui
 Select...,Wybierz...,module,Magento_Ui
 Selected,Wybrane,module,Magento_Ui
@@ -11445,7 +11445,7 @@ No,Nie,module,Magento_UrlRewrite
 "Temporary (302)","Tymczasowe (302)",module,Magento_UrlRewrite
 "Permanent (301)","Stałe (301)",module,Magento_UrlRewrite
 "Request Path for Specified Store","Wymagaj ścieżki dla określonego sklepu",module,Magento_UrlRewrite
-"URL key for specified store already exists.","Adres URL klucz dla określonego sklepu już istnieje.",module,Magento_UrlRewrite
+"URL key for specified store already exists.","Klucz URL dla wybranego sklepu już istnieje.",module,Magento_UrlRewrite
 "Custom storage message","Magazyn niestandardowych wiadomości",module,Magento_UrlRewrite
 "Select Category","Wybierz kategorię",module,Magento_UrlRewrite
 Action,Operacja,module,Magento_UrlRewrite
@@ -11544,15 +11544,15 @@ username,"nazwa użytkownika",module,Magento_User
 "It's time to change your password.","Nadszedł czas, abyś zmienił swoje hasło.",module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","It's time to <a href=""%1"">change your password</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Twoje hasło wygasło; Skontaktuj się z administratorem.",module,Magento_User
-"Password Help","Pomoc hasła",module,Magento_User
-"Enter your email address.  You will receive an email with a link to reset your password.","Wpisz swój adres e-mail.  Otrzymasz e-mail z linkiem do resetowania hasła.",module,Magento_User
+"Password Help","Pomoc z hasłem",module,Magento_User
+"Enter your email address.  You will receive an email with a link to reset your password.","Wpisz swój adres e-mail. Otrzymasz następnie e-mail z linkiem do zresetowania hasła.",module,Magento_User
 "Email address","Adres e-mail",module,Magento_User
 "Retrieve Password","Odzyskaj hasło",module,Magento_User
 "Back to Sign in","Powrót do logowania",module,Magento_User
 "Forgot your password?","Nie pamiętasz hasła?",module,Magento_User
-"Reset a Password","Resetuj hasło",module,Magento_User
+"Reset a Password","Zresetuj hasło",module,Magento_User
 "Confirm New Password","Potwierdź nowe hasło",module,Magento_User
-"Reset Password","Resetuj hasło",module,Magento_User
+"Reset Password","Zresetuj hasło",module,Magento_User
 "Roles Resources","Zasoby ról",module,Magento_User
 "Resource Access","Dostęp do zasobów",module,Magento_User
 Custom,Niestandardowe,module,Magento_User
@@ -12182,7 +12182,7 @@ Availability,Dostępność,module,Magento_Wishlist
 Edit,Zmień,module,Magento_Wishlist
 "Remove Item","Usuń produkt",module,Magento_Wishlist
 "Remove item","Usuń produkt",module,Magento_Wishlist
-"Add to Compare","Dodaj do porównania",module,Magento_Wishlist
+"Add to Compare",Porównaj,module,Magento_Wishlist
 "This Wish List has no Items","Ten schowek nie zawiera żadnych produktów",module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 został dodany do schowka.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Wishlist
@@ -12194,7 +12194,7 @@ Product,Produkt,module,Magento_Wishlist
 "Add to Wish List","Dodaj do schowka",module,Magento_Wishlist
 Back,Powrót,module,Magento_Wishlist
 "Wish List is empty now.","Schowek jest pusty.",module,Magento_Wishlist
-"* Required Fields","* wymagane pola",module,Magento_Wishlist
+"* Required Fields","* pola wymagane",module,Magento_Wishlist
 "Sharing Information","Współdzielone informacja",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresy e-mail rozdzielane przecinkami",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Sprawdź tutaj żeby podlinkować RSS do swojej listy życzeń.",module,Magento_Wishlist
