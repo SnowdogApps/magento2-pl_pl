@@ -2618,11 +2618,11 @@ Payment,Płatność,module,Magento_Checkout
 "Thank you for your purchase!","Dziękujemy za złożenie zamówienia!",module,Magento_Checkout
 "Terms and Conditions","Zasady składania zamówień",module,Magento_CheckoutAgreements
 "Add New Condition","Dodaj nowy warunek",module,Magento_CheckoutAgreements
-"Save Condition","Zapisz warunki",module,Magento_CheckoutAgreements
+"Save Condition","Zapisz warunek",module,Magento_CheckoutAgreements
 "Delete Condition","Usuń warunek",module,Magento_CheckoutAgreements
 "Edit Terms and Conditions","Edytuj zasady składania zamówień",module,Magento_CheckoutAgreements
 "New Terms and Conditions","Nowe warunki składania zamówienia",module,Magento_CheckoutAgreements
-"Terms and Conditions Information","Informacja o warunkach składania zamówienia",module,Magento_CheckoutAgreements
+"Terms and Conditions Information","Informacje o warunku",module,Magento_CheckoutAgreements
 "Condition Name","Nazwa warunku",module,Magento_CheckoutAgreements
 Status,Status,module,Magento_CheckoutAgreements
 Enabled,Włączone,module,Magento_CheckoutAgreements
@@ -3712,7 +3712,7 @@ Strong,Strong,module,Magento_Customer
 "Show Tax/VAT Number","Pokazuj numer NIP",module,Magento_Customer
 "Show Gender","Pokazuj płeć",module,Magento_Customer
 "Login Options","Opcje logowania",module,Magento_Customer
-"Redirect Customer to Account Dashboard after Logging in","Przekieruj klienta do Panelu konta po zalogowaniu.",module,Magento_Customer
+"Redirect Customer to Account Dashboard after Logging in","Przekieruj klienta do panelu po zalogowaniu",module,Magento_Customer
 "Customer will stay on the current page if ""No"" is selected.","Klient pozostanie na aktualnej stronie jeśli jest wybrane ""Nie"".",module,Magento_Customer
 "Address Templates","Szablony adresu",module,Magento_Customer
 "Online Customers Options","Opcje klientów online",module,Magento_Customer
@@ -3750,7 +3750,7 @@ Type,Rodzaj,module,Magento_Customer
 "Send Welcome Email From","Wyślij wiadomość powitalną z tego emaila",module,Magento_Customer
 Addresses,"Książka adresowa",module,Magento_Customer
 "Are you sure you want to delete this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_Customer
-"Account Dashboard","Panel konta",module,Magento_Customer
+"Account Dashboard",Panel,module,Magento_Customer
 "Edit Account Information","Edytuj informacje o koncie",module,Magento_Customer
 "Password forgotten","Zapomniane hasło",module,Magento_Customer
 "My Dashboard","Mój panel",module,Magento_Customer
@@ -12283,7 +12283,7 @@ Debug,"Tryb debug",module,Magento_Worldpay
 "Set Order Status to Suspected Fraud for Postcode AVS","Ustaw stan zamówienia do podejrzenia oszustwa o kod pocztowy AVS",module,Magento_Worldpay
 "Sort Order","Kolejność sortowania",module,Magento_Worldpay
 Summary,Podsumowanie,theme,frontend/Magento/blank
-"Account Dashboard","Panel konta",theme,frontend/Magento/blank
+"Account Dashboard",Panel,theme,frontend/Magento/blank
 "Account Information","Dane konta",theme,frontend/Magento/blank
 "Address Book","Książka adresowa",theme,frontend/Magento/blank
 Menu,Menu,theme,frontend/Magento/blank
@@ -12343,6 +12343,6 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Aktualizacja do przesyłki %store_name",theme,frontend/Magento/luma
-"Account Dashboard","Panel konta",theme,frontend/Magento/luma
+"Account Dashboard",Panel,theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
