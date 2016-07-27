@@ -3526,8 +3526,8 @@ Customer,Klient,module,Magento_Customer
 "Account Lock:","Blokada konta:",module,Magento_Customer
 "Confirmed email:","Potwierdzony e-mail:",module,Magento_Customer
 "Account Created:","Konto założone:",module,Magento_Customer
-"Account Created on (%1):","Konto utworzono (%1):",module,Magento_Customer
-"Account Created in:","Konto utworzono w:",module,Magento_Customer
+"Account Created on (%1):","Miejsce utworzenia (%1):",module,Magento_Customer
+"Account Created in:","Miejsce utworzenia:",module,Magento_Customer
 "Customer Group:","Grupa klienta:",module,Magento_Customer
 "Default Billing Address","Domyślny adres rozliczeniowy",module,Magento_Customer
 "Sales Statistics","Statystyki sprzedaży",module,Magento_Customer
@@ -3600,7 +3600,7 @@ Password,Hasło,module,Magento_Customer
 "Set a New Password","Ustaw nowe hasło",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Wylogowałeś się i zostaniesz przekierowany na stronę główną w ciągu 5 sekund.",module,Magento_Customer
 "New Customers","Nowi klienci",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Stworzenie konta daje wiele zalet. Szybszy proces składania zamówienia, możliwość zapisywania swoich adresów i śledzenie stanu zamówień to tylko niektóre z nich.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Posiadanie konta ma wiele zalet. Szybszy proces składania zamówienia, możliwość zapisywania swoich adresów i śledzenie stanu zamówień to tylko niektóre z nich.",module,Magento_Customer
 Gender,Płeć,module,Magento_Customer
 Name,Nazwa,module,Magento_Customer
 "Tax/VAT number","Numer NIP",module,Magento_Customer
@@ -3735,7 +3735,7 @@ Phone,Telefon,module,Magento_Customer
 ZIP,"Kod pocztowy",module,Magento_Customer
 "Customer Since","Klient od",module,Magento_Customer
 "Confirmed email","Potwierdzony e-mail",module,Magento_Customer
-"Account Created in","Konto utworzono",module,Magento_Customer
+"Account Created in","Miejsce utworzenia",module,Magento_Customer
 "Tax VAT Number","Numer NIP",module,Magento_Customer
 "Billing Firstname","Imię (do dostawy)",module,Magento_Customer
 "Billing Lastname","Nazwisko (do dostawy)",module,Magento_Customer
