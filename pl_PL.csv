@@ -3712,7 +3712,7 @@ Strong,Strong,module,Magento_Customer
 "Show Tax/VAT Number","Pokazuj numer NIP",module,Magento_Customer
 "Show Gender","Pokazuj płeć",module,Magento_Customer
 "Login Options","Opcje logowania",module,Magento_Customer
-"Redirect Customer to Account Dashboard after Logging in","Przekieruj klienta do panelu po zalogowaniu",module,Magento_Customer
+"Redirect Customer to Account Dashboard after Logging in","Po zalogowaniu przekieruj klienta do panelu",module,Magento_Customer
 "Customer will stay on the current page if ""No"" is selected.","Klient pozostanie na aktualnej stronie jeśli jest wybrane ""Nie"".",module,Magento_Customer
 "Address Templates","Szablony adresu",module,Magento_Customer
 "Online Customers Options","Opcje klientów online",module,Magento_Customer
