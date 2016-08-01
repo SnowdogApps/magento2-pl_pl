@@ -3159,8 +3159,8 @@ Contacts,Kontakty,module,Magento_Contact
 "Invalid domain name: %1","Nieprawidłowa nazwa domeny: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Nieprawidłowy czas trwania ciasteczka: %1",module,Magento_Cookie
 "Invalid cookie path","Nieprawidłowa ścieżka cookie",module,Magento_Cookie
-"We use cookies to make your experience better.","Używamy cookies aby poprawić fukncjonowanie.",module,Magento_Cookie
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Zgodnie z nową dyrektywą e-Privacy, musimy zapytać o Twoją zgodę na ustawianie plików ciasteczek.",module,Magento_Cookie
+"We use cookies to make your experience better.","Używamy cookies aby ułatwić korzystanie ze sklepu.",module,Magento_Cookie
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Zgodnie z dyrektywą dotyczącą prywatności w sieci, musimy zapytać o Twoją zgodę na zapisywanie plików cookies.",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1""> Dowiedz się więcej</a>.",module,Magento_Cookie
 "Allow Cookies","Zezwalaj na pliki cookie",module,Magento_Cookie
 "Default Cookie Settings","Domyślne ustawienia plików Cookie",module,Magento_Cookie
@@ -3645,10 +3645,10 @@ Password:,Hasło:,module,Magento_Customer
 "Email Address","Adres e-mail",module,Magento_Customer
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Customer
 "Are you sure you want to delete this address?","Czy na pewno chcesz usunąć ten adres?",module,Magento_Customer
-Weak,Weak,module,Magento_Customer
+Weak,Słaby,module,Magento_Customer
 Medium,Średni,module,Magento_Customer
-Strong,Strong,module,Magento_Customer
-"Very Strong","Very Strong",module,Magento_Customer
+Strong,Silny,module,Magento_Customer
+"Very Strong","Bardzo silne",module,Magento_Customer
 "Guest checkout is disabled.","Możliwość składania zamówień przez użytkowników niezalogowanych jest wyłączona.",module,Magento_Customer
 "All Customers","Lista klientów",module,Magento_Customer
 "Now Online","Obecnie zalogowani",module,Magento_Customer
