@@ -922,7 +922,7 @@ Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Prosimy zatwierdzić warunki zamawiania przed jego złożeniem.",module,Magento_Braintree
 "Paypal account","Konto Paypal",module,Magento_Braintree
 "Coinbase account","Coinbase account",module,Magento_Braintree
-"Europe bank account","Europe bank account",module,Magento_Braintree
+"Europe bank account","Rachunek bankowy w Europie",module,Magento_Braintree
 "Credit card","Karta kredytowa",module,Magento_Braintree
 "Apple pay card","Apple pay card",module,Magento_Braintree
 "Android pay card","Android pay card",module,Magento_Braintree
@@ -5902,7 +5902,7 @@ Reports,Raporty,module,Magento_Invitation
 "You can't update this message.","Nie możesz uaktualnić tej wiadomości.",module,Magento_Invitation
 "We can't generate encrypted code.","Nie można wygenerować zaszyfrowanego kodu.",module,Magento_Invitation
 "We can't find an ID for this invitation.","Nie udało się znaleźć ID dla tego zaproszenia.",module,Magento_Invitation
-"You can't send an invitation with status ""%1"".","You can't send an invitation with status ""%1"".",module,Magento_Invitation
+"You can't send an invitation with status ""%1"".","Nie możesz wysłać zaproszenia o statusie ""%1"".",module,Magento_Invitation
 "Please enter a valid invitation email.","Prosimy wpisać poprawny adres e-mail zaproszenia.",module,Magento_Invitation
 "We can't identify the proper website.","Nie możemy wskazać właściwej strony.",module,Magento_Invitation
 "Please specify an email.","Proszę podać e-mail.",module,Magento_Invitation
@@ -6832,7 +6832,7 @@ Sales,Sprzedaż,module,Magento_Paypal
 "View Transaction","Zobacz transakcję",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Nie znaleźliśmy nic do pobrania ze względu na pustą konfigurację.",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","Pobrane wiersze raportu %1 z ""%2@%3.""",module,Magento_Paypal
-"We can't fetch reports from ""%1@%2.""","We can't fetch reports from ""%1@%2.""",module,Magento_Paypal
+"We can't fetch reports from ""%1@%2.""","Nie można pobrać raportu z ""%1@%2.""",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","Umowa rozliczeniowa ""%1"" została anulowana.",module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","Umowa rozliczeniowa ""%1"" została utworzona.",module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","Nie możemy zakończyć Kreatora umowy płatności.",module,Magento_Paypal
