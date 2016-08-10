@@ -909,12 +909,12 @@ Error,Błąd,module,Magento_Banner
 Country,Kraj,module,Magento_Braintree
 "Allowed Credit Card Types","Dopuszczone rodzaje kart kredytowych",module,Magento_Braintree
 "Add Rule","Dodaj regułę",module,Magento_Braintree
-"Braintree Settlement Report","Braintree Settlement Report",module,Magento_Braintree
+"Braintree Settlement Report","Raport rozliczenia Braintree",module,Magento_Braintree
 "Sorry, but something went wrong","Przepraszamy, coś poszło nie tak",module,Magento_Braintree
 "We can't initialize checkout.","Nie można zainicjować zamówienia.",module,Magento_Braintree
-"No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_Braintree
-"Braintree error response.","Braintree error response.",module,Magento_Braintree
-"Payment method nonce can't be retrieved.","Payment method nonce can't be retrieved.",module,Magento_Braintree
+"No authorization transaction to proceed capture.","Nie ma autoryzacji transakcji do kontynuowania przechwytywania.",module,Magento_Braintree
+"Braintree error response.","Błąd odpowiedzi Braintree.",module,Magento_Braintree
+"Payment method nonce can't be retrieved.","Nie można pobrać identyfikatora jednorazowego metody płatności.",module,Magento_Braintree
 "Wrong transaction status","Błędny status transakcji",module,Magento_Braintree
 Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_Braintree
@@ -2260,8 +2260,8 @@ Back,Powrót,module,Magento_CatalogRule
 Actions,Operacje,module,Magento_CatalogRule
 Yes,Tak,module,Magento_CatalogRule
 No,Nie,module,Magento_CatalogRule
-"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CatalogRuleStaging
-"Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time.",module,Magento_CatalogRuleStaging
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_CatalogRuleStaging
+"Future Update End Time cannot be equal or earlier than Start Time.","Czas zakończenia przyszłej aktualizacji musi wypadać później niż jej czas rozpoczęcia.",module,Magento_CatalogRuleStaging
 "Smth went to exception","Smth udał do wyjątków",module,Magento_CatalogRuleStaging
 ID,ID,module,Magento_CatalogRuleStaging
 Rule,Reguła,module,Magento_CatalogRuleStaging
@@ -2337,7 +2337,7 @@ name,nazwa,module,Magento_CatalogSearch
 "Attribute ""%1"" is required.","Cecha %1 jest wymagana",module,Magento_CatalogStaging
 Enabled,Włączone,module,Magento_CatalogStaging
 Disabled,Wyłączone,module,Magento_CatalogStaging
-"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CatalogStaging
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_CatalogStaging
 "Unable to save product","Nie można zapisać produktu",module,Magento_CatalogStaging
 "The image cannot be removed as it has been assigned to the other image role","Obraz nie może zostać usunięty, ponieważ został przypisany do roli innego obrazu",module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
@@ -2816,7 +2816,7 @@ Enable,Włącz,module,Magento_Cms
 "Custom Theme","Indywidualny motyw graficzny",module,Magento_Cms
 "Custom Layout","Indywidualny układ",module,Magento_Cms
 "This block no longer exists.","Ten blok już nie istnieje.",module,Magento_CmsStaging
-"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CmsStaging
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_CmsStaging
 Error,Błąd,module,Magento_CmsStaging
 "New Theme","Nowy temat",module,Magento_CmsStaging
 "-- Please Select --","-- Wybierz --",module,Magento_CmsStaging
@@ -4293,7 +4293,7 @@ kgs,kgs,module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Niezdefiniowany zakres od ""%1-%2"".",module,Magento_Directory
 "Please correct the target currency.","Proszę poprawić w walucie docelowej.",module,Magento_Directory
 label,etykieta,module,Magento_Directory
-"We can't retrieve a rate from %1 for %2.","We can't retrieve a rate from %1 for %2.",module,Magento_Directory
+"We can't retrieve a rate from %1 for %2.","Nie możemy uzyskać stawki dla %1 z %2.",module,Magento_Directory
 "We can't retrieve a rate from %1.","Nie można pobrać kursu z %1.",module,Magento_Directory
 "FATAL ERROR:","BŁĄD KRYTYCZNY:",module,Magento_Directory
 "We can't initialize the import model.","Nie można zainicjować modelu importu.",module,Magento_Directory
@@ -5700,7 +5700,7 @@ Summary,Podsumowanie,module,Magento_ImportExport
 Ready,Gotowe,module,Magento_Indexer
 Processing,Przetwarzam,module,Magento_Indexer
 Never,Nigdy,module,Magento_Indexer
-"%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
+"%1 index is locked by another reindex process. Skipping.","%1 indeks jest zablokowany przez inny proces indeksowania. Pomijam.",module,Magento_Indexer
 "Index Management",Indeksy,module,Magento_Indexer
 "Please select indexers.","Prosimy wybrać indeksy.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indeks(ów) jest w tryby ""Zaplanowanej aktualizacji"".",module,Magento_Indexer
@@ -7520,7 +7520,7 @@ Delete,Usuń,module,Magento_ProductVideo
 "Could not apply coupon code","Nie udało się zastosować kodu rabatowego",module,Magento_Quote
 "Coupon code is not valid","Kod kuponu jest nieprawidłowy",module,Magento_Quote
 "Could not delete coupon code","Nie udało się usunąć kodu rabatowego",module,Magento_Quote
-"Cannot assign customer to the given cart. You don't have permission for this operation.","Cannot assign customer to the given cart. You don't have permission for this operation.",module,Magento_Quote
+"Cannot assign customer to the given cart. You don't have permission for this operation.","Nie można przypisać klienta do danego koszyka. Nie masz uprawnień do tej operacji.",module,Magento_Quote
 "Shipping address is not set","Nie jest ustawiony adres dostawy",module,Magento_Quote
 "The requested Payment Method is not available.","Wybrana metoda płatności nie jest dostępna.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","Znaleźliśmy błędne polecenia dodania produktu do zapytania.",module,Magento_Quote
@@ -9668,7 +9668,7 @@ Apply,Zastosuj,module,Magento_SalesRule
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRule
 "Discard subsequent rules","Odrzuć kolejne reguły",module,Magento_SalesRule
 "Default Rule Label for All Store Views","Domyślna etykiet reguły dla wszystkich widoków sklepu",module,Magento_SalesRule
-"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_SalesRuleStaging
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
 Rule,Reguła,module,Magento_SalesRuleStaging
 "Coupon Code","Kod kuponu",module,Magento_SalesRuleStaging
@@ -11167,7 +11167,7 @@ Translations,Tłumaczenia,module,Magento_Translation
 "Unsupported bookmark action.","Nieobsługiwana zakładka działania.",module,Magento_Ui
 "Parameter ""class"" must be present.","Parametr ""class"" jest wymagany.",module,Magento_Ui
 "Parameter ""sortOrder"" must be present.","Parametr ""sortOrder"" jest wymagany.",module,Magento_Ui
-"Invalid UI Component element name: '%1'","Invalid UI Component element name: '%1'",module,Magento_Ui
+"Invalid UI Component element name: '%1'","Nieprawidłowa nazwa elementu interfejsu użytkownika: '%1'",module,Magento_Ui
 "Bookmark with id ""%1"" does not exist.","Zakładka o identyfikatorze ""%1"" nie istnieje.",module,Magento_Ui
 "Invalid UI Component element name: ''","Invalid UI Component element name: ''",module,Magento_Ui
 Cancel,Anuluj,module,Magento_Ui
