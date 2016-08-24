@@ -4315,7 +4315,7 @@ Continue,Kontynuuj,module,Magento_Directory
 "Allowed Currencies","Dopuszczone waluty",module,Magento_Directory
 "Yahoo Finance Exchange","Yahoo Finance Exchange",module,Magento_Directory
 "Connection Timeout in Seconds","Timeout połączenia w sekundach",module,Magento_Directory
-Fixer.io,Fixer.IO,module,Magento_Directory
+Fixer.io,Fixer.io,module,Magento_Directory
 Webservicex,Webservicex,module,Magento_Directory
 "Scheduled Import Settings","Zaplanowane ustawienia importu",module,Magento_Directory
 Enabled,Włączone,module,Magento_Directory
