@@ -944,18 +944,18 @@ Sale,Sprzedaż,module,Magento_Braintree
 Credit,Kredyt,module,Magento_Braintree
 "Credit Card Type","Rodzaj karty kredytowej",module,Magento_Braintree
 "Credit Card Number","Numer karty kredytowej",module,Magento_Braintree
-"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_Braintree
+"Please, enter valid Credit Card Number","Wprowadź prawidłowy numer karty kredytowej",module,Magento_Braintree
 "Expiration Date","Data ważności",module,Magento_Braintree
-"Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_Braintree
+"Please, enter valid Expiration Date","Podaj prawidłową datę wygaśnięcia",module,Magento_Braintree
 "Card Verification Number","Numer weryfikacyjny karty",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_Braintree
-ending,ending,module,Magento_Braintree
+ending,końcówka,module,Magento_Braintree
 expires,wygasa,module,Magento_Braintree
 "Credit Card Information","Informacje karty kredytowej",module,Magento_Braintree
 "What is this?","Co to jest?",module,Magento_Braintree
-"Save for later use.","Save for later use.",module,Magento_Braintree
+"Save for later use.","Zapisz do późniejszego wykorzystania.",module,Magento_Braintree
 "Place Order","Złóż zamówienie",module,Magento_Braintree
-"This payment is not available","This payment is not available",module,Magento_Braintree
+"This payment is not available","Ta płatność nie jest dostępna",module,Magento_Braintree
 MM,MM,module,Magento_Braintree
 YY,RR,module,Magento_Braintree
 "Please try again with another form of payment.","Proszę spróbować ponownie z inną formę płatności.",module,Magento_Braintree
@@ -1170,7 +1170,7 @@ Drop-down,"Lista rozwijana",module,Magento_Bundle
 Checkbox,"Pole wyboru",module,Magento_Bundle
 "Multiple Select","Lista wielokrotnego wyboru",module,Magento_Bundle
 Required,Wymagane,module,Magento_Bundle
-"Is Default","Is Default",module,Magento_Bundle
+"Is Default","Jest domyślny",module,Magento_Bundle
 Name,Nazwa,module,Magento_Bundle
 "Default Quantity","Domyślna ilość",module,Magento_Bundle
 "User Defined","Zdefiniowane przez użytkownika",module,Magento_Bundle
@@ -2380,8 +2380,8 @@ Design,Wygląd,module,Magento_CatalogStaging
 Layout,Układ,module,Magento_CatalogStaging
 "Layout Update XML","XML aktualizacji układu",module,Magento_CatalogStaging
 "Apply Design to Products","Zastosuj projekt do produktów",module,Magento_CatalogStaging
-"Save as a New Update","Save as a New Update",module,Magento_CatalogStaging
-"Move to Another Campaign","Move to Another Campaign",module,Magento_CatalogStaging
+"Save as a New Update","Zapisz jako nową aktualizację",module,Magento_CatalogStaging
+"Move to Another Campaign","Przenieś do innej kampanii",module,Magento_CatalogStaging
 "Delete the Update","Usuń aktualizację",module,Magento_CatalogStaging
 "Deleting the update will remove the page from this campaign and all scheduled changes will be lost.","Deleting the update will remove the page from this campaign and all scheduled changes will be lost.",module,Magento_CatalogStaging
 20,20,module,Magento_CatalogStaging
@@ -2393,7 +2393,7 @@ Layout,Układ,module,Magento_CatalogStaging
 "End Time","Czas zakończenia",module,Magento_CatalogStaging
 ID,ID,module,Magento_CatalogStaging
 Thumbnail,Miniaturka,module,Magento_CatalogStaging
-"Attribute Set","Attribute Set",module,Magento_CatalogStaging
+"Attribute Set","Zestaw cech",module,Magento_CatalogStaging
 AttributeSetText,AttributeSetText,module,Magento_CatalogStaging
 Status,Status,module,Magento_CatalogStaging
 StatusText,StatusText,module,Magento_CatalogStaging
@@ -7557,7 +7557,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart belongs to different store.","Nie można przypisać klienta do danego koszyka. Koszyk należy do innego sklepu.",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart is not anonymous.","Nie można przypisać klienta do danego koszyka. Koszyk nie jest anonimowy.",module,Magento_Quote
 "Cannot assign customer to the given cart. Customer already has active cart.","Nie można przypisać klienta do danego koszyka. Klient ma już aktywny koszyk.",module,Magento_Quote
-"Unable to place order. Please try again later.","Unable to place order. Please try again later.",module,Magento_Quote
+"Unable to place order. Please try again later.","Nie można złożyć zamówienia. Proszę spróbować ponownie później.",module,Magento_Quote
 "Only 1 shipping assignment can be set","Only 1 shipping assignment can be set",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","Ta cena lub ilość nie jest ważna dla kasy.",module,Magento_Quote
 "Please check the shipping address information. %1","Proszę sprawdzić adres dostawy. %1",module,Magento_Quote
@@ -9784,7 +9784,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "You deleted a total of %1 record(s).","Usunięto w sumie %1 rekord(ów).",module,Magento_ScheduledImportExport
 "We can't delete all the items right now.","Nie można teraz usunąć wszystkich przedmiotów.",module,Magento_ScheduledImportExport
 "We can't save the scheduled operation right now.","Nie można teraz zapisać zaplanowanej operacji.",module,Magento_ScheduledImportExport
-"We can't create directory ""%1""","We can't create directory ""%1""",module,Magento_ScheduledImportExport
+"We can't create directory ""%1""","Nie możemy utworzyć katalogu ""%1""",module,Magento_ScheduledImportExport
 "The directory ""%1"" is not writable.","Katalog ""%1"" nie jest zapisywalny.",module,Magento_ScheduledImportExport
 "We can't delete ""%1"" because the directory is not writable.","We can't delete ""%1"" because the directory is not writable.",module,Magento_ScheduledImportExport
 "Scheduled Import","Harmonogram Importu",module,Magento_ScheduledImportExport
@@ -9897,7 +9897,7 @@ Store,Sklep,module,Magento_Search
 "Failed to delete %1 synonym group(s).","Nie można usunąć grupy synonimów %1.",module,Magento_Search
 "A total of %1 synonym group(s) have been deleted.","W sumie usunięto %1 grup synonimów.",module,Magento_Search
 Marketing,Marketing,module,Magento_Search
-"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.",module,Magento_Search
+"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","Wyszukiwanie synonimów nie jest obsługiwane przez wyszukiwarkę %1. Żaden z wprowadzonych synonimów nie będzie użyty.",module,Magento_Search
 "This synonym group no longer exists.","Ta grupa synonimów już nie istnieje.",module,Magento_Search
 "You saved the synonym group.","Zapisane grupy synonimów.",module,Magento_Search
 "The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Wprowadzony termin, (%1), należy do jednej z istniejących grup synonimów - %2. Zaznacz pole ""Połącz istniejące synonimy"", aby terminy mogły zostać połączone.",module,Magento_Search
@@ -11015,7 +11015,7 @@ Theme,Temat,module,Magento_Theme
 "Are you sure you want to delete this folder?","Czy na pewno chcesz usunąć ten folder?",module,Magento_Theme
 "Are you sure you want to delete this file?","Czy na pewno chcesz usunąć ten plik?",module,Magento_Theme
 "Storage Root","Baza składowania",module,Magento_Theme
-welcome,welcome,module,Magento_Theme
+welcome,witamy,module,Magento_Theme
 Global,Globalny,module,Magento_Theme
 "Design Configuration","Konfiguracja wyglądu",module,Magento_Theme
 "You saved the configuration.","Konfiguracja zapisana.",module,Magento_Theme
