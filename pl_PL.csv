@@ -1801,7 +1801,7 @@ Role,Rola,module,Magento_Catalog
 "Special Price","Nasza cena",module,Magento_Catalog
 "Regular Price","Normalna cena",module,Magento_Catalog
 "Buy %1 for:","Kup %1 za:",module,Magento_Catalog
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Kup %1 dla %2 poszczególnych i <strong class=""benefit""> zapisać <span class=""percent tier-%3"">&nbsp;%4%</span></strong>",module,Magento_Catalog
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Kup %1 po %2 za każdy i <strong class=""benefit"">zaoszczędź<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Kup %1 dla %2 poszczególnych",module,Magento_Catalog
 "Shop By","Kupuj wg",module,Magento_Catalog
 "Shopping Options","Opcje zakupów",module,Magento_Catalog
