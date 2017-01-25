@@ -2105,9 +2105,9 @@ Edit,Zmień,module,Magento_CatalogEvent
 "Unable to remove Stock Item with id ""%1""","Nie można usunąć produktu o id ""%1""",module,Magento_CatalogInventory
 "Unable to save Stock","Nie można zapisać stanu magazynowego",module,Magento_CatalogInventory
 "Stock with id ""%1"" does not exist.","Magazyn o identyfikatorze ""%1"" nie istnieje.",module,Magento_CatalogInventory
-"Unable to remove Stock with id ""%1""","Unable to remove Stock with id ""%1""",module,Magento_CatalogInventory
+"Unable to remove Stock with id ""%1""","Nie można usunąć stanu o identyfikatorze ""%1""",module,Magento_CatalogInventory
 "Unable to save Stock Status","Nie można zapisać stanu magazynowego",module,Magento_CatalogInventory
-"Unable to remove Stock Status for product %1","Unable to remove Stock Status for product %1",module,Magento_CatalogInventory
+"Unable to remove Stock Status for product %1","Nie można usunąć stanu magazynowego dla produktu %1",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Nie wszystkie produkty są dostępne w żądanej ilości.",module,Magento_CatalogInventory
 "Product with SKU ""%1"" does not exist","Produkt z SKU ""%1"" nie istnieje",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","Najmniej, ile możesz zakupić to %1.",module,Magento_CatalogInventory
@@ -2152,7 +2152,7 @@ Stock,Zapasy,module,Magento_CatalogInventory
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_CatalogInventory
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_CatalogInventory
-"Use Deferred Stock Update","Use Deferred Stock Update",module,Magento_CatalogInventory
+"Use Deferred Stock Update","Użyj opóźnionych aktualizacji zapasów",module,Magento_CatalogInventory
 "New Permission","Nowe uprawnienie",module,Magento_CatalogPermissions
 "You already have a permission with this scope.","Masz już uprawnienia z tego zakresu.",module,Magento_CatalogPermissions
 (Allow),(Zezwalaj),module,Magento_CatalogPermissions
@@ -2529,7 +2529,7 @@ Loading...,Ładuję...,module,Magento_Checkout
 "Your order number is: %1.","Numer zamówienia: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Numer Twojego zamówienia to: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Zostanie wysłany e-mail z potwierdzeniem zamówienia oraz informacje umożliwiające śledzenie przesyłki.",module,Magento_Checkout
-"Payment Transaction Failed Reminder","Payment Transaction Failed Reminder",module,Magento_Checkout
+"Payment Transaction Failed Reminder","Przypomnienie o nieudanej płatności",module,Magento_Checkout
 "Payment Transaction Failed","Płatność nie powiodła się",module,Magento_Checkout
 Reason,Powód,module,Magento_Checkout
 "Checkout Type","Typ transakcji",module,Magento_Checkout
@@ -3190,7 +3190,7 @@ Monthly,"Co miesiąc",module,Magento_Cron
 "Save Currency Rates","Zapisz kursy walut",module,Magento_CurrencySymbol
 Options,Opcje,module,Magento_CurrencySymbol
 Reset,Resetuj,module,Magento_CurrencySymbol
-Import,Import,module,Magento_CurrencySymbol
+Import,Importuj,module,Magento_CurrencySymbol
 "Manage Currency Rates","Zarządzaj kursami walut",module,Magento_CurrencySymbol
 "Import Service","Usługa importu",module,Magento_CurrencySymbol
 "Save Currency Symbols","Zapisz symbole walut",module,Magento_CurrencySymbol
@@ -4310,7 +4310,7 @@ Continue,Kontynuuj,module,Magento_Directory
 "Currency Setup","Ustawienia waluty",module,Magento_Directory
 "Currency Options","Opcje waluty",module,Magento_Directory
 "Base Currency","Waluta podstawowa",module,Magento_Directory
-"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").",module,Magento_Directory
+"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Waluta bazowa jest używana dla wszystkich transakcji płatności online. Zakres bazowej waluty jest zdefiniowany przez zakres cen katalogu (""Katalog"" > ""Cena"" > ""Zakres cen katalogu"").",module,Magento_Directory
 "Default Display Currency","Domyślna wyświetlana waluta",module,Magento_Directory
 "Allowed Currencies","Dopuszczone waluty",module,Magento_Directory
 "Yahoo Finance Exchange","Yahoo Finance Exchange",module,Magento_Directory
