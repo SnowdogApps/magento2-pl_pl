@@ -1,7 +1,6 @@
 {
   "name": "snowdog/language-pl_pl",
   "description": "Polish locale package for Magento 2",
-  "version": "0.6.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
