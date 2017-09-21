@@ -1568,8 +1568,8 @@ Products,Produkty,module,Magento_Catalog
 "You removed product %1 from the comparison list.","Produkt %1 został usunięty z listy porównania.",module,Magento_Catalog
 "1 item","1 element",module,Magento_Catalog
 "%1 items","%1 elementów",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
-"Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","Czy na pewno chcesz usunąć wszystkie elementy z listy Porównaj produkty?",module,Magento_Catalog
+"Are you sure you want to remove all items from your Compare Products list?","Czy na pewno chcesz usunąć wszystkie elementy z listy Porównaj produkty?",module,Magento_Catalog
 "Invalid attribute %1","Nieprawidłowy atrybut %1",module,Magento_Catalog
 Grid,Siatka,module,Magento_Catalog
 List,Lista,module,Magento_Catalog
@@ -1971,7 +1971,7 @@ Main,Główny,module,Magento_Catalog
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders","Użyj {{name}} i {{description}} jako nazwa produktu i opis produktu",module,Magento_Catalog
 "Recently Viewed/Compared Products","Ostatnio oglądane/porównywane produkty",module,Magento_Catalog
 "Lifetime of products in Recently Viewed Widget","Żywotność produktów w ostatnio oglądanym pluginie",module,Magento_Catalog
-"Lifetime of products in Recently Compared Widget","Lifetime of products in Recently Compared Widget",module,Magento_Catalog
+"Lifetime of products in Recently Compared Widget","Żywotność produktów w ostatnio oglądanym pluginie",module,Magento_Catalog
 "Synchronize widget products with backend storage","Synchronize widget products with backend storage",module,Magento_Catalog
 Storefront,"Witryna sklepu",module,Magento_Catalog
 "List Mode","Tryb listy",module,Magento_Catalog
@@ -2055,18 +2055,18 @@ Template,Szablon,module,Magento_Catalog
 "List of Products Recently Viewed by Visitor","Lista produktów ostatnio porównywanych przez odwiedzającego",module,Magento_Catalog
 "UI Component","UI Component",module,Magento_Catalog
 "Number of Products to display","Number of Products to display",module,Magento_Catalog
-"Product attributes to show","Product attributes to show",module,Magento_Catalog
+"Product attributes to show","Atrybuty produktu do pokazania",module,Magento_Catalog
 Image,Obraz,module,Magento_Catalog
 "Learn More Link","Learn More Link",module,Magento_Catalog
-"Buttons to show","Buttons to show",module,Magento_Catalog
+"Buttons to show","Przycisk do wyświetlenia",module,Magento_Catalog
 "Add to Wishlist","Dodaj do schowka",module,Magento_Catalog
 "Viewed Products Grid Template","Szablon siatki oglądanych produktów",module,Magento_Catalog
 "Viewed Products List Template","Szablon listy oglądanych produktów",module,Magento_Catalog
 "Viewed Products Sidebar Template","Oglądane szablony pasków bocznych",module,Magento_Catalog
-"Recently Compared Products","Recently Compared Products",module,Magento_Catalog
-"List of Products Recently Compared by Visitor","List of Products Recently Compared by Visitor",module,Magento_Catalog
-"Compared Products Grid Template","Compared Products Grid Template",module,Magento_Catalog
-"Compared Products List Template","Compared Products List Template",module,Magento_Catalog
+"Recently Compared Products","Ostatnio porównywane produkty",module,Magento_Catalog
+"List of Products Recently Compared by Visitor","Lista produktów ostatnio porównywanych przez odwiedzającego",module,Magento_Catalog
+"Compared Products Grid Template","Szablon siatki porównywanych produktów",module,Magento_Catalog
+"Compared Products List Template","Szablon listy porównywanych produktów",module,Magento_Catalog
 Set,Ustaw,module,Magento_Catalog
 "Category Information","Informacje o kategorii",module,Magento_Catalog
 "Enable Category","Włącz kategorię",module,Magento_Catalog
@@ -2641,7 +2641,7 @@ Checkout,Zamówienie,module,Magento_Checkout
 "This quote item does not exist.","Ten element w koszyku nie istnieje.",module,Magento_Checkout
 "Display number of items in cart","Wyświetlaj ilość produktów w koszyku",module,Magento_Checkout
 "Display item quantities","Wyświetlaj ilości produktów",module,Magento_Checkout
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Checkout
+"An error occurred on the server. Please try to place the order again.","Wystąpił błąd z serwerem. Spróbuj ponownie złożyć zamówienie.",module,Magento_Checkout
 "Shipping address is not set","Nie jest ustawiony adres dostawy",module,Magento_Checkout
 "Unable to save shipping information. Please check input data.","Nie udało się zapisać informacji o dostawie. Proszę o sprawdzenie wpisanych danych.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Nie odnaleziono dostawcy i jego formy dostawy: %1, %2",module,Magento_Checkout
@@ -2748,7 +2748,7 @@ Shipping,Dostawa,module,Magento_Checkout
 "Enable Onepage Checkout","Włącz składanie zamówienia na jednej stronie",module,Magento_Checkout
 "Allow Guest Checkout","Zezwól na zamówienia składane przez niezalogowanych",module,Magento_Checkout
 "Display Billing Address On","Display Billing Address On",module,Magento_Checkout
-"Maximum Number of Items to Display in Order Summary","Maximum Number of Items to Display in Order Summary",module,Magento_Checkout
+"Maximum Number of Items to Display in Order Summary","Maksymalna liczba elementów do wyświetlenia w Podsumowanie zamówienia",module,Magento_Checkout
 "Quote Lifetime (days)","Czas przechowywania zawartości koszyka (dni)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Po dodaniu produktu przekieruj do koszyka",module,Magento_Checkout
 "Number of Items to Display Pager","Number of Items to Display Pager",module,Magento_Checkout
@@ -3424,8 +3424,8 @@ Email,E-mail,module,Magento_CustomAttributeManagement
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","Kod cechy jest niepoprawny. Prosimy o używanie jedynie liter (a-z), cyfr (0-9) lub podkreślnika (_) w tym polu, pierwszy znak powinien być literą.",module,Magento_CustomAttributeManagement
 "Sign Out","Wyloguj się",module,Magento_Customer
 "Sign In","Zaloguj się",module,Magento_Customer
-"You are subscribed to our newsletter.","You are subscribed to our newsletter.",module,Magento_Customer
-"You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter.",module,Magento_Customer
+"You are subscribed to our newsletter.","Zapisałeś się do naszego newslettera.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","Nie zapisałeś/aś się do naszego newslettera.",module,Magento_Customer
 "You have not set a default shipping address.","Nie ustawiłeś domyślnego adresu wysyłki.",module,Magento_Customer
 "You have not set a default billing address.","Nie ustawiłeś domyślnego adresu płatności.",module,Magento_Customer
 "Address Book","Książka adresowa",module,Magento_Customer
@@ -3730,7 +3730,7 @@ Change,Zmień,module,Magento_Customer
 "Contact Information","Informacje kontaktowe",module,Magento_Customer
 "Change Password","Zmień hasło",module,Magento_Customer
 Newsletters,Newslettery,module,Magento_Customer
-"You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
+"You are subscribed to ""General Subscription"".","Jesteś zapisany do ""Ogólna subskrypcja"".",module,Magento_Customer
 or,lub,module,Magento_Customer
 "Default Addresses","Domyślne adresy",module,Magento_Customer
 "Change Billing Address","Zmień adres rozliczeniowy",module,Magento_Customer
@@ -3809,13 +3809,13 @@ Password:,Hasło:,module,Magento_Customer
 "Confirm Your Account","Potwierdź konto",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Dziękuję za potwierdzenie konta na %store_name.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Zaloguj się na naszej stronie i ustaw hasło, kliknij na ten <a href=""%create_password_url""> link</a>:",module,Magento_Customer
-"Your %store_name email has been changed","Your %store_name email has been changed",module,Magento_Customer
+"Your %store_name email has been changed","Twój e-mail %store_name został zmieniony",module,Magento_Customer
 "Hello,","Witamy,",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","Otrzymaliśmy prośbę o zmianę następujących informacji na Twoim koncie %store_name: email.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Jeżeli nie możesz wykonać tej akcji, proszę skontaktuj się natychmiastowo z nami na <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","lub zadzwoń do nas  pod numer <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","dziękujemy, <br>%store_name",module,Magento_Customer
-"Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
+"Your %store_name email and password has been changed","Twój %store_name e-mail i hasło zostały zmienione",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Otrzymaliśmy informację z prośbą o zmiane następujących informacji na Twoim koncie %store_name: email, hasło.",module,Magento_Customer
 "Reset your %store_name password","Resetowanie hasła w %store_name",module,Magento_Customer
 "There was recently a request to change the password for your account.","Otrzymaliśmy żądanie zmiany hasła dla Twojego konta.",module,Magento_Customer
@@ -3885,8 +3885,8 @@ Strong,Silny,module,Magento_Customer
 "Lockout Time (minutes)","Czas blokady (w minutach)",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Włącz autouzupełnianie na formularzach logowania/przywracania hasła",module,Magento_Customer
 "Account Information Options","Account Information Options",module,Magento_Customer
-"Change Email Template","Change Email Template",module,Magento_Customer
-"Change Email and Password Template","Change Email and Password Template",module,Magento_Customer
+"Change Email Template","Zmień email",module,Magento_Customer
+"Change Email and Password Template","Zmień adres E-mail i hasło",module,Magento_Customer
 "Name and Address Options","Opcje nazwy i adresu",module,Magento_Customer
 "Number of Lines in a Street Address","Ilość linii w polu adresu",module,Magento_Customer
 "Leave empty for default (2). Valid range: 1-4","Pozostaw puste dla domyślnej wartości (2). Dozwolone wartości: 1-4",module,Magento_Customer
@@ -3902,9 +3902,9 @@ Strong,Silny,module,Magento_Customer
 "Show Date of Birth","Pokazuj datę urodzenia",module,Magento_Customer
 "Show Tax/VAT Number","Pokazuj numer NIP",module,Magento_Customer
 "Show Gender","Pokazuj płeć",module,Magento_Customer
-"Show Telephone","Show Telephone",module,Magento_Customer
-"Show Company","Show Company",module,Magento_Customer
-"Show Fax","Show Fax",module,Magento_Customer
+"Show Telephone","Pokaż telefon",module,Magento_Customer
+"Show Company","Pokaż firme",module,Magento_Customer
+"Show Fax","Pokaż faks",module,Magento_Customer
 "Login Options","Opcje logowania",module,Magento_Customer
 "Redirect Customer to Account Dashboard after Logging in","Po zalogowaniu przekieruj klienta do panelu",module,Magento_Customer
 "Customer will stay on the current page if ""No"" is selected.","Klient pozostanie na aktualnej stronie jeśli jest wybrane ""Nie"".",module,Magento_Customer
@@ -5859,7 +5859,7 @@ Status,Status,module,Magento_ImportExport
 "Show more","Pokaż więcej",module,Magento_ImportExport
 "Additional data","Dodatkowe dane",module,Magento_ImportExport
 "Following Error(s) has been occurred during importing process:","Podczas importowania wystąpiły następujące problemy:",module,Magento_ImportExport
-"Only the first 100 errors are shown.","Only the first 100 errors are shown.",module,Magento_ImportExport
+"Only the first 100 errors are shown.","Tylko pierwsze 100 błędów jest wyświetlane.",module,Magento_ImportExport
 "Download full report","Pobierz pełny raport",module,Magento_ImportExport
 "in row(s):","in row(s):",module,Magento_ImportExport
 "Make sure your file isn't more than %1M.","Upewnij się, że twój plik nie ma więcej niż %1M.",module,Magento_ImportExport
@@ -6825,12 +6825,12 @@ Copy,Kopia,module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Subskrybuj nasz newsletter:",module,Magento_Newsletter
 "Enter your email address","Wprowadź swój adres e-mail",module,Magento_Newsletter
 Subscribe,Subskrybuj,module,Magento_Newsletter
-"Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
+"Newsletter subscription confirmation","Potwierdzenie subskrypcji newslettera",module,Magento_Newsletter
 "Thank you for subscribing to our newsletter.","Dziękujemy za dopisanie się do naszego newslettera.",module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Aby rozpocząć odbieranie newsletter, musi najpierw potwierdzić subskrypcję klikając na poniższy link:",module,Magento_Newsletter
-"Newsletter subscription success","Newsletter subscription success",module,Magento_Newsletter
+"Newsletter subscription success","Udana subskrypcja newslettera",module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Twój adres został pomyślnie dodany do naszej listy subskrypcyjnej newslettera.",module,Magento_Newsletter
-"Newsletter unsubscription success","Newsletter unsubscription success",module,Magento_Newsletter
+"Newsletter unsubscription success","Udane usunięcie subskrypcji newslettera",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Twój adres został usunięty z naszej listy subskrypcyjnej newslettera.",module,Magento_Newsletter
 "Newsletter Template","Szablony newslettera",module,Magento_Newsletter
 "Newsletter Section","Sekcja newslettera",module,Magento_Newsletter
@@ -7817,7 +7817,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart belongs to different store.","Nie można przypisać klienta do danego koszyka. Koszyk należy do innego sklepu.",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart is not anonymous.","Nie można przypisać klienta do danego koszyka. Koszyk nie jest anonimowy.",module,Magento_Quote
 "Cannot assign customer to the given cart. Customer already has active cart.","Nie można przypisać klienta do danego koszyka. Klient ma już aktywny koszyk.",module,Magento_Quote
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Quote
+"An error occurred on the server. Please try to place the order again.","Wystąpił błąd z serwerem. Spróbuj ponownie złożyć zamówienie.",module,Magento_Quote
 "Only 1 shipping assignment can be set","Można ustawić tylko jedno zadanie dostawy",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","Ta cena lub ilość nie jest ważna dla kasy.",module,Magento_Quote
 "Please check the shipping address information. %1","Proszę sprawdzić adres dostawy. %1",module,Magento_Quote
@@ -10975,7 +10975,7 @@ Options,Opcje,module,Magento_Swatches
 "These changes affect all related products.","Te zmiany wpływają na wszystkie powiązane produkty.",module,Magento_Swatches
 Swatches,Swatches,module,Magento_Swatches
 "Swatches per Product","Próbki każdego produktu",module,Magento_Swatches
-"Show Swatches in Product List","Show Swatches in Product List",module,Magento_Swatches
+"Show Swatches in Product List","Pokaż próbki z listy produktów",module,Magento_Swatches
 "Swatch Image","Zdjęcie próbki",module,Magento_Swatches
 "Allowed file types: jpeg, gif, png.","Dozwolone typy plików: jpeg, gif, png.",module,Magento_Swatches
 Image,Obraz,module,Magento_Swatches
@@ -12111,12 +12111,12 @@ Name,Nazwa,module,Magento_Variable
 "Wrong request.","Nieprawidłowe żądanie.",module,Magento_Vault
 "Deletion failure. Please try again.","Usuwanie awarii. Proszę spróbować ponownie.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","Zapamiętane metody płatności",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","Numer karty",module,Magento_Vault
 "Expiration Date","Data ważności",module,Magento_Vault
 Type,Rodzaj,module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","Nie masz zapisanych metod płatności.",module,Magento_Vault
 ending,końcówka,module,Magento_Vault
 Actions,Operacje,module,Magento_Vault
 Delete,Usuń,module,Magento_Vault
