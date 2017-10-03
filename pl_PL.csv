@@ -48,7 +48,7 @@ notice,informacja,module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Nie zaleca się używania {{base_url}} jako bazowego adresu URL w środowisku produkcyjnym. Radzimy zmianę tej wartości w <a href=""%1"">konfiguracji</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1.","Istnieją nieaktualne pamięci podręczne: %1.",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1"">strony zarządzania pamięciami podręcznymi</a> i odśwież je.",module,Magento_AdminNotification
-"We were unable to synchronize one or more media files. Please refer to the log file for details.","Nie byliśmy wstanie zsynchronizować jednego lub więcej plików multimedialnych. Zajrzyj do pliku z logami po więcej szczegółów.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Nie byliśmy w stanie zsynchronizować jednego lub więcej plików multimedialnych. Zajrzyj do pliku z logami po więcej szczegółów.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Ukończono synchronizację przechowalni multimediów.",module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Twój serwer nie jest poprawnie skonfigurowany i pozwala na nieautoryzowany dostęp do wrażliwych plików. Skontaktuj się z dostawcą usług hostingowych.",module,Magento_AdminNotification
 "System Messages:","Komunikaty systemowe:",module,Magento_AdminNotification
@@ -222,8 +222,8 @@ button_label,button_label,module,Magento_AdvancedSearch
 "Enable Search Suggestions","Włącz podpowiedzi wyszukiwania",module,Magento_AdvancedSearch
 "Search Suggestions Count","Liczba podpowiedzi wyszukiwania",module,Magento_AdvancedSearch
 "Show Results Count for Each Suggestion","Pokaż liczbę wyników dla każdej podpowiedzi",module,Magento_AdvancedSearch
-"Related search terms","Related search terms",module,Magento_AdvancedSearch
-"Did you mean","Did you mean",module,Magento_AdvancedSearch
+"Related search terms","Podobne wyszukiwania",module,Magento_AdvancedSearch
+"Did you mean","Czy chodziło Ci o",module,Magento_AdvancedSearch
 ID,ID,module,Magento_AdvancedSearch
 "Search Query","Fraza wyszukiwania",module,Magento_AdvancedSearch
 Store,Sklep,module,Magento_AdvancedSearch
@@ -339,7 +339,7 @@ void,unieważniony,module,Magento_Authorizenet
 "Authorize Only","Tylko autoryzacja",module,Magento_Authorizenet
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Nie udało się pobrać szczegółów transakcji. Spróbuj ponownie później.",module,Magento_Authorizenet
-"Electronic payments save the trees.","Electronic payments save the trees.",module,Magento_Authorizenet
+"Electronic payments save the trees.","Płatności elektroniczne ratują drzewa.",module,Magento_Authorizenet
 "Credit Card Type","Rodzaj karty kredytowej",module,Magento_Authorizenet
 "Please Select","Proszę wybrać",module,Magento_Authorizenet
 "Credit Card Number","Numer karty kredytowej",module,Magento_Authorizenet
@@ -631,7 +631,7 @@ Minute,Minuta,module,Magento_Backend
 "JavaScript may be disabled in your browser.","JavaScript może być wyłączony w Twojej przeglądarce.",module,Magento_Backend
 "To use this website you must first enable JavaScript in your browser.","Aby używać tej strony musisz najpierw uruchomić JavaScript w swojej przeglądarce.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","To jest testowy sklep. Możesz przeglądać produkty i składać zamówienia, ale nie zostaną one zrealizowane.",module,Magento_Backend
-"Report an Issue","Report an Issue",module,Magento_Backend
+"Report an Issue","Zgłoś problem",module,Magento_Backend
 "Store View:","Widok sklepu:",module,Magento_Backend
 "Stores Configuration","Konfiguracja sklepów",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Potwierdź zmianę poziomu. Wszystkie niezapisane dane zostaną utracone.",module,Magento_Backend
@@ -668,8 +668,8 @@ Actions,Operacje,module,Magento_Backend
 Loading...,Ładuję...,module,Magento_Backend
 "We could not detect a size.","Nie można wykryć rozmiaru.",module,Magento_Backend
 "We don't recognize or support this file extension type.","Nie możemy rozpoznać lub obsługiwać tego typu rozszerzenia pliku.",module,Magento_Backend
-"Warning message","Warning message",module,Magento_Backend
-"This operation can take a long time","This operation can take a long time",module,Magento_Backend
+"Warning message",Ostrzeżenie,module,Magento_Backend
+"This operation can take a long time","Ta operacja może zająć sporo czasu",module,Magento_Backend
 "Allow everything","Zezwól na wszystko",module,Magento_Backend
 "Magento Admin","Administrator Magento",module,Magento_Backend
 "Global Search","Globalne wyszukiwanie",module,Magento_Backend
@@ -963,11 +963,11 @@ Position,Pozycja,module,Magento_Banner
 Error,Błąd,module,Magento_Banner
 "Related Cart Price Rules","Powiązane reguły cenowe koszyka",module,Magento_Banner
 "Related Catalog Price Rules","Powiązane reguły cenowe katalogu",module,Magento_Banner
-"Content Area","Content Area",module,Magento_Banner
-Footer,Footer,module,Magento_Banner
-Header,Header,module,Magento_Banner
-"Left Column","Left Column",module,Magento_Banner
-"Right Column","Right Column",module,Magento_Banner
+"Content Area",Zawartość,module,Magento_Banner
+Footer,Stopka,module,Magento_Banner
+Header,Nagłówek,module,Magento_Banner
+"Left Column","Lewa kolumna",module,Magento_Banner
+"Right Column","Prawa kolumna",module,Magento_Banner
 "Manage Banners","Zarządzaj banerami",module,Magento_Banner
 "Banner Rotator","Karuzela banerów",module,Magento_Banner
 "Displays Specified or Promotion Banners","Wyświetla określone banery lub banery promocyjne",module,Magento_Banner
@@ -1004,12 +1004,12 @@ Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Expiration Date","Data ważności",module,Magento_Braintree
 "Please, enter valid Expiration Date","Podaj prawidłową datę wygaśnięcia",module,Magento_Braintree
 "Card Verification Number","Numer weryfikacyjny karty",module,Magento_Braintree
-"Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_Braintree
+"Please, enter valid Card Verification Number","Proszę wprowadzić poprawny numer weryfikacyjny karty kredytowej",module,Magento_Braintree
 ending,końcówka,module,Magento_Braintree
 expires,wygasa,module,Magento_Braintree
-"Are you sure you want to delete this PayPal account","Are you sure you want to delete this PayPal account",module,Magento_Braintree
+"Are you sure you want to delete this PayPal account","Czy na pewno chcesz usunąć to konto PayPal",module,Magento_Braintree
 "PayPal Account","Konto PayPal",module,Magento_Braintree
-"PayPal Logo","PayPal Logo",module,Magento_Braintree
+"PayPal Logo","Logo PayPal",module,Magento_Braintree
 Actions,Operacje,module,Magento_Braintree
 Delete,Usuń,module,Magento_Braintree
 "Credit Card Information","Informacje karty kredytowej",module,Magento_Braintree
@@ -1021,9 +1021,9 @@ MM,MM,module,Magento_Braintree
 YY,RR,module,Magento_Braintree
 "Please try again with another form of payment.","Proszę spróbować ponownie z inną formę płatności.",module,Magento_Braintree
 "Sorry, but something went wrong.","Przepraszamy, coś poszło nie tak.",module,Magento_Braintree
-Payment,Payment,module,Magento_Braintree
+Payment,Płatność,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Przyjmuj płatności kartą lub przez PayPal w twoim sklepie Magento.<br/> Zero konfiguracji oraz opłat, a twoi klienci nigdy nie opuszczą strony sklepu by dokonać zakupu.",module,Magento_Braintree
 "Enable this Solution","Włącz to rozwiązanie",module,Magento_Braintree
 "Enable PayPal through Braintree","Włącz PayPal za pośrednictwem Braintree",module,Magento_Braintree
 "Vault Enabled","Vault Enabled",module,Magento_Braintree
@@ -5239,7 +5239,7 @@ Alphabetical,Alfabetyczne,module,Magento_GiftCardAccount
 Numeric,Numeryczny,module,Magento_GiftCardAccount
 "The maximum generated code length is 255. Please correct your settings.","Maksymalna długość wygenerowanego kodu może być ustawiona na 255 znaków. Popraw swoje ustawienia.",module,Magento_GiftCardAccount
 "Gift Cards","Karty podarunkowe",module,Magento_GiftCardAccount
-"test message","test message",module,Magento_GiftCardAccount
+"test message","wiadomość testowa",module,Magento_GiftCardAccount
 Generate,Wygeneruj,module,Magento_GiftCardAccount
 "Code Pool used:","Code Pool używany:",module,Magento_GiftCardAccount
 (free,"(za darmo",module,Magento_GiftCardAccount
@@ -5265,7 +5265,7 @@ Expires:,Wygasa:,module,Magento_GiftCardAccount
 "Please enter a valid gift card code.","Proszę wprowadzić poprawny kod Karty Podarunkowej.",module,Magento_GiftCardAccount
 "Add or remove gift cards","Dodawanie lub usuwanie kart podarunkowych",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Kwota na karcie upominkowej stosowane do zamówienia:",module,Magento_GiftCardAccount
-"You've been sent a gift from %store_name","You've been sent a gift from %store_name",module,Magento_GiftCardAccount
+"You've been sent a gift from %store_name","Dostałeś prezent od %store_name",module,Magento_GiftCardAccount
 "%name,","%name,",module,Magento_GiftCardAccount
 "You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","Wysłałeś Bon do wykorzystania w %store_name i to jest teraz gotowy do wykorzystania na zakupy.",module,Magento_GiftCardAccount
 "Gift Card Code: %code","Kod karty podarunkowej: %code",module,Magento_GiftCardAccount
@@ -5307,7 +5307,7 @@ End,Koniec,module,Magento_GiftCardAccount
 "There is no order with provided id or gift message isn't allowed","Nie ma zamówień z podanym ID lub wiadomość podarunkowa nie jest dozwolona",module,Magento_GiftMessage
 "There is no order with provided id","Nie ma zamówień z podanym ID",module,Magento_GiftMessage
 "Gift Messages are not applicable for empty order","Wiadomości podarunkowe nie mają zastosowania do pustego zamówienia.",module,Magento_GiftMessage
-"Could not add gift message to order's item: ""%1""","Could not add gift message to order's item: ""%1""",module,Magento_GiftMessage
+"Could not add gift message to order's item: ""%1""","Nie udało się dodać wiadomości prezentu dla przedmiotu: ""%1""",module,Magento_GiftMessage
 "Unknown entity type","Nieznany rodzaj obiektu",module,Magento_GiftMessage
 "Test label","Etykieta testowa",module,Magento_GiftMessage
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_GiftMessage
@@ -5319,7 +5319,7 @@ OK,OK,module,Magento_GiftMessage
 "Gift Options","Opcje podarunkowe",module,Magento_GiftMessage
 "Gift Message","Wiadomość prezentowa",module,Magento_GiftMessage
 "Do you have any gift items in your order?","Czy twoje zamówienie zawiera prezenty?",module,Magento_GiftMessage
-"Add Gift Options","Add Gift Options",module,Magento_GiftMessage
+"Add Gift Options","Dodaj opcje podarunków",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Pozostaw to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej do całego zamówienia.",module,Magento_GiftMessage
 "Gift Options for Individual Items","Opcje podarunkowe dla pojedynczych produktów",module,Magento_GiftMessage
@@ -5327,7 +5327,7 @@ OK,OK,module,Magento_GiftMessage
 "Leave a box blank if you don't want to add a gift message for that item.","Pozostaw to pole puste jeżeli nie chcesz dodać wiadomości podarunkowej dla produktu.",module,Magento_GiftMessage
 "Add Gift Options for the Entire Order","Dodaj opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for this address.","Możesz pozostawić puste pole jeśli nie chcesz dodać wiadomości prezentowej dla tego adresu.",module,Magento_GiftMessage
-"Add Gift Options for Individual Items","Add Gift Options for Individual Items",module,Magento_GiftMessage
+"Add Gift Options for Individual Items","Dodaj opcje podarunków dla poszczególnych przedmiotów",module,Magento_GiftMessage
 "You can leave this box blank if you don't want to add a gift message for the item.","Możesz pozostawić puste pole jeśli nie chcesz dodać wiadomości prezentowej dla tego produktu.",module,Magento_GiftMessage
 "Gift Message (optional)","Wiadomość podarunkowa (opcjonalnie)",module,Magento_GiftMessage
 To:,Do:,module,Magento_GiftMessage
