@@ -2,7 +2,7 @@ Polski pakiet językowy dla Magento 2
 ==========
 Repozytorium zawiera gotowy komponent z językiem polskim dla Magento 2.
 
-Tłumaczenia są automatycznie synchronizowane ze zmianami dokonanymi w serwisie Crowdin co 15 minut.
+Tłumaczenia są synchronizowane ze zmianami dokonanymi w serwisie Crowdin.
 
 ## Instalacja i aktualizacja
 
