@@ -1682,7 +1682,7 @@ Category,Kategoria,module,Magento_Catalog
 "There is no MediaGalleryEntryConverter for given type","Nie ma MediaGalleryEntryConverter dla danego typu",module,Magento_Catalog
 "Please enter a number 0 or greater in this field.","Prosimy o podanie cyfry 0 lub większej w tym polu.",module,Magento_Catalog
 "The value of attribute ""%1"" must be set","Należy ustawić wartość atrybutu ""%1""",module,Magento_Catalog
-"SKU length should be %1 characters maximum.","Długość SKU musi mieć co najmniej %1 znaków.",module,Magento_Catalog
+"SKU length should be %1 characters maximum.","Długość SKU może mieć co maksymalnie %1 znaków.",module,Magento_Catalog
 "Please enter a valid number in this field.","Prosimy o wprowadzenie poprawnego numeru w tym polu.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Znaleziono zduplikowaną witrynę, poziom cen, grupę klientów i ilość.",module,Magento_Catalog
 "Percentage value must be a number between 0 and 100.","Percentage value must be a number between 0 and 100.",module,Magento_Catalog
