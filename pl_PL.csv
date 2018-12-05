@@ -6641,7 +6641,7 @@ Options,Opcje,module,Magento_Multishipping
 "Failed Messages Lifetime","Czas życia komunikatów o niepowodzeniu",module,Magento_MysqlMq
 "New Messages Lifetime","Czas życia nowych komunikatów",module,Magento_MysqlMq
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Nie można raportować zdarzeń Crona, ponieważ nie skonfigurowano identyfikatora aplikacji New Relic",module,Magento_NewRelicReporting
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Integracja z usługą New Relic wymaga agenta newrelic-php5, który nie jest obecnie zainstalowany. Informacje na temat jego instalacji są dostępne <a target=""_blank"" href=""%1"">tutaj</a>.",module,Magento_NewRelicReporting
 "New Relic Reporting Section","Dział raportowania New Relic",module,Magento_NewRelicReporting
 "New Relic Reporting","Raportowanie New Relic",module,Magento_NewRelicReporting
@@ -7735,7 +7735,7 @@ Delete,Usuń,module,Magento_ProductVideo
 "This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki nie jest dostępna. By jej użyć skontaktuj się z nami.",module,Magento_Quote
 "The address model is not defined.","Model adresu nie został zdefiniowany.",module,Magento_Quote
 "The address total model should be extended from
-                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Adres całkowity modelu powinien zostać przedłużony z 
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Adres całkowity modelu powinien zostać przedłużony z
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
 "Grand Total",Łącznie,module,Magento_Quote
 "Shipping & Handling (%1)","Wysyłka i obsługa (%1)",module,Magento_Quote
@@ -10580,8 +10580,8 @@ Save,Zapisz,module,Magento_Staging
 "This update not exists.","Aktualizacja nie istnieje.",module,Magento_Staging
 "Content Staging Dashboard","Content Staging Dashboard",module,Magento_Staging
 "The Start Time of this Update cannot be changed. It's been already started.","The Start Time of this Update cannot be changed. It's been already started.",module,Magento_Staging
-"Future Update in this time range already exists. 
-                            Select a different range to add a new Future Update.","Future Update in this time range already exists. 
+"Future Update in this time range already exists.
+                            Select a different range to add a new Future Update.","Future Update in this time range already exists.
                             Select a different range to add a new Future Update.",module,Magento_Staging
 "Cannot save Update.","Cannot save Update.",module,Magento_Staging
 "Edit Existing Update","Zmień istniejącą aktualizację",module,Magento_Staging
@@ -11686,7 +11686,7 @@ Kilograms,Kilogramy,module,Magento_Ups
 status,status,module,Magento_Ups
 error_message,error_message,module,Magento_Ups
 "Empty response","Pusta odpowiedź",module,Magento_Ups
-"Delivery Confirmation","Potwierdzenie distarczenia",module,Magento_Ups
+"Delivery Confirmation","Potwierdzenie dostarczenia",module,Magento_Ups
 "Signature Required","Wymagany podpis",module,Magento_Ups
 "Adult Signature Required","Wymagany podpis osoby pełnoletniej",module,Magento_Ups
 "Not Required",Niewymagane,module,Magento_Ups
