@@ -12330,7 +12330,7 @@ Stock,Zapasy,module,Magento_VisualMerchandiser
 "Consumer is not authorized to access %resources","Konsument nie jest upoważniony do dostępu do %resources",module,Magento_Webapi
 "Operation allowed only in HTTPS","Operacja jest dozwolona tylko w HTTPS",module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","Nie można wykonać operacji GET dla kodu sklepu ""all""",module,Magento_Webapi
-"Request does not match any route.","Wniosek nie odpowiada żadnej ścieżce.",module,Magento_Webapi
+"Request does not match any route.","Żądanie nie pasuje do żadnej ścieżki",module,Magento_Webapi
 "Not allowed parameters: %1. Please use only %2 and %3.","Parametr: %1 nie dozwolony. Proszę używać tylko %2 i %3.",module,Magento_Webapi
 "Requested service is not available: ""%1""","Żądana usługa nie dostępna: ""%1""",module,Magento_Webapi
 "Operation ""%1"" not found.","Operacja ""%1"" nie znaleziona.",module,Magento_Webapi
