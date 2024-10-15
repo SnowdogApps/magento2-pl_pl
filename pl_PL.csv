@@ -2680,7 +2680,7 @@ edit,Zmień,module,Magento_Checkout
 Field,Field,module,Magento_Checkout
 "is required.","is required.",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Wprowadzony kod pocztowy jest nieprawidłowy.",module,Magento_Checkout
-Example:,Przykład:,module,Magento_Checkout
+" Example: "," Przykład: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Jeżeli uważasz że to prawda możesz zignorować to powiadomienie.",module,Magento_Checkout
 "New Address","Nowy adres",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Czy na pewno chcesz usunąć ten produkt z koszyka?",module,Magento_Checkout
