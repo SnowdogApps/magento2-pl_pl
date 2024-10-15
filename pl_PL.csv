@@ -11686,7 +11686,7 @@ Kilograms,Kilogramy,module,Magento_Ups
 status,status,module,Magento_Ups
 error_message,error_message,module,Magento_Ups
 "Empty response","Pusta odpowiedź",module,Magento_Ups
-"Delivery Confirmation","Potwierdzenie distarczenia",module,Magento_Ups
+"Delivery Confirmation","Potwierdzenie dostarczenia",module,Magento_Ups
 "Signature Required","Wymagany podpis",module,Magento_Ups
 "Adult Signature Required","Wymagany podpis osoby pełnoletniej",module,Magento_Ups
 "Not Required",Niewymagane,module,Magento_Ups
