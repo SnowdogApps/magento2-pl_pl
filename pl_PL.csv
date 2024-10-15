@@ -1669,7 +1669,7 @@ px.,px.,module,Magento_Catalog
 "Something went wrong while processing the request.","Coś się zepsuło podczas przetwarzania żądania.",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 nie rozszerza \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 nie rozszerza \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
-"Not Visible Individually","Niewidoczne pojedyńczo",module,Magento_Catalog
+"Not Visible Individually","Niewidoczne pojedynczo",module,Magento_Catalog
 Search,Szukaj,module,Magento_Catalog
 "Catalog, Search","Katalog, wyszukiwanie",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","Coś się zepsuło podczas usuwania produktów ze strony internetowej.",module,Magento_Catalog
